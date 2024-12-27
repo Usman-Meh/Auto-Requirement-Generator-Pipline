@@ -1,0 +1,666 @@
+Link: https://essex.funnelback.co.uk/s/redirect?collection=uoe-courses-meta&url=https%3A%2F%2Fwww.essex.ac.uk%2Fcourses%2FUG00069%2F2%2FBSc-Computer-Science&auth=xryn%2F9cPd3Gr%2BHvvDWfG7A&profile=_default&rank=197&query=_
+
+University of Essex homepage
+Undergraduate
+Courses
+BSc Computer Science
+Undergraduate Course
+BSc Computer Science
+(Including Foundation Year)
+Start date
+October 2025
+Study mode
+Full Time
+Course options
+3 years + Foundation Year
+Ask a question
+Get a prospectus
+Overview
+Entry requirements
+Structure
+Fees and funding
+What's next?
+Overview
+Entry requirements
+Structure
+Fees and funding
+What's next?
+How to apply
+Overview
+The details
+Course:
+Computer Science (Including Foundation Year)
+UCAS code:
+G403
+Start date:
+October 2025
+Study mode:
+Full-time
+Duration:
+4 years
+Location:
+Colchester Campus
+Based in:
+Essex Pathways
+Our BSc Computer Science (including Foundation Year) could be suitable for you if your academic qualifications do not yet meet our entry requirements for a three-year version of our computer science, electronic engineering and mathematics courses and you want a programme that improves your skills to support your academic performance.
+Open to UK and EU applicants, this four-year course includes a Foundation Year (known as Year Zero) which is delivered by our
+Essex Pathways Department
+followed by a further three years of study in our
+School of Computer Science and Electronic Engineering.
+During Year Zero you will study on our
+Computer Science, Electronic Engineering and Mathematics Pathway
+which will cover topics such as statistical analysis and modelling, and computer programming. At the end of Year Zero all students who pass the Computer Science, Electronic Engineering and Mathematics Pathway will have a choice of which course to progress with. As well as BSc Computer Science, students on the Computer Science, Electronic Engineering and Mathematics Pathway could also study BSc Computer Games, BSc Mathematics or BEng Electronic Engineering.
+From Year One of BSc Computer Science you will choose from a wide choice of optional modules and specialise in areas as diverse as assistive technologies, computer games, artificial intelligence, evolutionary computation, Big Data and robotics. If you have a good ability to think in a computational way, you'll be perfect for our course.
+You also acquire key skills for computer science in the areas of:
+Algorithm analysis and basic computability
+Software engineering
+Java language principles and application programming interfaces
+That's why we are ranked 6th in the UK for research power in computer science (Times Higher Education research power measure, Research Excellence Framework 2021).
+Programming at Essex
+Teaching someone to programme is about opening a door. In Year 1 at Essex you will study a module that introduces you to programming using Python. We assess your ability to think in a programmatic way in the very first week of term and if you require additional support, we offer classes which will boost your skills and confidence with programming.
+Why we're great.
+We equip you with the necessary knowledge and skills to succeed at Essex and beyond.
+We are home to many of the world's top scientists and engineers in their field.
+Small class sizes allow you to work closely with your teachers and classmates.
+Our expert staff
+Our Essex Pathways Department is a gateway to the University of Essex, helping students without standard entry requirements to grow in confidence, unlock their potential, and nurture their ambitions so they can progress in academic study.
+Our original Department of Computer Science was founded by Professor Tony Brooker, who came to Essex from Manchester where he had worked with Alan Turing. Professor Brooker invented the compiler-compiler, one of the earliest applications of a formal understanding of the nature of programming languages.
+In recent years we have attracted many highly active
+research staff
+and we are conducting research in areas such as evolutionary computation, brain-computer interfacing, intelligent inhabited environments and financial forecasting.
+Specialist facilities
+During Year Zero, you will have access to all of the facilities that the University of Essex has to offer, as well as those provided by our Essex Pathways Department to support you, such as:
+We provide computer labs for internet research; classrooms with access to PowerPoint facilities for student presentations; AV facilities for teaching and access to web-based learning materials
+Our new Student Services Hub will support you and provide information for all your needs as a student
+Our social space is stocked with magazines and newspaper, and provides an informal setting to meet your lecturers, tutors and friends
+Our School of Computer Science and Electronic Engineering also offers excellent on-campus facilities:
+We have
+six laboratories
+that are exclusively for computer science and electronic engineering students. Three are open 24/7, and you have free access to the labs except when there is a scheduled practical class in progress
+All computers are dual boot Windows 10 and Linux. Apple Mac Computers are dual boot MacOS and Windows 10
+Software includes Java, Prolog, C++, Perl, Mysql, Matlab, DB2, Microsoft Office, Visual Studio, and Project
+Students have access to CAD tools and simulators for chip design (Xilinx) and computer networks (OMNet++)
+We also have specialist facilities for research into areas including non-invasive brain-computer interfaces, intelligent environments, robotics, optoelectronics, video, RF and MW, printed circuit milling, and semiconductors.
+Your future
+Past Essex graduates in computer science have found employment as systems analysts, software engineers, programmers and systems engineers, while a number go on to postgraduate study or research.
+Our department has a large pool of external contacts, ranging from companies providing robots for the media industry, through vehicle diagnostics, to the transforming of unstructured data to cloud-based multidimensional data cubes, who work with us and our students to provide advice, placements and eventually graduate opportunities. Read more about computer science and electronic engineering career destinations
+here.
+Our recent graduates have gone on to work for a wide range of high-profile companies including:
+Formula One
+Light Speed IT Solutions
+IBM
+Royal Bank of Scotland
+Accenture
+Google
+We also work with our University's
+Student Development Team
+to help you find out about further work experience, internships, placements, and voluntary opportunities.
+"I graduated from Essex with a BSc Computer Science degree and am currently working as a Site Reliability Engineer for Google. My focus is on Google’s API gateway software, which is also used on Google Cloud. My experience at Essex helped tremendously in enabling me to get to where I am now. Every day I make use of the skills I gained during my studies, not to mention the practical experience I received. My placement year at Rolls-Royce was a fantastic and invaluable opportunity, which allowed me to develop control software for the Trent 7000 engine. Aircraft with this engine are probably in the air even now!"
+Connor Wood, BSc Computer Science, 2018
+Entry requirements
+UK entry requirements
+UK and EU applicants:
+All applications for degree courses with a foundation year (Year Zero) will be considered individually, whether you
+think you might not have the grades to enter the first year of a degree course;
+have non-traditional qualifications or experience (e.g. you haven’t studied A-levels or a BTEC);
+are returning to university after some time away from education; or
+are looking for more support during the transition into university study.
+Standard offer:
+Our standard offer is 72 UCAS tariff points from at least two full A-levels, or equivalent.
+Examples of the above tariff may include:
+A-levels: DDD
+BTEC Level 3 Extended Diploma: MMP
+T-levels: Pass with E in core
+For this course all applicants must also hold GCSE Maths at grade C/4 or above (or equivalent). We
+may
+be able to consider a pass in OFQUAL regulated Level 2 Functional Skills Maths where you cannot meet the requirements for Maths at GCSE level. However, you are advised to try to retake GCSE Mathematics if possible as this will better prepare you for university study and future employment.
+If you are unsure whether you meet the entry criteria, please
+get in touch
+for advice.
+Mature applicants and non-traditional academic backgrounds:
+We welcome applications from mature students (over 21) and students with non-traditional academic backgrounds (might not have gone on from school to take level 3 qualifications).  We will consider your educational and employment history, along with your personal statement and reference, to gain a rounded view of your suitability for the course.
+You will still need to meet our GCSE requirements.
+International applicants:
+Essex Pathways Department is unable to accept applications from international students. Foundation pathways for international students are available at the
+University of Essex International College
+and are delivered and awarded by Kaplan, in partnership with the University of Essex. Successful completion will enable you to progress to the relevant degree course at the University of Essex.
+International & EU entry requirements
+We accept a wide range of qualifications from applicants studying in the EU and other countries. Get in touch with any questions you may have about the qualifications we accept. Remember to tell us about the qualifications you have already completed or are currently taking.
+AFGHANISTAN
+ALBANIA
+ALGERIA
+ANDORRA
+ANGOLA
+ANTIGUA AND BARBUADA
+ARGENTINA
+ARMENIA
+ARUBA
+AUSTRALIA
+AUSTRIA
+AZERBAIJAN
+BAHAMAS
+BAHRAIN
+BANGLADESH
+BARBADOS
+BELARUS (BYELORUSSIA)
+BELGIUM
+BELIZE
+BENIN
+BERMUDA
+BHUTAN
+BOLIVIA
+BOSNIA AND HERZEGOVINA
+BOTSWANA
+BRAZIL
+BRUNEI
+BULGARIA
+BURKINA FASO
+BURUNDI
+CAMBODIA (KAMPUCHEA, KHMER R)
+CAMEROON
+CANADA
+CAPE VERDE ISLANDS
+CENTRAL AFRICAN REP
+CHAD
+CHILE
+CHINA
+COLOMBIA
+COMOROS
+CONGO
+CONGO (DEM REB, ZAIRE)
+COSTA RICA
+CROATIA
+CUBA
+CYPRUS
+CZECH REPUBLIC
+DENMARK
+DJIBOUTI
+DOMINICA
+DOMINICAN REP
+EAST TIMOR
+ECUADOR
+EGYPT
+EL SALVADOR
+EQUATORIAL GUINEA
+ERITREA
+ESTONIA
+ETHIOPIA (ABYSSINIA)
+FIJI
+FINLAND
+FRANCE
+GABON
+GAMBIA
+GEORGIA
+GERMANY
+GHANA
+GIBRALTAR
+GILBERT ISLANDS (KIRIBATI)
+GREECE
+GRENADA
+GUATEMALA
+GUIANA, FRENCH
+GUINEA
+GUINEA BISSAU
+GUYANA
+HAITI
+HONDURAS
+HONG KONG
+HUNGARY
+ICELAND
+INDIA
+INDONESIA
+IRAN (ISLAMIC REP)
+IRAQ
+IRELAND, REP
+ISRAEL
+ITALY
+IVORY COAST
+JAMAICA
+JAPAN
+JORDAN
+KAZAKHSTAN
+KENYA
+KOREA SOUTH
+KOSOVO
+KUWAIT
+KYRGYZSTAN (KIRGIZIA)
+LAOS
+LATVIA
+LEBANON
+LESOTHO
+LIBERIA
+LIBYA
+LIECHTENSTEIN
+LITHUANIA
+LUXEMBOURG
+MACEDONIA. ALSO SKOPJE
+MADAGASCAR (MALAGASY REP)
+MALAWI
+MALAYSIA
+MALDIVE ISLANDS
+MALI
+MALTA
+MARSHALL ISLANDS
+MAURITANIA
+MAURITIUS
+MEXICO
+MOLDOVA
+MONACO
+MONGOLIA, OUTER
+MONTENEGRO
+MONTSERRAT
+MOROCCO
+MOZAMBIQUE
+MYANMAR (formerly Burma)
+NAMIBIA
+NAURU
+NEPAL
+NETHERLANDS (HOLLAND)
+NEW ZEALAND
+NICARAGUA
+NIGER
+NIGERIA
+NORWAY
+OMAN (MUSCAT AND OMAN)
+PAKISTAN
+PALESTINE
+PANAMA
+PAPUA NEW GUINEA
+PARAGUAY
+PERU
+PHILIPPINES
+POLAND
+PORTUGAL (MADEIRA, AZORES)
+QATAR
+ROMANIA
+RUSSIA
+RWANDA
+SAMOA (WESTERN)
+SAN MARINO
+SAUDI ARABIA
+SENEGAL
+SERBIA
+SEYCHELLES
+SIERRA LEONE
+SINGAPORE
+SLOVAKIA
+SLOVENIA
+SOLOMON ISLANDS
+SOMALI REPUBLIC
+SOUTH AFRICA
+SOUTH GEORGE & STH SANDWICH IS
+SOUTH SUDAN
+SPAIN
+SRI LANKA (CEYLON)
+ST. KITTS AND NEVIS
+ST. LUCIA
+ST. VINCENT
+SUDAN
+SURINAM
+SWAZILAND
+SWEDEN
+SWITZERLAND
+SYRIA
+TAIWAN
+TAJIKISTAN
+TANZANIA
+THAILAND
+TOGO
+TONGA
+TRINIDAD AND TOBAGO
+TUNISIA
+TURKEY
+TURKMENISTAN
+TUVALU, ALSO ELLICE ISLANDS
+UGANDA
+UKRAINE
+UNITED ARAB EMIRATES
+UNITED STATES
+URUGUAY
+UZBEKISTAN
+VANUATU
+VENEZUELA
+VIETNAM, SOC REP
+YEMEN (PDR,ADEN,SOCOTRA)
+ZAMBIA
+ZIMBABWE
+Sorry, the entry requirements for the country that you have selected are not available here. Please contact our Undergraduate Admissions team at
+ugquery@essex.ac.uk
+to request the entry requirements for this country.
+English language requirements
+English language requirements for applicants whose first language is not English:
+IELTS 5.5 overall with a minimum of 5.5 in each component, or specified score in another equivalent test that we accept.
+Details of English language requirements, including component scores, and the tests we accept for applicants who require a Student visa (excluding Nationals of Majority English Speaking Countries) can be found
+here
+If we accept the English component of an international qualification it will be included in the academic levels listed above for the relevant countries.
+English language shelf-life
+Most English language qualifications have a validity period of 5 years. The validity period of Pearson Test of English, TOEFL and CBSE or CISCE English is 2 years.
+If you require a Student visa to study in the UK please see our
+immigration webpages
+for the latest Home Office guidance on English language qualifications.
+Pre-sessional English courses
+If you do not meet our IELTS requirements then you may be able to complete a
+pre-sessional English pathway
+that enables you to start your course without retaking IELTS.
+Pending English language qualifications
+You don’t need to achieve the required level before making your application, but it will be one of the conditions of your offer.
+If you cannot find the qualification that you have achieved or are pending, then please email
+ugquery@essex.ac.uk
+.
+Additional Notes
+If you’re an international student, but do not meet the English language or academic requirements for direct admission to this degree, you could prepare and gain entry through a pathway course. Find out more about opportunities available to you at the
+University of Essex International College
+Structure
+Course structure
+Our research-led teaching is continually evolving to address the latest challenges and breakthroughs in the field. The following modules are based on the current course structure and may change in response to new curriculum developments and innovation.
+We understand that deciding where and what to study is a very important decision for you. We'll make all reasonable efforts to provide you with the courses, services and facilities as described on our website and in line with your contract with us. However, if we need to make material changes, for example due to significant disruption, we'll let our applicants and students know as soon as possible.
+Components and modules explained
+Components
+Components are the blocks of study that make up your course. A component may have a set module which you must study, or a number of modules from which you can choose.
+Each component has a status and carries a certain number of credits towards your qualification.
+Status
+What this means
+Core
+You must take the set module for this component and you must pass. No failure can be permitted.
+Core with Options
+You can choose which module to study from the available options for this component but you must pass. No failure can be permitted.
+Compulsory
+You must take the set module for this component. There may be limited opportunities to continue on the course/be eligible for the qualification if you fail.
+Compulsory with Options
+You can choose which module to study from the available options for this component. There may be limited opportunities to continue on the course/be eligible for the qualification if you fail.
+Optional
+You can choose which module to study from the available options for this component. There may be limited opportunities to continue on the course/be eligible for the qualification if you fail.
+The modules that are available for you to choose for each component will depend on several factors, including which modules you have chosen for other components, which modules you have completed in previous years of your course, and which term the module is taught in.
+Modules
+Modules are the individual units of study for your course. Each module has its own set of learning outcomes and assessment criteria and also carries a certain number of credits.
+In most cases you will study one module per component, but in some cases you may need to study more than one module. For example, a 30-credit component may comprise of either one 30-credit module, or two 15-credit modules, depending on the options available.
+Modules may be taught at different times of the year and by a different department or school to the one your course is primarily based in. You can find this information from the
+module code
+. For example, the module code HR100-4-FY means:
+HR
+100
+4
+FY
+The department or school the module will be taught by.
+In this example, the module would be taught by the Department of History.
+The module number.
+The
+UK academic level
+of the module.
+A standard undergraduate course will comprise of level 4, 5 and 6 modules - increasing as you progress through the course.
+A standard postgraduate taught course will comprise of level 7 modules.
+A postgraduate research degree is a level 8 qualification.
+The term the module will be taught in.
+AU
+: Autumn term
+SP
+: Spring term
+SU
+: Summer term
+FY
+: Full year
+AP
+: Autumn and Spring terms
+PS:
+Spring and Summer terms
+AS:
+Autumn and Summer terms
+Year 0
+Year 1
+Year 2
+Final Year
+COMPONENT 01: CORE
+Computer Programming
+(30 CREDITS)
+How do you test and evaluate the operation of simple computer programs? Or develop a program using tools in the Python programming language? Study the principles of procedural computing programming. Examine basic programming concepts, structures and methodologies. Understand good program design, learn to correct coding and practice debugging techniques.
+View Computer Programming on our Module Directory
+COMPONENT 02: CORE
+Research and Academic Development Skills
+(30 CREDITS)
+This blended-learning module is designed to support students in their academic subject disciplines and to strengthen their confidence in key skills areas such as: academic writing, research, academic integrity, collaborative and reflective practices.
+
+The students are supported through the use of subject-specific materials tailored to their chosen degrees with alignment of assessments between academic subject modules and the skills module.
+View Research and Academic Development Skills on our Module Directory
+COMPONENT 03: CORE
+Mathematical Methods and Statistics
+(30 CREDITS)
+Develop your problem solving skills in this module, as you are introduced to Statistical and Mathematical concepts with a particular focus on mechanics. You become familiar with R software, one of the most widely used statistical analysis software in the world, and learn how to use it to analyse and interpret data. You study simple concepts and techniques like data description and distribution; before moving on to more complex topics and theories including Newton’s laws of motion and the concepts of Mechanical energy. While also covering everything from probability rules and hypothesis testing to advanced algebra – you will be well equipped to present your solutions and findings to an audience with no specialist knowledge of Statistics and Mechanics.
+View Mathematical Methods and Statistics on our Module Directory
+COMPONENT 04: CORE WITH OPTIONS
+IA112-3-FY or IA126-3-FY
+(30 CREDITS)
+COMPONENT 01: CORE
+Team Project Challenge
+(15 CREDITS)
+Our Team Project Challenge gives you the opportunity to develop a range of professional skills by working as part of a small student team on a specific project. The projects are research-based and incorporate the concepts of specifications, design, and implementation. You’ll learn about sustainability, project and time management, design, legal issues, health and safety, data analysis and presentation, team reporting, and self-evaluation.
+
+You’ll also develop skills such as critical thinking and problem solving, agility, leadership, collaboration across networks, and effective oral and written communication, as well as curiosity and imagination, all of which will enhance your knowledge, confidence and social skills necessary to innovate and succeed in a competitive global environment.
+View Team Project Challenge on our Module Directory
+COMPONENT 02: CORE
+Mathematics for Computing
+(15 CREDITS)
+The aim of this module is to cover fundamental mathematics for Computer Scientists. It does not assume A-level mathematics, and the emphasis and delivery will be on understanding the key concepts as they apply to Computer Science.
+View Mathematics for Computing on our Module Directory
+COMPONENT 03: CORE
+Introduction to Programming
+(15 CREDITS)
+The aim of this module is to provide an introduction to the fundamental concepts of computer programming. After completing this module, students will be expected to be able to demonstrate an understanding of the basic principles and concepts that underlie the procedural programming model, explain and make use of high-level programming language features that support control, data and procedural abstraction. Also, they will be able to analyse and explain the behaviour of simple programs that incorporate standard control structures, parameterised functions, arrays, structures and I/O.
+View Introduction to Programming on our Module Directory
+COMPONENT 04: CORE
+Object-Oriented Programming
+(15 CREDITS)
+Want to become a Java programmer? Topics covered in this module include control structures, classes, objects, inheritance, polymorphism, interfaces, file I/O, event handling, graphical components, and more. You will develop your programming skills in supervised lab sessions where help will be at hand should you require it.
+View Object-Oriented Programming on our Module Directory
+COMPONENT 05: CORE
+Introduction to Databases
+(15 CREDITS)
+Databases are everywhere. They are employed in banking, production control and the stock market, as well as in scientific and engineering applications. For example, the Human Genome Project had the goal of mapping the sequence of chemical base pairs which make up human DNA. The result is a genome database. This module introduces the underlying principles of databases, database design and database systems. It covers the fundamental concepts of databases, and prepares the student for their use in commerce, science and engineering.
+View Introduction to Databases on our Module Directory
+COMPONENT 06: CORE
+Web Development
+(15 CREDITS)
+The aim of this module is to provide students with an introduction to the principles and technology that underlie internet applications and the techniques used in the design and construction of web sites. Students showcase their skills by designing and building both client and server components of a data driven web site.
+View Web Development on our Module Directory
+COMPONENT 07: CORE
+Network Fundamentals
+(15 CREDITS)
+This module introduces the fundamentals of networking including wiring and configuration of switches and routers and associated subnetting. Laboratory sessions give practical hands on experience in our purpose built networking lab. The module uses the Cisco CCNA exploration Network Fundamentals course which is the first of four Cisco courses that can be used to obtain a Cisco CCNA qualification and participants will gain the CCNA1 qualification whilst on this course.
+View Network Fundamentals on our Module Directory
+COMPONENT 08: CORE
+Fundamentals of Digital Systems
+(15 CREDITS)
+Computers, embedded systems, and digital systems in general have become an essential part of most people's lives, whether directly or indirectly. The aim of this module is to introduce the software and hardware underpinnings of such systems at an introductory yet challenging level suitable for future computer scientists and engineers. Topics covered in the module include both top-view as well as bottom-view approaches to understanding digital computers.  They range from the more theoretical (e.g., state machines, logic circuits, and von Neumann's architecture) to the more practical (e.g., how transistors produce binary signals, operating system functions, memory management, and common hardware devices).  The module also includes problem solving classes in which a guided discussion of weekly exercises is aimed at giving the student an opportunity to consolidate his/her understanding of the topics involved.  Upon completion of this module, students should have a good conceptual and practical understanding of the nature and architecture of digital computer systems and their components.
+View Fundamentals of Digital Systems on our Module Directory
+COMPONENT 01: CORE
+Team Project Challenge
+(15 CREDITS)
+This course covers the principles of project management, team working, communication, legal issues, finance, and company organisation.  Working in small teams, students will go through the full project life-cycle of design, development and implementation, for a bespoke software requirement. In this course, students gain vital experience to enable them to enter the computer science/Electrical engineering workforce, with a degree backed by the British Computer Society, and by the Institute of Engineering and Technology.
+View Team Project Challenge on our Module Directory
+COMPONENT 02: CORE
+Software Engineering
+(15 CREDITS)
+This module aims to equip students with the main principles guiding the activities involved in software development throughout its lifecycle, including software requirements, object-oriented analysis and design, software validation and testing, and software maintenance and software evolution.
+View Software Engineering on our Module Directory
+COMPONENT 03: CORE
+Application Programming
+(15 CREDITS)
+This module extends the students' knowledge and skills in object-oriented application programming by a treatment of further Java language principles and of important Application Programming Interfaces (APIs). The Java Collections API is explored in some more detail with emphasis on how to utilise these classes to best effect. A particular focus will be on the interaction with databases (e.g. via JDBC) and on writing secure applications.
+View Application Programming on our Module Directory
+COMPONENT 04: CORE
+Data Structures and Algorithms
+(15 CREDITS)
+Data structures and algorithms lie at the heart of Computer Science as they are the basis for the efficient solution of programming tasks. In this module, students will study core algorithms and data structures, as well as being given an introduction to algorithm analysis and basic computability.
+View Data Structures and Algorithms on our Module Directory
+COMPONENT 05: CORE WITH OPTIONS
+Option(s) from list
+(30 CREDITS)
+COMPONENT 06: CORE WITH OPTIONS
+Option(s) from list
+(30 CREDITS)
+COMPONENT 01: CORE
+Individual Capstone Project Challenge
+(45 CREDITS)
+The highlight of our undergraduate degree courses is the individual capstone project. This project module provides students with the opportunity to bring together all the skills they have gained during their degree and demonstrate that they can develop a product from the starting point of a single 1/2 page description, provided either by an academic member of staff or an external company. In all the student spends 450 hours throughout the academic year, reporting to their academic tutor, and in the case of company projects, to a company mentor. All projects are demonstrated to external companies on our Project Open Day.
+View Individual Capstone Project Challenge on our Module Directory
+COMPONENT 02: CORE WITH OPTIONS
+Option(s) from list
+(30 CREDITS)
+COMPONENT 03: CORE WITH OPTIONS
+Option(s) from list
+(30 CREDITS)
+COMPONENT 04: CORE WITH OPTIONS
+Option from list
+(15 CREDITS)
+Teaching
+Courses are taught by a combination of lectures, laboratory work, assignments, and individual and group project activities
+Undergraduate students in the School of Computer Science and Electronic Engineering typically attend a two-hour lecture and a two-hour lab for each 15 credit module
+A significant amount of practical lab work will need to be undertaken for written assignments and as part of your learning
+Assessment
+In your first year, you will have exams before the start of term in January
+Your assessed coursework will generally consist of essays, reports, in-class tests, individual or group oral presentations, and small scale research projects
+All credit-bearing modules will involve a final exam, which will be either essay-based or in the form of a test
+Fees and funding
+Home/UK fee
+£9,250 per year
+International fee
+£20,475 per year
+The
+standard undergraduate degree fee for international students
+will apply in subsequent years.
+Fees will increase for each academic year of study.
+Home/UK fees and funding information
+International fees and funding information
+What's next
+Open Days
+Our events are a great way to find out more about studying at Essex. We run a number of Open Days throughout the year which enable you to discover what our campus has to offer. 
+You have the chance to:
+tour our campus and accommodation
+find out answers to your questions about our courses, student finance, graduate employability, student support and more
+meet our students and staff
+Check out our
+Visit Us
+pages to find out more information about booking onto one of our events. And if the dates aren’t suitable for you, feel free to
+book a campus tour here
+.
+Applying
+Applications for our full-time undergraduate courses should be made through the
+Universities and Colleges Admissions Service (UCAS)
+. Full details on how to apply can be found on the
+filling in your UCAS undergraduate application
+web page.
+Our UK students, and some of our EU students, who are still at school or college, can apply through their school. Your school will be able to check and then submit your completed application to UCAS. Our other EU applicants or independent applicants in the UK can also apply online through UCAS Apply.
+The UCAS code for our University of Essex is
+ESSEX E70
+. The individual campus codes for our Loughton and Southend Campuses are ‘L' and ‘S' respectively.
+You can find further information on how to apply, including information on transferring from another university, applying if you are not currently at a school or college, and applying for readmission on our
+How to apply and entry requirements
+page.
+Please note that this course is not open to international applicants.
+Offer Holder Days
+If you receive an undergraduate offer to study with us in October 2024 and live in the UK, you will receive an email invitation to book onto one of our Offer Holder Days. Our Colchester Campus Offer Holder Days run from February to May 2024 on various Wednesdays and Saturdays, and our Southend Campus events run in April and May. These events provide the opportunity to meet your department, tour our campus and accommodation, and chat to current students. To support your attendance, we are offering a travel bursary, allowing you to claim up to £150 as reimbursement for travel expenses. For further information about Offer Holder Days, including terms and conditions and eligibility criteria for our travel bursary, please visit our
+webpage.
+If you are an overseas offer-holder, you will be invited to attend one of our virtual events. However, you are more than welcome to join us at one of our in-person Offer Holder Days if you are able to - we will let you know in your invite email how you can do this.
+Visit Colchester Campus
+Set within 200 acres of
+award-winning
+parkland -
+Wivenhoe Park
+and located two miles from the
+historic city centre of Colchester
+– England's oldest recorded development. Our Colchester Campus is also easily reached from London and Stansted Airport in under one hour.
+Find out more
+Virtual tours
+If you live too far away to come to Essex (or have a busy lifestyle), no problem. Our 360 degree virtual tours allows you to explore our University from the comfort of your home. Check out our
+Colchester virtual tour
+and
+Southend virtual tour
+to see accommodation options, facilities and social spaces.
+At Essex we pride ourselves on being a welcoming and inclusive student community. We offer a wide range of support to individuals and groups of student members who may have specific requirements, interests or responsibilities.
+Find out more
+The University makes every effort to ensure that this information on its programme specification is accurate and up-to-date. Exceptionally it can be necessary to make changes, for example to courses, facilities or fees. Examples of such reasons might include, but are not limited to: strikes, other industrial action, staff illness, severe weather, fire, civil commotion, riot, invasion, terrorist attack or threat of terrorist attack (whether declared or not), natural disaster, restrictions imposed by government or public authorities, epidemic or pandemic disease, failure of public utilities or transport systems or the withdrawal/reduction of funding. Changes to courses may for example consist of variations to the content and method of delivery of programmes, courses and other services, to discontinue programmes, courses and other services and to merge or combine programmes or courses. The University will endeavour to keep such changes to a minimum, and will also keep students informed appropriately by updating our
+programme specifications
+. The University would inform and engage with you if your course was to be discontinued, and would provide you with options, where appropriate, in line with our Compensation and Refund Policy.
+The full Procedures, Rules and Regulations of the University governing how it operates are set out in the Charter, Statutes and
+Ordinances and in the University Regulations, Policy and Procedures.
+Related courses
+BSc Computer Science
+Study mode:
+Full-time
+Location:
+Colchester Campus
+Course options:
+Year Abroad
+Placement Year
+Ask us a question
+Want to quiz us about your course? Got a question that just needs answering? Get in touch with us on live chat!
+Talk to us on live chat
+Sign up to hear about our courses
+Click4Assistance UK Live Chat Software
+CHAT TO US
+ASK OUR STUDENTS AND STAFF ANYTHING
+Read all about it
+Get a prospectus
+Study at Essex
+Find a course
+STUDY
+Course Finder
+Undergraduate study
+Postgraduate study
+Short courses and CPD
+International students
+Study online
+Apprenticeships
+Summer Schools
+Find a course
+LIFE
+Student life
+Student accommodation
+Essex Sport
+Colchester Campus
+Southend Campus
+Loughton Campus
+Careers and Employability
+Student support
+RESEARCH
+Research excellence
+Research showcase
+Media requests
+Research Excellence Framework (REF)
+Research institutes and centres
+EXPLORE
+About us
+Departments
+Contact us
+How to pay your fees
+Jobs
+A-Z
+Students
+Alumni
+Staff
+Business
+CONTACT US
+Contact
+General - enquiries@essex.ac.uk
+Undergraduate - admit@essex.ac.uk
+Postgraduate - pgadmit@essex.ac.uk
++44 (0) 1206 873333
+University of Essex
+Wivenhoe Park
+Colchester CO4 3SQ
+Cookie settings
+Disclaimer
+Accessibility
+Our privacy statements
+Our transparency return
+Modern slavery and human trafficking
+CONNECT WITH US
+University of Essex Instagram
+University of Essex TikTok
+University of Essex Youtube
+University of Essex Facebook
+University of Essex LinkedIn
+University of Essex Twitter
+University of Essex Weibo
+© 2024 University of Essex.
+All rights reserved
+UNRVLD Digital Agency website

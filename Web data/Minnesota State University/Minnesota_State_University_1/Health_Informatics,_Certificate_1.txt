@@ -1,0 +1,113 @@
+Link: https://cset.mnsu.edu/academic-programs/health-informatics/health-informatics-certificate/
+
+College of Science, Engineering & Technology
+Academic Programs
+Health Informatics
+Health Informatics, Certificate
+Health Informatics Section
+Health Informatics
+Health Informatics, Bachelor of Science (BS)
+Health Informatics, Certificate
+Health Informatics Analytics, Professional Science Master's (PSM)
+Health Informatics Faculty & Staff
+Health Informatics (CERT)
+A certificate in Health Informatics prepares students to use information technology (IT) to solve problems in multidisciplinary real-life settings. Health Informatics is a bridge connecting the use of IT to a health-related field of study. Students selecting the Health Informatics certificate will have the opportunity to develop skills that will allow them to use information technology, information systems, and health-related data to impact patient satisfaction, quality improvement of care, and healthcare decision making.
+Current Catalog Year
+2024-2025
+Degree
+Certificate
+Major /                                         Total Credits
+25 / 25
+Locations
+Mankato
+Apply
+Program Requirements
+Program
+                                    Requirements
+Major Common Core
+CIS 113
+Health Humanities and Health Informatics
+4 credits
+This course uses health humanities storytelling to prepare students with a sincere concern for human values within the capture, management, and evaluation of health information. Students will explore the synergy between health related data, healthcare informatics, and outcome measures. Students will gain fundamental information technology skills to understand and critique data, identify relationships between visual arts and written works regarding health, and explore cultural aspects of healthcare experiences and risk adjustment of quality outcome measures.
+Prerequisites:
+none
+Goal Areas: GE-06, GE-07
+Diverse Cultures: Purple
+CIS 340
+Introduction to Database Systems
+4 credits
+Introduction to database systems, entity relationship models, relational algebra, database design, data modeling, normalization, and conversion of business rules into relational model. Introduction to basic SQL including subqueries, joins, functions, sequences, triggers, views, and stored procedures.
+Prerequisites:
+CIS 121 or an approved substitute.
+CIS 443
+Health Information Technology in Clinical Practice
+4 credits
+This course introduces students to a variety of existing and emerging technologies used within healthcare environments. Emphasis will be on software used to capture clinical data and generate reports. Students will complete a team oriented project incorporating business requirements, project management, and design elements for a system implementation, system change, or reporting request.
+Prerequisites:
+CIS 113, CIS 340
+NURS 286
+Relationship-Based Care
+3 credits
+Provides an introduction to the profession of nursing and explores relationship-based care in healthcare. Provides an overview of concepts related to establishing caring and healing environments, developing therapeutic and professional relationships, and the inter-relationship of care for self, team, and patient.
+Prerequisites:
+none
+Goal Areas: GE-11
+NURS 366
+Quality, Safety and Informatics in Healthcare
+2 credits
+Focus on identification, implementation, and evaluation of patient/family quality and safety measures. Includes quality movement history and evolution, current quality of care issues, research and innovations, intervention strategies, and instruments; with an analysis of health care quality management system models.
+Prerequisites:
+none
+NURS 499
+Individual Study
+1-5 credits
+Individual study according to outcomes developed by faculty and student(s).
+Prerequisites:
+none
+Major Restricted Electives
+Choose 4 Credit(s).
+PSYC 201
+Statistics for Psychology
+4 credits
+This course emphasizes understanding the conceptual basis of common statistical procedures and applying those procedures to the problems of organizing information and making inferences from data. Topics include: summarizing data, the logic of inference, estimation, analysis of variance, and correlation.
+Prerequisites:
+Complete one course: MATH 112, MATH 113, MATH 115, MATH 121, MATH 130, or STAT 154
+STAT 154
+Elementary Statistics
+4 credits
+An introduction to statistical concepts and methods that is applicable to all disciplines. Topics include descriptive measures of data, probability and probability distributions, statistical inference, tests of hypotheses, confidence intervals, correlation, linear regression, and analysis of variance. The use of statistical software will be emphasized. Prereq: ACT Math sub-score of 19 or higher, successful completion of MATH 098 or appropriate placement scores (see Placement Information under Statistics) Fall, Spring, Summer GE-4
+Prerequisites:
+Satisfy Placement Table in this section, or MATH 098 with grade of P.
+Goal Areas: GE-02, GE-04
+Major Unrestricted Electives
+Choose 3 Credit(s).
+- Choose a 3-credit elective in consultation with the program director.Initial deposit: N/A
+
+
+Application Fee for Undergraduate: $ 20
+Application Fee for Postgraduate: $ 40
+
+
+Annual Fee for Undergraduate: $ 18,812
+Annual Fee for Postgraduate: $ 14,918
+
+
+English Language Requirements Undergraduate only:
+TOEFL iBT (internet-based test) score of 61 or better
+Pearson Test of English (PTE) score of 47 or better
+IELTS academic test score of 5.5 or better
+
+
+English Language Requirements Postgraduate only:
+Different for every course and given in course content 
+
+
+Entry Requirements Undergraduate only:
+A cumulative high school GPA of 3.0 or higher or A rank in the top 50% of your high school class or An ACT composite score of 21 or higher and a minimum cumulative high school GPA of 2.7. If you do not meet the above admission requirements, you can submit additional information to consider when reviewing your application.
+
+
+Entry Requirements Postgraduate only:
+Applicants must possess the equivalent of a U.S. Bachelor's degree to be considered for graduate programs at Minnesota State Mankato. The degree must be earned at an institution recognized and approved to award the degree. GRE (Graduate Record Examination) is required by some academic programs.
+
+English Language requirements of graduate programs is different for each course. Graduate programs only have IELTS and TOEFL test scores.
+For Graduate Entry Requirements, some requirements like GPA, Score are mentioned on the course page so add them too.

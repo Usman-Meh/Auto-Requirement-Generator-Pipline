@@ -1,0 +1,273 @@
+Link: https://you.ubc.ca/ubc_programs/statistics-vancouver/
+
+Statistics
+at UBC's
+Vancouver Campus
+Summary
+Program info
+Your future
+Requirements
+Visit program website
+This program emphasizes the role of statistics within the general framework of problem solving, and helps you develop an understanding of the concepts of observation, hypothesis, evidence, and validation. You'll learn more about critical statistical reasoning, with emphasis on the development of computational, mathematical, and communication skills, both oral and written.
+This program is also offered at UBC's
+Okanagan Campus
+Find out more
+Why this program?
+Tailor the specialization to your interests with electives in computer science, economics, life sciences, commerce, or the social sciences.
+Study at one of Canada’s top-ranked universities in the mathematical sciences.
+Develop critical statistical reasoning, computational, mathematical, and communication skills.
+Visit program website
+Program information
+Send details
+Campus:
+Vancouver
+Faculty:
+Faculty of Science
+Degree:
+Bachelor of Science
+Length
+4 yrs
+Co-op
+Yes
+You can combine your studies with full-time, paid work at top local and international organizations.
+Honours
+Yes
+You can study intense specialization in a single field.
+Statistics is a science that deals with collecting, organizing, and analyzing data, and the theory for statistical methods involves mathematics and probability. Statisticians extract information from data. Due to the ubiquity of computers and ability to collect massive amounts of data, statistics is a significant and ever-growing field of study.
+Statistics students select a nine-credit “thematic concentration” in areas such as computer science, economics, life sciences, commerce, or the social sciences to ensure that they can apply statistical methods in another discipline. The concentrations allow you to customize the major or honours programs to reflect your interests, but to a lesser extent than combined major or honours programs.
+The BSc Statistics is available as a major, honours, or through the combined honours program. The honours programs are suggested for students interested in pursuing graduate work in the mathematical sciences or another field.
+Campus features
+The Statistical Consulting and Research Laboratory provide statistical advice to the University’s faculty and graduate students and serves as a statistical research support unit for students in the Department. The statistical sciences interact with virtually every discipline in science, social science, and engineering. Research at UBC’s Department of Statistics reflects the breadth of the field. Examples include biostatistics (statistics relevant medical and health sciences) bioinformatics (genetic data and modelling in medical studies), environmental statistics (geographical, climate modelling), and statistical learning (machine learning and artificial intelligence).
+Send details
+Why this program?
+Tailor the specialization to your interests with electives in computer science, economics, life sciences, commerce, or the social sciences.
+Study at one of Canada’s top-ranked universities in the mathematical sciences.
+Develop critical statistical reasoning, computational, mathematical, and communication skills.
+Sample courses
+Year 1
+Year 2
+Year 3
+Year 4
+CPSC 110 - Computation, Programs, and Programming
+Fundamental program and computation structures. Introductory programming skills. Computation as a tool for information processing, simulation and modeling, and interacting with the world.
+MATH 100 - Differential Calculus with Applications to Physical Sciences and Engineering
+Derivatives of elementary functions. Applications and modeling: graphing, optimization. Consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414.
+MATH 101 - Integral Calculus with Applications to Physical Sciences and Engineering
+The definite integral, integration techniques, applications, modeling, infinite series.
+PHYS 107 - Enriched Physics 1
+Classical mechanics including conservation laws, angular momentum of rigid bodies and simple harmonic motion, wave phenomena, with an introduction to special relativity, quantum mechanics, nuclear physics, statistical mechanics and solid state physics. Please consult the Faculty of Science credit exclusion lists: http://www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414
+CHEM 121 - Structure and Bonding in Chemistry
+Fundamentals of bonding theories and structural chemistry, with applications relevant to modern society.
+MATH 200 - Calculus III
+Analytic geometry in 2 and 3 dimensions, partial and directional derivatives, chain rule, maxima and minima, second derivative test, Lagrange multipliers, multiple integrals with applications.
+STAT 200 - Elementary Statistics for Applications
+Classical, nonparametric, and robust inferences about means, variances, and analysis of variance, using computers. Emphasis on problem formulation, assumptions, and interpretation. See the Faculty of Science Credit Exclusion Lists: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414.
+MATH 220 - Mathematical Proof
+Sets and functions; induction; cardinality;  properties of the real numbers; sequences, series, and limits. Logic, structure, style, and clarity of proofs emphasized throughout.
+MATH 221 - Matrix Algebra
+Systems of linear equations, operations on matrices, determinants, eigenvalues and eigenvectors, diagonalization of symmetric matrices.
+STAT 302 - Introduction to Probability
+Basic notions of probability, random variables, expectation and conditional expectation, limit theorems. (Consult the Credit Exclusion list within the Faculty of Science section in the Calendar.)
+MATH 307 - Applied Linear Algebra
+Applications of linear algebra to problems in science and engineering; use of computer algebra systems for solving problems in linear algebra.
+STAT 305 - Introduction to Statistical Inference
+Review of probability theory. Sampling distribution theory, large sample theory and methods of estimation and hypothesis testing, including maximum likelihood estimation, likelihood ratio testing and confidence interval construction.
+STAT 306 - Finding Relationships in Data
+Modeling a response (output) variable as a function of several explanatory (input) variables:  multiple regression for a continuous response, logistic regression for a binary response, and log-linear models for count data.  Finding low-dimensional structure:  principal components analysis.  Cluster analysis.  (Consult the Credit Exclusion List within the Faculty of Science section in the Calendar).
+STAT 321 - Stochastic Signals and Systems
+Stochastic behaviour of signals and systems (e.g., communication systems); discrete and continuous probability; random processes; modeling and identification of linear time-invariant systems; binary hypothesis testing and decision making.
+STAT 404 - Design and Analysis of Experiments
+Theory and application of analysis of variance for standard experimental designs, including blocked, nested, factorial and split plot designs. Fixed and random effects, multiple comparisons, analysis of covariance. (Consult the Credit Exclusion list within the Faculty of Science section in the Calendar).
+STAT 450 - Case Studies in Statistics
+Readings and projects in areas of current statistical application including environmental science, industrial statistics, official statistics, actuarial statistics, and medical statistics.
+STAT 445 - Introduction to Exploratory Data Analysis
+Methods for exploring and presenting the structure of data: one group of numbers, several groups, bivariate data, time series data and two-way tables. Data displays, outlier identification, transformations, resistant regression, several types of data smoothing, comparisons with standard statistical methods.
+STAT 406 - Methods for Statistical Learning
+Flexible, data-adaptive methods for regression and classification models; regression smoothers; penalty methods; assessing accuracy of prediction; model selection; robustness; classification and regression trees; nearest-neighbour methods; neural networks; model averaging and ensembles; computational time and visualization for large data sets.
+STAT 443 - Time Series and Forecasting
+Trend and seasonality, autocorrelation, stationarity, stochastic models, exponential smoothing, Holt-Winters methods, Box-Jenkins approach, frequency domain analysis.
+Follow this program
+Follow on Twitter
+View larger image
+Earth Sciences Building
+Life at UBC's Vancouver campus
+Built in 2012 to LEED Gold construction standards, the Earth Sciences Building is home to the Department of Statistics. It houses the department’s computer lab facilities, seminar rooms, lecture halls, and the Statistics Learning Centre.
+Find out more
+Your future
+The BSc in Statistics emphasizes the role of statistics within the general framework of problem solving. The program helps you develop critical statistical reasoning, with emphasis on the development of computational, mathematical, and communication skills. These are highly sought after skills and are transferable to many workplaces.
+Statisticians work in almost all areas of science, engineering, business, government, and industry.
+Program graduates
+PhD Student in Economics, Stanford University
+Institutional portfolio risk analyst, RBC Global Asset Management
+Statistical analyst, BC Cancer Agency
+Research assistant, Centre for Health Evaluation & Outcome Sciences
+Data scientist, Environment Canada
+Related programs
+Program requirements
+Canadian high schools
+International high schools
+International baccalaureate
+- Select Location -
+Basic requirements (if your province is not selected)
+Alberta
+British Columbia
+Manitoba
+New Brunswick
+Newfoundland & Labrador
+Northwest Territories
+Nova Scotia
+Nunavut
+Ontario
+Prince Edward Island
+Quebec
+Saskatchewan
+Yukon
+- Select Location -
+Basic requirements (if your country is not listed)
+Argentina
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belize
+Bermuda
+Bolivia
+Botswana
+Brazil
+British Virgin Islands
+Brunei
+Cameroon - British
+Cameroon - French
+Cayman Islands
+Chile
+China
+Colombia
+Costa Rica
+Czech Republic
+Denmark
+Dominica
+Ecuador
+Egypt – 11 Years of Education
+Egypt – 12 Years of Education
+El Salvador
+Ethiopia
+Finland
+France (French Baccalaureate)
+Germany
+Ghana
+Gibraltar
+Greece
+Grenada
+Guatemala
+Guyana
+Honduras
+Hong Kong
+India
+Indonesia
+Iran
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kuwait
+Lebanon
+Lesotho
+Liberia
+Macao
+Malawi
+Malaysia
+Mauritius
+Mexico
+Mongolia
+Montserrat
+Morocco
+Namibia
+Netherlands
+New Zealand
+Nigeria
+Norway
+Oman
+Pakistan
+Panama
+Peru
+Philippines
+Poland
+Qatar
+Russia
+Rwanda
+Saint Kitts and Nevis
+Saint Lucia
+Saint Vincent and the Grenadines
+Saudi Arabia
+Scotland
+Seychelles
+Sierra Leone
+Singapore
+South Africa
+South Korea
+Spain
+Sri Lanka
+Sweden
+Switzerland
+Syria
+Taiwan
+Tanzania
+Thailand
+The Gambia
+Trinidad and Tobago
+Tunisia
+Turkey
+Turks and Caicos Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom (British-patterned education)
+United States (American curriculum)
+Venezuela
+Vietnam
+Zambia
+Zimbabwe
+English-language requirements
+English is the language of instruction at UBC. All prospective students must demonstrate English-language competency prior to admission. There are numerous ways to meet the
+English Language Admission Standard
+.
+General admission requirements
+IB Diploma Programme
+Completed IB Diploma, including at least three Higher Level courses.
+IB Certificate Courses
+IB Certificate courses (Standard and Higher Level) may be used in an admissions average if you are graduating from a recognized high school curriculum that can be used as your basis of admission.
+IB Math Applications and Interpretations SL, or IB Math Studies, do not satisfy the math requirement for admission to UBC’s science-based programs, the Faculty of Management, the UBC Sauder School of Business, or the Vancouver School of Economics.
+Degree-specific requirements:
+Science
+IB Math Analysis and Approaches SL
+or
+HL,
+or
+IB Math Applications and Interpretations HL (IB Math Applications and Interpretations SL, or IB Math Studies, are not acceptable)
+One of IB Biology, IB Chemistry, or IB Physics
+Grade 11 or equivalent Chemistry, and
+Grade 11 or equivalent Physics (may be waived with grades of 5 in IB Chemistry and in your IB Mathematics course)
+Note: Grade 11 Chemistry and Physics requirements listed are only relevant to students who are
+not
+completing the equivalent IB Diploma Chemistry and/or Physics courses.
+For students studying outside of Canada, some examples of courses that may be accepted as Grade 11 equivalents are junior-level courses for American students, and IGCSE and O Level for those following British-patterned curricula.
+Related courses
+The following
+subject categories
+are particularly relevant for this degree. Consider taking courses in these areas in your junior year and senior year.
+Language Arts
+Mathematics and Computation
+Sciences
+Visit program website
+You’ll find these pages helpful
+Meet Logan, an entrepreneurial Economics major, scholarship winner, and recent Rhodes Scholar
+Read full story
+Ready to choose your degree?
+Apply to UBC

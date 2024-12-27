@@ -1,0 +1,717 @@
+Link: https://cset.mnsu.edu/academic-programs/computer-engineering/computer-engineering-bachelor-of-science-computer-engineering-bsec/
+
+College of Science, Engineering & Technology
+Academic Programs
+Computer Engineering
+Computer Engineering, Bachelor of Science (BSEC)
+Computer Engineering Section
+Computer Engineering
+Learn More About Us
+Computer Engineering, Bachelor of Science (BSEC)
+Computer Engineering Pathway
+Computer Engineering Faculty & Staff
+Computer Engineering (BSEC)
+Current Catalog Year
+2024-2025
+Degree
+Bach of Science-Computer Engineering
+Major /                                         Total Credits
+112 / 128
+Locations
+Mankato
+Accreditation
+ABET
+Accreditation Board for Engineering and Technology
+Apply
+Program Requirements
+Degree Plan
+Program
+                                    Requirements
+Required General Education
+ENG 101
+Foundations of Writing & Rhetoric
+4 credits
+Students in this course approach writing as a subject of study by investigating how writing works across a variety of contexts.
+Prerequisites:
+none
+Goal Areas: GE-1A
+ENG 271W
+Technical Communication
+4 credits
+Introduction to learning the written and oral communication of technical information. Assignments include writing and presenting proposals, reports, and documentation. Emphasis on use of rhetorical analysis, computer applications, collaborative writing, and usability testing to complete technical communication tasks in the workplace.
+Prerequisites:
+ENG 101
+Goal Areas: GE-02, GE-13
+MATH 121
+Calculus I
+4 credits
+Limits, continuity, the derivative and applications, transcendental functions, L'Hopital's Rule, and development of the Riemann integral.
+Prerequisites:
+Satisfy Placement Table in this section, MATH 115 or both MATH 112 and MATH 113 with "C" (2.0) or better.
+Goal Areas: GE-04
+PHYS 221
+General Physics I
+4 credits
+Designed for science and engineering students. Calculus-based physics. Covers elementary mechanics including kinematics, statics, equilibrium and dynamics of particles, work and energy, rotational motion, gravitation, and oscillation. Lecture and Laboratory. MATH 121 must be completed with a C or better prior to taking this course or must be taken concurrently. High school physics or PHYS 101 is also strongly encouraged. Fall, Spring
+Prerequisites:
+none
+Goal Areas: GE-02, GE-03
+Economics
+- Choose 3 Credit(s).
+ECON 201
+Principles of Macroeconomics
+3 credits
+Emphasis on forces influencing employment and inflation. Current problems of the economy are stressed along with tools government has to cope with them.
+Prerequisites:
+none
+Goal Areas: GE-05
+ECON 202
+Principles of Microeconomics
+3 credits
+Examines decision making by the individual firm, the determination of prices and wages, and current problems facing business firms.
+Prerequisites:
+none
+Goal Areas: GE-05
+Prerequisites to the Major
+EE 105
+Introduction to Electrical and Computer Engineering and Technology
+1 credits
+To prepare students for engineering and technology education and profession through interactions with upper-class students, graduate students and practitioners from academia and industry; to prepare students for a career in electrical and computer engineering and technology.
+Prerequisites:
+none
+EE 106
+Fundamental Digital System Design for Electrical and Computer Engineers
+3 credits
+This introductory course covers digital systems topics including binary numbers, logic gates, Boolean algebra, circuit simplification using Karnaugh maps, flip-flops, counters, shift registers and arithmetic circuits. Problem solving methods, study skills and professional development will be addressed throughout the course.
+Prerequisites:
+MATH 112
+EE 107
+Intro to Electrical and Computer Engineering Through Software Development
+3 credits
+his course presents algorithmic approaches to problem solving and computer program design using the C language. Students will explore Boolean expressions, implement programs using control structures, modular code and file input/output, and interface with external hardware using robots and sensors.
+Prerequisites:
+none
+EE 230
+Circuit Analysis I
+3 credits
+This course is meant to develop Electrical Engineering Circuit Analysis skills in DC and AC circuits. It includes circuit laws and theorems, mesh and node analysis. Natural and step response of RL, RC, and RLC circuits.
+Prerequisites:
+PHYS 222 or concurrent, MATH 321 or concurrent
+EE 231
+Circuit Analysis II
+3 credits
+Continuation of Circuit Analysis I to include special topics in circuit analysis.
+Prerequisites:
+EE 230 and EE 240, MATH 321, PHYS 222
+EE 234
+Microprocessor Engineering I
+3 credits
+A course that teaches how to write computer assembly language programs, make subroutine calls, perform I/O operations, handle interrupts and resets, interface with a wide variety of peripheral chips to meet the requirements of applications.
+Prerequisites:
+EE 107 or EET 142
+EE 235
+Microprocessor Engineering Laboratory I
+1 credits
+Use of development boards and assembly language programming to handle interrupts, interface with parallel I/O ports, memory, and timers. Experiments will involve signal and frequency measurements, data conversions, and interface design. EE 234 must be completed before taking this course or taken concurrently. If you would like to take it concurrently, please contact the instructor for permission.
+Prerequisites:
+EE 234
+EE 240
+Evaluation of Circuits
+1 credits
+Laboratory support for EE 230. Use of laboratory instrumentation to measure currents and voltages associated with DC and AC circuits. Statistical analysis of measurement data. Measurements of series, parallel and series-parallel DC and AC circuits. Measurement of properties for circuits using operational amplifiers. Measurement of transient responses for R-L and R-C circuits. Simulation of DC and AC circuits using PSPICE. Concepts covered in EE 230 will be verified in the laboratory. Pre-req: Must be taken concurrently with EE 230.
+Prerequisites:
+Must be taken concurrently with EE 230.
+MATH 122
+Calculus II
+4 credits
+Techniques of integration, applications of integration, improper integrals, numerical integration, the calculus of parametric curves, and infinite series and sequences.
+Prerequisites:
+MATH 121 with "C" (2.0) or better or consent
+MATH 321
+Ordinary Differential Equations
+4 credits
+This course presents the theory, computations, and applications of first and second order differential equations and two-dimensional systems.
+Prerequisites:
+MATH 122 with "C" (2.0) or better or consent
+PHYS 222
+General Physics II
+3 credits
+Designed for science and engineering students. Calculus-based physics. Covers electrical charge and field; magnetic field and its sources; current and resistance; simple DC and AC circuits; and electromagnetic induction. Lecture only. (Associated laboratory course is PHYS 232.) MATH 121 must be completed with a C or better prior to taking this course. MATH 122 must be completed before taking this course or taken concurrently. Fall, Spring
+Prerequisites:
+MATH 121 with a "C" or better; PHYS 221 with a "C" or better.
+PHYS 232
+General Physics II Laboratory
+1 credits
+Designed for science and engineering students. Laboratory course accompanying PHYS 222. Experiments involving electric and magnetic fields, electric potential, electric and magnetic forces, and simple circuits. Laboratory only. Prereq: PHYS 221 with a C or better; and PHYS 222 or concurrent. Fall, Spring
+Prerequisites:
+PHYS 221 with a "C" or better; and PHYS 222 or concurrent.
+Major Common Core
+EE 245
+Robotics Programming and Algorithms
+3 credits
+This course covers robotic programming using the object-oriented programming language C++ where the program is embedded in the robot controller. Algorithms and design strategies that are specifically for robotic applications are introduced. The course also introduces the Robot Operating System (ROS) and the utilization of ROS for robotic programming and sensor data processing on mobile robotic electrical systems. In addition to the lecture, the course includes a lab that involves robotic hardware and software for the experiments of various robotic algorithms on real robots.
+Prerequisites:
+CIS 122
+EE 281
+Digital System Design with Testability
+3 credits
+Introduction to representing digital hardware using a hardware description language. Introduction to implementation technologies such as PAL's, PLA's, FPGA's and Memories. Analysis, synthesis and design of sequential machines; synchronous, pulse mode, asynchronous and incompletely specified logic.
+Prerequisites:
+EE 106, EE 107
+EE 282
+Digital System Design with Testability Lab
+1 credits
+Laboratory support for EE 282 practical aspects of design and analysis of different types of sequential machines will be presented through laboratory experience.
+Prerequisites:
+none
+EE 332
+Electronics I
+3 credits
+Introduction to discrete and microelectronics circuits including analog and digital electronics. Device characteristics including diodes, BJTs, JFETs, and MOSFETs will be studied. DC bias circuits, small and large signal SPICE modeling and analysis and amplifier design and analysis will be discussed.
+Prerequisites:
+EE 231
+EE 334
+Microprocessor Engineering II
+3 credits
+A more advanced study of microprocessors and microcontrollers in embedded system design. Use of C language in programming, interrupt interfaces such as SPI, I2C, and CAN. External memory design and on-chip program memory protection are also studied.
+Prerequisites:
+none
+EE 336
+Principles of Engineering Design I
+1 credits
+Electrical and computer engineering project and program management and evaluation techniques will be studied. Emphasis will be placed on the use of appropriate tools for planning, evaluation, and reporting on electrical and computer engineering projects.Prereq: Junior Standing and Admission into the Electrical or Computer Engineering program.
+Prerequisites:
+Junior Standing
+EE 337
+Principles of Engineering Design II
+1 credits
+Application of the design techniques in the engineering profession. Electrical engineering project and program management and evaluation including computer assisted tools for planning and reporting, design-to-specification techniques and economic constraints.
+Prerequisites:
+EE 336
+EE 341
+Signals & Systems
+3 credits
+Analysis of linear systems and signals in the time and frequency domain. Laplace and Fourier transforms. Z-transform and discrete Fourier transforms.
+Prerequisites:
+EE 230. MATH 321 and PHYS 222
+EE 342
+Electronics Laboratory
+1 credits
+This lab is designed to accompany EE 332. The lab covers the experimental measurement and evaluation of diode, BJT, and MOS characteristics; various feedback topologies; oscillator and op-amp circuits; and rectifiers and filter circuitry.
+Prerequisites:
+EE 231 and EE 332 taken concurrently.
+EE 344
+Microprocessor II Laboratory
+1 credits
+Laboratory support for EE 334. Use of development boards and C programming language to handle I/O devices, interrupts, and all peripheral functions. Multiple functions such as timers, A/D converters, I/O devices, interrupts, and serial modules will be used together to perform desired operations.
+Prerequisites:
+Concurrent with EE 334
+EE 358
+Control Systems
+3 credits
+Theory and principles of linear feedback control systems. Analysis of linear control systems using conventional techniques like block diagrams, Bode plots, Nyquist plots and root-locus plots. Introduction to cascade compensation: proportional, derivative and integral compensation. State space models.
+Prerequisites:
+EE 341
+EE 368
+Control Systems Laboratory
+1 credits
+Laboratory support for EE 358. Experimental evaluation of basic control system concepts including transient response and steady state performance. Analog and digital computers.
+Prerequisites:
+EE 341 and concurrent with EE 358
+EE 390
+Smart Sensor Systems
+3 credits
+This course explains the interfacing method between a sensor and the microcontroller, describes the features and functions of several frequently used sensors, it then proceeds to explore the subject of sensor fusion, describe the algorithms how multiple sensors are used to extract correct and more useful information than each individual single sensor; finally the course also explores how a large number of sensor nodes are connected together via the wireless networking technologies to enable the monitoring and control of our environment to improve our life.
+Prerequisites:
+EE334 & EE344
+EE 395
+Computer Hardware and Organization
+3 credits
+High-level language constructs using a selected assembly language, design alternatives of computer processor datapath and control, memory hierarchy/management unit, use of HDL in describing and verifying combinational and sequential circuits. Design of computer processor and memory system.
+Prerequisites:
+EE 234, EE 235, EE 281
+EE 450
+Engineering Economics
+3 credits
+Overview of accounting and finance and their interactions with engineering. Lectures include the development and analysis of financial statements, time value of money, decision making tools, cost of capital, depreciation, project anaysis and payback, replacement analysis, and other engineering decision making tools.
+Prerequisites:
+Advanced standing in the program
+EE 467W
+Principles of Engineering Design III
+1-2 credits
+The design and organization of engineering projects. Project proposals, reporting, feasibility studies, and interpretation. Specification preparation, interpretation, and control. Issues involving creativity, project planning and control, and intellectual property rights. Students enrolled in this course must initiate and complete a design project in a small team format.
+Prerequisites:
+EE 332, EE 337, EE 341, EE 358. Select One Course: EE 333, EE 390. Select One Course: EE 334, EE 353. Select One Course: EE 350, EE 395
+EE 477W
+Principles of Engineering Design IV
+1-2 credits
+Completion of design projects and reports. Lectures on ethics, issues in contracting and liability, concurrent engineering, ergonomics and environmental issues, economics and manufacturability, reliability and product lifetimes. Lectures by faculty and practicing engineers.
+Prerequisites:
+EE 467 and Senior Standing
+EE 486
+Signal and Power Integrity
+3 credits
+This course covers the signal and power integrity design for high speed digital circuits and systems. Four types of design approaches at different levels are presented. They include the intuitive approach, the analytical analysis, the numerical simulation and the experimental-based methods. This course offers a framework for understanding the electrical properties of interconnects and materials that apply across the entire hierarchy from on-chip, through the packages, to circuit boards, connectors and cables.
+Prerequisites:
+EE 231. EE 341
+MATH 223
+Calculus III
+4 credits
+Surfaces, vector-valued functions, partial differentiation, multiple integration, and vector calculus.
+Prerequisites:
+MATH 122 with "C" (2.0) or better, or consent
+MATH 280
+Discrete Mathematics for Computer Science I
+4 credits
+This course is an introduction to mathematical concepts needed in computer science, including sets, relations and functions, propositional logic, proof techniques, recurrence relations, graphs and trees, and discrete probability. This course is not intended for students pursuing a degree in mathematics.
+Prerequisites:
+MATH 121 with "C" (2.0) or better or consent.
+ME 299
+Thermal Analysis
+2 credits
+Basic principles of thermodynamics, fluid mechanics, and heat transfer. First and second laws of thermodynamics and application to engineering systems and their design. Not for mechanical engineering major.
+Prerequisites:
+PHYS 221 with "C-" (1.67) or better
+PHYS 223
+General Physics III
+3 credits
+Designed for science and engineering students. Calculus-based physics. Covers fluids, thermodynamics, mechanical and sound waves, geometrical optics, physical optics, and modern physics. Lecture only. (Associated laboratory course is PHYS 233.) Pre: MATH 121 with a Cor better; and PHYS 221 with a C or better. MATH 122 must be completed before taking this course or taken concurrently. Spring
+Prerequisites:
+MATH 121 with a "C" or better; and PHYS 221 with a "C" or better
+Major Restricted Electives
+Choose 15 credits: choose EE 333 (3) and then choose additional 12 credits e.g. CIS 350, EE 481, EE 484, and EE 485; or choose EE 390 (4) and then choose additional 11 credits e.g. CIS 350, EE 470, and EE 489
+CIS 350
+Information Security
+4 credits
+Security concepts and mechanisms; security technologies; authentication mechanisms; mandatory and discretionary controls; cryptography and applications; threats; intrusion detection and prevention; regulations; vulnerability assessment; information assurance; forensics; anonymity and privacy issues; disaster recovery planning, legal issues and ethics.
+Prerequisites:
+EE 107 or CIS 121 or an approved substitute.
+EE 333
+Electronics II
+3 credits
+This second course of the electronics sequence presenting concepts of feedback, oscillators, filters, amplifiers, operational amplifiers, hysteresis, bi-stability, and non-linear functional circuits. MOS and bipolar digital electronic circuits, memory, electronic noise, and power switching devices will be studied.Spring
+Prerequisites:
+EE 332
+EE 353
+Communication Systems Engineering
+3 credits
+Signals and Systems, Fourier transforms, Parseval's theorem. Autocorrelation functions and spectral density functions. Information theory. Noise and noise figure, probability and statistics. Transformation of random variables, probability of error and bit error rate. Modulation and demodulation. Overview of analog, sampled analog and digital communication systems. Spread spectrum systems.
+Prerequisites:
+EE 341, MATH 223
+EE 453
+Advanced Communications Systems Engineering
+3 credits
+Behavior of analog systems and digital systems in the presence of noise, principles of digital data transmission, baseband digital modulation, baseband demondulation/detection, bandpass mondulation and demodulation of digital signals. Channel coding, modulation and coding trade-offs, spread spectrum techniques, probability and information theory.
+Prerequisites:
+EE 353 and EE 363
+EE 470
+Wireless Networking
+3 credits
+The features, data rate, frequency range, and operation of several wireless networking protocols such as Wi-Fi, Low Energy Bluetooth, Near Field Communication, Radio frequency Identifier (RFID), Threads, and ZigBee that can be used to implement Internet of Things (IoT) are introduced. The electrical, functional, and procedural specifications of Wi-Fi are then examined in detail. The programming and data transfer using the hardware Wi-Fi kit are carried out to demonstrate the versatility of this protocol.
+Prerequisites:
+none
+EE 471
+Advanced Control Systems
+3 credits
+This course is a continuation of EE 358. Techniques for the analysis of continuous and discrete systems are developed. These techniques include pole placement, state estimation, and optimal control.
+Prerequisites:
+EE 358 and EE 368
+EE 472
+Digital Signal Processing
+3 credits
+Develop design and analysis techniques for discrete signals and systems via Z-transforms, Discrete Fourier Transforms, implementation of FIR and IIR filters. The various concepts will be introduced by the use of general and special purpose hardware and software for digital signal processing.
+Prerequisites:
+EE 341
+EE 473
+Electrical Power Systems Analysis and Design
+3 credits
+Power generation, transmission and consumption concepts, electrical grid modeling, transmission line modeling, electric network power flow and stability, fault tolerance and fault recovery, economic dispatch, synchronous machines, renewable energy sources and grid interfacing.
+Prerequisites:
+EE 231 or via permission from instructor
+EE 474
+Power Electronics
+4 credits
+This course is designed to provide students with knowledge of the design and analysis of static power conversion and control systems. The course will cover the electrical characteristics and properties of power semiconductor switching devices, converter power circuit topologies, and the control techniques used in the applications of power electronic systems. Laboratories consist of computer-based modeling and simulation exercises, as well as hands-on laboratory experiments on basic converter circuits and control schemes.
+Prerequisites:
+EE 333
+EE 475
+Integrated Circuit Engineering
+3 credits
+Introduction to theory and techniques of integrated circuit fabrication processes, oxidation, photolithography, etching, diffusion of impurities, ion implantation, epitaxy, metallization, material characterization techniques, and VLSI process integration, their design and simulation by SUPREM.
+Prerequisites:
+EE 303 and EE 332
+EE 476
+Antennas, Propagation, & Microwave Engineering
+3 credits
+Principles of electromagnetic radiation, antenna parameters, dipoles, antenna arrays, long wire antennas, microwave antennas, mechanisms of radiowave propagation, scattering by rain, sea water propagation, guided wave propagation, periodic structures, transmission lines, microwave/millimeter wave amplifiers and oscillators, MIC & MMIC technology.
+Prerequisites:
+EE 350
+EE 479
+Superconductive Devices
+3 credits
+Magnetic and superconducting properties of materials, microscopic theory of superconductivity and tunneling phenomenon. Josephson and SQUID devices, survey of computer memories, memory cell and shift register, A/D converters and microwave amplifiers. Integrated circuit technology and high temperature superconductors.
+Prerequisites:
+EE 303
+EE 480
+Integrated Circuit Fabrication Lab
+1 credits
+Introduction to integrated circuit fabrication processes, device layout, mask design, and experiments related to wafer cleaning, etching, thermal oxidation, thermal diffusion, photolithography, and metallization. Fabrication of basic integrated circuit elements pn junction, resistors, MOS capacitors, BJT and MOSFET in integrated form. Use of analytic tools for in process characterization and simulation of the fabrication process by SUPREM.
+Prerequisites:
+Concurrent with EE 475
+EE 481
+VLSI Design Laboratory
+1 credits
+This laboratory accompanies EE 484. The laboratory covers the basics of layout rules, chip floor planning, the structure of standard cells and hierarchical design, parasitic elements, routing, and loading. Students will learn to design and layout standard cells as well as how to use these cells to produce complex circuits. The laboratory culminates with the individual design and layout of a circuit.
+Prerequisites:
+Concurrent with EE 484
+EE 484
+VLSI Design
+3 credits
+The basics of digital VLSI technology. Bipolar and MOS modeling for digital circuits. Physical transistor layout structure and IC process flow and design rules. Custom CMOS/BICMOS static and dynamic logic styles, design and analysis. Clock generation, acquisition, and synchronization procedures. Special purpose digital structures including memory, Schmitt triggers, and oscillators. Individual design projects assigned.
+Prerequisites:
+EE 333
+EE 485
+ASIC Design
+4 credits
+This course focuses on CMOS Application Specific Integrated Circuit (ASIC) design of Very Large Scale Integration (VLSI) systems. The student will gain an understanding of issues and tools related to ASIC design and implementation. The coverage will include ASIC physical design flow, including logic synthesis, timing, floor-planning, placement, clock tree synthesis, routing and verification. An emphasis will be placed on low power optimization. The focus in this course will be Register-transfer level (RTL) abstraction using industry-standard VHDL/Verilog tools.
+Prerequisites:
+EE 484
+EE 487
+RF Systems Engineering
+3 credits
+Overview of wireless communication and control systems. Characterization and measurements of two-port RF/IF networks. Transmission lines. Smith chart. Scattering parameters. Antenna-preselector-preamplifier interface. Radio wave propagation. Fading. RF transistor amplifiers, oscillators, and mixer/modulator circuits. Multiple access techniques. Transmitter/receiver design considerations. SAW matched filters.
+Prerequisites:
+EE 353 and EE 363
+EE 489
+Real-time Embedded Systems
+4 credits
+This course introduces students the recent advances in real-time embedded systems design. Topics cover real-time scheduling approaches such as clock-driven scheduling and static and dynamic priority driven scheduling, resource handling, timing analysis, inter-task communication and synchronization, real-time operating systems (RTOS), hard and soft real-time systems, distributed real-time systems, concepts and software tools involved in the modeling, design, analysis and verification of real-time systems.
+Prerequisites:
+EE 107, EE 334, EE 395
+ME 213
+Statics and Dynamics for Electrical Engineers
+3 credits
+This course consists of two components:1) StaticsIntroduction to resultants of force systems, equilibrium, analysis of forces acting on structural and machine elements, friction, second moments.2) DynamicsIntroduction to kinematics and kinetics of particles, systems of particles and rigid bodies, work-energy.
+Prerequisites:
+none
+Other Graduation Requirements
+* Choose a minimum of six (6) credits from Humanities.
+* Choose six (6) credits from Social Sciences. ECON 201 or ECON 202 will count toward the Social Sciences requirement.
+* For a complete listing of approved Humanities and Social Science courses, please consult the department website. In general, graduation credit toward the Humanities requirement is not allowed for any course in subject areas such as communication studies, writing, art, music, or theatre that involve performance or practice of basic skills.
+* At least three (3) credits of the courses selected to complete the above requirements must be 300-level or above. At least one 300-level course must follow a lower level course in the same subject area.
+Analysis/Probability and Statistics
+- Choose 3 Credit(s).
+MATH 354
+Concepts of Probability & Statistics
+4 credits
+A calculus based introduction to probability and statistics. Topics include probability, random variables, probability distributions (discrete and continuous), joint probability distributions (discrete and continuous), statistical inference (both estimation and hypothesis testing), confidence intervals for distribution of parameters and their functions, sample size determinations, analysis of variance, regression, and correlation. This course meets the needs of the practitioner and the person who plans further study in statistics. Same as MATH 354. Fall, Spring, Summer
+Prerequisites:
+MATH 122 with "C" (2.0) or better or consent
+ME 291
+Engineering Analysis
+3 credits
+Probability and statistics. Uncertainty, distributions. Numerical solution of algebraic, transcendental and differential equations. Numerical integration and differentiation. Structured programming language required.
+Prerequisites:
+MATH 122, PHYS 221. Select one from EE 107, CIVE 201, ME 201
+Minor
+No required minor.
+Degree Plan
+First Year
+Fall
+- 15 Credits
+ENG 101
+Foundations of Writing & Rhetoric
+4 credits
+Students in this course approach writing as a subject of study by investigating how writing works across a variety of contexts.
+Prerequisites:
+none
+Goal Areas: GE-1A
+EE 105
+Introduction to Electrical and Computer Engineering and Technology
+1 credits
+To prepare students for engineering and technology education and profession through interactions with upper-class students, graduate students and practitioners from academia and industry; to prepare students for a career in electrical and computer engineering and technology.
+Prerequisites:
+none
+EE 106
+Fundamental Digital System Design for Electrical and Computer Engineers
+3 credits
+This introductory course covers digital systems topics including binary numbers, logic gates, Boolean algebra, circuit simplification using Karnaugh maps, flip-flops, counters, shift registers and arithmetic circuits. Problem solving methods, study skills and professional development will be addressed throughout the course.
+Prerequisites:
+MATH 112
+MATH 121
+Calculus I
+4 credits
+Limits, continuity, the derivative and applications, transcendental functions, L'Hopital's Rule, and development of the Riemann integral.
+Prerequisites:
+Satisfy Placement Table in this section, MATH 115 or both MATH 112 and MATH 113 with "C" (2.0) or better.
+Goal Areas: GE-04
+Spring
+- 15 Credits
+EE 107
+Intro to Electrical and Computer Engineering Through Software Development
+3 credits
+his course presents algorithmic approaches to problem solving and computer program design using the C language. Students will explore Boolean expressions, implement programs using control structures, modular code and file input/output, and interface with external hardware using robots and sensors.
+Prerequisites:
+none
+MATH 122
+Calculus II
+4 credits
+Techniques of integration, applications of integration, improper integrals, numerical integration, the calculus of parametric curves, and infinite series and sequences.
+Prerequisites:
+MATH 121 with "C" (2.0) or better or consent
+PHYS 221
+General Physics I
+4 credits
+Designed for science and engineering students. Calculus-based physics. Covers elementary mechanics including kinematics, statics, equilibrium and dynamics of particles, work and energy, rotational motion, gravitation, and oscillation. Lecture and Laboratory. MATH 121 must be completed with a C or better prior to taking this course or must be taken concurrently. High school physics or PHYS 101 is also strongly encouraged. Fall, Spring
+Prerequisites:
+none
+Goal Areas: GE-02, GE-03
+ENG 271W
+Technical Communication
+4 credits
+Introduction to learning the written and oral communication of technical information. Assignments include writing and presenting proposals, reports, and documentation. Emphasis on use of rhetorical analysis, computer applications, collaborative writing, and usability testing to complete technical communication tasks in the workplace.
+Prerequisites:
+ENG 101
+Goal Areas: GE-02, GE-13
+Second Year
+Fall
+- 16 Credits
+PHYS 222
+General Physics II
+3 credits
+Designed for science and engineering students. Calculus-based physics. Covers electrical charge and field; magnetic field and its sources; current and resistance; simple DC and AC circuits; and electromagnetic induction. Lecture only. (Associated laboratory course is PHYS 232.) MATH 121 must be completed with a C or better prior to taking this course. MATH 122 must be completed before taking this course or taken concurrently. Fall, Spring
+Prerequisites:
+MATH 121 with a "C" or better; PHYS 221 with a "C" or better.
+EE 230
+Circuit Analysis I
+3 credits
+This course is meant to develop Electrical Engineering Circuit Analysis skills in DC and AC circuits. It includes circuit laws and theorems, mesh and node analysis. Natural and step response of RL, RC, and RLC circuits.
+Prerequisites:
+PHYS 222 or concurrent, MATH 321 or concurrent
+PHYS 232
+General Physics II Laboratory
+1 credits
+Designed for science and engineering students. Laboratory course accompanying PHYS 222. Experiments involving electric and magnetic fields, electric potential, electric and magnetic forces, and simple circuits. Laboratory only. Prereq: PHYS 221 with a C or better; and PHYS 222 or concurrent. Fall, Spring
+Prerequisites:
+PHYS 221 with a "C" or better; and PHYS 222 or concurrent.
+EE 240
+Evaluation of Circuits
+1 credits
+Laboratory support for EE 230. Use of laboratory instrumentation to measure currents and voltages associated with DC and AC circuits. Statistical analysis of measurement data. Measurements of series, parallel and series-parallel DC and AC circuits. Measurement of properties for circuits using operational amplifiers. Measurement of transient responses for R-L and R-C circuits. Simulation of DC and AC circuits using PSPICE. Concepts covered in EE 230 will be verified in the laboratory. Pre-req: Must be taken concurrently with EE 230.
+Prerequisites:
+Must be taken concurrently with EE 230.
+EE 281
+Digital System Design with Testability
+3 credits
+Introduction to representing digital hardware using a hardware description language. Introduction to implementation technologies such as PAL's, PLA's, FPGA's and Memories. Analysis, synthesis and design of sequential machines; synchronous, pulse mode, asynchronous and incompletely specified logic.
+Prerequisites:
+EE 106, EE 107
+EE 282
+Digital System Design with Testability Lab
+1 credits
+Laboratory support for EE 282 practical aspects of design and analysis of different types of sequential machines will be presented through laboratory experience.
+Prerequisites:
+none
+MATH 321
+Ordinary Differential Equations
+4 credits
+This course presents the theory, computations, and applications of first and second order differential equations and two-dimensional systems.
+Prerequisites:
+MATH 122 with "C" (2.0) or better or consent
+Spring
+- 18 Credits
+MATH 223
+Calculus III
+4 credits
+Surfaces, vector-valued functions, partial differentiation, multiple integration, and vector calculus.
+Prerequisites:
+MATH 122 with "C" (2.0) or better, or consent
+EE 231
+Circuit Analysis II
+3 credits
+Continuation of Circuit Analysis I to include special topics in circuit analysis.
+Prerequisites:
+EE 230 and EE 240, MATH 321, PHYS 222
+EE 234
+Microprocessor Engineering I
+3 credits
+A course that teaches how to write computer assembly language programs, make subroutine calls, perform I/O operations, handle interrupts and resets, interface with a wide variety of peripheral chips to meet the requirements of applications.
+Prerequisites:
+EE 107 or EET 142
+EE 235
+Microprocessor Engineering Laboratory I
+1 credits
+Use of development boards and assembly language programming to handle interrupts, interface with parallel I/O ports, memory, and timers. Experiments will involve signal and frequency measurements, data conversions, and interface design. EE 234 must be completed before taking this course or taken concurrently. If you would like to take it concurrently, please contact the instructor for permission.
+Prerequisites:
+EE 234
+Third Year
+Fall
+- 15 Credits
+EE 332
+Electronics I
+3 credits
+Introduction to discrete and microelectronics circuits including analog and digital electronics. Device characteristics including diodes, BJTs, JFETs, and MOSFETs will be studied. DC bias circuits, small and large signal SPICE modeling and analysis and amplifier design and analysis will be discussed.
+Prerequisites:
+EE 231
+EE 334
+Microprocessor Engineering II
+3 credits
+A more advanced study of microprocessors and microcontrollers in embedded system design. Use of C language in programming, interrupt interfaces such as SPI, I2C, and CAN. External memory design and on-chip program memory protection are also studied.
+Prerequisites:
+none
+EE 336
+Principles of Engineering Design I
+1 credits
+Electrical and computer engineering project and program management and evaluation techniques will be studied. Emphasis will be placed on the use of appropriate tools for planning, evaluation, and reporting on electrical and computer engineering projects.Prereq: Junior Standing and Admission into the Electrical or Computer Engineering program.
+Prerequisites:
+Junior Standing
+EE 341
+Signals & Systems
+3 credits
+Analysis of linear systems and signals in the time and frequency domain. Laplace and Fourier transforms. Z-transform and discrete Fourier transforms.
+Prerequisites:
+EE 230. MATH 321 and PHYS 222
+EE 342
+Electronics Laboratory
+1 credits
+This lab is designed to accompany EE 332. The lab covers the experimental measurement and evaluation of diode, BJT, and MOS characteristics; various feedback topologies; oscillator and op-amp circuits; and rectifiers and filter circuitry.
+Prerequisites:
+EE 231 and EE 332 taken concurrently.
+EE 344
+Microprocessor II Laboratory
+1 credits
+Laboratory support for EE 334. Use of development boards and C programming language to handle I/O devices, interrupts, and all peripheral functions. Multiple functions such as timers, A/D converters, I/O devices, interrupts, and serial modules will be used together to perform desired operations.
+Prerequisites:
+Concurrent with EE 334
+EE 395
+Computer Hardware and Organization
+3 credits
+High-level language constructs using a selected assembly language, design alternatives of computer processor datapath and control, memory hierarchy/management unit, use of HDL in describing and verifying combinational and sequential circuits. Design of computer processor and memory system.
+Prerequisites:
+EE 234, EE 235, EE 281
+Spring
+- 16 Credits
+MATH 280
+Discrete Mathematics for Computer Science I
+4 credits
+This course is an introduction to mathematical concepts needed in computer science, including sets, relations and functions, propositional logic, proof techniques, recurrence relations, graphs and trees, and discrete probability. This course is not intended for students pursuing a degree in mathematics.
+Prerequisites:
+MATH 121 with "C" (2.0) or better or consent.
+EE 333
+Electronics II
+3 credits
+This second course of the electronics sequence presenting concepts of feedback, oscillators, filters, amplifiers, operational amplifiers, hysteresis, bi-stability, and non-linear functional circuits. MOS and bipolar digital electronic circuits, memory, electronic noise, and power switching devices will be studied.Spring
+Prerequisites:
+EE 332
+EE 337
+Principles of Engineering Design II
+1 credits
+Application of the design techniques in the engineering profession. Electrical engineering project and program management and evaluation including computer assisted tools for planning and reporting, design-to-specification techniques and economic constraints.
+Prerequisites:
+EE 336
+EE 343
+Electronics II Laboratory
+1 credits
+This course will accompany EE 333 course dealing with laboratory experience of designing, evaluating and simulation of source and emitter coupled logic circuits, output stages and power amplifiers, negative feedback amplifiers, oscillator circuits, Multivibrators, Schmidt Trigger, 555 timer application to Multivibrators, Memory circuits, CMOS logic circuits, signal generating and waveform shaping circuits.
+Prerequisites:
+EE 332, EE 333
+EE 358
+Control Systems
+3 credits
+Theory and principles of linear feedback control systems. Analysis of linear control systems using conventional techniques like block diagrams, Bode plots, Nyquist plots and root-locus plots. Introduction to cascade compensation: proportional, derivative and integral compensation. State space models.
+Prerequisites:
+EE 341
+EE 368
+Control Systems Laboratory
+1 credits
+Laboratory support for EE 358. Experimental evaluation of basic control system concepts including transient response and steady state performance. Analog and digital computers.
+Prerequisites:
+EE 341 and concurrent with EE 358
+Fourth Year
+Fall
+- 17 Credits
+EE 450
+Engineering Economics
+3 credits
+Overview of accounting and finance and their interactions with engineering. Lectures include the development and analysis of financial statements, time value of money, decision making tools, cost of capital, depreciation, project anaysis and payback, replacement analysis, and other engineering decision making tools.
+Prerequisites:
+Advanced standing in the program
+EE 481
+VLSI Design Laboratory
+1 credits
+This laboratory accompanies EE 484. The laboratory covers the basics of layout rules, chip floor planning, the structure of standard cells and hierarchical design, parasitic elements, routing, and loading. Students will learn to design and layout standard cells as well as how to use these cells to produce complex circuits. The laboratory culminates with the individual design and layout of a circuit.
+Prerequisites:
+Concurrent with EE 484
+EE 484
+VLSI Design
+3 credits
+The basics of digital VLSI technology. Bipolar and MOS modeling for digital circuits. Physical transistor layout structure and IC process flow and design rules. Custom CMOS/BICMOS static and dynamic logic styles, design and analysis. Clock generation, acquisition, and synchronization procedures. Special purpose digital structures including memory, Schmitt triggers, and oscillators. Individual design projects assigned.
+Prerequisites:
+EE 333
+EE 486
+Signal and Power Integrity
+3 credits
+This course covers the signal and power integrity design for high speed digital circuits and systems. Four types of design approaches at different levels are presented. They include the intuitive approach, the analytical analysis, the numerical simulation and the experimental-based methods. This course offers a framework for understanding the electrical properties of interconnects and materials that apply across the entire hierarchy from on-chip, through the packages, to circuit boards, connectors and cables.
+Prerequisites:
+EE 231. EE 341
+EE 467W
+Principles of Engineering Design III
+1 credits
+The design and organization of engineering projects. Project proposals, reporting, feasibility studies, and interpretation. Specification preparation, interpretation, and control. Issues involving creativity, project planning and control, and intellectual property rights. Students enrolled in this course must initiate and complete a design project in a small team format.
+Prerequisites:
+none
+Spring
+- 16 Credits
+PHYS 223
+General Physics III
+3 credits
+Designed for science and engineering students. Calculus-based physics. Covers fluids, thermodynamics, mechanical and sound waves, geometrical optics, physical optics, and modern physics. Lecture only. (Associated laboratory course is PHYS 233.) Pre: MATH 121 with a Cor better; and PHYS 221 with a C or better. MATH 122 must be completed before taking this course or taken concurrently. Spring
+Prerequisites:
+MATH 121 with a "C" or better; and PHYS 221 with a "C" or better
+ME 299
+Thermal Analysis
+2 credits
+Basic principles of thermodynamics, fluid mechanics, and heat transfer. First and second laws of thermodynamics and application to engineering systems and their design. Not for mechanical engineering major.
+Prerequisites:
+PHYS 221 with "C-" (1.67) or better
+EE 485
+ASIC Design
+4 credits
+This course focuses on CMOS Application Specific Integrated Circuit (ASIC) design of Very Large Scale Integration (VLSI) systems. The student will gain an understanding of issues and tools related to ASIC design and implementation. The coverage will include ASIC physical design flow, including logic synthesis, timing, floor-planning, placement, clock tree synthesis, routing and verification. An emphasis will be placed on low power optimization. The focus in this course will be Register-transfer level (RTL) abstraction using industry-standard VHDL/Verilog tools.
+Prerequisites:
+EE 484
+EE 477W
+Principles of Engineering Design IV
+1 credits
+Completion of design projects and reports. Lectures on ethics, issues in contracting and liability, concurrent engineering, ergonomics and environmental issues, economics and manufacturability, reliability and product lifetimes. Lectures by faculty and practicing engineers.
+Prerequisites:
+noneInitial deposit: N/A
+
+
+Application Fee for Undergraduate: $ 20
+Application Fee for Postgraduate: $ 40
+
+
+Annual Fee for Undergraduate: $ 18,812
+Annual Fee for Postgraduate: $ 14,918
+
+
+English Language Requirements Undergraduate only:
+TOEFL iBT (internet-based test) score of 61 or better
+Pearson Test of English (PTE) score of 47 or better
+IELTS academic test score of 5.5 or better
+
+
+English Language Requirements Postgraduate only:
+Different for every course and given in course content 
+
+
+Entry Requirements Undergraduate only:
+A cumulative high school GPA of 3.0 or higher or A rank in the top 50% of your high school class or An ACT composite score of 21 or higher and a minimum cumulative high school GPA of 2.7. If you do not meet the above admission requirements, you can submit additional information to consider when reviewing your application.
+
+
+Entry Requirements Postgraduate only:
+Applicants must possess the equivalent of a U.S. Bachelor's degree to be considered for graduate programs at Minnesota State Mankato. The degree must be earned at an institution recognized and approved to award the degree. GRE (Graduate Record Examination) is required by some academic programs.
+
+English Language requirements of graduate programs is different for each course. Graduate programs only have IELTS and TOEFL test scores.
+For Graduate Entry Requirements, some requirements like GPA, Score are mentioned on the course page so add them too.

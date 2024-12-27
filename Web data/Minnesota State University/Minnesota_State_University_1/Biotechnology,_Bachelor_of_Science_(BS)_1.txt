@@ -1,0 +1,223 @@
+Link: https://cset.mnsu.edu/academic-programs/biotechnology/biotechnology-bachelor-of-science-bs2/
+
+College of Science, Engineering & Technology
+Academic Programs
+Biotechnology
+Biotechnology, Bachelor of Science (BS)
+Biotechnology Section
+Biotechnology
+Biotechnology, Bachelor of Science (BS)
+Biotechnology (BS)
+Current Catalog Year
+2024-2025
+Degree
+Bachelor of Science
+Major /                                         Total Credits
+70 / 120
+Locations
+Mankato
+Apply
+Program Requirements
+Program
+                                    Requirements
+Required General Education
+CHEM 201
+General Chemistry I
+5 credits
+Introduction to the basic principles of chemistry including atomic and molecular structure, bonding, chemical reactions, stoichiometry, thermodynamics and states of matter. Laboratory will reinforce lecture concepts. Prereq: C or higher in MATH 112 or the equivalent; high school chemistry or C or higher in CHEM 104
+Prerequisites:
+"C" (2.0) or higher in MATH 112 or the equivalent; high school chemistry or "C" (2.0) or higher in CHEM 104.
+Goal Areas: GE-02, GE-03
+MATH 121
+Calculus I
+4 credits
+Limits, continuity, the derivative and applications, transcendental functions, L'Hopital's Rule, and development of the Riemann integral.
+Prerequisites:
+Satisfy Placement Table in this section, MATH 115 or both MATH 112 and MATH 113 with "C" (2.0) or better.
+Goal Areas: GE-04
+PHYS 211
+Principles of Physics I
+4 credits
+General background in physical concepts for those who do not plan advanced study in physics or engineering. Topics include mechanics, fluids, heat and thermodynamics. Lecture and laboratory.
+Prerequisites:
+Either MATH 112 and MATH 113, or MATH 115
+Goal Areas: GE-02, GE-03
+Prerequisites to the Major
+BIOL 105
+General Biology I
+4 credits
+Study of biological processes at the suborganismal level including cell chemistry, metabolism, reproduction, genetics, and complex tissue physiology. Laboratory and discussion sessions stress problem solving and experimental design.
+Prerequisites:
+none
+Goal Areas: GE-03
+BIOL 106
+General Biology II
+4 credits
+Study of biological processes at the organismal level including a survey of life forms (viruses, bacteria, protists, fungi, plants, and animals), their evolution, and ecology. Laboratory and discussion sessions stress problem solving and experimental design.
+Prerequisites:
+none
+BIOL 211
+Genetics
+4 credits
+Introduction to genetic analysis. Topics covered will include those of both classical and modern genetics: population genetics, molecular genetics, genetic manipulation of organisms and selection. Central to this course will be the primacy of the trait as the object of genetics and the development/refinement of the concept of the gene. Lab included.Fall, Spring, Summer
+Prerequisites:
+BIOL 105, BIOL 106, and MATH 112
+Major Common Core
+BIOL 270
+Microbiology
+4 credits
+An introduction to the general principles and methods used in the study of microorganisms. Lab included. Prereq: One BIOL course and one semester of chemistry from among CHEM 104, CHEM 106, CHEM 111, or CHEM 201. Fall, Spring, Summer
+Prerequisites:
+One BIOL course and one semester of chemistry from among CHEM 104, CHEM 106, CHEM 111, or CHEM 201
+Goal Areas: GE-03
+BIOL 320
+Cell Biology
+4 credits
+An examination of eukaryotic cellular structure, organization and physiology. Lab included.
+Prerequisites:
+BIOL 105 and BIOL 106, BIOL 211
+BIOL 452
+Biological Instrumentation
+3 credits
+The principle and operation of instruments and their application to biological research. Types of instrumentation examined include spectroscopic, chromatographic, electroanalytic, radiographic, and imaging. Laboratory Information Management systems (LIMS) will also be examined. Emphasis is placed on GLP, GMP, and ISO 9000 practices.
+Prerequisites:
+BIOL 105, BIOL 106, or consent
+BIOL 453
+Biological Engineering Analysis I
+4 credits
+The application of engineering principles and skills as applied to fermentation and to biological product recovery. Prereq: BIOL 270 and one semester each of calculus, physics, and organic chemistry, taken concurrently with BIOL 456.
+Prerequisites:
+BIOL 270 and one semester each of calculus, physics, and organic chemistry, taken concurrently with BIOL 456.
+BIOL 454
+Biological Engineering Analysis II
+4 credits
+Continuation of Biological Engineering Analysis I. The application of engineering principles and skills as applied to fermentation and to biological product recovery. Prereq: BIOL 453, taken concurrently with BIOL 457.
+Prerequisites:
+BIOL 453, taken currently with BIOL 457
+BIOL 474
+Immunology
+4 credits
+Fundamental principles of humoral and cell mediated immunity and the application of these principles. Current experimental work in the different areas of immunology will be discussed. Lab included.
+Prerequisites:
+BIOL 105, BIOL 106, and BIOL 270
+BIOL 476
+Microbial Physiology and Genetics
+5 credits
+This course presents the physiology and genetics of microorganisms emphasizing those aspects unique to bacteria and archea. Topics include: energy production; biosynthesis of small molecules and DNA, RNA, and proteins; the formation of cell walls and membranes; microbial differentiation and behavior; and the genetic and biochemical regulation of these processes. Lab included.
+Prerequisites:
+BIOL 105, BIOL 106, BIOL 270
+BIOL 479
+Molecular Biology
+4 credits
+This course will cover both eukaryotic and prokaryotic molecular biology including: DNA and RNA structure, transcription, regulation of gene expression, RNA processing, protein synthesis, DNA replication, mutagenesis and repair, recombination, and insertion elements. A number of important techniques used in recombinant DNA technology will be discussed and practiced.
+Prerequisites:
+BIOL 105, BIOL 106, BIOL 211
+CHEM 202
+General Chemistry II
+5 credits
+Continuation of the basic principles of chemistry including properties of solutions, kinetics, acids and bases, equilibria, buffers, precipitation reactions, electron transfer reactions, electrochemistry, entropy and free energy. Laboratory will reinforce lecture concepts.
+Prerequisites:
+"C" (2.0) or higher in CHEM 201
+CHEM 322
+Organic Chemistry I
+4 credits
+Introduction to organic nomenclature, structure, bonding, chemical reactivity, organic acid-base reactions, mechanisms and stereochemistry. IR, MS, and NMR spectroscopy will be introduced. The chemistry of alkanes, alkyl halides, alkenes, alkynes, and alcohols will be covered. Laboratory illustrates synthetic techniques and the preparation and reactions of functional groups discussed during lecture.
+Prerequisites:
+CHEM 202, "C" (2.0) or higher in CHEM 202.
+CHEM 360
+Principles of Biochemistry
+4 credits
+Analysis of the structure and metabolism of biologically important compounds. This intermediate-level course is designed for students in the medical technology, food science, chemistry education, chemistry and pre-professional health majors. The laboratory teaches basic biochemical techniques.
+Prerequisites:
+CHEM 322. CHEM 324 is strongly recommended.
+PHYS 212
+Principles of Physics II
+4 credits
+Includes waves and sound, electricity and magnetism, light and optics, and topics in modern physics. Lecture and laboratory.
+Prerequisites:
+PHYS 211
+Major Restricted Electives
+For those students planning on graduate or professional school, Chemistry 305 Analytical Chemistry and Math 122 Calculus 2 are strongly recommended.
+BIOL 451 Agroecology is strongly recommended for a student who plans to work in the agricultural biotechnology.
+Add'l Math/Statistics
+- Choose 3 - 4 Credit(s).
+HLTH 475
+Biostatistics
+3 credits
+Introduction to statistical analysis as applied to the health sciences. Examines concepts and methods of statistical procedures applied to health problems and issues.
+Prerequisites:
+MATH 110, STAT 154, Or any other mathematics course higher than MATH 110.
+MATH 122
+Calculus II
+4 credits
+Techniques of integration, applications of integration, improper integrals, numerical integration, the calculus of parametric curves, and infinite series and sequences.
+Prerequisites:
+MATH 121 with "C" (2.0) or better or consent
+STAT 154
+Elementary Statistics
+4 credits
+An introduction to statistical concepts and methods that is applicable to all disciplines. Topics include descriptive measures of data, probability and probability distributions, statistical inference, tests of hypotheses, confidence intervals, correlation, linear regression, and analysis of variance. The use of statistical software will be emphasized. Prereq: ACT Math sub-score of 19 or higher, successful completion of MATH 098 or appropriate placement scores (see Placement Information under Statistics) Fall, Spring, Summer GE-4
+Prerequisites:
+Satisfy Placement Table in this section, or MATH 098 with grade of P.
+Goal Areas: GE-02, GE-04
+Capstone Experience
+- Choose 6 Credit(s). Choose in consultation with your advisor.
+BIOL 456
+Biotechnology Project/Laboratory I
+3 credits
+Practical laboratory experience in biotechnology through the selection and development of a research project. Students are expected to spend an average of 12 hours per week on the project. Prereq: Concurrent enrollment in BIOL 453
+Prerequisites:
+Concurrent enrollment in BIOL 453
+BIOL 457
+Biotechnology Project/Laboratory II
+3 credits
+Continuation of Biotechnology Project/Laboratory I. Practical laboratory experience in biotechnology through the selection and development of a research project. Students are expected to spend an average of 12 hours per week on the project. Prereq: BIOL 456, taken concurrently with BIOL 454
+Prerequisites:
+BIOL 456, taken concurrently with BIOL 454
+BIOL 497
+Internship I
+1-12 credits
+Experience in applied biology according to a prearranged training program for a minimum of five 40-hour weeks.
+Prerequisites:
+Consent
+BIOL 498
+Internship II
+1-12 credits
+Experience in applied biology according to a prearranged training program for a minimum of five 40 hour weeks. Only four credits can be applied to the major.
+Prerequisites:
+Consent
+BIOL 499
+Individual Study
+1-4 credits
+Individual Study
+Prerequisites:
+noneInitial deposit: N/A
+
+
+Application Fee for Undergraduate: $ 20
+Application Fee for Postgraduate: $ 40
+
+
+Annual Fee for Undergraduate: $ 18,812
+Annual Fee for Postgraduate: $ 14,918
+
+
+English Language Requirements Undergraduate only:
+TOEFL iBT (internet-based test) score of 61 or better
+Pearson Test of English (PTE) score of 47 or better
+IELTS academic test score of 5.5 or better
+
+
+English Language Requirements Postgraduate only:
+Different for every course and given in course content 
+
+
+Entry Requirements Undergraduate only:
+A cumulative high school GPA of 3.0 or higher or A rank in the top 50% of your high school class or An ACT composite score of 21 or higher and a minimum cumulative high school GPA of 2.7. If you do not meet the above admission requirements, you can submit additional information to consider when reviewing your application.
+
+
+Entry Requirements Postgraduate only:
+Applicants must possess the equivalent of a U.S. Bachelor's degree to be considered for graduate programs at Minnesota State Mankato. The degree must be earned at an institution recognized and approved to award the degree. GRE (Graduate Record Examination) is required by some academic programs.
+
+English Language requirements of graduate programs is different for each course. Graduate programs only have IELTS and TOEFL test scores.
+For Graduate Entry Requirements, some requirements like GPA, Score are mentioned on the course page so add them too.

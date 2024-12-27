@@ -1,0 +1,170 @@
+Link: https://unipi.coursecatalogue.cineca.it/corsi/2024/10540
+
+contenuto principale
+[WVT-LM] INGEGNERIA DEI VEICOLI
+Laurea Magistrale
+Info
+Piani di studio
+Informazioni generali
+Durata
+2 anni
+Ordinamento
+2010
+stato
+Aperto
+Crediti
+120 CFU
+Lingua
+Italiano
+Classe di laurea
+LM-33 - Classe delle lauree magistrali in Ingegneria meccanica
+Accesso
+Libero
+Dipartimento
+DIPARTIMENTO DI INGEGNERIA CIVILE E INDUSTRIALE (
+Principale
+)
+DIPARTIMENTO DI INGEGNERIA DELL'ENERGIA, DEI SISTEMI, DEL TERRITORIO E DELLE COSTRUZIONI
+Sito web
+http://www.veicoli.ing.unipi.it/
+Verifica conoscenze richieste per l'accesso
+No
+Requisiti di accesso
+Conoscenze richieste per l´accesso
+L'ammissione alla LM viene decisa dal consiglio di CdS, su proposta della Commissione Istruttoria di Valutazione (CIV), nominata appositamente con Delibera n. 11 del 13/11/2014, che esamina le domande di ammissione e valuta il possesso di entrambi i requisiti curriculari e di preparazione personale dello studente.
+E' richiesto, inoltre, il possesso di una conoscenza della lingua Inglese di livello non inferiore al B2 del Quadro Comune Europeo di riferimento per le Lingue. Le conoscenze di cui sopra sono soggette a verifica; potranno essere dispensati dalla verifica gli studenti che esibiscano una certificazione idonea.
+I requisiti curriculari e l'adeguatezza della personale preparazione per l'accesso al Corso di Laurea Magistrale, ai sensi dell'art. 6, c. 2, del D. M. 270/2004, vengono stabiliti in base ai criteri di seguito illustrati.
+REQUISITI CURRICULARI
+Di norma è requisito curriculare generale per l'accesso a tutte le LM della Scuola di Ingegneria di Pisa il possesso della Laurea in Ingegneria. Nel caso di possesso di altre lauree è possibile il verificarsi di situazioni di affinità fra percorsi didattici dell'Ingegneria e quelli di altre Scuole, soprattutto nel caso di titoli di studio validi conseguiti all'estero in generale e nei Paesi UE in particolare. Per tali casi sarà possibile la deroga a tale requisito generale solo attraverso specifica deliberazione del consiglio di corso di studio e della Scuola, basata sulla precisa definizione dei contenuti e del percorso formativo dell'allievo, in modo che siano garantiti gli obiettivi qualificanti della classe di LM ed il profilo professionale previsto dall'ordinamento e dal regolamento del Corso.
+In generale, il possesso dei requisiti curriculari viene verificato tramite il prospetto seguente indicante i requisiti minimi richiesti nei tre gruppi in cui sono stati divise le discipline di base.
+GRUPPO 1 - almeno 27 CFU
+MAT/02 Algebra, MAT/03 Geometria, MAT/05 Analisi matematica, MAT/06 Probabilità e statistica matematica, MAT/07 Fisica matematica, MAT/08 Analisi numerica, MAT/09 Ricerca operativa, INF/01 Informatica, ING-INF/05 Sistemi di elaborazione delle informazioni.
+GRUPPO 2 - almeno 15 CFU
+CHIM/03 Chimica generale e inorganica, CHIM/07 Fondamenti chimici delletecnologie, FIS/01 Fisica sperimentale, FIS/03 Fisica della materia.
+GRUPPO 3 - almeno 72 CFU
+ING-IND/03 Meccanica del volo, ING-IND/04 Costruzioni e strutture aerospaziali, ING-IND/05 Impianti e sistemi aerospaziali, ING-IND/06 Fluidodinamica, ING-IND/07 Propulsione aerospaziale, ING-IND/08 Macchine a fluido, ING-IND/09 Sistemi per l'energia e l'ambiente, ING-IND/10 Fisica tecnica industriale, ING-IND/11 Fisica tecnica ambientale, ING-IND/13 Meccanica applicata alle macchine, ING-IND/14 Progettazione meccanica e costruzione di macchine, ING-IND/15 Disegno e metodi dell'ingegneria industriale, ING-IND/16 Tecnologie e sistemi di lavorazione, ING-IND/17 Impianti industriali meccanici, ING-IND/31 Elettrotecnica, ING-IND/32 Convertitori, macchine e azionamenti elettrici, ING-IND/33 Sistemi elettrici per l'energia, ING-INF/04 Automatica.
+In caso di candidato con titolo acquisito all'estero, la CIV valuterà i requisiti curriculari sulla base della durata temporale dei singoli insegnamenti, delle tabelle di conversione tra ECTS e CFU eventualmente disponibili e dei programmi dei relativi esami sostenuti.
+REQUISITI DI PREPARAZIONE PERSONALE
+I requisiti personali vengono valutati dalla apposita commissione CIV, in base ad un esame attento del piano studi pregresso e della carriera dello studente.
+In particolari situazioni il consiglio di CdS, su proposta della CIV, può decidere di rinviare tale verifica al superamento di un colloquio, come previsto dal regolamento didattico di ateneo. I colloqui si svolgono in due sessioni nel corso dell'anno accademico. In questo caso il presidente del consiglio di CdS nomina con provvedimento di urgenza una apposita commissione composta da due o più docenti. Il programma del colloquio, individuato dalla CIV, viene preventivamente comunicato al candidato dal Presidente del CdS.
+Al termine del colloquio la commissione esaminatrice formula un giudizio definitivo di idoneità oppure di non idoneità all'ammissione, eventualmente evidenziando requisiti mancanti.
+Modalità di ammissione
+Per essere ammessi al Corso di Laurea Magistrale in Ingegneria dei Veicoli, Classe LM-33, occorre essere in possesso della laurea o del diploma universitario di durata triennale, ovvero di altro titolo di studio conseguito all'estero, riconosciuto idoneo. Il candidato deve presentare domanda con allegati almeno il certificato di laurea, o equivalente (purché siano esplicitati i SSD di ciascuna attività formativa), e i programmi degli esami sostenuti. In base ai criteri di seguito illustrati, vengono stabiliti i requisiti curriculari e l'adeguatezza della personale preparazione per l'accesso al Corso di Laurea Magistrale in Ingegneria dei Veicoli, Classe LM-33 ai sensi dell'art. 6, comma 2, del D.M. 270/2004.
+L'ammissione al Corso di Laurea Magistrale in Ingegneria dei Veicoli, Classe LM-33, viene decisa sulla base dell'esistenza di entrambi i requisiti (curriculari e di preparazione personale).
+Il Consiglio di Corso di Studio (CDS) nomina una Commissione Istruttoria di Valutazione (CIV), composta da due o più docenti con il compito di:
+- esaminare le domande di ammissione,
+- valutare i curricula dei candidati,
+- verificare il possesso dei requisiti curriculari e personali,
+- proporre al CDS l'ammissione o la non ammissione del candidato,
+- indicare le eventuali modalità per l'ottenimento dei requisiti mancanti.
+REQUISITI CURRICULARI
+Il candidato che ha acquisito CFU nei seguenti settori scientifico disciplinari (SSD) sotto riportati soddisfa i requisiti curriculari.
+GRUPPO 1 - almeno 27 CFU
+MAT/02 Algebra, MAT/03 Geometria, MAT/05 Analisi matematica, MAT/06 Probabilità e statistica matematica, MAT/07 Fisica matematica, MAT/08 Analisi numerica, MAT/09 Ricerca operativa, INF/01 Informatica, ING-INF/05 Sistemi di elaborazione delle informazioni.
+GRUPPO 2 - almeno 15 CFU
+CHIM/03 Chimica generale e inorganica, CHIM/07 Fondamenti chimici delletecnologie, FIS/01 Fisica sperimentale, FIS/03 Fisica della materia.
+GRUPPO 3 - almeno 72 CFU
+ING-IND/03 Meccanica del volo, ING-IND/04 Costruzioni e strutture aerospaziali, ING-IND/05 Impianti e sistemi aerospaziali, ING-IND/06 Fluidodinamica, ING-IND/07 Propulsione aerospaziale, ING-IND/08 Macchine a fluido, ING-IND/09 Sistemi per l'energia e l'ambiente, ING-IND/10 Fisica tecnica industriale, ING-IND/11 Fisica tecnica ambientale, ING-IND/13 Meccanica applicata alle macchine, ING-IND/14 Progettazione meccanica e costruzione di macchine, ING-IND/15 Disegno e metodi dell'ingegneria industriale, ING-IND/16 Tecnologie e sistemi di lavorazione, ING-IND/17 Impianti industriali meccanici, ING-IND/31 Elettrotecnica, ING-IND/32 Convertitori, macchine e azionamenti elettrici, ING-IND/33 Sistemi elettrici per l'energia, ING-INF/04 Automatica.
+In caso di candidato con titolo acquisito all'estero, la CIV valuterà i requisiti curriculari sulla base della durata temporale dei singoli insegnamenti e dei programmi dei relativi esami sostenuti.
+È inoltre richiesta una adeguata conoscenza della lingua inglese equiparabile almeno di livello B2 del Quadro Comune Europeo di riferimento per le lingue. Il possesso di tale requisito potrà essere certificato dagli studenti in fase di iscrizione o, in assenza di una certificazione, sarà verificato tramite colloquio o esame del curriculum durante la verifica della personale preparazione dello studente.
+REQUISITI DI PREPARAZIONE PERSONALE
+In accordo con il Regolamento Didattico di Ateneo, la CIV:
+- può proporre al CDS di accettare ovvero di respingere la domanda di iscrizione del Candidato sulla base della valutazione della documentazione presentata con la domanda di ammissione,
+- può proporre al CDS di rimandare il candidato al colloquio di ammissione indicando il programma su cui verterà il colloquio, secondo la procedura descritta di seguito.
+Colloquio di ammissione: ha lo scopo di accertare che il candidato possieda la preparazione necessaria per affrontare proficuamente gli studi magistrali. I colloqui di ammissione si svolgono in almeno due sessioni nel corso dell'anno accademico. Al candidato è assegnata, con provvedimento del Presidente del CDS, una specifica commissione esaminatrice composta da due o più docenti. Il programma del colloquio, individuato dalla CIV, sarà preventivamente comunicato al candidato dal Presidente del CDS. Al termine del colloquio la commissione esaminatrice formula un giudizio definitivo di idoneità oppure di non idoneità all'ammissione, eventualmente evidenziando requisiti mancanti.
+Contatti
+Presidente del Corso di Laurea
+Massimo Ceraolo
+Email:
+massimo.ceraolo@unipi.it
+Referente didattico
+Francesca Nannelli
+Tel.
+(+39) 050 2217867
+Email:
+francesca.nannelli@unipi.it
+Unità Didattica del Dipartimento di Ingegneria Civile e Industriale:
+https://www.dici.unipi.it/didattica
+Orario di ricevimento:
+Solo su appuntamento telefonico (+39) 050 2218085 il martedì dalle ore 10.00 alle ore 12.00, il mercoledì dalle ore 10.00 alle ore 12,00 e il giovedì dalle ore 15.00 alle ore 17.00:
+didattica.dici@ing.unipi.it
+Valutazioni - Condizione occupazionale - Descrizione del corso
+Valutazione studenti
+Report dei risultati a.a. 23/24
+Valutazione laureandi
+Report Almalaurea
+Condizione occupazionale
+Report Almalaurea
+Caratteristiche della prova finale
+La prova finale consiste nello svolgimento di un'attività di alto livello, anche se non necessariamente di ricerca, purché originale, nell'ambito dell'ingegneria dei veicoli. Il tema della prova finale deve essere preventivamente approvato dal Consiglio di Corso di Studio su domanda dello studente firmata dallo studente e da almeno un relatore, che sia docente del corso di studi. Potranno essere accettate per la prova finale attività di ricerca e sviluppo, di progettazione, di messa a punto di procedure, di esecuzione e interpretazione di prove sperimentali, di modellazione matematica e simulazione numerica. Lo studente svolge la propria attività di tesi sotto la supervisione di uno o più relatori. L'attività svolta deve poi essere adeguatamente documentata in una tesi di laurea.
+Sono incoraggiate attività di tesi svolte in collaborazione o presso aziende del settore o presso enti di ricerca in Italia o all'estero. Lo svolgimento della tesi all'estero costituisce un elemento positivo di giudizio.
+Il candidato dovrà esporre il proprio lavoro di fronte alla Commissione di laurea. Nella valutazione della prova finale sono presi in considerazione, oltre la quantità e la qualità del lavoro, il grado di autonomia dimostrato dal candidato, le sue capacità di analisi e sintesi e la qualità ed efficacia di presentazione in forma scritta e orale dell'attività svolta.
+Il Corso di Studio in breve
+Il corso di Laurea Magistrale in Ingegneria dei Veicoli forma specialisti in grado di affrontare le problematiche progettuali, produttive e gestionali proprie delle imprese coinvolte nella produzione e nell'esercizio dei veicoli per il trasporto terrestre. Questo settore industriale è da sempre uno degli elementi trainanti di ogni paese industrializzato e in Italia rappresenta una elevata percentuale della produzione e dell'esportazione nazionale, collocandosi ai massimi livelli tecnologici mondiali. Oggi il crescente livello di competitività dei mercati impone alle aziende che operano in tale ambito di migliorare continuamente le prestazioni dei propri prodotti e di ridurne drasticamente i tempi di sviluppo, contenendo contemporaneamente i costi di produzione, i consumi energetici e l'impatto ambientale.
+Il corso di laurea, che integra conoscenze di base con l'insegnamento di discipline teoriche specifiche e con l'acquisizione di solide competenze tecniche, conta su un corpo docente fortemente interdisciplinare e su una stretta collaborazione con aziende del settore.
+Il corso prevede un unico curriculum.
+L'attività didattica si basa su lezioni ed esercitazioni teoriche e pratiche. Sono previste gite di istruzione, che permettono di conoscere da vicino importanti realtà produttive, e seminari svolti da esperti italiani e stranieri. Inoltre ogni anno viene organizzato un corso gratuito di Guida Sicura per 30 studenti.
+link utili
+menu secondario
+Cookie policy
+Usiamo i cookie!
+Utilizziamo cookie di prima e di terza parte per garantire la funzionalità del sito. I cookie di terze parti sono disattivati per default, salvo esplicito consenso da parte dell'utente (button 'Accetta tutti'). ATTENZIONE: la mancata abilitazione dei cookies di terze parti potrebbe non consentire la corretta esecuzione di alcune funzioni o causare altri problemi di funzionamento, come la mancata visualizzazione di contenuti.
+Fammi scegliere
+Accetta tutto
+Accetta solo i necessari
+Preferenze cookie
+Usiamo i cookie!
+Utilizziamo i cookie per consentire il funzionamento del sito e per migliorare la tua esperienza online. Puoi scegliere per ogni categoria se abilitarli o disabilitarli quando vuoi. Per maggiori dettagli relativi ai cookie ed altri dati sensibili, puoi leggere la
+cookie policy
+e la
+privacy policy
+integrale.
+Cookie strettamente necessari
+Cookie strettamente necessari
+Questi cookie sono essenziali per il funzionamento del nostro sito. Senza questi cookie, il sito potrebbe non funzionare correttamente.
+Cookie di performance e analytics
+Cookie di performance e analytics
+Questi cookie consentono al sito di ricordare le scelte che hai eseguito in precedenza
+Nome
+Dominio
+Durata
+Descrizione
+^_ga
+google.com
+2 years
+description ...
+_gid
+google.com
+1 day
+description ...
+Istruzioni per i vari browser:
+Istruzioni per i vari browser:
+Safari
+.
+Nome
+Dominio
+Durata
+Descrizione
+s_.*
+plu.mx
+sessione
+recupero grafico citazioni sociali da plumx
+A_.*
+core.ac.uk
+7 giorni
+recupero pubblicazioni consigliate per il pannello core-recommander
+GS_.*
+gstatic.com
+richiesta http
+visualizza grafico citazioni
+CC_.*
+creativecommons.org
+richiesta http
+visualizza licenza bitstream
+Maggiori informazioni
+Per qualsiasi domanda in relazione alle nostre policy sui cookie e sulle tue scelte, puoi visualizzare l'informativa completa a questo
+url
+.
+Accetta tutti
+Accetta solo i necessari
+Salva impostazioni

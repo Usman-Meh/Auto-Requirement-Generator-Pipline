@@ -1,0 +1,117 @@
+Link: https://www.fdu.edu/program/ms-cybersecurity-and-information-assurance/
+
+Skip to content
+Cybersecurity and Information Assurance MS
+Home
+/
+Program
+/
+Cybersecurity and Information Assurance MS
+FDU is officially designated as a National Center of Academic Excellence in Cyber Defense Education (CAE-CDE) institution by the National Security Agency and the Department of Homeland Security. The University is also a member of the Cisco Networking Academy.
+Hardly a day goes by without some news on cyberattacks. As the number of cyberattacks keeps increasing every day, clearly more cybersecurity professionals will be needed to plan, implement, upgrade, maintain, and monitor security measures to protect the information infrastructure, computer networks and systems, and digital data of business organizations and local, state and federal agencies.
+Offered on FDU’s Metropolitan Campus in Teaneck, NJ with a convenient evening class schedule, the program teaches the fundamentals of operating systems, computer networks, cybersecurity, applied cryptography, penetration testing and vulnerability analysis. With the foundational courses as stepping blocks, students move on to take advanced courses in one of the two key areas of CSIA: network security administration and secure software development, satisfying the requirements of CAE-CDE knowledge units of those focus areas as recognized by NSA and DHS. In particular, they will learn to establish information security protocols, build firewalls and defend against security intrusions, use encryption and protect information, regulate access to data, establish virus protection systems, implement business continuity and disaster recovery plans, conduct penetration tests and analyze system vulnerabilities, develop secure software, and help resolve information technology (IT) issues related to security.
+Educational objectives
+The MSCSIA program will produce graduates who:
+Enter into or advance in the profession of CSIA, particularly in the areas of network security administration and secure software development.
+Continue their education to obtain advanced certifications or advanced degrees, including Ph.D., Doctor of Professional Studies, and Engineer’s Degree, in cybersecurity, information assurance, computer science, information science, or other related fields.
+Become responsible professionals and global citizens who are aware of ethical issues and societal needs and problems.
+Admission requirements
+Graduation from an accredited college or university with a satisfactory academic record.
+Submission of an official score report for the Graduate Record Examination (GRE) General Test taken within the last five years. The GRE may be waived if:
+the applicant enrolls initially as a nonmatriculating student and completes 9 graduate credits in CSIA with a minimum cumulative grade point ratio (CGPR) of 3.00 and no grade below C
+the applicant is a graduate of FDU’s computer science, electrical engineering, information technology or closely related programs with an undergraduate CGPR of 3.00
+the applicant is a graduate of such programs from other institutions with an undergraduate CGPR of 3.50
+the applicant has completed a master’s degree from a regionally accredited college or university in the United States. (This GRE waiver policy is only applicable to applicants who graduated from a regionally accredited college or university in the United States.)
+Three letters of recommendation.
+Student Outcomes
+Graduates of the MSCSIA program will demonstrate the following attributes and achievements before or upon graduation:
+An ability to acquire and apply the knowledge of Computer Science, Cybersecurity, and Information Assurance theories to analyze problems, assess trade-offs, and develop creative solutions, including programs, computer-based systems, and processes.
+An ability to work effectively in teams, communicate with diverse audiences, and develop professionally.
+Understanding of the impact of IT-related ethical, societal, and global issues on individuals, organizations, and communities.
+An ability to employ current techniques, modern tools, and skills for CSIA practice.
+Degree Plan
+Prerequisites and Requirements
+Students admitted to the program may be required to fulfill a set of prerequisite courses, which can be waived based on their academic credentials. They must earn a CGPR of at least 2.75 for the prerequisite courses if required or be subject to dismissal from the program. They may take no more than 6 credits of regular graduate (core or elective) courses before completing all of the prerequisites.
+Students must successfully complete 30 credits, including 15 credits of core requirements, 3 credits of Master’s project and 12 credits of electives, beyond any required prerequisites. In consultation with an academic adviser, students can choose four courses (12 credits) from a list of approved electives based on their interests and career goals. These electives include a special project course and an internship course. Alternatively, they are encouraged to concentrate on one of two focus areas, network security administration and secure software development, each with three courses (9 credits), and to choose one more course (3 credits) from the list of approved electives. Students must earn a CGPR of at least 2.75 for the 30 credits beyond the prerequisite course
+Prerequisite Courses (12 credits) not included in Graduation Credits
+The prerequisite courses for the MSCSIA program are:
+CSCI5505
+Introduction to Computer Programming
+CSCI5535
+Survey of Computing Security
+CSCI5557
+Data Structures and Algorithms
+CSCI5565
+Assembly Language
+Additional prerequisite courses may be required if the students did not graduate from STEM-related baccalaureate degree programs. Prerequisite courses will be determined through faculty review of students’ undergraduate transcripts of records. STEM refers to science, technology, engineering and mathematics.
+Core Requirements (15 credits)
+The required core courses for the MSCSIA program are:
+CSCI6638
+Operating Systems
+CSCI6731
+Computer Networks
+CSCI6738
+Cybersecurity
+CSCI6747
+Applied Cryptography
+CSCI6870
+Penetration Testing & Vulnerability Analysis
+Project (3 credits)
+CSCI6806
+Cybersecurity Masters Project
+Electives (12 credits)
+Students are encouraged to take three courses (9 credits) from one of the following two focus areas and one more course (3 credits) from the list of approved electives as provided below. Alternatively, students can also take any four courses (12 credits) from the approved electives based on their interests and needs.
+Electives for
+Network Security Administration
+Focus
+CSCI6863
+Supply Chain Security & Systems Certification
+CSCI6869
+Network Security
+CSCI6873
+Firewalls & Intrusion Detection Systems
+Electives for
+Secure Software Development
+Focus
+CSCI6620
+Software Engineering
+CSCI6836
+Computer Algorithms
+CSCI6860
+Secure Software Development and Analysis
+Approved Electives
+CSCI6620
+Software Engineering
+CSCI6623
+Database Systems
+CSCI6753
+Machine Learning
+CSCI6811
+Advanced Special Projects
+CSCI6836
+Computer Algorithms
+CSCI6860
+Secure Software Development and Analysis
+CSCI6863
+Supply Chain Security & Systems Certification
+CSCI6869
+Network Security
+CSCI6873
+Firewalls & Intrusion Detection Systems
+CSCI7783
+Information Security
+CSCI7875
+Linux System Administration
+CSCI8891
+Internship/Work Experience
+Students must earn a total of 30 credits with a grade point average of at least 2.75. All courses are three credits.
+Cooperative Education Option
+Students are encouraged to undertake co-operative educational experience to obtain practical work experience in the broad field of CSIA or to work on a CSIA project under the supervision of a faculty advisor; they can earn three academic credits from the internship or project. The co-op experience provides students a real-world grounding, linking theory and practice, academic and industrial experiences, and college education and lifelong learning. It better prepares students for jobs, gives them a competitive edge in the job market, helps them develop networking skills and professional contacts and allows them to experience career fields before graduation. Industry benefits from better-prepared students with real and relevant work experience – saving time and money by reducing the training period for new employees.
+Special information
+U.S. News and World Report has recently ranked information security analyst at #3 among the Best Technology Jobs; #8, the 100 Best Jobs; and #15, the Best Paying Jobs. Related occupations such as IT manager, software developer, and computer systems analyst are ranked at #4, #11, and #18 among the Best Paying Jobs. Thus, the MSCSIA program will be very attractive to prospective students because of its excellent career opportunities, outstanding average starting salary, excellent median long-term salary, good job growth projected from 2012 to 2022, and great career fulfillment that includes protecting the nation’s information infrastructure.
+The U.S. Bureau of Labor Statistics, Employment Projections Program, projected the employment number of information security analysts to increase nationwide from 75,100 in 2012 to 102,500 in 2022 for an increase of 37% (27,400), which is much higher than 11%, the average projected increase for all occupations. High job growth was also projected for other IT-related occupations. The median annual salary for information security analysts with less than 5 years of experience in a related occupation was $86,170 in May 2012. Also, the average annual salary of the information security analysts with less than two years of experience was estimated at $70,500 by Modis, a global provider of IT personnel. The nearby metropolitan areas that pay the most include New York City, New York, and Norwich, Connecticut.
+Learn more
+School of Computer Science and Engineering
+Admissions
+More Information
+Apply now

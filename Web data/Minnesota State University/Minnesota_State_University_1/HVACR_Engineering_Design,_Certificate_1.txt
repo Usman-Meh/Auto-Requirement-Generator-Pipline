@@ -1,0 +1,105 @@
+Link: https://cset.mnsu.edu/academic-programs/mechanical-engineering/hvacr-engineering-design-cert/
+
+College of Science, Engineering & Technology
+Academic Programs
+Mechanical Engineering
+HVACR Engineering Design CERT
+HVACR Engineering Design CERT Section
+HVACR Engineering Design CERT
+HVAC&R Engineering Design (CERT)
+This certificate provides a focused study of the latest technology and procedures for the design of heating, ventilating, air conditioning, and refrigeration (HVAC&R) systems and equipment. The required coursework emphasizes theoretical design as well as industry relevant skills and procedures. Prepares students to be highly competitive in the job market and to eventually take the Principles and Practice of Engineering (PE) Examination in Mechanical – HVAC and Refrigeration.
+The certificate may not be eligible for federal financial aid. Speak with the
+Campus Hub
+for details.
+Current Catalog Year
+2024-2025
+Degree
+Certificate
+Major /                                         Total Credits
+12 / 12
+Locations
+Mankato
+Apply
+Program Requirements
+Program
+                                    Requirements
+Major Common Core
+ME 240
+Building Systems Documentation
+1 credits
+Communicating technical information about building systems including mechanical, electrical, and plumbing (MEP) systems. Students will learn to read and interpret mechanical plans as well as piping and instrumentation diagrams (P&ID).
+Prerequisites:
+ME 103 or instructor permission or instructor permission.
+ME 329
+Applied Thermodynamics
+3 credits
+Energy analysis and design of thermodynamic systems including power and refrigeration cycles. Thermodynamic relations. Application of thermodynamics to mixtures and solutions. Psychometrics. Introduction to chemical thermodynamics. Third law of thermodynamics. Includes significant design component.
+Prerequisites:
+CHEM 191, ME 241
+ME 431
+Building Information Modeling (BIM) for HVAC&R Engineers
+1 credits
+Exploration of the principles and application of Building Information Modeling (BIM) in the HVAC&R industry. Course will include a practice project in the HVAC field using Autodesk Revit.
+Prerequisites:
+Instructor Permission
+ME 432
+HVAC&R Systems and Applications
+1 credits
+This course will focus on the typical HVAC&R systems and components in use today. Basic operation, advantages and disadvantages, as well as system integration will be discussed.
+Prerequisites:
+ME 321, ME 324, ME 329 or instructor permission.
+ME 439
+Heating Ventilating and Air Conditioning Design
+3 credits
+Refrigeration cycles and equipment, refrigerant properties, heating and cooling loads, psychometric analysis of air conditioning. Distribution of air conditioning medium and air quality as applied to design. Includes significant design component.
+Prerequisites:
+ME 324, ME 329
+Major Restricted Electives
+Choose 3 Credit(s).
+CIVE 340
+Structural Analysis
+3 credits
+Minimum design loads for buildings using ASCE 7 guidelines and load distribution. Analysis of determinate structural systems including the case of moving loads. Analysis of indeterminate structures using the flexibility and moment distribution methods. Use of software to enhance the analysis.
+Prerequisites:
+CIVE 223 or ME 223
+ME 416
+Thermal/Fluid Systems Design
+3 credits
+The application of the principles of thermodynamics, fluid mechanics, and heat transfer to the design and analysis of selected energy systems of current interest, such as nuclear, solar, geothermal, and also conventional systems. Lecture and design projects.
+Prerequisites:
+ME 324, ME 329
+MET 425
+Project and Value Management
+3 credits
+Planning, management, and economic justification of projects are supported by computer tools for scheduling, staffing, and economic analysis.
+Prerequisites:
+STAT 154Initial deposit: N/A
+
+
+Application Fee for Undergraduate: $ 20
+Application Fee for Postgraduate: $ 40
+
+
+Annual Fee for Undergraduate: $ 18,812
+Annual Fee for Postgraduate: $ 14,918
+
+
+English Language Requirements Undergraduate only:
+TOEFL iBT (internet-based test) score of 61 or better
+Pearson Test of English (PTE) score of 47 or better
+IELTS academic test score of 5.5 or better
+
+
+English Language Requirements Postgraduate only:
+Different for every course and given in course content 
+
+
+Entry Requirements Undergraduate only:
+A cumulative high school GPA of 3.0 or higher or A rank in the top 50% of your high school class or An ACT composite score of 21 or higher and a minimum cumulative high school GPA of 2.7. If you do not meet the above admission requirements, you can submit additional information to consider when reviewing your application.
+
+
+Entry Requirements Postgraduate only:
+Applicants must possess the equivalent of a U.S. Bachelor's degree to be considered for graduate programs at Minnesota State Mankato. The degree must be earned at an institution recognized and approved to award the degree. GRE (Graduate Record Examination) is required by some academic programs.
+
+English Language requirements of graduate programs is different for each course. Graduate programs only have IELTS and TOEFL test scores.
+For Graduate Entry Requirements, some requirements like GPA, Score are mentioned on the course page so add them too.

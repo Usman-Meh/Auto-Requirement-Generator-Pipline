@@ -1,0 +1,176 @@
+Link: https://www.fdu.edu/program/bs-computer-science-florham/
+
+Skip to content
+Computer Science BS (Florham)
+Home
+/
+Program
+/
+Computer Science BS (Florham)
+The Bachelor of Science in Computer Science program is designed to give students broad knowledge in the theoretical as well as practical aspects of computer science. The program provides graduates with a solid foundation in the fundamentals of Computer Science, preparing them for a professional career in the field as well as graduate studies. The skills and knowledge that students acquire will provide them with the ability to adapt and grow in the workplace which is continually changing with advances in technology and globalization.
+Students can choose from three different concentrations as part of their major: Cybersecurity, Game Development, and Data Science.
+Program Learning Outcomes
+Learning outcomes for Computer Science majors:
+Problem Solving
+– Identify problems and formulate solutions. Apply problem-solving skills, algorithmic thinking, and knowledge of computer science.
+Mathematical & Algorithmic Modeling –
+Apply mathematical foundations, algorithmic principles, and computer science theory in the modeling and design of computer-based systems in a way that demonstrates comprehension of the tradeoffs involved in design choices.
+Software Development & Design
+– Analyze, specify, plan, design, implement, test, and evaluate computing-based solutions. Document work at all stages of software development in a variety of professional contexts.
+Systems Design
+– Identify and analyze structures and mechanisms of a computer system including security issues and adapt to different computing and programming environments.
+Teamwork
+and Collaboration
+– Function effectively in a team for group projects.
+Effective Communications
+– Present ideas and communicate information clearly and logically.
+Legal and Ethical Responsibilities –
+Recognize professional responsibilities and make informed judgments in computing practice based on legal and ethical principles. Understand social issues and responsibilities.
+Professional Development –
+Identify the skills necessary to become a lifelong learner in the rapidly evolving field of computer science, prepare for career and/or graduate school
+Degree Plan
+NOTE: All students are required to complete the General Education Requirements of their campus in fulfillment of their Bachelor’s degree requirements.
+Required courses
+CSCI1205
+Introduction to Computer Programming
+CSCI2215
+Introduction to Computer Science I
+CSCI2216
+Introduction to Computer Science II
+CSCI2255
+Discrete Structures
+CSCI2233
+Data Structures and Algorithms
+CSCI3268
+Database Systems
+(excluding cybersecurity concentration)
+CSCI3371
+Modeling and Simulation or
+MATH3300
+Statistics I
+CSCI3304
+Computer Organization
+CSCI3278
+Operating Systems
+CSCI3315
+Software Design
+CSCI4391
+Senior Project I/
+CSCI4392
+Senior Project II or
+CSCI4498
+Computer Science Internship
+Computer Science electives
+Five additional courses to be selected from the 3000 or higher-level offerings in computer science (CSCI designation).
+Mathematics required courses
+MATH1107
+Precalculus
+MATH1203
+Calculus I
+MATH2202
+Calculus II
+MATH3220
+Linear Algebra
+(or)
+MATH3318
+Differential Equations
+Mathematics Elective (3 credits)
+One additional course to be selected from the mathematics offerings (MATH designation) above 2000.
+Physics required courses
+8 credits of cognate Physics courses
+Concentrations
+Students can choose to pursue one of three concentrations, Data Science, Game Development, or Cybersecurity.
+Cybersecurity
+The demand for cybersecurity professionals is high and is expected to grow even more in the coming years in both the public and private sectors. Cybersecurity professionals are needed to protect computer networks and systems in the financial, communication, energy and transportation industries as well as in the government, against cyber-attacks.
+The National Security Agency (NSA) and the Department of Homeland Security (DHS) have designated Fairleigh Dickinson University as a National Center of Academic Excellence in Information Assurance Education (CAE/CDE) for the academic years 2012 through 2015, which was recently renewed for the period 2015 through 2020.
+The information assurance (IA) academic program described on this web page helps impart the skills and training needed to defend America’s cyberspace.
+Our CyberSecurity curriculum has been designed to lay a solid foundation in computer science and mathematics. This concentration for the computer science major has been based on carefully chosen courses in the Computer Science, Mathematics and Physics department and is further strengthened by requiring courses in network and data security. There is a provision for internships that will provide practical experience in the field. The Florham Campus enjoys the proximity of several computer science and information technology companies in the area and a number of CS and Mathematics students have had internship positions with these organizations. The department will continue to build and strengthen ties with these organizations with a view to expanding experiential learning opportunities for the students in the field of cybersecurity.
+Courses in this concentration will cover a range of topics from an overview of Computer Security, Foundations – Access Control Matrix, Policy – Security Policies, Confidentiality Policies, Integrity Policies, Hybrid Policies, to Implementation – Information Hiding Techniques – Steganography, Digital Watermarking, Cryptography, Fingerprinting, Key Management, Cipher Techniques, Authentication, Access Control Mechanisms, Confinement Problem, User and System Security, Data Security, Copyright, Digital Certificates, Digital Rights Management.
+A Certificate of Completion of a NSA and DHS designated CAE/CDE program of study is awarded to eligible students who complete the B.S. degree in Computer Science with a Concentration in Cyber Security.
+In addition to the required Computer Science courses, students in the concentration take the following Computer Science courses (* CSCI3158 & CSCI3870 are two newly introduced cybersecurity courses and are required in the concentration effective Fall 2020):
+CSCI3157
+Cyber Security
+CSCI3666
+Data Communication and Computer Networks
+CSCI3355
+Intro to Cryptography
+CSCI3869
+Network Security
+CSCI3158
+Information Security Design and Management
+CSCI3870
+Security Regulations, Detection and Forensics
+“The National Security Agency (NSA) and the Department of Homeland Security (DHS) have designated Fairleigh Dickinson University as a
+National Center of Academic Excellence in Information Assurance Education (CAE/CDE)
+”
+US Department of Homeland Security
+https://www.dhs.gov/
+National Security Agency
+https://www.nsa.gov/
+A Certificate of Completion of a NSA and DHS designated CAE/CDE program of study is awarded to eligible students who complete the B.S. degree in Computer Science with a Concentration in Cyber Security.
+|
+Center for Cybersecurity and Information Assurance
+|
+Homeland Security News Wire
+|
+Data Science
+We are now witnessing a new era in modern information technology, namely, the era of
+Big Data.
+Huge amounts of data are continuously generated every minute. Data sources range from social networking sites, stock trading sites, news agencies, insurance companies, and search engines, to sensors in meteorological and climate systems, patient monitoring systems, and acquisition and control systems that can be found in cell towers, cars, airplanes, and power plants. With these enormous amounts of data, systems and techniques are needed to extract knowledge, information, and patterns for prediction, forecasting and decision-making purposes.
+As an example of the amounts of data that is being generated, a recent study estimates that
+Google
+receives over “2 trillion searches per year which amounts to 3.8 million searches per minute, 228 million searches per hour, and 5.6 billion searches per day.”
+In addition to the required Computer Science courses listed above, students in the concentration take the following Computer Science courses:
+CSCI3269
+Introduction to Data Mining
+CSCI3270
+Introduction to Machine Learning
+CSCI3998
+Artificial Intelligence
+Game Development
+The gaming industry is doing remarkably well. According to Game Developer Research, there are about 45,000 employees in the field earning an average salary of $93,000. The Bureau of Labor Statistics predicts that the growth of employment in software engineering, of which game development is a part, will be about a third in the next decade.
+The demand for game developers comes from a variety of industries including
+entertainment
+,
+education
+,
+government
+,
+military,
+and
+consumer products
+.
+The game development concentration at Fairleigh Dickinson University provides students with the technical skills that are needed in the gaming industry.
+The game development curriculum has been designed to lay a solid foundation in computer science and mathematics with carefully chosen courses in the computer science, mathematics, and physics departments as well as the department of visual and performing arts. The concentration is designed based on guidelines provided by
+IGDA
+, The International Game Developers Association.
+Students planning to major in computer science with a concentration in game development will take courses in computer science, mathematics and animation. The concentration prepares students for a career in gaming as well as a career in computer science. Students will take special courses that have been designed for this concentration as well as courses in animation and game design.
+In addition to required Computer Science courses, students in the concentration take the following:
+CSCI3389
+Human Computer Interaction
+CSCI3998
+Artificial Intelligence
+CSCI3388
+Introduction to Game Development
+CSCI4488
+Advanced Game Development
+Two cognate electives to be selected from the following animation courses:
+ANIM1650
+,
+ANIM2270
+,
+ANIM2285
+,
+ANIM2500
+,
+ANIM3330
+,
+ANIM3350
+,
+ANIM3450
+Learn More
+Department of Mathematics and Computer Science
+Admissions
+Apply now
+Visit FDU
+Request Information

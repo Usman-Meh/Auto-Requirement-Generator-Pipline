@@ -1,0 +1,225 @@
+Link: https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-data-science
+
+Master of Data Science (MDS)
+Graduate School
+»
+Prospective Students
+»
+Graduate Degree Programs
+»
+Master of Data Science (MDS)
+Canadian Immigration Updates
+Review details about the recently announced changes to study and work permits that apply to master’s and doctoral degree students.
+Read more
+Notice: Canadian Immigration Updates
+Go to programs search
+The Master of Data Science is not administered by the Faculty of Graduate and Postdoctoral Studies. Please check the
+program website
+for information about the application process.
+Overview
+The
+UBC Master of Data Science
+(MDS) is a 10-month professional degree program. The MDS program was developed by the combined expertise of the UBC departments of Computer Science and Statistics to help meet a growing need for data scientists by producing skilled professionals who can turn data into knowledge.
+Everything we do generates data and every new technology used to capture this data brings with it even more opportunities to extract knowledge, to learn, to grow, and to create change.
+Data science is the process of extracting value from that data through reproducible and auditable processes.
+Utilizing descriptive and prescriptive techniques, students extract and analyze data from both unstructured and structured forms and then communicate the findings of those analyses in ways to enable organizations to make informed decisions based on data
+For specific program requirements, please refer to the departmental program website
+What makes the program unique?
+The 10-month, cohort based MDS program provides practical, real-world-applicable experience via integrating real-world data sets across the curriculum. As well, the MDS program ends with a capstone project allowing students to apply their newly acquired knowledge, while working alongside other students  to address a question facing a capstone partner’s organization.
+In addition, courses are taught by a core team of faculty dedicated to teaching MDS full-time and providing support to students throughout the program.
+Quick Facts
+Faculty
+Faculty of Science
+Mode of delivery
+In person at UBC Vancouver
+Program Components
+Coursework only
+Academic Unit
+Department of Computer Science
+Specialization
+Data Science
+Tuition (First Year)
+Domestic: $35,149.70 | International: $54,732.60
+Information Sessions
+Register
+Application Guide
+Download
+Graduate Viewbook
+View
+GradProspect Newsletter
+Subscribe
+Open All
+Program Enquiries
+If you have reviewed the information on this program page and understand the requirements for this program, you may
+send an enquiry
+Tuition & Financial Support
+Tuition
+Fees
+Canadian Citizen / Permanent Resident / Refugee / Diplomat
+International
+Application Fee
+$116.25
+$168.25
+Tuition *
+Installments per year
+3
+3
+Tuition
+per installment
+$11,716.57
+$18,244.19
+Program Fee
+$35,149.71
+$54,732.57
+Int. Tuition Award (ITA) per year (
+if eligible
+)
+Not applicable
+Other Fees and Costs
+Student Fees
+(yearly)
+$1,116.60 (approx.)
+Costs of living
+Estimate your
+costs of living
+with our interactive tool in order to start developing a financial plan for your graduate studies.
+Deposit to accept offer (if admitted)
+Deposit requirement
+$3000.00
+$3000.00
+* Regular, full-time tuition. For on-leave, extension, continuing or part time (if applicable) fees see
+UBC Calendar
+.
+All fees for the year are subject to adjustment and UBC reserves the right to change any fees without notice at any time, including tuition and student fees. Tuition fees are reviewed annually by the UBC Board of Governors. In recent years, tuition increases have been 2% for continuing domestic students and between 2% and 5% for continuing international students. New students may see higher increases in tuition. Admitted students who defer their admission are subject to the potentially higher tuition fees for incoming students effective at the later program start date. In case of a discrepancy between this webpage and the UBC Calendar, the UBC Calendar entry will be held to be correct.
+Financial Support
+Applicants to UBC have access to a variety of funding options.
+Program Funding Packages
+There are several funding opportunities including bursaries (for domestic students who qualify for government student loans) and scholarships (for domestic and international students). Please see the program page for details.
+Employer support
+Organizations may provide their employees with tuition benefits as part of an employment package to support lifelong learning of their workforce.
+Scholarships & awards (merit-based funding)
+Professional / course-based programs usually do
+not
+provide merit-based funding. Some programs may offer bursaries.
+Financial aid (need-based funding)
+Canadian and US applicants may qualify for governmental loans to finance their studies. Please review
+eligibility and types of loans
+.
+All students may be able to access private sector or bank loans.
+Foreign government scholarships
+Many foreign governments provide support to their citizens in pursuing education abroad. International applicants should check the various governmental resources in their home country, such as the Department of Education, for available scholarships.
+Working while studying
+The possibility to pursue work to supplement income may depend on the demands the program has on students. It should be carefully weighed if work leads to prolonged program durations or whether work placements can be meaningfully embedded into a program.
+International students enrolled as full-time students with a valid study permit can work
+on campus
+for unlimited hours and work
+off-campus
+for no more than 20 hours a week.
+A good starting point to explore student jobs is the UBC
+Work Learn
+program or a
+Co-Op placement
+.
+Tax credits and RRSP withdrawals
+Students with taxable income in Canada may be able to claim
+federal
+or
+provincial
+tax credits.
+Canadian residents with RRSP accounts may be able to use the
+Lifelong Learning Plan
+(LLP) which allows students to withdraw amounts from their registered retirement savings plan (RRSPs) to finance full-time training or education for themselves or their partner.
+Please review
+Filing taxes in Canada
+on the student services website for more information.
+Cost Estimator
+Applicants have access to the
+cost estimator
+to develop a financial plan that takes into account various income sources and expenses.
+Career Options
+Graduates are highly trained, qualified data scientists who can help businesses and organizations, across all domains, improve strategy, products, services, health, safety, and so much more by translating their findings into solutions that enable and inform action.
+Enrolment, Duration & Other Stats
+These statistics show data for the Master of Data Science (MDS). Data are separated for each degree program combination. You may view data for other degree options in the respective program profile.
+ENROLMENT DATA
+2023
+2022
+2021
+2020
+2019
+Applications
+1304
+1246
+2002
+1389
+1175
+Offers
+253
+176
+212
+220
+162
+New Registrations
+88
+81
+115
+96
+93
+Total Enrolment
+93
+82
+117
+96
+96
+Completion Rates & Times
+This program has a graduation rate of
+98%
+based on 133 students admitted between 2015 - 2018. Based on 374 graduations between 2020 - 2023 the minimum time to completion is 0.68 years and the maximum time is 1.4 years with an average of
+1.02 years
+of study. All calculations exclude leave times.
+Disclaimer
+Admissions data refer to all UBC Vancouver applications, offers, new registrants for each registration year, May to April, e.g. data for 2022 refers to programs starting in 2022 Summer and 2022 Winter session, i.e. May 1, 2022 to April 30, 2023. Data on total enrolment reflects enrolment in Winter Session Term 1 and are based on snapshots taken on November 1 of each registration year. Program completion data are only provided for datasets comprised of more than 4 individuals. Graduation rates exclude students who transfer out of their programs. Rates and times of completion depend on a number of variables (e.g. curriculum requirements, student funding), some of which may have changed in recent years for some programs.
+Related Programs
+Same specialization
+Master of Data Science in Computational Linguistics (MDSCL)
+Same Academic Unit
+Doctor of Philosophy in Computer Science (PhD)
+Master of Science in Computer Science (MSc)
+At the UBC Okanagan Campus
+Master of Data Science (MDS)
+Further Information
+Specialization
+Data Science
+Data Science is an interdisciplinary field about processes and systems to extract knowledge or insights from data in various forms.
+UBC Calendar
+https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-science/professional-masters-degrees/data-science-mds
+Program Website
+https://masterdatascience.ubc.ca/
+Faculty Overview
+Faculty of Science
+Academic Unit
+Department of Computer Science
+Program Identifier
+VGMMDS
+Classification
+High dimensional data analysis
+Computational methods in statistics
+Machine learning
+Natural language processing
+Data mining
+Computational linguistics
+Program Website
+Program Enquiries
+If you have reviewed the information on this program page and understand the requirements for this program, you may
+send an enquiry
+Social Media Channels
+https://www.facebook.com/ubcmasterofdatascience/
+https://www.linkedin.com/showcase/ubc-master-of-data-science-program/
+https://twitter.com/UBCMDS/
+https://www.youtube.com/channel/UCSJ_h9eR5xIu4fgL8ko-TEA
+Departments/Programs may update graduate degree program details through the
+Faculty & Staff
+portal. To update contact details for application inquiries, please use this
+form
+.
+The city and the sea
+Take a break from studying with opportunities at your fingertips. Whether you want to settle down in a café or take your research outdoors, we have a place for you.

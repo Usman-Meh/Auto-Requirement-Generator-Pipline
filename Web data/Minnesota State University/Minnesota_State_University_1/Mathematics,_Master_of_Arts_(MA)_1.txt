@@ -1,0 +1,123 @@
+Link: https://cset.mnsu.edu/academic-programs/mathematics-and-statistics/mathematics-master-of-arts-ma/
+
+College of Science, Engineering & Technology
+Academic Programs
+Mathematics and Statistics
+Mathematics, Master of Arts (MA)
+Mathematics and Statistics Section
+Mathematics and Statistics
+Applied Statistics, Master of Science (MS)
+Mathematics and Statistics, Master of Science (MS)
+Mathematics Education, Master of Science (MS)
+Mathematics, Master of Arts (MA)
+Mathematics and Statistics Faculty and Staff
+Mathematics (MA)
+This program is intended for students pursuing a Ph.D. program in Mathematics, students intending to teach mathematics at a community college, and students intending to use mathematics in a company which requires sophisticated analytical and reasoning skills.
+Students select from one of three tracks.  The broad selection track is intended for students pursuing a career heavily focused in mathematics or continuing to a PhD institution.  The computer science track is a mixture of mathematics and computer science and is appropriate for students pursuing a career in technological industries or working in applied mathematics.  The community college track is a mixture of education and mathematics and intended for students wishing to teach at a community college.
+Current Catalog Year
+2024-2025
+Degree
+Master of Arts
+Major /                                         Total Credits
+34 / 34
+Locations
+Mankato
+Apply
+Program Requirements
+Program
+                                    Requirements
+Common Core
+(0-15) credits
+MATH 517
+Real Analysis I
+4 credits
+The topology of Euclidean spaces, norms, classical inequalities, local and global properties of continuous functions, preservation of compactness and connectedness, sequences in Euclidean space and sequences of functions.
+Prerequisites:
+MATH 223 and MATH 290 with "C" (2.0) or better or consent.
+MATH 547
+Linear Algebra II
+3 credits
+An in-depth study of linear operators and their related spaces, dimension, rank, matrix representation of linear operators, special matrices, determinants, eigenvectors, and eigenvalues.
+Prerequisites:
+MATH 345 with "C" (2.0) or better or consent.
+MATH 555
+Theory of Statistics I
+4 credits
+A mathematical approach to statistics with derivation of theoretical results and of basic techniques used in applications. Includes probability, continuous probability distributions, multivariate distributions, functions of random variables, central limit theorem, and statistical inference. Same as STAT 555
+Prerequisites:
+MATH 223 with "C" (2.0) or better or consent.
+MATH 570
+Numerical Analysis I
+4 credits
+This course provides an introduction to techniques and analysis involved with solving mathematical problems using technology. Topics included are errors in computation, solutions of linear and nonlinear equations, numerical differentiation and integration, and interpolation.
+Prerequisites:
+MATH 122 and MATH 247 with "C" (2.0) or better or consent.
+A Common Core course requirement is waived if credit has been received for an equivalent course with grade of C (2.0) or better at the undergraduate or graduate levels. All Common Core courses, or their equivalents, must be completed before graduation. College of Graduate Study and Research Transfer policy applies.
+Restricted Electives
+Select one of the three tracks to complete.
+Track 1: Broad Selection
+- Choose 15 Credit(s).
+MATH 600 - 698
+Advisor approval is required
+credits
+Prerequisites:
+none
+Track 2: Information Technology
+- Choose 15 Credit(s). A minimum of 6 credits of 600 level courses from mathematics, and a minimum of 9 credits 500/600 level courses from Information Technology (IT). Advisor approval is required.
+Track 3: Community College Teaching
+- Choose 15 Credit(s). A minimum of 9 credits of 600 level mathematics. Advisor approval required.
+KSP 676
+Adult Development and Learning
+3 credits
+Students will analyze major theories and research related to adult development and learning as they apply to adult students in post-secondary and career settings. Students will evaluate adult learning needs and apply strategies for creating positive learning environments (face to face and online). Students will experience, analyze, and develop lessons that use effective adult learning strategies.
+Prerequisites:
+none
+KSP 680
+Pedagogy in Online Learning Environments
+3 credits
+This course will require learners to evaluate, analyze, and use pedagogical frameworks and practices to design online learning environments with a lens of equity and diversity. Learners will establish online environments and create course materials using research-based pedagogy in educational technology.
+Prerequisites:
+none
+Capstone Course
+Choose 1 - 4 Credit(s). Comprehensive Exam: The Exam covers courses in the Common Core.
+MATH 694
+Alternate Plan Paper
+1 credits
+Research under the supervision of the student's advisor leading to an alternate plan paper.
+Prerequisites:
+none
+MATH 699
+Thesis
+1-4 credits
+Research under the supervision of the student's advisor leading to a thesis.
+Prerequisites:
+ConsentInitial deposit: N/A
+
+
+Application Fee for Undergraduate: $ 20
+Application Fee for Postgraduate: $ 40
+
+
+Annual Fee for Undergraduate: $ 18,812
+Annual Fee for Postgraduate: $ 14,918
+
+
+English Language Requirements Undergraduate only:
+TOEFL iBT (internet-based test) score of 61 or better
+Pearson Test of English (PTE) score of 47 or better
+IELTS academic test score of 5.5 or better
+
+
+English Language Requirements Postgraduate only:
+Different for every course and given in course content 
+
+
+Entry Requirements Undergraduate only:
+A cumulative high school GPA of 3.0 or higher or A rank in the top 50% of your high school class or An ACT composite score of 21 or higher and a minimum cumulative high school GPA of 2.7. If you do not meet the above admission requirements, you can submit additional information to consider when reviewing your application.
+
+
+Entry Requirements Postgraduate only:
+Applicants must possess the equivalent of a U.S. Bachelor's degree to be considered for graduate programs at Minnesota State Mankato. The degree must be earned at an institution recognized and approved to award the degree. GRE (Graduate Record Examination) is required by some academic programs.
+
+English Language requirements of graduate programs is different for each course. Graduate programs only have IELTS and TOEFL test scores.
+For Graduate Entry Requirements, some requirements like GPA, Score are mentioned on the course page so add them too.

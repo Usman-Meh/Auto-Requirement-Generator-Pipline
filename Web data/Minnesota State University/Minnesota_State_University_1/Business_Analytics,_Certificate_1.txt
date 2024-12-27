@@ -1,0 +1,165 @@
+Link: https://cob.mnsu.edu/academics/finance/certificate-in-business-analytics/
+
+College of Business
+Academic Programs
+Finance
+Certificate in Business Analytics
+Academic Programs Section
+Academic Programs
+Accounting
+AgriBusiness and Food Innovation Program
+Business Administration
+Business Law
+Entrepreneurship & Innovation
+Finance
+Bachelor of Science in Finance
+Certificate in Business Analytics
+Business Analytics Advisory Board
+Minor in Financial Planning
+Mav Money Talk Podcast
+International Business
+Management and Entrepreneurship
+Marketing
+Advising
+College of Business registration, forms, policies, advising sessions and more.
+more info
+Business Analytics (CERT)
+Business Analytics is the application of statistical techniques using software to gain insights on business data for the purpose of making strategic business decisions. The focus is on helping students interested in business learn the basics of predictive and prescriptive techniques, using popular business visualization software such as Tableau, and analyze data using programming languages such as R.
+Current Catalog Year
+2024-2025
+Degree
+Certificate
+Major /                                         Total Credits
+17 / 17
+Locations
+Mankato
+Apply
+A certificate in business analytics can enhance your degree program by adding a desirable data analytics skills set to your core competencies.
+Students who wish to pursue technology-related careers in business could   benefit from adding a certificate in business analytics to their resume.
+16 Credit program
+Students with previous credit should consult with the
+Finance Department Chairperson
+before starting the certificate. Transfer students pursuing this certificate must complete at least 50% (one-half) of the coursework at Minnesota State University, Mankato.
+For more information contact
+Dr. Ishuan Li Simonson
+, 507.389.5753. To declare this certificate visit or contact the College of Business Student Center, MH 151.
+Learn more about the Business Analytics Advisory Board
+here>>>
+Course Updates for 2023-2024:
+Program Requirements, Major Common Core:
+Business Statistics ECON207 or STAT154
+Business Analytics FINA375
+Business Analytics II FINA475
+Major Restricted Electives: choose two
+Intro to Business Applications MGMT404
+Marketing Research and Analysis MRKT324 (prerequisite requires MRKT 210)
+Financial Modeling using Excel FINA400
+*
+Note: the below-listed courses reflect the 22-23 academic year requirements.
+MGMT 385
+can be substituted with
+MGMT 404
+Program Requirements
+Degree Plan
+Program
+                                    Requirements
+Major Common Core
+FINA 375
+Business Analytics
+3 credits
+Introduction to analytic tools and techniques using business applications.Grading Method
+Prerequisites:
+ECON 207, STAT 154
+FINA 475
+Business Analytics II
+3 credits
+This course introduces concepts and skills in unsupervised data mining, prescriptive analytics, and an introduction to unstructured data analytics (text). Students will learn basic coding in R, Python, database management using SQL, and visualization with Tableau.
+Prerequisites:
+FINA 375
+Major Restricted Electives
+Discipline Focus
+- Choose 6 Credit(s).
+FINA 400
+Financial Analysis Using Excel
+3 credits
+This course is intended for students who have completed FINA 362 (Business Finance) and wish to apply the introductory finance concepts and theories to practical problems in corporate finance and valuation. In particular, the course will use Microsoft Excel to cover topics such as time value of money, stock and bond valuation, cost of capital, capital budgeting, financial statement and ratio analysis, and option pricing and strategies.
+Prerequisites:
+FINA 362
+MGMT 404
+Introduction to Business Applications
+3 credits
+The course focuses on business problem-solving and technology connections to business practices. Students will be equipped with the tools to design, build, and deploy applications that could serve as building blocks that logically synthesize business functional areas. This newfound ability to apply business logic will equip students with the necessary skills to design and construct business applications that fulfill the needs of both businesses and their clientele. Furthermore, students will acquire a deeper understanding of management, finance, marketing, and accounting constructs, which will prove valuable in a broad range of careers. This is a course that builds real-world applicable business critical thinking skills while teaching the students the skill of business application creation.
+Prerequisites:
+MGMT 300
+MRKT 324
+Marketing Research & Analysis
+3 credits
+In this course, students will examine the role of research in decision making and the basics of scientific research, including the preparation of research proposals, design of data collection instruments, data analysis, interpretation, and reporting.
+Prerequisites:
+MRKT 210, STAT 154 or ECON 207
+Economics/Statistics
+- Choose 4 Credit(s).
+ECON 207
+Business Statistics
+4 credits
+Basic statistical methods including measures of central tendency and dispersion, probability, probability distributions, sampling, problems of estimation and hypothesis testing in the case of one and two sample meaans and proportions. Chi-Square, one-way analysis of variance, simple regression and correlation analysis, and brief introduction to multiple regression analysis. Use of computer statistical packages required.
+Prerequisites:
+MATH 112 or equivalent
+Goal Areas: GE-02, GE-04
+STAT 154
+Elementary Statistics
+4 credits
+An introduction to statistical concepts and methods that is applicable to all disciplines. Topics include descriptive measures of data, probability and probability distributions, statistical inference, tests of hypotheses, confidence intervals, correlation, linear regression, and analysis of variance. The use of statistical software will be emphasized. Prereq: ACT Math sub-score of 19 or higher, successful completion of MATH 098 or appropriate placement scores (see Placement Information under Statistics) Fall, Spring, Summer GE-4
+Prerequisites:
+Satisfy Placement Table in this section, or MATH 098 with grade of P.
+Goal Areas: GE-02, GE-04
+Degree Plan
+First Year
+Fall
+- 4 Credits
+Spring
+- 6 Credits
+FINA 375
+Business Analytics
+3 credits
+Introduction to analytic tools and techniques using business applications.Grading Method
+Prerequisites:
+ECON 207, STAT 154
+Second Year
+Fall
+- 6 Credits
+FINA 475
+Business Analytics II
+3 credits
+This course introduces concepts and skills in unsupervised data mining, prescriptive analytics, and an introduction to unstructured data analytics (text). Students will learn basic coding in R, Python, database management using SQL, and visualization with Tableau.
+Prerequisites:
+FINA 375Initial deposit: N/A
+
+
+Application Fee for Undergraduate: $ 20
+Application Fee for Postgraduate: $ 40
+
+
+Annual Fee for Undergraduate: $ 18,812
+Annual Fee for Postgraduate: $ 14,918
+
+
+English Language Requirements Undergraduate only:
+TOEFL iBT (internet-based test) score of 61 or better
+Pearson Test of English (PTE) score of 47 or better
+IELTS academic test score of 5.5 or better
+
+
+English Language Requirements Postgraduate only:
+Different for every course and given in course content 
+
+
+Entry Requirements Undergraduate only:
+A cumulative high school GPA of 3.0 or higher or A rank in the top 50% of your high school class or An ACT composite score of 21 or higher and a minimum cumulative high school GPA of 2.7. If you do not meet the above admission requirements, you can submit additional information to consider when reviewing your application.
+
+
+Entry Requirements Postgraduate only:
+Applicants must possess the equivalent of a U.S. Bachelor's degree to be considered for graduate programs at Minnesota State Mankato. The degree must be earned at an institution recognized and approved to award the degree. GRE (Graduate Record Examination) is required by some academic programs.
+
+English Language requirements of graduate programs is different for each course. Graduate programs only have IELTS and TOEFL test scores.
+For Graduate Entry Requirements, some requirements like GPA, Score are mentioned on the course page so add them too.

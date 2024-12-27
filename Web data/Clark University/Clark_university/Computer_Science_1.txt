@@ -1,0 +1,254 @@
+Link: https://www.clarku.edu/academics/undergraduate/programs/majors-minors/computer-science
+
+Skip to content
+Major in Computer Science (B.A.)
+Home
+Academics
+Major in Computer Science (B.A.)
+Request Information
+I understand that by providing my contact information to Clark University, I am joining the Admissions Office’s mailing list and may receive both print and online communication relating to Clark’s programs and application process. I also understand that Clark uses cookies on its websites to offer a better browsing experience, analyze web traffic and personalize content.  To learn more about Clark’s use of cookies, please refer to the Privacy Policy at: www.clarku.edu/privacy. You may unsubscribe at any time by selecting the “Unsubscribe” link at the bottom of any email communications or by contacting us at admissions@clarku.edu.
+Accept
+Cancel
+Entry Term*
+2025 Fall
+2025 Spring
+2026 Fall
+2026 Spring
+2027 Fall
+2027 Spring
+2028 Fall
+2028 Spring
+Submit
+Sidebar Menu
+Faculty
+Contact Us
+Download Major Map
+Apply
+Visit Campus
+Related Undergraduate Programs
+Mathematics
+Physics
+Mathematical Biology and Bioinformatics
+Computational Science
+Why Major in Computer Science?
+Leading to a bachelor of arts degree, Clark’s computer science major is designed to help our students solve complex challenges across a range of fields. You’ll develop a sound foundation in theory and practical applications while learning how computer science can improve humanity.
+Through collaborations with faculty and exciting research opportunities, you’ll apply your knowledge to pursue new innovations limited only by your imagination. From exploring ways to make purchases with our smartphones to composing music, communicating via the internet, and improving health care, you’ll use creative problem-solving skills to better our world.
+Catalog Requirements for:
+MA
+Major
+MI
+Minor
+Why Study Computer Science at Clark University?
+Develop a firm grounding in both theory and practical applications, as part of a program that closely follows
+Association for Computing Machinery/IEEE
+program guidelines.
+Compete in prestigious computer science competitions and dive into original research as early as your first year.
+Benefit from a wealth of opportunities to apply your learning in a professional setting right here on campus — such as working as a teaching or research assistant, or as technical staff for the department’s computer lab or Clark’s
+Office of Information Technology Services
+.
+Follow in the footsteps of graduates who have embarked on a range of exciting careers — our alumni work as software engineers, systems and IT staff, research scientists, and program managers, with some holding positions at Amazon and Google.
+Computer Science
+Featured Courses
+Arrow Icon
+Previous Course
+1
+2
+3
+CSCI 110
+PLS
+Diving into Computer Science Research: Modeling Plasmas
+From TVs to medicine to microchips, plasmas play a big part in our lives. Learn how by studying and developing mathematical models that explain experimental work and help derive plasmas with specific properties.
+CSCI 250
+POP
+Software Engineering
+Gain practical experience developing software to solve a concrete problem. Follow the project’s life cycle as you and your team define user requirements, and design, document, code, test, and maintain your product.
+CSCI 265
+Robotics
+Get hands-on robotics experience through computer simulation or physical experiments with robot project-component kits while exploring algorithmic issues, related engineering and system topics, and current research.
+CSCI 121
+Data Structures
+Explore the role in computing of abstract data types, collections, and dynamic data structures like linked lists, stacks, queues, and binary trees. Then tackle projects that let you put these tools into practice.
+CSCI 210
+Artificial Intelligence
+Using the language Lisp, you’ll learn to craft knowledge representation schemes and tackle sophisticated topics like search techniques, analogy and pattern recognition, and natural language parsing and planning.
+Arrow Icon
+Next Course
+View All Courses
+The Computer Science Path
+Curriculum
+Hands-On Learning
+Research
+Careers / Graduate Study
+As a computer science major, you will learn to solve problems by looking at them from different angles, breaking them down into manageable chunks, and creating efficient solutions. As you learn to think computationally and analytically, you will tackle problems of increasing difficulty — some on your own, and others by working collaboratively in teams. And by studying in a liberal arts setting, you’ll gain a broad perspective on the implications of computer science for human well-being.
+Thirteen courses are required to complete the major.
+One year (two semesters) of calculus.
+Two courses in the fundamentals of computer science and one in discrete mathematics introduce you to the field.
+Four intermediate-level courses (core requirements) expose you to the principles of computer science.
+Four courses of your choice allow you to explore applications and advanced topics of particular interest to you.
+You also can arrange to take a one-on-one directed readings course with a professor on a specialized topic of your choice, or take additional computer science classes at Worcester Polytechnic Institute through the
+Higher Education Consortium of Central Massachusetts
+.
+Because computer science has so many applications, it is naturally interdisciplinary. You might choose to complete a second major, a minor, or a concentration in a related area of interest. Clark’s minor in
+innovation and entrepreneurship
+is particularly relevant if you’re interested in starting a business or bringing a product to market. You might also work with a faculty member in another department on a problem of mutual interest.
+Skills You Learn
+Skills you will learn include:
+To analyze problems and design algorithmic solutions
+To write complex, well-organized programs
+To test your results and optimize solutions
+To write reports and instructions for computer users
+To work collaboratively to solve problems
+Academic Achievement Awards
+Outstanding Achievement in Computer Science Award
+Facilities and Equipment
+Mathematics and computer science students and faculty have access to 24 state-of-the-art computers running Linux and Windows; the Computer Science Department and its student systems administrators manage the Linux partition. Computer science students also use the lab to obtain teaching assistant (TA) hours and to participate in group projects.
+In addition to the computer science laboratory, many mathematics and computer science majors work in the department’s research laboratory on projects in mathematical and computational biology. The research laboratory contains two iMac computers, one PC running Windows, and an LED screen for projecting images/presentations from these machines or personal laptop computers. The laboratory’s computers are linked by Ethernet to the general-purpose University computers and the University’s high-powered computing cluster.
+Learn more
+.
+Honors Program
+During your junior year, you might be accepted into the computer science honors program. Joining the program means you’ll work closely with a professor to create a thesis on a topic of your choice. Examples of recent honors thesis topics are:
+Mathematical Modeling of Plasmas
+Darkwood Forest: A Role-Playing Videogame
+Finding a Pattern with the Revenue of Groupon Deals
+Developing an Auto Testing System for Student Programs
+Related Programs
+Mathematics
+Physics
+Mathematical Biology and Bioinformatics
+Computational Science
+Building your foundation
+The Clark Experience
+The Clark Core allows students to take courses across diverse disciplines, helping them develop critical thinking skills and respect for other cultures and perspectives. You’ll connect classroom learning with action through world and workplace experiences.
+Learn More
+At Clark, your education extends beyond the classroom. Visit the
+Career Connections Center
+to learn more about
+internship opportunities
+that complement your coursework and put your computer science knowledge into practice.
+The computer science major is designed to help you learn outside the classroom. For example, as you become increasingly proficient, you will be encouraged to apply or share your knowledge of computer science. You might create an application that addresses a need on campus or in the community, or facilitates a research question. Some computer science majors volunteer to tutor students in local schools.
+Many students take advantage of
+internship
+opportunities during the academic year or over the summer to connect what they’re learning with their professional development. You have opportunities to sharpen your computer science skills by working as a teaching assistant, doing research, proctoring a computer lab, or serving as system, support, or technical staff in the department or for Clark’s Office of Technology Services.
+Other opportunities include:
+Competitions
+You can present your research or enter prestigious computing competitions individually or as part of a Clark team. Our students participate in the
+Northeast North America Region of
+Association for Computing Machinery
+International Collegiate Programming Contest
+, described as “the premiere global programming competition conducted by and for the world’s universities.”
+Consortium of Computing Science in Colleges – Northeast Conference
+programming competition (Clark students took first place in 2014 and 2015) and student research poster session
+New England Undergraduate Computing Symposium  (Clark students won several awards in 2014 and 2015)
+The Putnam Competition
+(for students also interested in mathematics)
+Study Abroad and Away
+Participation in a Study Abroad and Away program is an opportunity to gain world and workplace experience to complement your on-campus experience. Clark approves semester, year-long, and summer opportunities to earn credit through academic coursework, internships, community-based learning, or research.  Explore our
+Study Abroad and Away
+website where you can search programs by academic interest,
+location
+, and language; after you’ve identified some appropriate programs, talk with your faculty adviser as early as possible to ensure that they fit into your four-year plan.
+Student Clubs and Organizations
+You can participate in Clark’s many clubs, organizations, and athletic teams as a way to complement your academic work. Here are some student organizations that might be of interest to you as a computer science student:
+Association for Computing Machinery
+Clark Student Chapter
+Clark Competitive Computing Club
+Science Fiction People of Clark
+Clark Entrepreneurship Club
+Internships
+Diverse companies ranging from startups to industrial leaders such as Amazon, Facebook, FedEx IT, Google, IBM, Microsoft,  MTV Networks, Prentice Hall
+Software development, system support and administration
+Clark Information Technology Services
+System support and administration
+External, federally funded undergraduate research programs
+Research assistants
+On-campus research projects
+Research assistants
+Clark is committed to action-based learning, which means that as an undergraduate you can join faculty in their
+research
+. Our computer science professors, who conduct solid research and are passionate about teaching, have special interests in the subfields of computational complexity, quantum computing, robotics, computer simulation, bioinformatics, computer vision, human-computer interaction for people with disabilities, speech recognition, and natural language.
+You can participate in research in several ways:
+Check out our
+Diving into Research
+course or join a
+First-Year Research Group
+, specially designed for computer science students
+Initiate your own research project under the guidance of a faculty member
+Work with a Clark professor on his or her research
+Work with a professor or in a research lab at another institution during the summer
+You can also apply for
+funding
+to support your own research on a project of your choice during the academic year or during the summer.
+Collaborate with Faculty and Present Your Research
+Collaborate with faculty
+Some students co-author papers with a faculty mentor and attend professional conferences where they present their research and network with other computer science professionals. Faculty and joint faculty/student publication examples include (names of Clark undergrads are indicated by *):
+R. Zuniga*, and J. Magee. Eyebrow Clicking: Comparing Dwell-Time vs. Computer Vision- Based Intentional Click Activation. In the
+18th International Conference on Human Computer Interaction (HCI International),
+Vancouver, Canada, July 2017.
+T. Ngo*, C. Kwan, and J. Magee. Camera Canvas: Photo Editing and Sharing App for People with Disabilities. In the
+18th International Conference on Human Computer Interaction (HCI International)
+, Vancouver, Canada, July 2017.
+E. Zhizhimontova* and J. Magee, “Control Yourself: A Mixed-Reality Natural User Interface” In
+Proceedings of the 17th International Conference on Human Computer Interaction
+(HCI International), Los Angeles, CA, August 2015.
+V. Grindle*, S. K. Haider, J. Magee, and M. van Dijk. “Virtual Fingerprint – Image-Based Authentication Increases Privacy for Users of Mouse-Replacement Interfaces” In
+Proceedings of the 17th International Conference on Human Computer Interaction
+(HCI International), Los Angeles, CA, August 2015.
+J. B. Guo*, L. Leung*, and J. Magee. “Academic Aide – Free Online Math Question Database for Academic Improvement.” The 5th IEEE Integrated STEM Education Conference (ISEC), Princeton, NJ, 7 March 2015.
+M. Duan, L. Han, L. Rudolph and S. Huo, Geometric Issues in Dimensionality Reduction and Protein Conformation Space, Workshop on
+Robotics Methods for Structural and Dynamic Modeling of Molecular Systems
+, Berkeley, CA, July, 2014.
+M. Li, M. Duan, J. Fan, L. Han, and S. Huo, “Graph representation of protein free energy landscape”,
+Journal of Chemical Physics
+, Vol.139, Issue 18, Nov. 2013.
+L. Han, L. Rudolph, S. Corbett*, M. Chou, E. Eagle*, D. Glotzer*, J. Kramer*, J. Moran*, C. Pietras*, A. Tareen*, and M. Valko*, “Configurations and Path Planning of Convex Planar Polygonal Loops”,
+Tenth International Workshop on the Algorithmic Foundations of Robotics (WAFR 2012)
+, E. Frazzoli, T. Lozano-Perez, N. Roy, and D. Rus, eds., Springer Track in Advanced Robotics, Springer, Berlin / Heidelberg, June 2012.
+D. Bera, S. Fenner, F. Green and S. Homer, Universal Quantum Circuits, in arXiv:0804.2429 (2008). Appeared under the title “Efficient Universal Quantum Circuits”, in COCOON 2009, pp. 418-428, LNCS 5609 (Springer-Verlag), and in
+Quantum Information and Computation
+10
+(2010) 16-27.
+Present your research
+Clark’s annual
+ClarkFEST
+is an opportunity to share your research or creative work with the Clark community while you hone your presentation skills. Some projects computer science students and recent alumni have presented are:
+Leadership Skill Development in Virtual Environments: Designing a Java Game to Facilitate Social and Personality Psychology Research
+Plasma Perturbed by Cylindrical Probe.
+ClarkEats: Food Sustainability on Campus.
+Analysis on the History of Programming Languages
+Ethics and Morality in Game Design
+You can also submit your research results for publication in our student-run
+Scholarly Undergraduate Research Journal
+.
+At Clark you’ll get more than a great education; you’ll also be prepared for a long, productive career and life of consequence. And once you’ve completed your degree, you can join other Clark alumni who have gone on to work for great organizations and attend some of the best graduate schools in the world.
+Our computer science major provides a solid foundation for students who want to apply their knowledge in other fields, as well as for those who want to study computer science in graduate school.
+Graduate School Placement
+Graduate schools attended by computer science graduates from Clark include:
+Ph.D. in Computer Science, at Johns Hopkins University, University of California at San Diego;  Rensselaer Polytechnic Institute;  University of Massachusetts at Amherst; Boston University: University of Chicago
+M.S. in  Computer Science, at Brown University; Carnegie Mellon University; Georgia Tech; University of North Carolina at Chapel Hill; Yale University; University of Illinois at Urbana–Champaign; University of Pittsburgh
+M.S. in Computational and Mathematical Finance and other business-related fields, at Oxford Business School; University of Chicago; Clark University Graduate School of Management
+Other fields: J.D., Cornell University Law School and University of Maryland Law School; M.D., Philadelphia College of Osteopathic Medicine; M.A.T. (Teaching), Clark University
+Career Outcomes
+Software engineers
+Amazon, Facebook, FedEx IT, Google, IBM, Microsoft
+Systems and IT staff
+Google, Wayfair
+Financial analyst, actuary
+OCC Financial Services, PwC (PricewaterhouseCoopers)
+Corporate VIPs, entrepreneurs, independent developers
+Research scientists, teachers, lawyers and physicians
+Hackathon!
+From the U.S. to Finland, Clarkies meet the challenge
+Whether creating apps that provide commuters with the most carbon-neutral paths to their destination or connect victims of natural disasters with volunteers who can help, Clark computer programmers are winning prizes at hackathons at home and abroad.
+MIT Hackathon
+Wellesley College Hackathon
+Aalto University Hackathon
+Faculty and Programs in the Department of Mathematics and Computer Science
+Learn More
+Copyright © 2024 Clark University
+Public Information
+|
+Privacy Policy
+|
+Website Accessibility
+|
+Nondiscrimination Policy

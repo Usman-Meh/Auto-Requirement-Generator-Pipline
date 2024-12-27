@@ -1,0 +1,669 @@
+Link: https://cset.mnsu.edu/academic-programs/computer-science/computer-science-software-engineering-bs/
+
+College of Science, Engineering & Technology
+Academic Programs
+Computer Science
+Computer Science, Software Engineering (BS)
+Computer Science Section
+Computer Science
+Apply Now
+NACLO
+Computer Science, Bachelor of Science (BS)
+Computer Science, Software Engineering (BS)
+Computer Science, Minor
+Computer Science Faculty & Staff
+Software Engineering (BS)
+Students transfer into this upper-division program after two years of study elsewhere or at Minnesota State University, Mankato. Study is based on learning software engineering in a work-based environment with industry partners while contributing as team members on real projects. Each semester students work in either a paid co-op position with an employer or on an industry-sponsored project.
+Current Catalog Year
+2024-2025
+Degree
+Bachelor of Science
+Major /                                         Total Credits
+106 / 128
+Locations
+Mankato
+Apply
+Program Requirements
+Degree Plan
+Program
+                                    Requirements
+Required General Education
+ENG 101
+Foundations of Writing & Rhetoric
+4 credits
+Students in this course approach writing as a subject of study by investigating how writing works across a variety of contexts.
+Prerequisites:
+none
+Goal Areas: GE-1A
+Communications 2
+- Choose 3 - 4 Credit(s).
+COMM 102
+Public Speaking
+3 credits
+A course in communication principles to develop skills in the analysis and presentation of speeches.
+Prerequisites:
+none
+Goal Areas: GE-1B
+ENG 271W
+Technical Communication
+4 credits
+Introduction to learning the written and oral communication of technical information. Assignments include writing and presenting proposals, reports, and documentation. Emphasis on use of rhetorical analysis, computer applications, collaborative writing, and usability testing to complete technical communication tasks in the workplace.
+Prerequisites:
+ENG 101
+Goal Areas: GE-02, GE-13
+Economics
+- Choose 3 Credit(s).
+ECON 201
+Principles of Macroeconomics
+3 credits
+Emphasis on forces influencing employment and inflation. Current problems of the economy are stressed along with tools government has to cope with them.
+Prerequisites:
+none
+Goal Areas: GE-05
+ECON 202
+Principles of Microeconomics
+3 credits
+Examines decision making by the individual firm, the determination of prices and wages, and current problems facing business firms.
+Prerequisites:
+none
+Goal Areas: GE-05
+Prerequisites to the Major
+MATH 121
+Calculus I
+4 credits
+Limits, continuity, the derivative and applications, transcendental functions, L'Hopital's Rule, and development of the Riemann integral.
+Prerequisites:
+Satisfy Placement Table in this section, MATH 115 or both MATH 112 and MATH 113 with "C" (2.0) or better.
+Goal Areas: GE-04
+MATH 122
+Calculus II
+4 credits
+Techniques of integration, applications of integration, improper integrals, numerical integration, the calculus of parametric curves, and infinite series and sequences.
+Prerequisites:
+MATH 121 with "C" (2.0) or better or consent
+MATH 247
+Linear Algebra I
+4 credits
+Matrices, determinants, systems of linear equations, vector spaces, linear transformations, and characteristic value problems.
+Prerequisites:
+MATH 122 with "C" (2.0) or better or consent
+MATH 280
+Discrete Mathematics for Computer Science I
+4 credits
+This course is an introduction to mathematical concepts needed in computer science, including sets, relations and functions, propositional logic, proof techniques, recurrence relations, graphs and trees, and discrete probability. This course is not intended for students pursuing a degree in mathematics.
+Prerequisites:
+MATH 121 with "C" (2.0) or better or consent.
+MATH 354
+Concepts of Probability & Statistics
+4 credits
+A calculus based introduction to probability and statistics. Topics include probability, random variables, probability distributions (discrete and continuous), joint probability distributions (discrete and continuous), statistical inference (both estimation and hypothesis testing), confidence intervals for distribution of parameters and their functions, sample size determinations, analysis of variance, regression, and correlation. This course meets the needs of the practitioner and the person who plans further study in statistics. Same as MATH 354. Fall, Spring, Summer
+Prerequisites:
+MATH 122 with "C" (2.0) or better or consent
+MATH 380
+Discrete Mathematics for Computer Science II
+4 credits
+A continuation of the topics from MATH 280. The major focus of the course is understanding and analyzing algorithms, including proving that algorithms perform correctly. Topics include modular arithmetic, counting problems, sorting algorithms and constructions on graphs. This course is not intended for students pursuing a major degree in mathematics.
+Prerequisites:
+MATH 247 and MATH 280 with a grade of "C" (2.0) or better
+Science Electives
+- Choose 8 - 10 Credit(s). A minimum of 8 credits is required for Science Electives. Science Electives can be chosen from: BIOL 105, BIOL 106, CHEM 201, CHEM 202, GEOL 121, GEOL 122, PHYS 221, PHYS 222+232, PHYS 223+233, or any 300+ level course in BIOL, CHEM, GEOL, or PHYS. Choose two science courses from different disciplines to meet the University's general education requirements.
+BIOL 105
+General Biology I
+4 credits
+Study of biological processes at the suborganismal level including cell chemistry, metabolism, reproduction, genetics, and complex tissue physiology. Laboratory and discussion sessions stress problem solving and experimental design.
+Prerequisites:
+none
+Goal Areas: GE-03
+BIOL 106
+General Biology II
+4 credits
+Study of biological processes at the organismal level including a survey of life forms (viruses, bacteria, protists, fungi, plants, and animals), their evolution, and ecology. Laboratory and discussion sessions stress problem solving and experimental design.
+Prerequisites:
+none
+CHEM 201
+General Chemistry I
+5 credits
+Introduction to the basic principles of chemistry including atomic and molecular structure, bonding, chemical reactions, stoichiometry, thermodynamics and states of matter. Laboratory will reinforce lecture concepts. Prereq: C or higher in MATH 112 or the equivalent; high school chemistry or C or higher in CHEM 104
+Prerequisites:
+"C" (2.0) or higher in MATH 112 or the equivalent; high school chemistry or "C" (2.0) or higher in CHEM 104.
+Goal Areas: GE-02, GE-03
+CHEM 202
+General Chemistry II
+5 credits
+Continuation of the basic principles of chemistry including properties of solutions, kinetics, acids and bases, equilibria, buffers, precipitation reactions, electron transfer reactions, electrochemistry, entropy and free energy. Laboratory will reinforce lecture concepts.
+Prerequisites:
+"C" (2.0) or higher in CHEM 201
+GEOL 121
+Physical Geology
+4 credits
+Physical geology is the study of how the earth works. From mountain building to soil erosion, this course provides an introduction to all the main areas of geologic study. Lecture discussions and laboratory exercises are designed for students seeking a major or minor in one of the natural sciences.
+Prerequisites:
+none
+Goal Areas: GE-03, GE-10
+GEOL 122
+Earth History
+4 credits
+An examination of the development and evolution of life on earth. In addition to reviewing the range of life forms and global climates existing on earth during various times in its geologic past, we will also look at how global industrialization could lead to the earth's next period of mass extinction. Weekly laboratory assignments help illustrate principles discussed in lectures.
+Prerequisites:
+none
+Goal Areas: GE-03
+PHYS 221
+General Physics I
+4 credits
+Designed for science and engineering students. Calculus-based physics. Covers elementary mechanics including kinematics, statics, equilibrium and dynamics of particles, work and energy, rotational motion, gravitation, and oscillation. Lecture and Laboratory. MATH 121 must be completed with a C or better prior to taking this course or must be taken concurrently. High school physics or PHYS 101 is also strongly encouraged. Fall, Spring
+Prerequisites:
+none
+Goal Areas: GE-02, GE-03
+PHYS 222
+General Physics II
+3 credits
+Designed for science and engineering students. Calculus-based physics. Covers electrical charge and field; magnetic field and its sources; current and resistance; simple DC and AC circuits; and electromagnetic induction. Lecture only. (Associated laboratory course is PHYS 232.) MATH 121 must be completed with a C or better prior to taking this course. MATH 122 must be completed before taking this course or taken concurrently. Fall, Spring
+Prerequisites:
+MATH 121 with a "C" or better; PHYS 221 with a "C" or better.
+PHYS 223
+General Physics III
+3 credits
+Designed for science and engineering students. Calculus-based physics. Covers fluids, thermodynamics, mechanical and sound waves, geometrical optics, physical optics, and modern physics. Lecture only. (Associated laboratory course is PHYS 233.) Pre: MATH 121 with a Cor better; and PHYS 221 with a C or better. MATH 122 must be completed before taking this course or taken concurrently. Spring
+Prerequisites:
+MATH 121 with a "C" or better; and PHYS 221 with a "C" or better
+PHYS 232
+General Physics II Laboratory
+1 credits
+Designed for science and engineering students. Laboratory course accompanying PHYS 222. Experiments involving electric and magnetic fields, electric potential, electric and magnetic forces, and simple circuits. Laboratory only. Prereq: PHYS 221 with a C or better; and PHYS 222 or concurrent. Fall, Spring
+Prerequisites:
+PHYS 221 with a "C" or better; and PHYS 222 or concurrent.
+PHYS 233
+General Physics III Laboratory
+1 credits
+Designed for science and engineering students. Laboratory course accompanying PHYS 223. Experiments involving fluids, thermodynamics, mechanical waves, geometrical optics, and physical optics. Laboratory only. Prereq: PHYS 221 with a C or better; and PHYS 223 or concurrent. Spring
+Prerequisites:
+PHYS 221 with a "C" or better; and PHYS 223 or concurrent.
+Major Common Core
+* SE 495 Software Engineering Seminar: take 5 credits
+CIS 121
+Introduction to Programming
+4 credits
+This course provides conceptual and logical tools for students planning to major in a computing-based major. Programming in a high-level language such as C++, Python, or Java, and the development of skills in abstraction, problem-solving, and algorithmic thinking are emphasized.
+Prerequisites:
+MATH 112 or MATH 113 or MATH 115 or MATH 121
+CIS 122
+Data Structures
+4 credits
+This course is a continuation of CIS 121. Students develop a basic knowledge of programming skills and object-oriented concepts, and use fundamental data structures such as lists, stacks, queues, and trees.
+Prerequisites:
+CIS 121. Select One Course: MATH 112, MATH 113, MATH 115, MATH 121, or MATH 130
+CIS 223
+Algorithms
+4 credits
+This course builds on CS 122 (Data Structures) with coverage of advanced data structures and associated algorithms, including trees, graphs, hashing, searching, priority queues, and memory management. Formal proof techniques, the analysis of best, worst, and expected cases, and the development of efficient algorithms are emphasized. Use of effect-free programming, first-class functions, and higher-order operations such as map, reduce, and filter are explored.
+Prerequisites:
+MATH 121 and CS 111 or CIS 122 or IT 214
+CIS 224
+Computer Architecture
+4 credits
+This course presents historical and current concepts and implementations of computer organization. Topics include instruction set design, digital storage, performance metrics, processor datapath and control, pipelining, memory hierarchy, busses and I/O interfacing, and parallel processors.
+Prerequisites:
+CS 111 or CIS 122or IT 214
+CS 301
+CS Core: Operating Systems
+2 credits
+This course introduces the foundational concepts of operating systems including operating systems principles, concurrency, scheduling, dispatch, and memory management and prepares students for advanced topics in operating systems.
+Prerequisites:
+CIS 223, CIS 224 or EE 234, and admission to major.
+CS 304
+CS Core: Databases & Information Security
+2 credits
+This course introduces the foundational concepts of Information Management, Database Systems, Data Modeling, Data Security, Secure Design, Defensive Programming, Security and Cryptography.
+Prerequisites:
+CIS 223, CIS 224, and admission to major.
+CS 306
+Network Architectures
+2 credits
+An introduction to data communications and networks. The field encompasses local area networks, wide area networks, and wireless communication. Topics include digital signals, transmission techniques, error detection and correction, OSI model, TCP/IP model, network topologies, network protocols, and communications hardware.
+Prerequisites:
+CIS 223 and CIS 224 or EE 234
+SE 300
+Software Engineering Academy Project
+3 credits
+Students participate in their first hands-on industry software development project. Every major element of the typical project lifecycle will be experienced, based on live project features wherever possible. This course prepares students for their first external work-based learning experience in industry or on an industry project. Emphasis is placed on diversity, equity, and inclusion for both technical and professional best practices. Requires admission to program.
+Prerequisites:
+Admission to the program.
+SE 301
+(Core): Introduction to Software Engineering
+2 credits
+Students are introduced to the main elements of software engineering including requirements analysis, software design, software construction, project management, and best practices for project management and software systems engineering with an emphasis on diversity, equity, and inclusion. This course prepares students for their first work-based learning experiences in industry or on an industry project. Requires admission to the program.
+Prerequisites:
+Admission to the program.
+SE 302
+(Core): Introduction to Software Quality and Testing
+2 credits
+Students are introduced to the main elements of software engineering that deal with a) the influence of external bad actors, and b) finding and fixing problems (bugs) in software. The course covers software testing, software quality management, and software security. It prepares students for their first work-based learning experiences in industry or on an industry project, with an emphasis on best practices in diversity, equity, and inclusion. Requires admission to the program.
+Prerequisites:
+23174
+SE 303
+(Core): Introduction to Context-aware Software Practices
+2 credits
+Students are introduced to the aspects of software engineering practice that are heavily influenced by the technical, business, and social contexts in which software systems operate. These include software sustainment, software process and lifecycle concerns, best practices in software and systems engineering, and software safety. This course prepares students for their first work-based learning experiences in industry or on an industry project, with an emphasis on diversity, equity, inclusion, and belonging. Requires admission to the program.
+Prerequisites:
+23175
+SE 304
+Preparation for Self-directed Study in Software Engineering
+2 credits
+Principles of self-directed learning are used to scope and prepare for future study of software engineering topics, especially as they are used in industry. Principles include goal setting, time management, planning, learning strategies, meta-cognition, self-regulation, and evaluation of personal learning. A diversity, equity, inclusion, and belonging lens is applied throughout. Requires admission to the program.
+Prerequisites:
+Admission to the program.
+SE 311W
+SE Professionalism 1
+2 credits
+Students learn and develop the elements of professionalism while working on software project teams in industry or on projects with industry clients. Topics include leadership, metacognition, teamwork, written and oral communication, ethics, diversity, equity, inclusion, belonging, and professional and personal responsibility.
+Prerequisites:
+SE 300
+SE 312W
+SE Professionalism 1
+2 credits
+Students further learn and develop the elements of professionalism while working on software project teams in industry or on projects with industry clients. Topics include leadership, metacognition, teamwork, written and oral communication, ethics, diversity, equity, inclusion, belonging, and professional and personal responsibility.
+Prerequisites:
+SE 311W, SE 391
+SE 391
+Software Engineering Project 1
+4 credits
+Students learn and practice the essential elements of software engineering while working on a software project team in industry or on a project with an industry client. Topics include software requirements, design, construction, testing and quality, sustainment, security, and systems engineering, and project management. A diversity, equity, inclusion, and belonging lens is applied to both technical and professional course content. Course must be taken concurrently with SE 311W.
+Prerequisites:
+SE 300, SE 301, SE 303
+SE 392
+Software Engineering Project 2
+4 credits
+Further learning and practice of the main elements of software engineering while working on software project teams in industry or on projects with industry clients. Topics include software requirements, design, construction, testing and quality, sustainment, security, and systems engineering, and project management. A diversity, equity, inclusion, and belonging lens is applied to both technical and professional course content. Course must be taken concurrently with SE 312W.
+Prerequisites:
+SE 311W, SE 391
+SE 411W
+SE Professionalism 3
+2 credits
+Students further learn and develop the elements of professionalism while interacting regularly with clients, software developers, other team members, managers, and administrators in an industry setting. Further development and implementation of skills related to leadership, metacognition, teamwork, written and oral communication, ethics, diversity, equity, inclusion, belonging, and professional and personal responsibility.
+Prerequisites:
+SE 312W, SE 392
+SE 412W
+SE Professionalism 4
+2 credits
+Students further learn and develop the elements of professionalism while interacting regularly with clients, software developers, other team members, managers, and administrators in an industry setting. Further development and implementation of skills related to leadership, metacognition, teamwork, written and oral communication, ethics, and professional and personal responsibility in an industry context with reflection on educational growth.
+Prerequisites:
+SE 411W, SE 491
+SE 491
+Software Engineering Capstone 1
+4 credits
+Further learning and practice of the main elements of software engineering while working on software project teams in industry or on projects with industry clients. Topics include software requirements, design, construction, testing and quality, sustainment, security, and systems engineering, and project management. A diversity, equity, inclusion, and belonging lens is applied to both technical and professional course content. Course must be taken concurrently with SE 411W. Senior standing in SE program and at least 12 credits earned in SE technical cores and electives.
+Prerequisites:
+SE 312W, SE 392. Senior standing in SE program and at least 12 credits earned in SE technical cores and electives.
+SE 492
+Software Engineering Capstone 2
+4 credits
+Students further learn and develop the essential elements of software engineering while working on software project teams in industry or on projects with industry clients. Further development and rounding out of experience with software requirements, design, construction, testing and quality, sustainment, security, and systems engineering, and project management. A diversity, equity, inclusion, and belonging lens is applied to both technical and professional course content. Course must be taken concurrently with SE 412W. Senior standing in SE program and at least 12 credits earned in SE technical cores and electives.
+Prerequisites:
+SE 411W, SE 491
+SE 495
+Software Engineering Seminar
+1 credits
+Students learn about software engineering practice through seminars with faculty, graduate students, undergraduate students admitted to the SE major, visiting researchers, and industry members. SE students are assisted in their development as learners and professional citizens through workshops. A diversity, equity, inclusion, and belonging lens is applied throughout. This course is repeated by upper-division Software Engineering students every semester. Requires admission to the program.
+Prerequisites:
+Admission to the program.
+Major Unrestricted Electives
+Take 12 credits. Students may take SE 400-level courses more than once. Students may take up to three CS courses drawn from this list. Students may take CS 400-level courses more than once.
+CS 303
+CS Core: Programming Languages
+2 credits
+This course introduces the foundational concepts of programming languages, including the principles of language design, language constructs, and comparison of major languages. Topics include formal methods of examining syntax and semantics of languages and lexical analysis of language components and constructs, and propositional and predicate calculi.
+Prerequisites:
+CIS 223, CIS 224, and admission to major.
+CS 401
+Topics in Operating Systems
+2 credits
+Study of theory and/or implementation topics related to operating systems such as security and protection, virtual machines, device management, file systems, real time and embedded systems, fault tolerance and system performance evaluation. Prerequisite: Admission to Major or Permission
+Prerequisites:
+none
+CS 403
+Topics in Programming Languages
+2 credits
+Study of theory and/or implementation topics related to programming languages such as syntax analysis, semantic analysis, code generation, runtime systems, static analysis, advanced programming constructs, concurrency and parallelism, type systems, formal semantics, language pragmatics, and logic programming. Prerequisite: Admission to Major or Permission
+Prerequisites:
+none
+CS 406
+Topics in Networking & Communication
+2 credits
+Study of theory and/or implementation topics related to networking and computation such as mobility and social networking and expansion of topics covered in CS 306. Prerequisite: Admission to Major or Permission
+Prerequisites:
+none
+CS 410
+Topics in Algorithms & Computability
+2 credits
+Study of theory and/or implementation topics related to algorithms and computing such as advanced computational complexity, automata theory and computability, and advanced data structures algorithms and analysis. This includes the theoretical underpinnings of modern computer science, focusing on three main models of computation: DFA, PDA and Turing Machines. Students determine model capabilities and limitations: what is and is not computable by each of them.
+Prerequisites:
+Admission to major or permission.
+CS 415
+Topics in Parallel & Distributed Computing
+2 credits
+Study of theory and/or implementation topics related to parallel and distributed computing such as parallel algorithms, architecture, and performance, distributed systems, cloud computing, and formal models and semantics. These have been called techniques for High Performance Computing. Topics also include application areas and basic concepts of parallel computing, hardware design of modern HPC platforms and parallel programming models, methods of measuring and characterizing serial and parallel performance.
+Prerequisites:
+Admission to major or permission.
+CS 420
+Topics in Architecture & Organization
+2 credits
+Study of theory and/or implementation topics related to computer architecture and organization such as functional organization, multiprocessing and alternative architectures, and performance enhancements. This includes topics in computer architecture including a major emphasis on measuring and improving computer performance. Topics include advances in pipelining and analysis and optimization of storage systems and networks, multiprocessor challenges and trends.
+Prerequisites:
+Admission to major or permission.
+CS 435
+Topics in Intelligent Systems
+2 credits
+Study of theory and/or implementation topics related to intelligent systems such as Basic Search Strategies, Basic Knowledge Representation and Reasoning, Basic Machine Learning, Advanced Search, Advanced Representation and Reasoning, Reasoning Under Uncertainty, Agents, Natural Language Processing, Advanced Machine Learning, Robotics, and Perception and Computer Vision. Prerequisite: Admission to Major or Permission
+Prerequisites:
+none
+CS 440
+Topics in Information Management
+2 credits
+Study of theory and/or implementation topics related to information management such as indexing, relational databases, query languages, transaction processing, distributed databases, physical database design, data mining, information storage and retrieval and multimedia systems. Prerequisite: Admission to Major or Permission
+Prerequisites:
+none
+CS 445
+Topics in Information Assurance and Security
+2 credits
+Study of theory and/or implementation topics related to information assurance and security, such as defensive programming, threats and attacks, network security, cryptography, web security, platform security, security policy and governance, digital forensics, and secure software engineering. Prerequisite: Admission to Major or Permission
+Prerequisites:
+none
+CS 450
+Topics in Computational Science
+2 credits
+Study of theory and/or implementation topics related to computational science such as modeling and simulation, processing, interactive visualization, data, information and knowledge, and numerical analysis. Prerequisite: Admission to Major or Permission
+Prerequisites:
+none
+CS 465
+Topics in Graphics & Visualization
+2 credits
+Study of theory and/or implementation topics related to graphics and visualization such as basic and advanced rendering, geometric modeling, computer animation and visualization. Topics include game programming with concentration on 3D graphics including modeling, rendering, and animation for computer games and graphic simulations. Programs are created using a current graphics and game development environment.
+Prerequisites:
+Admission to major or permission.
+CS 470
+Topics in Human Computer Interaction
+2 credits
+Study of theory and/or implementation topics related to human computer interaction such as designing interaction, programming interactive systems, user-centered design and testing, new interactive technologies, collaboration & communication, statistical methods for HCI, human factors and security, design-oriented HCI, and mixed, augmented and virtual reality. This course builds on the use of modern compilers. Related topics covered include lexical scanning, parsing, type checking, code generation and translation, optimization, and compile-time and run-time support for modern programming languages.
+Prerequisites:
+Admission to major or permission.
+SE 401
+Topics in Software Requirements
+2 credits
+Students learn the practices of software requirements work in depth through hands-on experience. Topics include elicitation and analysis techniques, best practices for gathering and documentation, and methods for verification and validation. Emphasis on addressing diversity, equity, and inclusion is applied throughout.
+Prerequisites:
+SE 300, SE 301, SE 303
+SE 402
+Topics in Software Testing, Measurement, and Quality
+2 credits
+Students learn the practices of software testing, measurement, and quality in depth through hands-on work. This course covers the aspects of software engineering that deal with a) the influence of external bad actors, and b) finding and fixing problems (bugs) in software. Topics include types of software testing, methods and mathematics for quality control, and software process measurement and reporting. A diversity, equity, and inclusion lens is applied throughout.
+Prerequisites:
+SE 300 SE 301 SE 302, SE 303
+SE 403
+Topics in Software Architecture and Design
+2 credits
+Students learn software architecture, design, and related topics in depth through hands-on practice. Best practices in design, organization, documentation, communication, and preparation for manufacturing and distribution of software are explored. A diversity, equity, and inclusion lens is applied throughout.
+Prerequisites:
+SE 300. SE 301, SE 303
+SE 404
+Topics in Software Process, Life Cycle, and Sustainability
+2 credits
+Students learn best practices in software process, life cycle, and sustainability management through hands-on experience. Product and systems concerns are addressed in the context of real operational environments for software systems. Topics include software maintenance, project management, business ecosystems for software, and contracts. A diversity, equity, inclusion, and belonging lens is applied throughout.
+Prerequisites:
+SE 300, SE 301, SE 303
+SE 480
+Topics in Software and Systems Engineering
+2 credits
+Students learn the practice of software and systems engineering in depth through hands-on work. Topics include APIs, robust construction practices, cloud-based programming environments, large scale systems management, multi-disciplinary team management, and software safety. Emphasis on addressing diversity, equity, and inclusion is applied throughout.
+Prerequisites:
+SE 300, SE 301, SE 303
+General Electives
+Take 6 credits from Goal Area 5.
+Take 6 credits from Goal Area 6.
+For general education courses, at least two classes must be from the same department, with one being at a higher level than the first.
+Degree Plan
+First Year
+Fall
+- 15 Credits
+ENG 101
+Foundations of Writing & Rhetoric
+4 credits
+Students in this course approach writing as a subject of study by investigating how writing works across a variety of contexts.
+Prerequisites:
+none
+Goal Areas: GE-1A
+CIS 121
+Introduction to Programming
+4 credits
+This course provides conceptual and logical tools for students planning to major in a computing-based major. Programming in a high-level language such as C++, Python, or Java, and the development of skills in abstraction, problem-solving, and algorithmic thinking are emphasized.
+Prerequisites:
+MATH 112 or MATH 113 or MATH 115 or MATH 121
+MATH 121
+Calculus I
+4 credits
+Limits, continuity, the derivative and applications, transcendental functions, L'Hopital's Rule, and development of the Riemann integral.
+Prerequisites:
+Satisfy Placement Table in this section, MATH 115 or both MATH 112 and MATH 113 with "C" (2.0) or better.
+Goal Areas: GE-04
+Spring
+- 15 Credits
+CIS 122
+Data Structures
+4 credits
+This course is a continuation of CIS 121. Students develop a basic knowledge of programming skills and object-oriented concepts, and use fundamental data structures such as lists, stacks, queues, and trees.
+Prerequisites:
+CIS 121. Select One Course: MATH 112, MATH 113, MATH 115, MATH 121, or MATH 130
+MATH 122
+Calculus II
+4 credits
+Techniques of integration, applications of integration, improper integrals, numerical integration, the calculus of parametric curves, and infinite series and sequences.
+Prerequisites:
+MATH 121 with "C" (2.0) or better or consent
+Second Year
+Fall
+- 15 Credits
+CIS 223
+Algorithms
+4 credits
+This course builds on CS 122 (Data Structures) with coverage of advanced data structures and associated algorithms, including trees, graphs, hashing, searching, priority queues, and memory management. Formal proof techniques, the analysis of best, worst, and expected cases, and the development of efficient algorithms are emphasized. Use of effect-free programming, first-class functions, and higher-order operations such as map, reduce, and filter are explored.
+Prerequisites:
+MATH 121 and CS 111 or CIS 122 or IT 214
+MATH 280
+Discrete Mathematics for Computer Science I
+4 credits
+This course is an introduction to mathematical concepts needed in computer science, including sets, relations and functions, propositional logic, proof techniques, recurrence relations, graphs and trees, and discrete probability. This course is not intended for students pursuing a degree in mathematics.
+Prerequisites:
+MATH 121 with "C" (2.0) or better or consent.
+Spring
+- 17 Credits
+CIS 224
+Computer Architecture
+4 credits
+This course presents historical and current concepts and implementations of computer organization. Topics include instruction set design, digital storage, performance metrics, processor datapath and control, pipelining, memory hierarchy, busses and I/O interfacing, and parallel processors.
+Prerequisites:
+CS 111 or CIS 122or IT 214
+MATH 247
+Linear Algebra I
+4 credits
+Matrices, determinants, systems of linear equations, vector spaces, linear transformations, and characteristic value problems.
+Prerequisites:
+MATH 122 with "C" (2.0) or better or consent
+Third Year
+Fall
+- 14 Credits
+SE 300
+Software Engineering Academy Project
+3 credits
+Students participate in their first hands-on industry software development project. Every major element of the typical project lifecycle will be experienced, based on live project features wherever possible. This course prepares students for their first external work-based learning experience in industry or on an industry project. Emphasis is placed on diversity, equity, and inclusion for both technical and professional best practices. Requires admission to program.
+Prerequisites:
+Admission to the program.
+SE 301
+(Core): Introduction to Software Engineering
+2 credits
+Students are introduced to the main elements of software engineering including requirements analysis, software design, software construction, project management, and best practices for project management and software systems engineering with an emphasis on diversity, equity, and inclusion. This course prepares students for their first work-based learning experiences in industry or on an industry project. Requires admission to the program.
+Prerequisites:
+Admission to the program.
+SE 303
+(Core): Introduction to Context-aware Software Practices
+2 credits
+Students are introduced to the aspects of software engineering practice that are heavily influenced by the technical, business, and social contexts in which software systems operate. These include software sustainment, software process and lifecycle concerns, best practices in software and systems engineering, and software safety. This course prepares students for their first work-based learning experiences in industry or on an industry project, with an emphasis on diversity, equity, inclusion, and belonging. Requires admission to the program.
+Prerequisites:
+23175
+SE 304
+Preparation for Self-directed Study in Software Engineering
+2 credits
+Principles of self-directed learning are used to scope and prepare for future study of software engineering topics, especially as they are used in industry. Principles include goal setting, time management, planning, learning strategies, meta-cognition, self-regulation, and evaluation of personal learning. A diversity, equity, inclusion, and belonging lens is applied throughout. Requires admission to the program.
+Prerequisites:
+Admission to the program.
+MATH 354
+Concepts of Probability & Statistics
+4 credits
+A calculus based introduction to probability and statistics. Topics include probability, random variables, probability distributions (discrete and continuous), joint probability distributions (discrete and continuous), statistical inference (both estimation and hypothesis testing), confidence intervals for distribution of parameters and their functions, sample size determinations, analysis of variance, regression, and correlation. This course meets the needs of the practitioner and the person who plans further study in statistics. Same as MATH 354. Fall, Spring, Summer
+Prerequisites:
+MATH 122 with "C" (2.0) or better or consent
+SE 495
+Software Engineering Seminar
+1 credits
+Students learn about software engineering practice through seminars with faculty, graduate students, undergraduate students admitted to the SE major, visiting researchers, and industry members. SE students are assisted in their development as learners and professional citizens through workshops. A diversity, equity, inclusion, and belonging lens is applied throughout. This course is repeated by upper-division Software Engineering students every semester. Requires admission to the program.
+Prerequisites:
+Admission to the program.
+Spring
+- 13 Credits
+SE 302
+(Core): Introduction to Software Quality and Testing
+2 credits
+Students are introduced to the main elements of software engineering that deal with a) the influence of external bad actors, and b) finding and fixing problems (bugs) in software. The course covers software testing, software quality management, and software security. It prepares students for their first work-based learning experiences in industry or on an industry project, with an emphasis on best practices in diversity, equity, and inclusion. Requires admission to the program.
+Prerequisites:
+23174
+CS 304
+CS Core: Databases & Information Security
+2 credits
+This course introduces the foundational concepts of Information Management, Database Systems, Data Modeling, Data Security, Secure Design, Defensive Programming, Security and Cryptography.
+Prerequisites:
+CIS 223, CIS 224, and admission to major.
+CS 306
+Network Architectures
+2 credits
+An introduction to data communications and networks. The field encompasses local area networks, wide area networks, and wireless communication. Topics include digital signals, transmission techniques, error detection and correction, OSI model, TCP/IP model, network topologies, network protocols, and communications hardware.
+Prerequisites:
+CIS 223 and CIS 224 or EE 234
+SE 311W
+SE Professionalism 1
+2 credits
+Students learn and develop the elements of professionalism while working on software project teams in industry or on projects with industry clients. Topics include leadership, metacognition, teamwork, written and oral communication, ethics, diversity, equity, inclusion, belonging, and professional and personal responsibility.
+Prerequisites:
+SE 300
+SE 391
+Software Engineering Project 1
+4 credits
+Students learn and practice the essential elements of software engineering while working on a software project team in industry or on a project with an industry client. Topics include software requirements, design, construction, testing and quality, sustainment, security, and systems engineering, and project management. A diversity, equity, inclusion, and belonging lens is applied to both technical and professional course content. Course must be taken concurrently with SE 311W.
+Prerequisites:
+SE 300, SE 301, SE 303
+SE 495
+Software Engineering Seminar
+1 credits
+Students learn about software engineering practice through seminars with faculty, graduate students, undergraduate students admitted to the SE major, visiting researchers, and industry members. SE students are assisted in their development as learners and professional citizens through workshops. A diversity, equity, inclusion, and belonging lens is applied throughout. This course is repeated by upper-division Software Engineering students every semester. Requires admission to the program.
+Prerequisites:
+Admission to the program.
+Fourth Year
+Fall
+- 13 Credits
+CS 301
+CS Core: Operating Systems
+2 credits
+This course introduces the foundational concepts of operating systems including operating systems principles, concurrency, scheduling, dispatch, and memory management and prepares students for advanced topics in operating systems.
+Prerequisites:
+CIS 223, CIS 224 or EE 234, and admission to major.
+SE 312W
+SE Professionalism 1
+2 credits
+Students further learn and develop the elements of professionalism while working on software project teams in industry or on projects with industry clients. Topics include leadership, metacognition, teamwork, written and oral communication, ethics, diversity, equity, inclusion, belonging, and professional and personal responsibility.
+Prerequisites:
+SE 311W, SE 391
+MATH 380
+Discrete Mathematics for Computer Science II
+4 credits
+A continuation of the topics from MATH 280. The major focus of the course is understanding and analyzing algorithms, including proving that algorithms perform correctly. Topics include modular arithmetic, counting problems, sorting algorithms and constructions on graphs. This course is not intended for students pursuing a major degree in mathematics.
+Prerequisites:
+MATH 247 and MATH 280 with a grade of "C" (2.0) or better
+SE 392
+Software Engineering Project 2
+4 credits
+Further learning and practice of the main elements of software engineering while working on software project teams in industry or on projects with industry clients. Topics include software requirements, design, construction, testing and quality, sustainment, security, and systems engineering, and project management. A diversity, equity, inclusion, and belonging lens is applied to both technical and professional course content. Course must be taken concurrently with SE 312W.
+Prerequisites:
+SE 311W, SE 391
+SE 495
+Software Engineering Seminar
+1 credits
+Students learn about software engineering practice through seminars with faculty, graduate students, undergraduate students admitted to the SE major, visiting researchers, and industry members. SE students are assisted in their development as learners and professional citizens through workshops. A diversity, equity, inclusion, and belonging lens is applied throughout. This course is repeated by upper-division Software Engineering students every semester. Requires admission to the program.
+Prerequisites:
+Admission to the program.
+Spring
+- 13 Credits
+SE 411W
+SE Professionalism 3
+2 credits
+Students further learn and develop the elements of professionalism while interacting regularly with clients, software developers, other team members, managers, and administrators in an industry setting. Further development and implementation of skills related to leadership, metacognition, teamwork, written and oral communication, ethics, diversity, equity, inclusion, belonging, and professional and personal responsibility.
+Prerequisites:
+SE 312W, SE 392
+SE 491
+Software Engineering Capstone 1
+4 credits
+Further learning and practice of the main elements of software engineering while working on software project teams in industry or on projects with industry clients. Topics include software requirements, design, construction, testing and quality, sustainment, security, and systems engineering, and project management. A diversity, equity, inclusion, and belonging lens is applied to both technical and professional course content. Course must be taken concurrently with SE 411W. Senior standing in SE program and at least 12 credits earned in SE technical cores and electives.
+Prerequisites:
+SE 312W, SE 392. Senior standing in SE program and at least 12 credits earned in SE technical cores and electives.
+SE 495
+Software Engineering Seminar
+1 credits
+Students learn about software engineering practice through seminars with faculty, graduate students, undergraduate students admitted to the SE major, visiting researchers, and industry members. SE students are assisted in their development as learners and professional citizens through workshops. A diversity, equity, inclusion, and belonging lens is applied throughout. This course is repeated by upper-division Software Engineering students every semester. Requires admission to the program.
+Prerequisites:
+Admission to the program.
+Fifth Year
+Fall
+- 13 Credits
+SE 412W
+SE Professionalism 4
+2 credits
+Students further learn and develop the elements of professionalism while interacting regularly with clients, software developers, other team members, managers, and administrators in an industry setting. Further development and implementation of skills related to leadership, metacognition, teamwork, written and oral communication, ethics, and professional and personal responsibility in an industry context with reflection on educational growth.
+Prerequisites:
+SE 411W, SE 491
+SE 492
+Software Engineering Capstone 2
+4 credits
+Students further learn and develop the essential elements of software engineering while working on software project teams in industry or on projects with industry clients. Further development and rounding out of experience with software requirements, design, construction, testing and quality, sustainment, security, and systems engineering, and project management. A diversity, equity, inclusion, and belonging lens is applied to both technical and professional course content. Course must be taken concurrently with SE 412W. Senior standing in SE program and at least 12 credits earned in SE technical cores and electives.
+Prerequisites:
+SE 411W, SE 491
+SE 495
+Software Engineering Seminar
+1 credits
+Students learn about software engineering practice through seminars with faculty, graduate students, undergraduate students admitted to the SE major, visiting researchers, and industry members. SE students are assisted in their development as learners and professional citizens through workshops. A diversity, equity, inclusion, and belonging lens is applied throughout. This course is repeated by upper-division Software Engineering students every semester. Requires admission to the program.
+Prerequisites:
+Admission to the program.Initial deposit: N/A
+
+
+Application Fee for Undergraduate: $ 20
+Application Fee for Postgraduate: $ 40
+
+
+Annual Fee for Undergraduate: $ 18,812
+Annual Fee for Postgraduate: $ 14,918
+
+
+English Language Requirements Undergraduate only:
+TOEFL iBT (internet-based test) score of 61 or better
+Pearson Test of English (PTE) score of 47 or better
+IELTS academic test score of 5.5 or better
+
+
+English Language Requirements Postgraduate only:
+Different for every course and given in course content 
+
+
+Entry Requirements Undergraduate only:
+A cumulative high school GPA of 3.0 or higher or A rank in the top 50% of your high school class or An ACT composite score of 21 or higher and a minimum cumulative high school GPA of 2.7. If you do not meet the above admission requirements, you can submit additional information to consider when reviewing your application.
+
+
+Entry Requirements Postgraduate only:
+Applicants must possess the equivalent of a U.S. Bachelor's degree to be considered for graduate programs at Minnesota State Mankato. The degree must be earned at an institution recognized and approved to award the degree. GRE (Graduate Record Examination) is required by some academic programs.
+
+English Language requirements of graduate programs is different for each course. Graduate programs only have IELTS and TOEFL test scores.
+For Graduate Entry Requirements, some requirements like GPA, Score are mentioned on the course page so add them too.

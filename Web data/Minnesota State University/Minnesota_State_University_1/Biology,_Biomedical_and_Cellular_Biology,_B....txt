@@ -1,0 +1,465 @@
+Link: https://cset.mnsu.edu/academic-programs/Biology/biology-bs-biomedical-and-cellular-biology/
+
+College of Science, Engineering & Technology
+Academic Programs
+Biology
+Biology, BS Biomedical and Cellular Biology
+Biology Section
+Biology
+Biology, BS Biomedical and Cellular Biology
+Biology, BS Organismal Biology and Ecology
+Biology, Minor
+Biology, Master of Science (MS)
+Biology (BS)
+Biomedical and Cellular Biology
+A critical understanding and awareness of cellular and molecular physiology is necessary for future leaders pursuing careers in healthcare, translational, or essential scientific discovery. The advent of cellular and genetic modulation, precision therapeutics, modern microbiology, and bioinformatics has accelerated molecular science, and graduates require an advanced baseline from which to grow. Those prepared to collaborate, interpret/visualize data, and create new ways forward hold the keys to our future.
+Current Catalog Year
+2024-2025
+Degree
+Major /                                         Total Credits
+67 / 120
+Locations
+Mankato
+Apply
+Program Requirements
+Program
+                                    Requirements
+Required General Education
+BIOL 105
+General Biology I
+4 credits
+Study of biological processes at the suborganismal level including cell chemistry, metabolism, reproduction, genetics, and complex tissue physiology. Laboratory and discussion sessions stress problem solving and experimental design.
+Prerequisites:
+none
+Goal Areas: GE-03
+CHEM 201
+General Chemistry I
+5 credits
+Introduction to the basic principles of chemistry including atomic and molecular structure, bonding, chemical reactions, stoichiometry, thermodynamics and states of matter. Laboratory will reinforce lecture concepts. Prereq: C or higher in MATH 112 or the equivalent; high school chemistry or C or higher in CHEM 104
+Prerequisites:
+"C" (2.0) or higher in MATH 112 or the equivalent; high school chemistry or "C" (2.0) or higher in CHEM 104.
+Goal Areas: GE-02, GE-03
+Math Requirement
+- Choose 3 - 4 Credit(s).
+MATH 113
+Trigonometry
+3 credits
+Basic concepts of trigonometry as preparation for college level mathematics and science course work. Topics include concepts of algebra (real numbers, functions, graphs of functions, exponential and logarithmic functions), trigonometric functions, analytic trigonometry, applications of trigonometry, and analytic geometry.
+Prerequisites:
+Satisfy Placement Table in this section, or MATH 112 with "C" (2.0) or better.
+Goal Areas: GE-04
+MATH 115
+Precalculus Mathematics
+4 credits
+This course will cover topics of precalculus mathematics. Topics covered will include functions, graphs of functions, exponential and logarithmic functions, conic sections, systems of equations and inequalities, matrices, trigonometric functions, circular functions, vectors and complex numbers, induction, series and probability.
+Prerequisites:
+Satisfy Math Placement Table in this section, or grade of P in MATH 098.
+Goal Areas: GE-04
+MATH 121
+Calculus I
+4 credits
+Limits, continuity, the derivative and applications, transcendental functions, L'Hopital's Rule, and development of the Riemann integral.
+Prerequisites:
+Satisfy Placement Table in this section, MATH 115 or both MATH 112 and MATH 113 with "C" (2.0) or better.
+Goal Areas: GE-04
+Major Common Core
+BIOL 106
+General Biology II
+4 credits
+Study of biological processes at the organismal level including a survey of life forms (viruses, bacteria, protists, fungi, plants, and animals), their evolution, and ecology. Laboratory and discussion sessions stress problem solving and experimental design.
+Prerequisites:
+none
+BIOL 211
+Genetics
+4 credits
+Introduction to genetic analysis. Topics covered will include those of both classical and modern genetics: population genetics, molecular genetics, genetic manipulation of organisms and selection. Central to this course will be the primacy of the trait as the object of genetics and the development/refinement of the concept of the gene. Lab included.Fall, Spring, Summer
+Prerequisites:
+BIOL 105, BIOL 106, and MATH 112
+BIOL 300
+Evolutionary Analysis
+3 credits
+This course will provide students a comprehensive approach to understanding the unifying theory that all biological systems must operate. Student will apply evolutionary theory to ecosystem, population, individual and gene levels of organization in both eukaryotic and prokaryotic groups.
+Prerequisites:
+BIOL 105, BIOL 106, BIOL 211
+BIOL 489
+Senior Seminar
+1 credits
+Senior Seminar in Biology will expose student to the variety of research and job outcomes that exist within the field of biological sciences. Students will receive help in resume building, interview skills, and overall oral and written communication. Students must have completed 90 credits or more toward graduation.
+Prerequisites:
+none
+PHYS 211
+Principles of Physics I
+4 credits
+General background in physical concepts for those who do not plan advanced study in physics or engineering. Topics include mechanics, fluids, heat and thermodynamics. Lecture and laboratory.
+Prerequisites:
+Either MATH 112 and MATH 113, or MATH 115
+Goal Areas: GE-02, GE-03
+Statistics Requirement
+- Choose 3 - 4 Credit(s).
+GEOG 476
+Spatial Statistics
+3 credits
+Descriptive statistics, probability, hypothesis testing, introduction to non-parametric statistics, correlation, introduction to regression analysis, spatial statistics, and principles of data representation in graphs and tables.
+Prerequisites:
+none
+HLTH 475
+Biostatistics
+3 credits
+Introduction to statistical analysis as applied to the health sciences. Examines concepts and methods of statistical procedures applied to health problems and issues.
+Prerequisites:
+MATH 110, STAT 154, Or any other mathematics course higher than MATH 110.
+STAT 154
+Elementary Statistics
+4 credits
+An introduction to statistical concepts and methods that is applicable to all disciplines. Topics include descriptive measures of data, probability and probability distributions, statistical inference, tests of hypotheses, confidence intervals, correlation, linear regression, and analysis of variance. The use of statistical software will be emphasized. Prereq: ACT Math sub-score of 19 or higher, successful completion of MATH 098 or appropriate placement scores (see Placement Information under Statistics) Fall, Spring, Summer GE-4
+Prerequisites:
+Satisfy Placement Table in this section, or MATH 098 with grade of P.
+Goal Areas: GE-02, GE-04
+Emphasis Common Core
+BIOL 320
+Cell Biology
+4 credits
+An examination of eukaryotic cellular structure, organization and physiology. Lab included.
+Prerequisites:
+BIOL 105 and BIOL 106, BIOL 211
+BIOL 371
+Microbiology
+4 credits
+This course is a comprehensive introduction to the structure, biochemistry, phylogeny, molecular biology, pathobiology, immunology, and ecology of microbes, with an emphasis on bacteria. Lab will include classical and contemporary techniques for the identification and characterization of bacteria.
+Prerequisites:
+BIOL 105, BIOL 106, CHEM 201
+CHEM 202
+General Chemistry II
+5 credits
+Continuation of the basic principles of chemistry including properties of solutions, kinetics, acids and bases, equilibria, buffers, precipitation reactions, electron transfer reactions, electrochemistry, entropy and free energy. Laboratory will reinforce lecture concepts.
+Prerequisites:
+"C" (2.0) or higher in CHEM 201
+CHEM 322
+Organic Chemistry I
+4 credits
+Introduction to organic nomenclature, structure, bonding, chemical reactivity, organic acid-base reactions, mechanisms and stereochemistry. IR, MS, and NMR spectroscopy will be introduced. The chemistry of alkanes, alkyl halides, alkenes, alkynes, and alcohols will be covered. Laboratory illustrates synthetic techniques and the preparation and reactions of functional groups discussed during lecture.
+Prerequisites:
+CHEM 202, "C" (2.0) or higher in CHEM 202.
+Biochemistry Requirement
+- Choose 4 - 8 Credit(s).
+CHEM 360
+Principles of Biochemistry
+4 credits
+Analysis of the structure and metabolism of biologically important compounds. This intermediate-level course is designed for students in the medical technology, food science, chemistry education, chemistry and pre-professional health majors. The laboratory teaches basic biochemical techniques.
+Prerequisites:
+CHEM 322. CHEM 324 is strongly recommended.
+CHEM 460
+Biochemistry I
+3 credits
+Detailed analysis of the structures, properties, and functions of proteins, carbohydrates, and lipids; introduction to carbohydrate metabolism; theory for the purification and analysis of proteins. Concurrent enrollment in CHEM 465 is recommended.
+Prerequisites:
+BIOL 106, CHEM 324. BIOL 106 or permission "C" (2.0) or higher in all prerequisites.
+CHEM 461
+Biochemistry II
+3 credits
+Detailed analysis of the reactions involved in intermediary metabolism, translation, transcription, and replication.
+Prerequisites:
+CHEM 460
+CHEM 465
+Biochemical Techniques I
+2 credits
+A lecture/laboratory course, which presents methodology and instrumentation used to purify and analyze biomolecules. Techniques include chromatography, radioisotope techniques, polyacrylamide gel electrophoresis, spectrophotometry, and PCR analysis.
+Prerequisites:
+Concurrent registration in CHEM 460 or completion of CHEM 460 with "C" or higher. CHEM 305 is highly recommended.
+Emphasis Restricted Electives
+Upper Division Electives
+- Choose 11 - 12 Credit(s). At least 8 credits must be from courses with a laboratory component.
+BIOL 324
+Neurobiology
+3 credits
+Basic anatomy and physiology of the nervous system. The course is designed for students majoring in biology, psychology or health related programs.
+Prerequisites:
+BIOL 220
+BIOL 325
+Principles of Human Anatomy
+4 credits
+Systems and regional approach to the structure of the human body. Primary emphasis on gross anatomy supported by 3-dimensional models and animal dissections, with additional emphasis on cell and tissue-level anatomy supported by histological examination. The course is designed for students majoring in biology programs. Lab included.
+Prerequisites:
+BIOL 105
+BIOL 330
+Principles of Human Physiology
+4 credits
+Principles of functions of human cells, organs, and systems with an emphasis on organ/system interactions. This course is designed for students majoring in biology, chemistry, or related sciences, and medically-related areas. Includes a laboratory with a research and medical emphasis.
+Prerequisites:
+BIOL 220, CHEM 104 or CHEM 106 or CHEM 111 or CHEM 201
+BIOL 380
+Blood Banking/Urinalysis
+3 credits
+Basic understanding of the principles of immunohematology applied to the area of blood blanking including major blood group systems, principles for antigen/antibody detection and identification, donor blood collection, transfusion evaluation, theory of renal function in health and disease, specimen collection, handling, and processing, and components of routine urinalysis.
+Prerequisites:
+none
+BIOL 398
+RISEbio research
+2 credits
+This course is designed as research experience to RISEbio scholars. Students taking this course will be involved in an original research project that is mentored by faculty. Using a variety of methods, students will collect original data and contribute to problem solving in the biological sciences. As an early research experience, emphasis will be placed on the process of scientific research, including formulation of a research plan, data collection, assessment of data quality and interpretation based on available data. Students are required to keep a lab notebook, work in teams and present their findings to classmates and a wider audience.
+Prerequisites:
+BIOL 105, BIOL 106. RISEbio program participant, instructor permission
+BIOL 411
+Human Genetics
+3 credits
+This course will examine multiple facets of human genetics. The modern human genome is not a static entity but one that arose from a dynamic combination of inputs from multiple human species, effects from the environment, and their mixture over time. The first third of the course will study ancient human genetics and their contributions to our genome, the second will study human ancestry and migration patterns, and human population genetics. The final third of the course will investigate the modern human genome, genetic diseases, genetic engineering of our genome, and the future of human genetics and its ethical implications.
+Prerequisites:
+none
+BIOL 413
+Bioinformatics
+4 credits
+The advent of next-generation DNA and RNA sequencing technology has revolutionized Biology, leading to transformational insights in disciplines spanning medicine, molecular taxonomy, conservation, and agriculture. This course will introduce students to computational and bioinformatics tools necessary to address and analyze Big Data, with special attention paid to interpretation and communication through figures. Students will be free to analyze publicly-available data of their choosing alongside curated cohorts while learning how to critically assess bioinformatics conclusions found within primary research literature. No prior computer programming experience is necessary. The associated lab will focus on computational analysis and the introduction of sequencing techniques.
+Prerequisites:
+BIOL 105, BIOL 106, BIOL 211
+BIOL 417
+Biology of Aging and Chronic Diseases
+3 credits
+Emphasis is placed on the biomedical aspects of aging and chronic disease. The course is designed for students majoring in biology, gerontology programs, or other health related programs.
+Prerequisites:
+BIOL 100 or BIOL 105
+BIOL 420
+Diagnostic Parasitology
+4 credits
+Clinically important parasites. Protozoans, Flukes, Tapeworms, Roundworms, Ticks, Mites and Insects. Designed for Medical Technology, Pre-Med, Pre-Vet and Biology majors. Identification, clinical disease, epidemiology and ecology are covered. Lab included.
+Prerequisites:
+BIOL 100 or BIOL 105, BIOL 106 recommended
+BIOL 423
+Comparative Vertebrate Anatomy
+4 credits
+This course will explore the structure and function of the vertebrate body in its diverse forms from fishes to mammals. Discussion of individual organ systems will focus on developmental patterns, function and evolutionary relationships. The lab will include microanatomy (histology) and macroanatomy (gross anatomy) of example organisms. Students will become familiar with the tissue, organ and system levels of the anatomy of vertebrates.
+Prerequisites:
+BIOL 105, BIOL 106, BIOL 306
+BIOL 424
+Developmental Biology
+3 credits
+Understanding the process of cell differentiation and development. Special emphasis will be placed on the genetic, molecular, and cellular mechanisms that direct the development of multicellular organisms. Course to include current areas of research and other timely topics.
+Prerequisites:
+BIOL 100 or BIOL 105
+BIOL 425
+Developmental Biology Lab
+1 credits
+Biology 425 is an optional 1-credit laboratory addition to Developmental Biology, Biology 424. In the laboratory component, students will be exposed to modern techniques used to examine developmental processes in several key model systems. Laboratory exercises consist of experiments designed to demonstrate fundamental concepts in development and to familiarize students with experimental approaches utilized in studying developmental biology and embryology.
+Prerequisites:
+BIOL 211; Co-requisite: BIOL 424
+BIOL 430
+Hematology/Introduction to Immunology
+4 credits
+Collection, examination, evaluation, morphology, function and diseases of blood cells. Hemostasis/coagulation of blood. Immunology theory is presented. Lab included.
+Prerequisites:
+none
+BIOL 433
+Cardiovascular Physiology
+3 credits
+This course is a functional study of the heart and circulatory system.
+Prerequisites:
+none
+BIOL 434
+Animal Physiology
+4 credits
+This course focuses on animal physiology with an emphasis on both invertebrates and vertebrates. Specifically, the course will focus on comparative mechanisms involved in physiological processes at the molecular, cellular, tissue, organ, system and whole organism levels. Inquiry-based laboratory exercises will examine physiological concepts using animal models.
+Prerequisites:
+CHEM 201, BIOL 423
+BIOL 435
+Histology
+4 credits
+Study of types, arrangements and special adaptations of human tissues. Lab included.
+Prerequisites:
+BIOL 220
+BIOL 436
+Animal Behavior
+4 credits
+An exploration of behavioral strategy, communication, learning, and social systems of animals, with emphases placed on the causes, evolution, ecological implications, and function of behavior at the individual and population level. Lab included.
+Prerequisites:
+BIOL 105, BIOL 106
+BIOL 438
+General Endocrinology
+3 credits
+This course provides the basis for understanding hormones and the mechanisms of their actions in both the normal and pathological states. Sample topics to be included are diabetes, osteoporosis, hormones of reproduction and current social and medical issues related to the course.
+Prerequisites:
+BIOL 100 or BIOL 105
+BIOL 441
+Plant Physiology
+4 credits
+Plant functions such as water relations, mineral nutrition, translocation, metabolisms, photosynthesis, photorespiration, fat and protein metabolism, respiration, growth and development, phytohormones, reproduction and environmental physiology. Lab included. (One semester organic chemistry is recommended.)
+Prerequisites:
+BIOL 105, BIOL 106, BIOL 217, one semester organic chemistry recommended.
+BIOL 452
+Biological Instrumentation
+3 credits
+The principle and operation of instruments and their application to biological research. Types of instrumentation examined include spectroscopic, chromatographic, electroanalytic, radiographic, and imaging. Laboratory Information Management systems (LIMS) will also be examined. Emphasis is placed on GLP, GMP, and ISO 9000 practices.
+Prerequisites:
+BIOL 105, BIOL 106, or consent
+BIOL 466
+Principles of Pharmacology
+3 credits
+A lecture course that examines mechanisms of drug action, physiological responses and adverse reactions from sensitivities or allergies through overdose.
+Prerequisites:
+CHEM 201, BIOL 211. Select 1 course: BIOL 320 BIOL 330, BIOL 431, BIOL 441, BIOL 476
+BIOL 472
+Microbial Ecology and Bioremediation
+4 credits
+Role of microorganisms in soil, air, water, sewage processes as well as methods of measurement and detection. Special emphasis on the role of microorganisms in bioremediation. Lab included.
+Prerequisites:
+BIOL 105, BIOL 106, and BIOL 270
+BIOL 473
+Virology
+3 credits
+Viruses infect all living things, such as bacteria, fungi, plants, and animals (including humans). There are many viruses that cause significant human mortality and morbidity, such as influenza and smallpox viruses. However, the vast majority of viruses that infect humans have little or no negative impact on our health and well-being. This course will teach Virology by stressing the rules of replication that every virus must follow. The use of viruses as molecular tools, virus-host interactions, and current viral outbreaks will also be discussed.
+Prerequisites:
+BIOL 105, BIOL 106, and BIOL 270
+BIOL 474
+Immunology
+4 credits
+Fundamental principles of humoral and cell mediated immunity and the application of these principles. Current experimental work in the different areas of immunology will be discussed. Lab included.
+Prerequisites:
+BIOL 105, BIOL 106, and BIOL 270
+BIOL 475
+Medical Microbiology
+4 credits
+This course will cover bacterial, fungal, and viral human pathogens: what diseases they cause, how they cause disease, and how humans defend against and prevent those diseases. In the laboratory the student will isolate and identify pathogenic microorganisms using microbiological, biochemical, and immunological techniques.
+Prerequisites:
+BIOL 270
+BIOL 476
+Microbial Physiology and Genetics
+5 credits
+This course presents the physiology and genetics of microorganisms emphasizing those aspects unique to bacteria and archea. Topics include: energy production; biosynthesis of small molecules and DNA, RNA, and proteins; the formation of cell walls and membranes; microbial differentiation and behavior; and the genetic and biochemical regulation of these processes. Lab included.
+Prerequisites:
+BIOL 105, BIOL 106, BIOL 270
+BIOL 478
+Food Microbiology and Sanitation
+4 credits
+The role microbes play in production and spoilage of food products, as prepared for mass market. Topics include foodborn pathogens, epidemiology and control, essential principles in sanitation including Hazard Analysis/Critical Control Point and ISO 9000 requirements. Lab included.
+Prerequisites:
+BIOL 105, BIOL 106 and BIOL 270
+BIOL 479
+Molecular Biology
+4 credits
+This course will cover both eukaryotic and prokaryotic molecular biology including: DNA and RNA structure, transcription, regulation of gene expression, RNA processing, protein synthesis, DNA replication, mutagenesis and repair, recombination, and insertion elements. A number of important techniques used in recombinant DNA technology will be discussed and practiced.
+Prerequisites:
+BIOL 105, BIOL 106, BIOL 211
+Anatomy/Physiology Requirement
+- Choose ONLY ONE of the four following pairs of courses
+Human
+BIOL 325
+Principles of Human Anatomy
+4 credits
+Systems and regional approach to the structure of the human body. Primary emphasis on gross anatomy supported by 3-dimensional models and animal dissections, with additional emphasis on cell and tissue-level anatomy supported by histological examination. The course is designed for students majoring in biology programs. Lab included.
+Prerequisites:
+BIOL 105
+BIOL 330
+Principles of Human Physiology
+4 credits
+Principles of functions of human cells, organs, and systems with an emphasis on organ/system interactions. This course is designed for students majoring in biology, chemistry, or related sciences, and medically-related areas. Includes a laboratory with a research and medical emphasis.
+Prerequisites:
+BIOL 220, CHEM 104 or CHEM 106 or CHEM 111 or CHEM 201
+Animal
+BIOL 423
+Comparative Vertebrate Anatomy
+4 credits
+This course will explore the structure and function of the vertebrate body in its diverse forms from fishes to mammals. Discussion of individual organ systems will focus on developmental patterns, function and evolutionary relationships. The lab will include microanatomy (histology) and macroanatomy (gross anatomy) of example organisms. Students will become familiar with the tissue, organ and system levels of the anatomy of vertebrates.
+Prerequisites:
+BIOL 105, BIOL 106, BIOL 306
+BIOL 434
+Animal Physiology
+4 credits
+This course focuses on animal physiology with an emphasis on both invertebrates and vertebrates. Specifically, the course will focus on comparative mechanisms involved in physiological processes at the molecular, cellular, tissue, organ, system and whole organism levels. Inquiry-based laboratory exercises will examine physiological concepts using animal models.
+Prerequisites:
+CHEM 201, BIOL 423
+Plant
+BIOL 441
+Plant Physiology
+4 credits
+Plant functions such as water relations, mineral nutrition, translocation, metabolisms, photosynthesis, photorespiration, fat and protein metabolism, respiration, growth and development, phytohormones, reproduction and environmental physiology. Lab included. (One semester organic chemistry is recommended.)
+Prerequisites:
+BIOL 105, BIOL 106, BIOL 217, one semester organic chemistry recommended.
+BIOL 442
+Flora of Minnesota
+4 credits
+Field identification of plants with emphasis on local flora. History systematic, techniques, plant biogeography, methods of plant collection, preservation, preparation of herbarium specimens are covered. Lab and field trips included.
+Prerequisites:
+none
+Microbe
+- Choose 9 Credit(s). Take Biol 476 and 1 additional course
+BIOL 472
+Microbial Ecology and Bioremediation
+4 credits
+Role of microorganisms in soil, air, water, sewage processes as well as methods of measurement and detection. Special emphasis on the role of microorganisms in bioremediation. Lab included.
+Prerequisites:
+BIOL 105, BIOL 106, and BIOL 270
+BIOL 475
+Medical Microbiology
+4 credits
+This course will cover bacterial, fungal, and viral human pathogens: what diseases they cause, how they cause disease, and how humans defend against and prevent those diseases. In the laboratory the student will isolate and identify pathogenic microorganisms using microbiological, biochemical, and immunological techniques.
+Prerequisites:
+BIOL 270
+BIOL 476
+Microbial Physiology and Genetics
+5 credits
+This course presents the physiology and genetics of microorganisms emphasizing those aspects unique to bacteria and archea. Topics include: energy production; biosynthesis of small molecules and DNA, RNA, and proteins; the formation of cell walls and membranes; microbial differentiation and behavior; and the genetic and biochemical regulation of these processes. Lab included.
+Prerequisites:
+BIOL 105, BIOL 106, BIOL 270
+BIOL 478
+Food Microbiology and Sanitation
+4 credits
+The role microbes play in production and spoilage of food products, as prepared for mass market. Topics include foodborn pathogens, epidemiology and control, essential principles in sanitation including Hazard Analysis/Critical Control Point and ISO 9000 requirements. Lab included.
+Prerequisites:
+BIOL 105, BIOL 106 and BIOL 270
+Emphasis Unrestricted Electives
+Choose 8 Credit(s). BIOL 310 may not be used for this category. A limit of 4 total credits is allowed from BIOL 481, BIOL 497 and BIOL 499 combined.
+BIOL 300 - 499
+credits
+Prerequisites:
+none
+BIOL 217
+Plant Science
+4 credits
+Biology of plants including unique features of plant cells, life histories, metabolism, anatomy, physiology, and ecology. The course empathizes plants' remarkable adaptations to their environments, their diversity, and the vital roles they play in ecological interactions. For biology and environmental science majors and minors. Lab included.
+Prerequisites:
+BIOL 105 and BIOL 106 or consent
+CHEM 324
+Organic Chemistry II
+3 credits
+This course is a continuation Chem 322 and includes organic nomenclature, structure, bonding, chemical reactivity, organic acid-base reactions, and reaction mechanisms; the chemistry of ethers, aromatic and heterocyclic compounds, polyenes, ketones, aldehydes, amines, carboxylic acids and their derivatives, and alpha carbonyl compounds and synthetic transformations is covered.
+Prerequisites:
+CHEM 322 with a "C" (2.0) or higher.
+CHEM 325
+Organic Chemistry II Lab
+1 credits
+Laboratory will highlight common techniques including recrystallization, melting point determination, simple and fractional distillation, extraction, gas and thin layer chromatography, and chemical and spectroscopic qualitative analysis. Single and multi-step syntheses illustrating aromatic and carbonyl chemistry will be performed.
+Prerequisites:
+CHEM 324
+CHEM 467
+Biochemistry of Cancer and Therapeutics
+3 credits
+This course will focus on the interface of cancer and medicine. Topics will provide a comprehensive overview of the hallmarks of cancers, mechanisms of tumorigenesis and metastasis, while simultaneously emphasizing drug design, mechanisms of action, and structure-activity relationships for targeting these pathways in precision medicine. Past/current treatments will be evaluated for their therapeutic benefits, side effects, and resistance mechanisms. Moreover, primary literature will serve to illustrate the concepts and how these malignancies are modeled in research for drug discovery and development.
+Prerequisites:
+CHEM 360 or CHEM 460Initial deposit: N/A
+
+
+Application Fee for Undergraduate: $ 20
+Application Fee for Postgraduate: $ 40
+
+
+Annual Fee for Undergraduate: $ 18,812
+Annual Fee for Postgraduate: $ 14,918
+
+
+English Language Requirements Undergraduate only:
+TOEFL iBT (internet-based test) score of 61 or better
+Pearson Test of English (PTE) score of 47 or better
+IELTS academic test score of 5.5 or better
+
+
+English Language Requirements Postgraduate only:
+Different for every course and given in course content 
+
+
+Entry Requirements Undergraduate only:
+A cumulative high school GPA of 3.0 or higher or A rank in the top 50% of your high school class or An ACT composite score of 21 or higher and a minimum cumulative high school GPA of 2.7. If you do not meet the above admission requirements, you can submit additional information to consider when reviewing your application.
+
+
+Entry Requirements Postgraduate only:
+Applicants must possess the equivalent of a U.S. Bachelor's degree to be considered for graduate programs at Minnesota State Mankato. The degree must be earned at an institution recognized and approved to award the degree. GRE (Graduate Record Examination) is required by some academic programs.
+
+English Language requirements of graduate programs is different for each course. Graduate programs only have IELTS and TOEFL test scores.
+For Graduate Entry Requirements, some requirements like GPA, Score are mentioned on the course page so add them too.

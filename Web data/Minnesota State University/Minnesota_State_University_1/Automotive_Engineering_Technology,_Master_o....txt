@@ -1,0 +1,276 @@
+Link: https://cset.mnsu.edu/academic-programs/automotive-engineering-technology/automotive-engineering-technology-master-of-science-ms2/
+
+College of Science, Engineering & Technology
+Academic Programs
+Automotive Engineering Technology
+Automotive Engineering Technology, Master of Science (MS)
+Automotive Engineering Technology Section
+Automotive Engineering Technology
+Automotive Engineering Technology, Bachelor of Science (BS)
+Automotive Engineering Technology, Minor
+Automotive Engineering Technology, Master of Science (MS)
+Automotive Engineering Technology Faculty and Staff
+Automotive Engineering Technology Mission
+Automotive Engineering Technology Outcomes
+Automotive Engineering Technology Objectives
+Automotive Engineering Technology Narrative
+Automotive Engineering Technology (MS)
+The Automotive Engineering Technology MS prepares graduates for careers in product research, design, and development, along with manufacturing in the original equipment and aftermarket industries. Fields include passenger cars, trucks, motorcycles, recreational vehicles, vehicle emissions, safety, fuels and lubricants, construction, industrial, and agricultural equipment.
+Current Catalog Year
+2024-2025
+Degree
+Master of Science
+Major /                                         Total Credits
+32 / 32
+Locations
+Mankato
+Apply
+Program Requirements
+Program
+                                    Requirements
+Common Core
+AET 661
+Automotive Experimental Research 1
+2 credits
+The course is the first in a three course sequence focused on the specific skills important for the design of research and development programs. This course will primarily focus will be on four areas: the US Code of Federal Regulations as it relates to mobile source air quality; the measurement of evaporative emissions from vehicles; the process of measuring diluted emissions; and the measurement of raw gas emissions. A research question will be identified and students in the course will work as a research team and carry out the activity.
+Prerequisites:
+none
+AET 662
+Automotive Experimental Research 2
+2 credits
+This course is the second of a three course sequence in applied research methods. The course will focus on the specific skills important for the design of research and development programs. The course will specifically cover the following areas: US Environmental Protection Agency testing standards for vehicles and engines; the calibration procedures for chassis and engine dynamometers and the calibration procedures for exhaust gas analysis equipment. A research question will be identified and students in the course will work as a research team and carry out the activity.
+Prerequisites:
+none
+AET 663
+Automotive Experimental Research 3
+2 credits
+This course is the third of a 3 course sequence in applied research methods. The course will focus on the specific skills important for the design of research and development programs. The topics covered in this course relate to the management of research projects including: research plan development; budget development; scheduling and time management; leadership; and report preparation. A research question will be identified and students in the course will work as a research team and carry out the activity.
+Prerequisites:
+none
+MET 625
+Advanced Project Management
+3 credits
+Advanced Project Management presents in-depth topics in the management process of prioritizing, planning, staffing, managing, and directing projects.  Both people skills and advanced management tools will be addressed, along with advanced project evaluation techniques.
+Prerequisites:
+none
+MET 627
+Six Sigma from an Industrial Perspective
+3 credits
+Basics of Six Sigma from an industrial perspective.  Emphasis is on practical application of concepts.  Upon completion of course, the student will be familiar on a working level with Six Sigma tools leading to Green Belt certification level.
+Prerequisites:
+none
+MET 654
+Design of Experiments
+3 credits
+This course emphasizes the following topics:  Factorial designs, robust parameter design, Taguchi methods in Technology and product development, and other design and analysis topics.
+Prerequisites:
+none
+Research/Methods Course(s)
+MET 600
+Manufacturing Research Methods
+2 credits
+Research topics and methods related to manufacturing. The course will look at the current state of manufacturing and explore the research methods and experimental design procedures that are used in the area of manufacturing. Students will evaluate past research and will also design a research project in manufacturing.
+Prerequisites:
+none
+Restricted Electives
+Choose 3 - 15 Credit(s).
+AET 535
+Automotive Design & Construction
+1-4 credits
+Involves designing and building of prototype vehicles. Topics include: vehicle design decisions, rules, budgets, chassis design, body and aerodynamics, drive train choices, construction techniques, and test procedures. An actual experimental car will be built in this class. May be repeated.
+Prerequisites:
+none
+AET 568
+Automotive Research Methods and Design of Experiments
+4 credits
+Automotive research techniques and equipment form the basis for this course. Environmental measurement, air flow testing, engine dynamometer testing, and vehicle performance measurement are covered. Emphasis is placed on research procedures, data acquisition and interpretation, and technical report writing. Current research projects from the automotive industry are also examined.
+Prerequisites:
+none
+AET 592
+Seminar: Automotive
+1-4 credits
+Selected automotive topics.
+Prerequisites:
+none
+AET 637
+Automotive Emission Design and Measurement
+1-3 credits
+An in-depth laboratory experience involving the evaluation of existing automotive emission control systems and the design or modification of those systems. Emission testing using chemical analysis and chassis dynamometer as required in state and federal test procedures is also included.
+Prerequisites:
+none
+AET 638
+High Performance Engineering
+1-3 credits
+This course is intended for individuals wishing to be employed in professional automotive racing as a product development engineer, technical representative for a race product supplier, or race engineer. An in-depth study of vehicle dynamics and engine design utilizing on-board data acquisition, air flow measurement, and the engine dynamometer.
+Prerequisites:
+none
+AET 647
+Advanced Automotive Emissions and Measurement
+1-3 credits
+A continuation of AET 637.
+Prerequisites:
+none
+AET 648
+Advanced High Performance Engineering
+1-3 credits
+A continuation of AET 638.
+Prerequisites:
+none
+AET 664
+Automotive Experimental Research 4
+2 credits
+The course will focus on the specific skills important for the design of research and development programs. A research question will be identified and students in the course will work as a research team and carry out the activity. The primary activity will be the creation of a mathematical model that can be used in relation to the applied research activity. The course is an elective and would be taken after the AET 661, AET 662 and AET 663 sequence.
+Prerequisites:
+none
+AET 677
+Individual Study
+1-4 credits
+Prerequisites:
+none
+AET 697
+Internship: Automotive
+1-5 credits
+Automotive work experience in an area pertinent to the student's objective. Registration required prior to beginning employment.
+Prerequisites:
+none
+MET 507
+Manufacturing Resource Planning and Control
+3 credits
+Planning and control of plant resources in globally competitive manufacturing environments. Approaches to manufacturing problems related to design integration, production scheduling, staffing, plant layout, material flow, and inventory issues are examined.
+Prerequisites:
+none
+MET 525
+Project & Value Management
+3 credits
+A study of the optimal relationship between value and function of products and the cost and availability of resources. Topics include valuation, appraisal and capital budgeting, cost minimization, depreciation and economics worth, rates and rate bases, original and reproduction costs, and engineering economics.
+Prerequisites:
+none
+MET 526
+Logistics & Transportation
+3 credits
+Fundamentals of logistics:  control of materials, material handling, WIP, finished goods, costs of logistics.  Theory and step-by-step procedures are used to analyze logistic systems, packaging and transportation, including global logistics.
+Prerequisites:
+none
+MET 527
+Quality Management Systems
+3 credits
+This course is focused on quality assurance systems, management philosophies, methodology, function and impact of quality systems in manufacturing operations. Development and application of statistical process control tools.
+Prerequisites:
+none
+MET 528
+Lean Manufacturing
+3 credits
+Basics of Lean Manufacturing in industry, with emphasis on application of concepts. Students will learn the principles of Lean Manufacturing and how they can benefit a business.
+Prerequisites:
+none
+MET 628
+Advanced Quality Tools
+3 credits
+This seminar covers many of the advanced quality tools used in manufacturing and automotive industries. The emphasis is evenly divided between practical applications and theory. Upon completion, students will have an understanding of how these tools are used and why.
+Prerequisites:
+none
+MET 645
+CAD Applications
+1-3 credits
+An advanced graphics course which emphasizes the study of AutoCad software, related software, and their applications. Emphasis is on CAD systems, software customizing, and a review of current trends in CAD as used in contemporary industry.
+Prerequisites:
+none
+Unrestricted Electives
+Choose 11  Credit(s). A max of 8 credits can be from MBA courses.
+ENG 675
+Technical Communication for STEM Professionals
+3 credits
+Technical communication course designed specifically for STEM industry professionals or students in PSM programs; emphasis on development of technical communication skills and expertise needed for business- and industry-specific documents and presentations for internal or external audiences.
+Prerequisites:
+none
+MBA 612
+Data Analysis and Statistics for Managers
+2 credits
+This course provides an understanding of the role of statistics related to the gathering and creation of information used in business decision making. Data analysis concepts covered include hypotheses testing, ANOVA, multiple regression, time series analysis, and chi-square tests.
+Prerequisites:
+none
+MBA 614
+Economic Analysis for Managers
+2 credits
+The course develops and integrates principles and ideas from economic and business and applies them to managerial decision making and policy formulation within a firm.
+Prerequisites:
+none
+MBA 642
+Management of Human Resources
+2 credits
+The course will cover a range of topics, including the strategic management of human resources, job analysis, hiring, performance appraisal, training and development, compensation, as well as labor relations.
+Prerequisites:
+none
+MBA 645
+Information Technology and Systems Management
+2 credits
+The MBA MIS course integrates contemporary technology concepts with an emphasis on the managerial aspects of information systems. A review of contemporary technology examines data management, analysis, modeling, and design, and data communications, and networking in the most recent generation of technology. Project and change management, and information systems policy and strategy emphasize the managerial aspects of information systems. Project and change management examines how systems and technologies are implemented. It includes consideration of project planning, scheduling, and budgeting, as well as consideration of the change management required to implement projects, MIS policy, and strategy examines the IS project portfolio from the view of the senior IS executive and from the view of the business executive. It shows students how policy and strategy considerations affect every aspects of IS and, conversely, how IT transforms organizations, and indeed, the very nature of business.
+Prerequisites:
+none
+MBA 651
+Managing Behavior in a Changing World
+2 credits
+This course will focus on an area of study that attempts to explain, predict, control, and increase understanding of human work behavior in organizations both in the U.S. and internationally. Using a variety of techniques, students will learn about the nature of people as well as how individual and group behavior is influenced by organizational factors. The intent is to use various theories and principles to help diagnose and solve organizational problems. The goal is to more effectively manage in today's environment so employees are engaging in ethical, creative, and productive behaviors on the job. Learning tools include some lecture/discussion active learning groups, original readings, exercises, projects, cases, library research and presentations.
+Prerequisites:
+none
+MBA 657
+Managing Service and Manufacturing Operations
+2 credits
+This course addresses the concepts, techniques, and technology necessary to manage and control operations in services and manufacturing. The emphasis is on operations strategy, project management, quality management, and supply chain management.
+Prerequisites:
+none
+MBA 665
+Leadership
+2 credits
+This course is designed to combine the why of leadership thinking with the how of leadership skill development. The class is both philosopical and practical, so you will have to both think and apply what you are learning. The course will provide students with opportunities to use theories to analyze leader behaviors, and with personal awareness and development. You will come out of the class with a Leadership Development Plan of your own to help you apply the class to your own development as a leader and manager.
+Prerequisites:
+none
+MBA 667
+Organizational Development and Change
+2 credits
+This course is designed to provide students with the theory and practical applications to diagnose organizational problems and to develop appropriate interventions and solutions to those problems. Students also use theory to guide practice in designing and implementing successful organizational change. These activities require students to use research and data analysis skills to gather data to learn about organizations.
+Prerequisites:
+none
+Capstone Course
+Choose 2 - 3 Credit(s). Two (2) credits of Alternate Plan Paper or three (3) credits of Thesis. APP requires three (3) additional credits of AET or MET coursework.
+AET 694
+Alternate Plan Paper
+1-2 credits
+A minimum of 2 credits is required.
+Prerequisites:
+none
+AET 699
+Thesis
+1-3 credits
+.
+Prerequisites:
+noneInitial deposit: N/A
+
+
+Application Fee for Undergraduate: $ 20
+Application Fee for Postgraduate: $ 40
+
+
+Annual Fee for Undergraduate: $ 18,812
+Annual Fee for Postgraduate: $ 14,918
+
+
+English Language Requirements Undergraduate only:
+TOEFL iBT (internet-based test) score of 61 or better
+Pearson Test of English (PTE) score of 47 or better
+IELTS academic test score of 5.5 or better
+
+
+English Language Requirements Postgraduate only:
+Different for every course and given in course content 
+
+
+Entry Requirements Undergraduate only:
+A cumulative high school GPA of 3.0 or higher or A rank in the top 50% of your high school class or An ACT composite score of 21 or higher and a minimum cumulative high school GPA of 2.7. If you do not meet the above admission requirements, you can submit additional information to consider when reviewing your application.
+
+
+Entry Requirements Postgraduate only:
+Applicants must possess the equivalent of a U.S. Bachelor's degree to be considered for graduate programs at Minnesota State Mankato. The degree must be earned at an institution recognized and approved to award the degree. GRE (Graduate Record Examination) is required by some academic programs.
+
+English Language requirements of graduate programs is different for each course. Graduate programs only have IELTS and TOEFL test scores.
+For Graduate Entry Requirements, some requirements like GPA, Score are mentioned on the course page so add them too.

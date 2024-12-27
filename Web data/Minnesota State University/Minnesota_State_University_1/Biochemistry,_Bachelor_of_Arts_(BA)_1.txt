@@ -1,0 +1,349 @@
+Link: https://cset.mnsu.edu/academic-programs/biochemistry/biochemistry-bachelor-of-arts-ba2/
+
+College of Science, Engineering & Technology
+Academic Programs
+Biochemistry
+Biochemistry, Bachelor of Arts (BA)
+Biochemistry Section
+Biochemistry
+Biochemistry, Bachelor of Science (BS)
+Biochemistry, Bachelor of Arts (BA)
+Biochemistry Faculty and Staff
+Biochemistry (BA)
+The BiochemistryBA  is designed to give students a strong foundation in biology, chemistry and biochemistry. The curriculum is augmented with liberal arts courses to add a broader perspective and give greater versatility to graduates. Students are well prepared to pursue advanced study in professional health care programs. Many of our students pursue advanced degrees in medical schools, physician assistant programs, pharmacy schools and dental schools. Students graduating are well prepared to pursue laboratory positions in health care or agri-business companies or sales/customer service positions at pharmaceutical or medical device companies.
+Current Catalog Year
+2024-2025
+Degree
+Bachelor of Arts
+Major /                                         Total Credits
+70 / 120
+Locations
+Mankato
+Apply
+Program Requirements
+Degree Plan
+Program
+                                    Requirements
+Required General Education
+BIOL 105
+General Biology I
+4 credits
+Study of biological processes at the suborganismal level including cell chemistry, metabolism, reproduction, genetics, and complex tissue physiology. Laboratory and discussion sessions stress problem solving and experimental design.
+Prerequisites:
+none
+Goal Areas: GE-03
+MATH 115
+Precalculus Mathematics
+4 credits
+This course will cover topics of precalculus mathematics. Topics covered will include functions, graphs of functions, exponential and logarithmic functions, conic sections, systems of equations and inequalities, matrices, trigonometric functions, circular functions, vectors and complex numbers, induction, series and probability.
+Prerequisites:
+Satisfy Math Placement Table in this section, or grade of P in MATH 098.
+Goal Areas: GE-04
+Major Common Core
+BIOL 106
+General Biology II
+4 credits
+Study of biological processes at the organismal level including a survey of life forms (viruses, bacteria, protists, fungi, plants, and animals), their evolution, and ecology. Laboratory and discussion sessions stress problem solving and experimental design.
+Prerequisites:
+none
+BIOL 211
+Genetics
+4 credits
+Introduction to genetic analysis. Topics covered will include those of both classical and modern genetics: population genetics, molecular genetics, genetic manipulation of organisms and selection. Central to this course will be the primacy of the trait as the object of genetics and the development/refinement of the concept of the gene. Lab included.Fall, Spring, Summer
+Prerequisites:
+BIOL 105, BIOL 106, and MATH 112
+CHEM 201
+General Chemistry I
+5 credits
+Introduction to the basic principles of chemistry including atomic and molecular structure, bonding, chemical reactions, stoichiometry, thermodynamics and states of matter. Laboratory will reinforce lecture concepts. Prereq: C or higher in MATH 112 or the equivalent; high school chemistry or C or higher in CHEM 104
+Prerequisites:
+"C" (2.0) or higher in MATH 112 or the equivalent; high school chemistry or "C" (2.0) or higher in CHEM 104.
+Goal Areas: GE-02, GE-03
+CHEM 202
+General Chemistry II
+5 credits
+Continuation of the basic principles of chemistry including properties of solutions, kinetics, acids and bases, equilibria, buffers, precipitation reactions, electron transfer reactions, electrochemistry, entropy and free energy. Laboratory will reinforce lecture concepts.
+Prerequisites:
+"C" (2.0) or higher in CHEM 201
+CHEM 281
+Biochemistry and Chemistry Professional Foundations
+1 credits
+The course will cover aspects of the ethical conduct of research, chemical safety, and preparation for a profession related to chemistry or biochemistry.
+Prerequisites:
+CHEM 322
+CHEM 305
+Analytical Chemistry
+4 credits
+Introduction to the principles of chemical analysis, with emphasis on classical methods of analysis. Lectures will stress the theory of chemical measurements and sample handling. Laboratory exercises will provide students with opportunities to explore calibration methods, method development, and established procedures for volumetric and gravimetric analyses. Basic atomic spectroscopy is also presented.
+Prerequisites:
+"C" (2.0) or higher in CHEM 202
+CHEM 322
+Organic Chemistry I
+4 credits
+Introduction to organic nomenclature, structure, bonding, chemical reactivity, organic acid-base reactions, mechanisms and stereochemistry. IR, MS, and NMR spectroscopy will be introduced. The chemistry of alkanes, alkyl halides, alkenes, alkynes, and alcohols will be covered. Laboratory illustrates synthetic techniques and the preparation and reactions of functional groups discussed during lecture.
+Prerequisites:
+CHEM 202, "C" (2.0) or higher in CHEM 202.
+CHEM 324
+Organic Chemistry II
+3 credits
+This course is a continuation Chem 322 and includes organic nomenclature, structure, bonding, chemical reactivity, organic acid-base reactions, and reaction mechanisms; the chemistry of ethers, aromatic and heterocyclic compounds, polyenes, ketones, aldehydes, amines, carboxylic acids and their derivatives, and alpha carbonyl compounds and synthetic transformations is covered.
+Prerequisites:
+CHEM 322 with a "C" (2.0) or higher.
+CHEM 325
+Organic Chemistry II Lab
+1 credits
+Laboratory will highlight common techniques including recrystallization, melting point determination, simple and fractional distillation, extraction, gas and thin layer chromatography, and chemical and spectroscopic qualitative analysis. Single and multi-step syntheses illustrating aromatic and carbonyl chemistry will be performed.
+Prerequisites:
+CHEM 324
+CHEM 460
+Biochemistry I
+3 credits
+Detailed analysis of the structures, properties, and functions of proteins, carbohydrates, and lipids; introduction to carbohydrate metabolism; theory for the purification and analysis of proteins. Concurrent enrollment in CHEM 465 is recommended.
+Prerequisites:
+BIOL 106, CHEM 324. BIOL 106 or permission "C" (2.0) or higher in all prerequisites.
+CHEM 461
+Biochemistry II
+3 credits
+Detailed analysis of the reactions involved in intermediary metabolism, translation, transcription, and replication.
+Prerequisites:
+CHEM 460
+CHEM 465
+Biochemical Techniques I
+2 credits
+A lecture/laboratory course, which presents methodology and instrumentation used to purify and analyze biomolecules. Techniques include chromatography, radioisotope techniques, polyacrylamide gel electrophoresis, spectrophotometry, and PCR analysis.
+Prerequisites:
+Concurrent registration in CHEM 460 or completion of CHEM 460 with "C" or higher. CHEM 305 is highly recommended.
+CHEM 466
+Biochemical Techniques II
+2 credits
+Students work in teams to solve biochemical research problems by analyzing data from experiments which they design.
+Prerequisites:
+none
+CHEM 481W
+Inquiry and Writing in Biochemistry and Chemistry
+3 credits
+In this course, students will develop discipline-specific skills in critical reading and evaluation of the primary and secondary literature, including the use of libraries and databases to identify reliable sources. Work will culminate in a literature review that synthesizes the current state of research in synthetic polymers, biological macromolecules, supramolecular aggregates and/or meso/nanoscale materials with consideration toward future directions. Throughout the course, students will participate in peer review, revision of written work, learn key ethical considerations of writing, develop better writing mechanics and understand different conventions of scientific writing all while increasing their familiarity in the topics above.
+Prerequisites:
+ENG 101, CHEM 324
+CHEM 489
+Senior Capstone
+1 credits
+Capstone course for majors in Chemistry, Biochemistry, and Chemistry Teaching. During this course, students will present their mentored undergraduate research projects OR present a literature review synthesized from primary literature articles. Forums for presentation include an oral presentation and poster presentation.
+Prerequisites:
+CHEM 445 or CHEM 465
+Statistics Requirement
+- Choose 3 - 4 Credit(s). Choose 1 course.
+HLTH 475
+Biostatistics
+3 credits
+Introduction to statistical analysis as applied to the health sciences. Examines concepts and methods of statistical procedures applied to health problems and issues.
+Prerequisites:
+MATH 110, STAT 154, Or any other mathematics course higher than MATH 110.
+STAT 154
+Elementary Statistics
+4 credits
+An introduction to statistical concepts and methods that is applicable to all disciplines. Topics include descriptive measures of data, probability and probability distributions, statistical inference, tests of hypotheses, confidence intervals, correlation, linear regression, and analysis of variance. The use of statistical software will be emphasized. Prereq: ACT Math sub-score of 19 or higher, successful completion of MATH 098 or appropriate placement scores (see Placement Information under Statistics) Fall, Spring, Summer GE-4
+Prerequisites:
+Satisfy Placement Table in this section, or MATH 098 with grade of P.
+Goal Areas: GE-02, GE-04
+Molecular or Cell Biology option
+- Choose 4 Credit(s). Choose 1 course.
+BIOL 320
+Cell Biology
+4 credits
+An examination of eukaryotic cellular structure, organization and physiology. Lab included.
+Prerequisites:
+BIOL 105 and BIOL 106, BIOL 211
+BIOL 479
+Molecular Biology
+4 credits
+This course will cover both eukaryotic and prokaryotic molecular biology including: DNA and RNA structure, transcription, regulation of gene expression, RNA processing, protein synthesis, DNA replication, mutagenesis and repair, recombination, and insertion elements. A number of important techniques used in recombinant DNA technology will be discussed and practiced.
+Prerequisites:
+BIOL 105, BIOL 106, BIOL 211
+Major Restricted Electives
+Choose 10 Credit(s). Select from upper-division Biology and Chemistry courses excluding BIOL 481, BIOL 483, BIOL 485, CHEM 479. No more than 3 credits from CHEM 398, CHEM 497, CHEM 498, CHEM 499, BIOL 398, BIOL 497, BIOL 498, or BIOL 499 may count toward Major Restrictive Electives.
+BIOL 300 - 499
+credits
+Prerequisites:
+none
+CHEM 300 - 499
+credits
+Prerequisites:
+none
+Other Graduation Requirements
+Choose 8 credit(s): take one series Language
+Minor
+Minor is not required
+Degree Plan
+First Year
+Fall
+- 16 Credits
+ENG 101
+Foundations of Writing & Rhetoric
+4 credits
+Students in this course approach writing as a subject of study by investigating how writing works across a variety of contexts.
+Prerequisites:
+none
+Goal Areas: GE-1A
+MATH 115
+Precalculus Mathematics
+4 credits
+This course will cover topics of precalculus mathematics. Topics covered will include functions, graphs of functions, exponential and logarithmic functions, conic sections, systems of equations and inequalities, matrices, trigonometric functions, circular functions, vectors and complex numbers, induction, series and probability.
+Prerequisites:
+Satisfy Math Placement Table in this section, or grade of P in MATH 098.
+Goal Areas: GE-04
+CHEM 201
+General Chemistry I
+5 credits
+Introduction to the basic principles of chemistry including atomic and molecular structure, bonding, chemical reactions, stoichiometry, thermodynamics and states of matter. Laboratory will reinforce lecture concepts. Prereq: C or higher in MATH 112 or the equivalent; high school chemistry or C or higher in CHEM 104
+Prerequisites:
+"C" (2.0) or higher in MATH 112 or the equivalent; high school chemistry or "C" (2.0) or higher in CHEM 104.
+Goal Areas: GE-02, GE-03
+Spring
+- 15 Credits
+CHEM 202
+General Chemistry II
+5 credits
+Continuation of the basic principles of chemistry including properties of solutions, kinetics, acids and bases, equilibria, buffers, precipitation reactions, electron transfer reactions, electrochemistry, entropy and free energy. Laboratory will reinforce lecture concepts.
+Prerequisites:
+"C" (2.0) or higher in CHEM 201
+BIOL 211
+Genetics
+4 credits
+Introduction to genetic analysis. Topics covered will include those of both classical and modern genetics: population genetics, molecular genetics, genetic manipulation of organisms and selection. Central to this course will be the primacy of the trait as the object of genetics and the development/refinement of the concept of the gene. Lab included.Fall, Spring, Summer
+Prerequisites:
+BIOL 105, BIOL 106, and MATH 112
+Second Year
+Fall
+- 15 Credits
+BIOL 106
+General Biology II
+4 credits
+Study of biological processes at the organismal level including a survey of life forms (viruses, bacteria, protists, fungi, plants, and animals), their evolution, and ecology. Laboratory and discussion sessions stress problem solving and experimental design.
+Prerequisites:
+none
+CHEM 305
+Analytical Chemistry
+4 credits
+Introduction to the principles of chemical analysis, with emphasis on classical methods of analysis. Lectures will stress the theory of chemical measurements and sample handling. Laboratory exercises will provide students with opportunities to explore calibration methods, method development, and established procedures for volumetric and gravimetric analyses. Basic atomic spectroscopy is also presented.
+Prerequisites:
+"C" (2.0) or higher in CHEM 202
+CHEM 322
+Organic Chemistry I
+4 credits
+Introduction to organic nomenclature, structure, bonding, chemical reactivity, organic acid-base reactions, mechanisms and stereochemistry. IR, MS, and NMR spectroscopy will be introduced. The chemistry of alkanes, alkyl halides, alkenes, alkynes, and alcohols will be covered. Laboratory illustrates synthetic techniques and the preparation and reactions of functional groups discussed during lecture.
+Prerequisites:
+CHEM 202, "C" (2.0) or higher in CHEM 202.
+Spring
+- 12 Credits
+BIOL 211
+Genetics
+4 credits
+Introduction to genetic analysis. Topics covered will include those of both classical and modern genetics: population genetics, molecular genetics, genetic manipulation of organisms and selection. Central to this course will be the primacy of the trait as the object of genetics and the development/refinement of the concept of the gene. Lab included.Fall, Spring, Summer
+Prerequisites:
+BIOL 105, BIOL 106, and MATH 112
+CHEM 281
+Biochemistry and Chemistry Professional Foundations
+1 credits
+The course will cover aspects of the ethical conduct of research, chemical safety, and preparation for a profession related to chemistry or biochemistry.
+Prerequisites:
+CHEM 322
+CHEM 324
+Organic Chemistry II
+3 credits
+This course is a continuation Chem 322 and includes organic nomenclature, structure, bonding, chemical reactivity, organic acid-base reactions, and reaction mechanisms; the chemistry of ethers, aromatic and heterocyclic compounds, polyenes, ketones, aldehydes, amines, carboxylic acids and their derivatives, and alpha carbonyl compounds and synthetic transformations is covered.
+Prerequisites:
+CHEM 322 with a "C" (2.0) or higher.
+CHEM 325
+Organic Chemistry II Lab
+1 credits
+Laboratory will highlight common techniques including recrystallization, melting point determination, simple and fractional distillation, extraction, gas and thin layer chromatography, and chemical and spectroscopic qualitative analysis. Single and multi-step syntheses illustrating aromatic and carbonyl chemistry will be performed.
+Prerequisites:
+CHEM 324
+Third Year
+Fall
+- 13 Credits
+CHEM 460
+Biochemistry I
+3 credits
+Detailed analysis of the structures, properties, and functions of proteins, carbohydrates, and lipids; introduction to carbohydrate metabolism; theory for the purification and analysis of proteins. Concurrent enrollment in CHEM 465 is recommended.
+Prerequisites:
+BIOL 106, CHEM 324. BIOL 106 or permission "C" (2.0) or higher in all prerequisites.
+CHEM 465
+Biochemical Techniques I
+2 credits
+A lecture/laboratory course, which presents methodology and instrumentation used to purify and analyze biomolecules. Techniques include chromatography, radioisotope techniques, polyacrylamide gel electrophoresis, spectrophotometry, and PCR analysis.
+Prerequisites:
+Concurrent registration in CHEM 460 or completion of CHEM 460 with "C" or higher. CHEM 305 is highly recommended.
+Spring
+- 15 Credits
+CHEM 461
+Biochemistry II
+3 credits
+Detailed analysis of the reactions involved in intermediary metabolism, translation, transcription, and replication.
+Prerequisites:
+CHEM 460
+CHEM 466
+Biochemical Techniques II
+2 credits
+Students work in teams to solve biochemical research problems by analyzing data from experiments which they design.
+Prerequisites:
+none
+Fourth Year
+Fall
+- 16 Credits
+STAT 354
+Concepts of Probability & Statistics
+4 credits
+A calculus based introduction to probability and statistics. Topics include probability, random variables, probability distributions (discrete and continuous), joint probability distributions (discrete and continuous), statistical inference (both estimation and hypothesis testing), confidence intervals for distribution of parameters and their functions, sample size determinations, analysis of variance, regression, and correlation. This course meets the needs of the practitioner and the person who plans further study in statistics. Same as MATH 354. Prereq: MATH 122 with C or better or consent Fall, Spring, Summer
+Prerequisites:
+MATH 122 with C or better or consent
+CHEM 481W
+Inquiry and Writing in Biochemistry and Chemistry
+3 credits
+In this course, students will develop discipline-specific skills in critical reading and evaluation of the primary and secondary literature, including the use of libraries and databases to identify reliable sources. Work will culminate in a literature review that synthesizes the current state of research in synthetic polymers, biological macromolecules, supramolecular aggregates and/or meso/nanoscale materials with consideration toward future directions. Throughout the course, students will participate in peer review, revision of written work, learn key ethical considerations of writing, develop better writing mechanics and understand different conventions of scientific writing all while increasing their familiarity in the topics above.
+Prerequisites:
+ENG 101, CHEM 324
+Spring
+- 14 Credits
+BIOL 479
+Molecular Biology
+4 credits
+This course will cover both eukaryotic and prokaryotic molecular biology including: DNA and RNA structure, transcription, regulation of gene expression, RNA processing, protein synthesis, DNA replication, mutagenesis and repair, recombination, and insertion elements. A number of important techniques used in recombinant DNA technology will be discussed and practiced.
+Prerequisites:
+BIOL 105, BIOL 106, BIOL 211
+CHEM 489
+Senior Capstone
+1 credits
+Capstone course for majors in Chemistry, Biochemistry, and Chemistry Teaching. During this course, students will present their mentored undergraduate research projects OR present a literature review synthesized from primary literature articles. Forums for presentation include an oral presentation and poster presentation.
+Prerequisites:
+CHEM 445 or CHEM 465Initial deposit: N/A
+
+
+Application Fee for Undergraduate: $ 20
+Application Fee for Postgraduate: $ 40
+
+
+Annual Fee for Undergraduate: $ 18,812
+Annual Fee for Postgraduate: $ 14,918
+
+
+English Language Requirements Undergraduate only:
+TOEFL iBT (internet-based test) score of 61 or better
+Pearson Test of English (PTE) score of 47 or better
+IELTS academic test score of 5.5 or better
+
+
+English Language Requirements Postgraduate only:
+Different for every course and given in course content 
+
+
+Entry Requirements Undergraduate only:
+A cumulative high school GPA of 3.0 or higher or A rank in the top 50% of your high school class or An ACT composite score of 21 or higher and a minimum cumulative high school GPA of 2.7. If you do not meet the above admission requirements, you can submit additional information to consider when reviewing your application.
+
+
+Entry Requirements Postgraduate only:
+Applicants must possess the equivalent of a U.S. Bachelor's degree to be considered for graduate programs at Minnesota State Mankato. The degree must be earned at an institution recognized and approved to award the degree. GRE (Graduate Record Examination) is required by some academic programs.
+
+English Language requirements of graduate programs is different for each course. Graduate programs only have IELTS and TOEFL test scores.
+For Graduate Entry Requirements, some requirements like GPA, Score are mentioned on the course page so add them too.

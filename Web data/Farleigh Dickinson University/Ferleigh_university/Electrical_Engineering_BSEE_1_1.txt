@@ -1,0 +1,283 @@
+Link: https://www.fdu.edu/program/bs-electrical-engineering/
+
+Skip to content
+Electrical Engineering BSEE
+Home
+/
+Program
+/
+Electrical Engineering BSEE
+Electrical engineering is one of largest, broadest and most dynamic engineering disciplines. It has more than 30 subdisciplines, including biomedical, computer, communications, control, electronics, navigation or power engineering. As such, electrical engineers are employed in virtually all sectors of many industries, and they account for many engineering jobs. Several subdisciplines of electrical engineering, including computer engineering and biomedical engineering, have become major engineering disciplines themselves. Electrical engineers have contributed to the greatest engineering achievements of the 20th and 21st centuries, which include electrification; household appliances; radio and television; telephones, cellphones and satellite communications; laser and fiber optics; computers and computer networks; control, navigation, transportation and travel; medical imaging and health technologies; internet; robotics, electric vehicles, to name a few. Moreover, as the nation’s infrastructure ages and its population continues to grow, more electrical engineers will be needed to maintain, repair, upgrade or expand utility infrastructure, power grids and power plants, as well as to build new ones, focusing on renewable-energy sources. The electrical engineering profession is consistently ranked among the top earners. It has substantial career opportunities, excellent average starting salary, very good median long-term salary, robust job growth and great career fulfillment. The demand for electrical engineers will further increase as the $1-trillion Infrastructure Investment and Jobs Act is implemented over the next eight years.
+The Bachelor of Science in Electrical Engineering (BSEE) program prepares graduates for entrance into the high-demand profession of electrical engineering or graduate study. Graduates work in the industry as electrical engineers, typically specializing as biomedical, computer, control, communications, electronics, integrated-circuit (IC) design, instrumentation, signal processing or power engineers. They may also hold other titles including facilities engineers, systems engineers, project engineers, and project or technical managers.
+The program is offered by the Lee Gildart and Oswald Haase School of Computer Sciences and Engineering (GHSCSE) at the Metropolitan Campus, Teaneck, New Jersey. The BS in Electrical Engineering program is accredited by the Engineering Accreditation Commission of
+ABET
+.
+The BSEE curriculum provides students with a varied and balanced educational experience through an appropriate combination of theoretical concepts and practical applications. It also provides students with an engineering-design experience that expands in breadth and depth as they progress through their studies. A stimulating course of study is maintained by offering students a reasonable variety of focus areas and contemporary courses in current and emerging fields. The program focuses on communications, computers, control, electronics, embedded systems, power and signal processing. The engineering laboratory experience is fully integrated with coursework. Students work in many state-of-the-art laboratories.
+In particular, the design experience is introduced early in the curriculum. Simple design examples are presented in a freshmen introductory course to engineering. Students begin to learn basic AC and DC circuits, operational amplifiers, three-phase circuits, two-port networks, filters and system analysis in a three-course sequence in circuit theory and systems. This enables them to design complex linear and nonlinear analog electronic circuits and devices in a three-course sequence in electronics. Students also design digital systems involving logic gates, counters, shift registers, multiplexers, demultiplexers, encoders and decoders and advance to the design of microprocessor and microcontroller-embedded systems in a three-course sequence in digital logic and system design. The design of digital filters is conducted in a digital signal processing course. Students also learn about the principles and applications of electromagnetic fields and waves (EMF) and how to design, build and test various types of antennas in an EMF course.
+Advanced courses help students acquire additional experimental, design and computer-simulation skills and integrate theory with practice. As a culmination of their design experience, senior students are required to successfully design a component, a system or a process in the senior capstone project course by utilizing their past coursework, following professional practice, exercising sound engineering judgment and by incorporating appropriate engineering standards and multiple realistic constraints.
+Because of the importance of modern telecommunications technology in a global society and particularly in the state of New Jersey, which is home to many leading telecommunication companies, three telecommunications courses: communication systems, data communications and computer networks and wireless communications are required in the curriculum. An analog and digital control course is also required because of the wide utilization of automatic control systems in industry. Moreover, because of the great demand for power engineers, an electrical energy conversion course is added to the curriculum. Electives allow students to further enhance their knowledge and to develop design skills in various technical areas based on their interests and goals.
+The school also offers an electrical engineering minor (for non-electrical engineering majors) and the BSEE/MS in computer engineering and BSEE/MS in Electrical Engineering combined-degree programs.
+Professional Accreditation
+The B.S. Electrical Engineering program is accredited by the Engineering Accreditation Commission of ABET,
+https://www.abet.org
+.
+Educational Objectives
+The educational objectives of the B.S. in Electrical Engineering program define the career and professional accomplishments that the graduates are being prepared to achieve three to four years after graduation. The program will produce graduates who:
+Enter into and advance in the profession of electrical engineering, particularly in the areas of systems and devices, computers, and communications.
+Continue their formal education and obtain advanced degrees in electrical engineering or other related fields.
+Become responsible professionals and global citizens who are aware of ethical issues and societal needs and problems.
+These objectives are consistent with the mission of Fairleigh Dickinson University to educate and prepare students as world citizens through global education. They also fulfill the needs of our constituents, which include students, alumni, employers, faculty and the Industrial Advisory Board.
+Student Outcomes
+Each electrical engineering graduate will demonstrate the following attributes and achievements as required by the EAC of ABET upon or before graduation:
+An ability to identify, formulate and solve complex engineering problems by applying principles of engineering, science and mathematics.
+An ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors.
+An ability to communicate effectively with a range of audiences.
+An ability to recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental and societal contexts.
+An ability to function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives.
+An ability to develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgment to draw conclusions.
+An ability to acquire and apply new knowledge as needed, using appropriate learning strategies.
+Cooperative Education Option
+Students in the B.S.E.E. program have the option to undertake a cooperative education experience and earn a total of 6 academic credits toward their technical electives. Note that these credits may not be substituted for any required course work. The co-op experience provides students a real-world grounding, linking theory and practice, academic and industrial experiences, and college education and lifelong learning. It better prepares students for jobs, gives them a competitive edge in the job market, helps them develop networking skills and professional contacts and allows them to experience career fields before graduation. Industry benefits from better-prepared graduates with real and relevant work experience – saving time and money by reducing the training period for new employees.
+Degree Plan
+The program requires the successful completion of 121 credits with a minimum cumulative grade point ratio of 2.00 as described below.
+1st Semester (15 credits)
+ENGR1301
+Engineering Practices, Graphics and Design (3 credits)
+MATH1201
+Calculus I (4 credits)
+PHYS2201
+Physics Laboratory I (1 credit)
+PHYS2203
+University Physics I Lecture (3 credits)
+UNIV1001
+Transitioning to University Life (1 credit)
+WRIT1002
+Composition I: Rhetoric and Inquiry (3 credits)
+2nd Semester (18 credits)
+ENGR1204
+Programming Languages in Engineering (3 credits)
+ENGR2286
+Digital System Design (3 credits)
+MATH2202
+Calculus II (4 credits)
+PHYS2202
+Physics Laboratory II (1 credit)
+PHYS2204
+University Physics II Lecture (3 credits)
+UNIV1002
+Preparing for Professional Life (1 credit)
+WRIT1003
+Composition II: Research and Argument (3 credits)
+3rd Semester (15 credits)
+EENG2221
+Signals and Systems I (3 credits)
+EENG2287
+Microprocessor System Design I (3 credits)
+ENGR3200
+Advanced Engineering Programming (3 credits)
+MATH2210
+Differential Equations (3 credits)
+UNIV2001
+Cross Cultural Perspectives (3 credits)
+4th Semester (15 credits)
+EENG2222
+Signals and Systems II (3 credits)
+EENG3288
+Microprocessor System Design II (3 credits)
+ENGR2210
+Technical Communications (3 credits)
+ENGR4221
+Engineering Statistics and Reliability (3 credits)
+UNIV2002
+Global Issues (3 credits)
+5th Semester (15 credits)
+EENG3223
+Linear Systems (3 credits)
+EENG3265
+Electronics I (3 credits)
+EENG4375
+Electrical Energy Conversion (3 credits)
+MATH2203
+Calculus III (3 credits
+ENGR4210
+Managerial and Engineering Economic Analysis (3 credits)
+6th Semester (16 credits)
+CHEM1201
+General Chemistry I Lecture (3 credits)
+CHEM1203
+General Chemistry I Laboratory (1 credit)
+EENG3224
+Digital Signal Processing (3 credits)
+EENG3266
+Electronics II (3 credits)
+ENGR3000
+Modern Technologies: Principles, Applications and Impacts (3 credits)
+ENGR3341
+Advanced Engineering Mathematics (3 credits)
+7th Semester (13 credits)
+EENG3244
+Electromagnetic Fields and Waves (3 credits)
+EENG3267
+Electronics III (3 credits)
+EENG4260
+Preparation for Electrical Engineering Project (1 credit)
+EENG4342
+Data Communications and Computer Networks (3 credits)
+EENG4355
+Analog and Digital Control (3 credits)
+8th Semester (14 credits)
+EENG4268
+Electrical Engineering Project (2 credits)
+EENG4341
+Communication Systems (3 credits)
+Technical Electives (9 credits)
+Technical Electives
+The student must take 9 credits of technical electives. Appropriate upper-level courses in engineering, math, science, and computer science may be taken with prior approval from the GHSCSE Director or their designee.
+ENGR2221
+Statics (3 credits)
+CHEM1202
+,
+1204
+Chem II & lab (4 credits)
+CSCI2234
+Data Structures & Algorithms (3 credits)
+CSCI3278
+Operating Systems (3 credits)
+CSCI3268
+Database Systems (3 credits)
+EENG7709
+Embedded Systems (3 credits)
+MATH 3220
+Linear Algebra (3 credits)
+Electrical Engineering Minor
+(For Non-Electrical Engineering Majors
+)
+GHSCSE offers a 15-credit
+minor in electrical engineering
+(EE) for non-EE majors. This minor provides these students with a basic foundation in EE, and it can bring them additional employment opportunities and career options. The minor is appropriate to those non-EE majors who have strong mathematics and science backgrounds. To take any course in the minor, a student must meet all the prerequisites for that course. The required courses are as follows:
+EENG2221
+Signals and Systems I (3 credits)
+EENG2222
+Signals and Systems II (3 credits)
+EENG2287
+Microprocessor System Design I (3 credits)
+EENG3265
+Electronics I (3 credits)
+ENGR2286
+Digital System Design (3 credits)
+B.S.E.E/M.S. in Computer Engineering 4 Plus 1 Program
+GHSCSE offers a 4 Plus 1 program that allows qualified students to attain a
+Bachelor of Science in Electrical Engineering (B.S.E.E.) with a pathway to the Master of Science (M.S.) in computer engineering
+. Students must register for this program by their junior year and must have achieved a cumulative grade point ratio of at least 2.75.
+B.S.E.E./M.S. in Electrical Engineering 4 Plus 1 Program
+GHSCSE offers a 4 Plus 1 program that allows qualified students to attain a
+Bachelor of Science in Electrical Engineering (B.S.E.E.) with a pathway to the Master of Science (M.S.E.E.) in Electrical Engineering
+. Students must register for this program by their junior year and must have achieved a cumulative grade point ratio of at least 2.75.
+Program Enrollment and Degree Data
+The official fall term enrollments of the B.S. in Electrical Engineering program for the last five academic years and the number of degrees conferred during each of those years.
+Academic Year
+Enrollment Year
+Total
+Undergrad
+Total
+Grad
+Degrees Awarded
+1
+st
+2nd
+3rd
+4th
+Bachelors
+Masters
+Current Year
+2023-2022
+FT
+62
+10
+14
+9
+95
+3
+*Not available
+*Not available
+PT
+3
+3
+1
+2022-2021
+FT
+22
+21
+9
+6
+58
+6
+7
+2
+PT
+8
+8
+3
+2
+2021 -2020
+FT
+59
+6
+5
+14
+84
+10
+6
+5
+PT
+1
+2
+3
+4
+3
+2020 -2019
+FT
+29
+7
+12
+15
+63
+13
+18
+10
+PT
+1
+7
+8
+12
+4
+2019 -2018
+FT
+12
+17
+9
+26
+64
+10
+20
+3
+PT
+1
+6
+7
+5
+PT
+4
+4
+38
+*FT- full time;
+PT- part time
+Contact Information
+Kalyan Mondal, PhD, Deputy Director
+mondal@fdu.edu
+Learn more
+Gildart Haase School of Computer Sciences and Engineering
+Admissions
+Apply now
+Visit FDU
+Request Information

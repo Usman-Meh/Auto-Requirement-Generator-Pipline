@@ -1,0 +1,118 @@
+Link: https://www.unibo.it/en/study/second-cycle-degree/programme/2024/8891
+
+You are here:
+Home
+>
+Study
+>
+Second Cycle Degree
+>
+Degree programme
+Laurea Magistrale (Second cycle degree/Two year Master - 120 ECTS) in
+Automation Engineering
+A.Y. 2024/2025
+|
+Cod. 8891
+Place of teaching
+Campus Bologna
+Language
+English
+Degree Programme Class
+LM-25 - Automation engineering
+Type of access
+Open access with assessment of personal competencies
+International Programmes
+Delivered entirely in English, Double/Multiple degree
+TONGJI UNIVERSITY
+Proposed paths (Curricula)
+AUTOMATION ENGINEERING
+AUTONOMOUS SYSTEMS AND INTELLIGENT ROBOTS
+Why choose this programme
+What you will study
+Professional profiles
+Experiences abroad
+Why choose this programme
+Gain cutting-edge expertise in the area of Automation, Autonomous Systems, Mechatronics and Robotics
+Attend international courses training highly-skilled professionals at the intersection of ICT and Industrial Engineering.
+Enhance your education with multidisciplinary competencies combining technical skills with a solid mathematical background.
+Experience a direct interaction with high-tech industrial companies complementing classroom learning.
+Qualify for a high-demand profession.
+Professional profiles
+Career opportunities for graduates
+Senior Automation Engineer - Processing and Control Systems Expert
+function in a professional context:
+2nd cycle Automation Engineers have in-depth interdisciplinary knowledge of the automatic, mechanical, computing, electronics and electrotechnics sectors, and are able to conceive, plan, design, implement and manage complex automation systems for machines, processes, systems, products and services. 2nd cycle Automation engineers therefore have specific skills that allow them to be able to work effectively in even very different areas, as systems analyst and/or designer and/or technician in all fields of application in which automation technologies and principles play an important role. The cultural training of 2nd cycle graduates allow them to work in technical and managerial leadership positions in industrial automation engineering fields, and hold key positions in international research fields.
+In this context, one function of the automation engineer is that of processing and control systems expert. Senior Automation Engineers work in the design, management and implementation of real time acquisition, processing and control systems typical of computer-based automation systems.
+Their key competencies lie in their finely tuned understanding and modelling of complex system dynamics and the development of real time software and algorithms for supervision and automation. Automation engineers are also strongly oriented to the integration of different computer and electronic technologies that are functional to the automation of small and large-scale industrial installations.
+competencies associated to the function:
+Specialist competencies are required to perform the above functions in the technical and engineering fields.
+Specifically, these professional figures are associated to the following competencies:
+- In-depth knowledge of hardware and software for real time processing and control systems;
+- Strong knowledge of embedded systems, PLC platforms, data acquisition systems, fieldbuses, distributed control systems, FPGA;
+- Solid knowledge of the principles governing concurrent programming, real time programming instruments and the main programming languages (C, C++, etc.);
+- Very in-depth knowledge of dynamic system modelling, systems and control theory, modelling and simulation instruments;
+- Processing and management of analogue and digital signals;
+- Advanced understanding of the dynamic phenomena of complex mechanical, electro-mechanical, electronic and electrical systems;
+- Self-learning and lifelong learning skills, and appropriate transversal communication, interpersonal, organisational, managerial and programming skills.
+career opportunities:
+The main career opportunities lie in manufacturing, industrial transformation and services, in both conventional (transport, distribution and territorial management, etc.) and advanced fields with high added value (management consulting, automatic machines, computing, etc.) and the public administration. Particularly important career opportunities are available to 2nd cycle graduates in Automation Engineering within the industrial automation sector in Emilia Romagna. In this field, it is worth mentioning the sector of automatic packaging machine manufacturers, which are so numerous that the Emilia-Romagna region has earned the international nick-name of "Packaging Valley". In addition to this specific sector, the Emilia-Romagna region, and in particular the area surrounding Bologna, is renowned for its advanced and highly internationalised industrial system, with a high concentration of small and medium enterprises operating in a range of industrial sectors, from mechanics to electronics, from the car industry to robotics, from the ceramics industry to food processing. Many companies in Emilia-Romagna play a key role in international markets, with both sales and industrial branches in foreign countries including China and the United States. By virtue of their versatility and specific skills which integrate technological competencies in different, interdisciplinary sectors, Automation Engineers respond effectively to the needs of this diversified economic context. The international profile of the 2nd cycle degree programme in Automation Engineering allows graduates to work in foreign industrial contexts, exploiting the many opportunities for employment offered by the companies in Emilia Romagna working internationally.
+Specifically, Processing and Control Systems Experts are particularly sought after in the following professional fields:
+- Industries producing and/or using automation components and systems;
+- Companies working in industrial automation and robotics;
+- Companies working in the automotive and transport sectors;
+- Companies and authorities involved in the production, management and conversion of energy;
+- Industrial laboratories, training centres, research centres;
+- Engineering firms;
+- Industries working in the design and development of products with a high technological content;
+- Industries working in the supply and assembly of components (reduction gears, power components, control panels, etc.);
+- Food processing industries.
+Senior Automation Engineer - Industrial Automation Expert
+function in a professional context:
+2nd cycle Automation Engineers have in-depth interdisciplinary knowledge of the automatic, mechanical, computing, electronics and electrotechnics sectors, and are able to conceive, plan, design, implement and manage complex automation systems for machines, processes, systems, products and services.
+2nd cycle Automation engineers therefore have specific skills that allow them to be able to work effectively in even very different areas, as systems analyst and/or designer and/or technician in all fields of application in which automation technologies and principles play an important role. The cultural training of 2nd cycle graduates allow them to work in technical and managerial leadership positions in industrial automation engineering fields, and hold key positions in international research fields.
+In this context, one function of the automation engineer is that of industrial automation expert. Industrial automation experts have interdisciplinary knowledge of industrial and information engineering and are able to collaborate on and potentially lead projects focusing on the conceptual design, design, implementation and start-up of automated mechanical systems. Their competences allow them to work naturally with mechanical engineers, playing a decisive role in the integration of different technologies and the automation of complex mechanical equipment. Automation engineers are potentially autonomous in the design of mechanical systems of low-medium complexity and may therefore hold transversal roles in the design and implementation of automated systems not involving high complexity.
+competencies associated to the function:
+Specialist competencies are required to perform the above functions in the mechanical and information engineering fields.
+Specifically, these professional figures are associated to the following competencies:
+- In-depth knowledge of CAD tools for mechanical design, functional not only to the ability to interpret mechanical drawings but also to design simple devices and components;
+- Excellent knowledge of the features and problems of the main electrical, pneumatic and hydraulic handling systems for automatic machinery;
+- Modelling and simulation techniques and instruments applied to dynamic systems;
+- Ability to understand the dynamic phenomena of complex mechanical, electro-mechanical, electronic and electrical systems;
+- Advanced self-learning and lifelong learning competencies;
+- Transversal communication, interpersonal, organisational, management and programming skills;
+career opportunities:
+The main career opportunities lie in manufacturing, industrial transformation and services, in both conventional (transport, distribution and territorial management, etc.) and advanced fields with high added value (management consulting, automatic machines, computing, etc.) and the public administration. Particularly important career opportunities are available to 2nd cycle graduates in Automation Engineering within the industrial automation sector in Emilia Romagna. In this field, it is worth mentioning the sector of automatic packaging machine manufacturers, which are so numerous that the Emilia-Romagna region has earned the international nick-name of "Packaging Valley". In addition to this specific sector, the Emilia-Romagna region, and in particular the area surrounding Bologna, is renowned for its advanced and highly internationalised industrial system, with a high concentration of small and medium enterprises operating in a range of industrial sectors, from mechanics to electronics, from the car industry to robotics, from the ceramics industry to food processing. Many companies in Emilia-Romagna play a key role in international markets, with both sales and industrial branches in foreign countries including China and the United States. By virtue of their versatility and specific skills which integrate technological competencies in different, interdisciplinary sectors, Automation Engineers respond effectively to the needs of this diversified economic context. The international profile of the 2nd cycle degree programme in Automation Engineering allows graduates to work in foreign industrial contexts, exploiting the many opportunities for employment offered by the companies in Emilia Romagna working internationally.
+Specifically, Industrial Automation Experts are particularly sought after in the following professional fields:
+- Companies working in the fields of industrial automation, robotics, design and production of wood processing machinery and systems;
+- Food and pharmaceutical packaging and preservation industries; food processing industries;
+- Industries for the development of support software for mechanical design, control and simulation, computer-assisted industrial drawing, reverse engineering, virtual simulation generally;
+- Public or private organisations using automatic/mechanical/computer techniques and technologies to optimise production, manage and/or provide services;
+- Engineering consulting firms and university spin-offs;
+- Process industries in the mechanical, electrical, electromechanical, energy and chemical sectors;
+- Industries manufacturing test machines and measuring instruments destined for research and mass production;
+- Biomechanical industries;
+- Industrial laboratories.
+Access to further study
+It gives access to third cycle studies (Dottorato di ricerca/Scuole di specializzazione) and master courses of second degree.
+What you will study
+Curriculum Autonomous systems and intelligent robots: for students enrolled a.y. 2024-25
+Curriculum Automation engineering: for students enrolled a.y. 2024-25
+Experiences abroad
+As part of the experiences abroad, the course offers the possibility of internships in international organisations and participation in exchange programmes. These experiences offer direct contact with international realities, enriching the understanding of global dynamics and providing a concrete advantage in the international labour market.
+When you can attend the degree programme
+27
+Nov
+2024
+Open Day
+ELECTRICAL, ELECTRONIC AND INFORMATION ENGINEERING AREA | Presentation of the International Master’s degree programmes
+Are you interested in this programme?
+For more details
+Degree programme website
+Contacts
+How to enrol
+Receive programme updates
+E-mail
+Send
+I have read the
+privacy policy
+and I consent to the processing of my personal data

@@ -1,0 +1,50 @@
+Link: https://www.fdu.edu/program/ms-management-information-systems/
+
+Skip to content
+Management Information Systems MS
+Home
+/
+Program
+/
+Management Information Systems MS
+The graduate program in Management Information Systems is designed for present and future managers and developers of organizational information systems. Relying on computers and telecommunications networks, these systems are a source of operational efficiency, managerial effectiveness and corporate strategic advantage. The program combines learning how to use and develop information system technology with instruction in business, management and organizations.
+Admission Requirements
+Graduation from a regionally accredited college or university with a satisfactory academic record.
+Submission of an official score report for the Graduate Record Examination (GRE) General Test taken within the last five years. The GRE may be waived if the applicant enrolls initially as a non-matriculating student and completes 9 graduate credits in computer science with a minimum cumulative grade point ratio (CGPR) of 3.00 on a 4.00 scale and no grade below C or is a Fairleigh Dickinson University computer science graduate and has an undergraduate CGPR of 3.00 or is a non-Fairleigh Dickinson University computer science graduate and has an undergraduate CGPR of 3.50.This GRE waiver policy is only applicable to applicants who graduated from a regionally accredited college or university in the United States.
+The GRE requirement is waived for applicants who have completed a master’s degree from a regionally accredited college or university in the United States.
+Applicants who have not completed all requirements for admission to the degree program may be permitted to enroll in classes for credit on a non-matriculated or non-degree basis.
+Degree Plan
+Prerequisites (12 credits)
+ACCT5012
+Financial Accounting: End User App
+ECON5012
+Economic Analysis
+MKTG5012
+Marketing Principles
+CSCI5525
+Introduction to Computer Science
+CSCI5505
+Introduction to Computer Programming
+Required (21 credits)
+CSCI6603
+Computer Architecture
+CSCI6623
+Database Systems
+CSCI6720
+Management Information Systems
+CSCI6758
+E-Commerce
+CSCI7727
+Development of MIS 1: Project Management and Systems Analysis
+CSCI7791
+Information Systems for Competitive Advantage
+MKTG6500
+Marketing Management
+Electives (9 credits)
+Consult the FDU Graduate Bulletin and your advisor regarding electives. Courses are selected from two lists of courses under the headings of Systems and Management. Other information technology and business-oriented courses not on the list may be added at the discretion of the department. A student can opt to receive 3 credits for internship/work experience provided the student has been in the program for a minimum of 9 months.
+Learn more
+Gildart Haase School of Computer Sciences and Engineering
+Admissions
+Apply now
+Visit FDU
+Request Information

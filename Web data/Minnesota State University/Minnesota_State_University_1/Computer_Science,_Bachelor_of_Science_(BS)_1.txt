@@ -1,0 +1,374 @@
+Link: https://cset.mnsu.edu/academic-programs/computer-science/computer-science-bachelor-of-science-bs/
+
+College of Science, Engineering & Technology
+Academic Programs
+Computer Science
+Computer Science, Bachelor of Science (BS)
+Computer Science Section
+Computer Science
+Apply Now
+NACLO
+Computer Science, Bachelor of Science (BS)
+Computer Science, Software Engineering (BS)
+Computer Science, Minor
+Computer Science Faculty & Staff
+Computer Science (BS)
+The Computer Science major will prepare graduates for positions in computer-related fields and for graduate study. Computer science as a field spans a wide range of topics from theoretical and algorithmic foundations to cutting-edge developments in operating system design and implementation, machine learning, and intelligent systems.
+Current Catalog Year
+2024-2025
+Degree
+Bachelor of Science
+Major /                                         Total Credits
+76 / 120
+Locations
+Mankato
+Apply
+Program Requirements
+Program
+                                    Requirements
+Required General Education
+ENG 101
+Foundations of Writing & Rhetoric
+4 credits
+Students in this course approach writing as a subject of study by investigating how writing works across a variety of contexts.
+Prerequisites:
+none
+Goal Areas: GE-1A
+MATH 121
+Calculus I
+4 credits
+Limits, continuity, the derivative and applications, transcendental functions, L'Hopital's Rule, and development of the Riemann integral.
+Prerequisites:
+Satisfy Placement Table in this section, MATH 115 or both MATH 112 and MATH 113 with "C" (2.0) or better.
+Goal Areas: GE-04
+Communication
+- Choose 3 - 4 Credit(s).
+COMM 102
+Public Speaking
+3 credits
+A course in communication principles to develop skills in the analysis and presentation of speeches.
+Prerequisites:
+none
+Goal Areas: GE-1B
+ENG 271W
+Technical Communication
+4 credits
+Introduction to learning the written and oral communication of technical information. Assignments include writing and presenting proposals, reports, and documentation. Emphasis on use of rhetorical analysis, computer applications, collaborative writing, and usability testing to complete technical communication tasks in the workplace.
+Prerequisites:
+ENG 101
+Goal Areas: GE-02, GE-13
+Science
+- Choose 8 - 9 Credit(s). To meet university general education requirements, courses must come from at least two different disciplines.
+BIOL 105
+General Biology I
+4 credits
+Study of biological processes at the suborganismal level including cell chemistry, metabolism, reproduction, genetics, and complex tissue physiology. Laboratory and discussion sessions stress problem solving and experimental design.
+Prerequisites:
+none
+Goal Areas: GE-03
+BIOL 106
+General Biology II
+4 credits
+Study of biological processes at the organismal level including a survey of life forms (viruses, bacteria, protists, fungi, plants, and animals), their evolution, and ecology. Laboratory and discussion sessions stress problem solving and experimental design.
+Prerequisites:
+none
+CHEM 201
+General Chemistry I
+5 credits
+Introduction to the basic principles of chemistry including atomic and molecular structure, bonding, chemical reactions, stoichiometry, thermodynamics and states of matter. Laboratory will reinforce lecture concepts. Prereq: C or higher in MATH 112 or the equivalent; high school chemistry or C or higher in CHEM 104
+Prerequisites:
+"C" (2.0) or higher in MATH 112 or the equivalent; high school chemistry or "C" (2.0) or higher in CHEM 104.
+Goal Areas: GE-02, GE-03
+CHEM 202
+General Chemistry II
+5 credits
+Continuation of the basic principles of chemistry including properties of solutions, kinetics, acids and bases, equilibria, buffers, precipitation reactions, electron transfer reactions, electrochemistry, entropy and free energy. Laboratory will reinforce lecture concepts.
+Prerequisites:
+"C" (2.0) or higher in CHEM 201
+GEOL 121
+Physical Geology
+4 credits
+Physical geology is the study of how the earth works. From mountain building to soil erosion, this course provides an introduction to all the main areas of geologic study. Lecture discussions and laboratory exercises are designed for students seeking a major or minor in one of the natural sciences.
+Prerequisites:
+none
+Goal Areas: GE-03, GE-10
+PHYS 221
+General Physics I
+4 credits
+Designed for science and engineering students. Calculus-based physics. Covers elementary mechanics including kinematics, statics, equilibrium and dynamics of particles, work and energy, rotational motion, gravitation, and oscillation. Lecture and Laboratory. MATH 121 must be completed with a C or better prior to taking this course or must be taken concurrently. High school physics or PHYS 101 is also strongly encouraged. Fall, Spring
+Prerequisites:
+none
+Goal Areas: GE-02, GE-03
+PHYS 222
+General Physics II
+3 credits
+Designed for science and engineering students. Calculus-based physics. Covers electrical charge and field; magnetic field and its sources; current and resistance; simple DC and AC circuits; and electromagnetic induction. Lecture only. (Associated laboratory course is PHYS 232.) MATH 121 must be completed with a C or better prior to taking this course. MATH 122 must be completed before taking this course or taken concurrently. Fall, Spring
+Prerequisites:
+MATH 121 with a "C" or better; PHYS 221 with a "C" or better.
+PHYS 223
+General Physics III
+3 credits
+Designed for science and engineering students. Calculus-based physics. Covers fluids, thermodynamics, mechanical and sound waves, geometrical optics, physical optics, and modern physics. Lecture only. (Associated laboratory course is PHYS 233.) Pre: MATH 121 with a Cor better; and PHYS 221 with a C or better. MATH 122 must be completed before taking this course or taken concurrently. Spring
+Prerequisites:
+MATH 121 with a "C" or better; and PHYS 221 with a "C" or better
+PHYS 232
+General Physics II Laboratory
+1 credits
+Designed for science and engineering students. Laboratory course accompanying PHYS 222. Experiments involving electric and magnetic fields, electric potential, electric and magnetic forces, and simple circuits. Laboratory only. Prereq: PHYS 221 with a C or better; and PHYS 222 or concurrent. Fall, Spring
+Prerequisites:
+PHYS 221 with a "C" or better; and PHYS 222 or concurrent.
+PHYS 233
+General Physics III Laboratory
+1 credits
+Designed for science and engineering students. Laboratory course accompanying PHYS 223. Experiments involving fluids, thermodynamics, mechanical waves, geometrical optics, and physical optics. Laboratory only. Prereq: PHYS 221 with a C or better; and PHYS 223 or concurrent. Spring
+Prerequisites:
+PHYS 221 with a "C" or better; and PHYS 223 or concurrent.
+* PHYS 222 and 232 must be taken together.
+* PHYS 223 and 233 must be taken together.
+Major Common Core
+All students must complete 4 credits of CS 495 (Seminar)
+CIS 121
+Introduction to Programming
+4 credits
+This course provides conceptual and logical tools for students planning to major in a computing-based major. Programming in a high-level language such as C++, Python, or Java, and the development of skills in abstraction, problem-solving, and algorithmic thinking are emphasized.
+Prerequisites:
+MATH 112 or MATH 113 or MATH 115 or MATH 121
+CIS 122
+Data Structures
+4 credits
+This course is a continuation of CIS 121. Students develop a basic knowledge of programming skills and object-oriented concepts, and use fundamental data structures such as lists, stacks, queues, and trees.
+Prerequisites:
+CIS 121. Select One Course: MATH 112, MATH 113, MATH 115, MATH 121, or MATH 130
+CIS 223
+Algorithms
+4 credits
+This course builds on CS 122 (Data Structures) with coverage of advanced data structures and associated algorithms, including trees, graphs, hashing, searching, priority queues, and memory management. Formal proof techniques, the analysis of best, worst, and expected cases, and the development of efficient algorithms are emphasized. Use of effect-free programming, first-class functions, and higher-order operations such as map, reduce, and filter are explored.
+Prerequisites:
+MATH 121 and CS 111 or CIS 122 or IT 214
+CIS 224
+Computer Architecture
+4 credits
+This course presents historical and current concepts and implementations of computer organization. Topics include instruction set design, digital storage, performance metrics, processor datapath and control, pipelining, memory hierarchy, busses and I/O interfacing, and parallel processors.
+Prerequisites:
+CS 111 or CIS 122or IT 214
+CS 301
+CS Core: Operating Systems
+2 credits
+This course introduces the foundational concepts of operating systems including operating systems principles, concurrency, scheduling, dispatch, and memory management and prepares students for advanced topics in operating systems.
+Prerequisites:
+CIS 223, CIS 224 or EE 234, and admission to major.
+CS 302
+CS Core: Software Engineering & Parallel Computing
+2 credits
+This course introduces the foundational concepts of software engineering, and parallel and distributed computing and prepares students for advanced topics in these areas.
+Prerequisites:
+CIS 223, CIS 224, and admission to major.
+CS 303
+CS Core: Programming Languages
+2 credits
+This course introduces the foundational concepts of programming languages, including the principles of language design, language constructs, and comparison of major languages. Topics include formal methods of examining syntax and semantics of languages and lexical analysis of language components and constructs, and propositional and predicate calculi.
+Prerequisites:
+CIS 223, CIS 224, and admission to major.
+CS 304
+CS Core: Databases & Information Security
+2 credits
+This course introduces the foundational concepts of Information Management, Database Systems, Data Modeling, Data Security, Secure Design, Defensive Programming, Security and Cryptography.
+Prerequisites:
+CIS 223, CIS 224, and admission to major.
+CS 391W
+Computer Science Project 1
+4 credits
+Students learn and practice the essential elements of computer science through research, classical problem or industry project implementation: scoping, modeling, experimentation, analysis, modern tools, creativity, business plans, and global/societal/environmental impacts. Students learn and develop the elements of professionalism while operating in project teams. Topics include leadership, metacognition, teamwork, written and oral communication, ethics and professional and personal responsibility. Course must be taken concurrently with CS 495.
+Prerequisites:
+CIS 223 and MATH 280
+CS 392W
+Computer Science Project 2
+4 credits
+Students further learn and practice the essential elements of computer science through research, classical problem or industry project implementation: scoping, modeling, experimentation, analysis, modern tools, creativity, business plans, and global/societal/environmental impacts. Students continue to learn and develop the elements of professionalism while operating in project teams. Topics include leadership, metacognition, teamwork, written and oral communication, ethics and professional and personal responsibility. Course must be taken concurrently with CS 495.
+Prerequisites:
+CS 391W
+CS 491W
+Computer Science Capstone 1
+4 credits
+The first in a two-semester sequence of capstone design. Students build on the experience gained in CS 391W/392W to bring their research or project implementation and leadership to that expected of contributing computer scientists in industry or research. Course must be taken concurrently with CS 495.
+Prerequisites:
+CS 301, CS 302, CS 303, CS 304, CS 392W
+CS 495
+Computer Science Seminar
+1 credits
+Students learn about computer science practice through seminars with faculty, graduate students, undergraduate students admitted to the CS major, visiting researchers, and industry members. CS students are assisted in their development as learners and professional citizens through workshops. This course is repeated by upper-division Computer Science students every semester.
+Prerequisites:
+Admission to major.
+MATH 122
+Calculus II
+4 credits
+Techniques of integration, applications of integration, improper integrals, numerical integration, the calculus of parametric curves, and infinite series and sequences.
+Prerequisites:
+MATH 121 with "C" (2.0) or better or consent
+MATH 247
+Linear Algebra I
+4 credits
+Matrices, determinants, systems of linear equations, vector spaces, linear transformations, and characteristic value problems.
+Prerequisites:
+MATH 122 with "C" (2.0) or better or consent
+MATH 280
+Discrete Mathematics for Computer Science I
+4 credits
+This course is an introduction to mathematical concepts needed in computer science, including sets, relations and functions, propositional logic, proof techniques, recurrence relations, graphs and trees, and discrete probability. This course is not intended for students pursuing a degree in mathematics.
+Prerequisites:
+MATH 121 with "C" (2.0) or better or consent.
+MATH 354
+Concepts of Probability & Statistics
+4 credits
+A calculus based introduction to probability and statistics. Topics include probability, random variables, probability distributions (discrete and continuous), joint probability distributions (discrete and continuous), statistical inference (both estimation and hypothesis testing), confidence intervals for distribution of parameters and their functions, sample size determinations, analysis of variance, regression, and correlation. This course meets the needs of the practitioner and the person who plans further study in statistics. Same as MATH 354. Fall, Spring, Summer
+Prerequisites:
+MATH 122 with "C" (2.0) or better or consent
+MATH 380
+Discrete Mathematics for Computer Science II
+4 credits
+A continuation of the topics from MATH 280. The major focus of the course is understanding and analyzing algorithms, including proving that algorithms perform correctly. Topics include modular arithmetic, counting problems, sorting algorithms and constructions on graphs. This course is not intended for students pursuing a major degree in mathematics.
+Prerequisites:
+MATH 247 and MATH 280 with a grade of "C" (2.0) or better
+Thesis or Capstone
+- Choose 4 Credit(s). Students have the option of completing a thesis or a fourth project.
+CS 492W
+Computer Science Capstone 2
+4 credits
+The second in a two-semester sequence of capstone design and the fourth project class overall. Students build on the experience gained in CS 391W/392W to bring their research or project implementation and leadership to that expected of contributing computer scientists in industry or research. Expectations include public presentation of project work, patent applications, and/or plan for commercialization of project. Course must be taken concurrently with CS 495.
+Prerequisites:
+CS 491W and (CS 306, CS 401, CS 403, CS 406, CS 410, CS 420, CS 435, CS 440, CS 445, CS 450, CS 465, CS 470, CS 480, or CS 485)
+CS 498W
+Senior Thesis
+4 credits
+Advanced study and research required. Topic of the senior thesis determined jointly by the student and the faculty advisor.Fall, Spring Prereq: Senior standing and consent
+Prerequisites:
+Senior standing and consent
+Major Restricted Electives
+Choose 12 Credit(s). 400-level topics classes can be repeated when topics are different.
+CS 306
+Network Architectures
+2 credits
+An introduction to data communications and networks. The field encompasses local area networks, wide area networks, and wireless communication. Topics include digital signals, transmission techniques, error detection and correction, OSI model, TCP/IP model, network topologies, network protocols, and communications hardware.
+Prerequisites:
+CIS 223 and CIS 224 or EE 234
+CS 308
+Applied Algorithms
+2 credits
+This course covers more advanced algorithmic areas, including tree, graph, and text algorithms, as well as the study of algorithmic strategies (e.g., divide-and-conquer, linear programming, etc.). There is an emphasis on the application of efficient algorithms to solve novel problems, and the development of an algorithmic mindset by students. Admission to Major or Permission.
+Prerequisites:
+none
+CS 401
+Topics in Operating Systems
+2 credits
+Study of theory and/or implementation topics related to operating systems such as security and protection, virtual machines, device management, file systems, real time and embedded systems, fault tolerance and system performance evaluation. Prerequisite: Admission to Major or Permission
+Prerequisites:
+none
+CS 403
+Topics in Programming Languages
+2 credits
+Study of theory and/or implementation topics related to programming languages such as syntax analysis, semantic analysis, code generation, runtime systems, static analysis, advanced programming constructs, concurrency and parallelism, type systems, formal semantics, language pragmatics, and logic programming. Prerequisite: Admission to Major or Permission
+Prerequisites:
+none
+CS 406
+Topics in Networking & Communication
+2 credits
+Study of theory and/or implementation topics related to networking and computation such as mobility and social networking and expansion of topics covered in CS 306. Prerequisite: Admission to Major or Permission
+Prerequisites:
+none
+CS 410
+Topics in Algorithms & Computability
+2 credits
+Study of theory and/or implementation topics related to algorithms and computing such as advanced computational complexity, automata theory and computability, and advanced data structures algorithms and analysis. This includes the theoretical underpinnings of modern computer science, focusing on three main models of computation: DFA, PDA and Turing Machines. Students determine model capabilities and limitations: what is and is not computable by each of them.
+Prerequisites:
+Admission to major or permission.
+CS 415
+Topics in Parallel & Distributed Computing
+2 credits
+Study of theory and/or implementation topics related to parallel and distributed computing such as parallel algorithms, architecture, and performance, distributed systems, cloud computing, and formal models and semantics. These have been called techniques for High Performance Computing. Topics also include application areas and basic concepts of parallel computing, hardware design of modern HPC platforms and parallel programming models, methods of measuring and characterizing serial and parallel performance.
+Prerequisites:
+Admission to major or permission.
+CS 420
+Topics in Architecture & Organization
+2 credits
+Study of theory and/or implementation topics related to computer architecture and organization such as functional organization, multiprocessing and alternative architectures, and performance enhancements. This includes topics in computer architecture including a major emphasis on measuring and improving computer performance. Topics include advances in pipelining and analysis and optimization of storage systems and networks, multiprocessor challenges and trends.
+Prerequisites:
+Admission to major or permission.
+CS 435
+Topics in Intelligent Systems
+2 credits
+Study of theory and/or implementation topics related to intelligent systems such as Basic Search Strategies, Basic Knowledge Representation and Reasoning, Basic Machine Learning, Advanced Search, Advanced Representation and Reasoning, Reasoning Under Uncertainty, Agents, Natural Language Processing, Advanced Machine Learning, Robotics, and Perception and Computer Vision. Prerequisite: Admission to Major or Permission
+Prerequisites:
+none
+CS 440
+Topics in Information Management
+2 credits
+Study of theory and/or implementation topics related to information management such as indexing, relational databases, query languages, transaction processing, distributed databases, physical database design, data mining, information storage and retrieval and multimedia systems. Prerequisite: Admission to Major or Permission
+Prerequisites:
+none
+CS 445
+Topics in Information Assurance and Security
+2 credits
+Study of theory and/or implementation topics related to information assurance and security, such as defensive programming, threats and attacks, network security, cryptography, web security, platform security, security policy and governance, digital forensics, and secure software engineering. Prerequisite: Admission to Major or Permission
+Prerequisites:
+none
+CS 450
+Topics in Computational Science
+2 credits
+Study of theory and/or implementation topics related to computational science such as modeling and simulation, processing, interactive visualization, data, information and knowledge, and numerical analysis. Prerequisite: Admission to Major or Permission
+Prerequisites:
+none
+CS 465
+Topics in Graphics & Visualization
+2 credits
+Study of theory and/or implementation topics related to graphics and visualization such as basic and advanced rendering, geometric modeling, computer animation and visualization. Topics include game programming with concentration on 3D graphics including modeling, rendering, and animation for computer games and graphic simulations. Programs are created using a current graphics and game development environment.
+Prerequisites:
+Admission to major or permission.
+CS 470
+Topics in Human Computer Interaction
+2 credits
+Study of theory and/or implementation topics related to human computer interaction such as designing interaction, programming interactive systems, user-centered design and testing, new interactive technologies, collaboration & communication, statistical methods for HCI, human factors and security, design-oriented HCI, and mixed, augmented and virtual reality. This course builds on the use of modern compilers. Related topics covered include lexical scanning, parsing, type checking, code generation and translation, optimization, and compile-time and run-time support for modern programming languages.
+Prerequisites:
+Admission to major or permission.
+CS 480
+Topics in Software Engineering
+2 credits
+Study of theory and/or implementation topics related to software engineering such as software processes, project management, requirements engineering, software design, construction, verification and validation, reliability, and formal methods. These relate to advanced programming for general-purpose software development. Topics include tools and processes appropriate for employing object-oriented designs and programming within a significant software development environment and advanced data structures and algorithms, graphical user interfaces, and software development processes.
+Prerequisites:
+Admission to major or permission.
+CS 485
+Topics in Platform-Based Development
+2 credits
+Study of topics theory and/or implementation related to the fundamental differences that Platform-Based Development has over traditional software development addressing topics such as Web Platforms, Mobile Platforms, Industrial Platforms, and Game Platforms. Prerequisite: Admission to Major or Permission
+Prerequisites:
+none
+Minor
+Upon completion of this program, a mathematics minor can be earned. Students who wish to have the minor on their transcript should declare it before graduation.Initial deposit: N/A
+
+
+Application Fee for Undergraduate: $ 20
+Application Fee for Postgraduate: $ 40
+
+
+Annual Fee for Undergraduate: $ 18,812
+Annual Fee for Postgraduate: $ 14,918
+
+
+English Language Requirements Undergraduate only:
+TOEFL iBT (internet-based test) score of 61 or better
+Pearson Test of English (PTE) score of 47 or better
+IELTS academic test score of 5.5 or better
+
+
+English Language Requirements Postgraduate only:
+Different for every course and given in course content 
+
+
+Entry Requirements Undergraduate only:
+A cumulative high school GPA of 3.0 or higher or A rank in the top 50% of your high school class or An ACT composite score of 21 or higher and a minimum cumulative high school GPA of 2.7. If you do not meet the above admission requirements, you can submit additional information to consider when reviewing your application.
+
+
+Entry Requirements Postgraduate only:
+Applicants must possess the equivalent of a U.S. Bachelor's degree to be considered for graduate programs at Minnesota State Mankato. The degree must be earned at an institution recognized and approved to award the degree. GRE (Graduate Record Examination) is required by some academic programs.
+
+English Language requirements of graduate programs is different for each course. Graduate programs only have IELTS and TOEFL test scores.
+For Graduate Entry Requirements, some requirements like GPA, Score are mentioned on the course page so add them too.

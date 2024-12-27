@@ -1,0 +1,281 @@
+Link: https://cset.mnsu.edu/academic-programs/automotive-engineering-technology/automotive-engineering-technology-bachelor-of-science-bs2/
+
+College of Science, Engineering & Technology
+Academic Programs
+Automotive Engineering Technology
+Automotive Engineering Technology, Bachelor of Science (BS)
+Automotive Engineering Technology Section
+Automotive Engineering Technology
+Automotive Engineering Technology, Bachelor of Science (BS)
+Automotive Engineering Technology, Minor
+Automotive Engineering Technology, Master of Science (MS)
+Automotive Engineering Technology Faculty and Staff
+Automotive Engineering Technology Mission
+Automotive Engineering Technology Outcomes
+Automotive Engineering Technology Objectives
+Automotive Engineering Technology Narrative
+Automotive Engineering Technology (BS)
+The Automotive Engineering Technology degree prepares graduates for careers in product research, design and development, manufacturing, and technical sales in the original equipment and aftermarket industries. Fields include passenger cars, trucks, motorcycles, recreational vehicles, vehicle emissions, safety, fuels and lubricants, construction, industrial, and agricultural equipment.
+Current Catalog Year
+2024-2025
+Degree
+Bachelor of Science
+Major /                                         Total Credits
+96 / 128
+Locations
+Mankato
+Accreditation
+Engineering Technology Accreditation Commission of ABET
+Accredited by the Engineering Technology Accreditation Commission of ABET, http://www.abet.org
+Apply
+Program Requirements
+Program
+                                    Requirements
+Required General Education
+CHEM 104
+Introduction to Chemistry
+3 credits
+This course is an introduction to general chemistry. It is a non-laboratory class designed to prepare students for CHEM 201 or to be utilized as a general education course. This course will address more mathematical relationships than CHEM 106. Credit will not be given to students who have previously taken a chemistry course at or above Chem 111 and received a passing grade.
+Prerequisites:
+none
+Goal Areas: GE-03
+ECON 202
+Principles of Microeconomics
+3 credits
+Examines decision making by the individual firm, the determination of prices and wages, and current problems facing business firms.
+Prerequisites:
+none
+Goal Areas: GE-05
+ENG 271W
+Technical Communication
+4 credits
+Introduction to learning the written and oral communication of technical information. Assignments include writing and presenting proposals, reports, and documentation. Emphasis on use of rhetorical analysis, computer applications, collaborative writing, and usability testing to complete technical communication tasks in the workplace.
+Prerequisites:
+ENG 101
+Goal Areas: GE-02, GE-13
+STAT 154
+Elementary Statistics
+4 credits
+An introduction to statistical concepts and methods that is applicable to all disciplines. Topics include descriptive measures of data, probability and probability distributions, statistical inference, tests of hypotheses, confidence intervals, correlation, linear regression, and analysis of variance. The use of statistical software will be emphasized. Prereq: ACT Math sub-score of 19 or higher, successful completion of MATH 098 or appropriate placement scores (see Placement Information under Statistics) Fall, Spring, Summer GE-4
+Prerequisites:
+Satisfy Placement Table in this section, or MATH 098 with grade of P.
+Goal Areas: GE-02, GE-04
+Prerequisites to the Major
+* ENG 101, COMM 100/102, MATH 121, and PHYS 211 will also count toward General Education requirements.
+AET 102
+Introduction to Automotive Engineering Technology
+1 credits
+An overview of careers, technology and requirements of the Automotive Engineering Technology program. Careers in engineering technology are examined along with professional organizations and ethics.
+Prerequisites:
+none
+AET 160
+Automotive Technology & Systems
+4 credits
+This course is centered on the theory, operation and service of the systems found in modern automobiles. Lectures and demonstrations cover the course topics and open lab sessions allow students to practice procedures on their own vehicles in the completion of course assignments.
+Prerequisites:
+none
+AET 261
+Automotive Driveability and Diagnosis
+4 credits
+This course focuses on the engine's mechanical, ignition, fuel, and emission system using a systems approach to diagnose problems. Test equipment used in the course includes: fuel and fuel system; emission system; ignition oscilloscopes; valve refurbishing and mechanical diagnostic equipment.
+Prerequisites:
+none
+AET 262
+Automotive Computers and Electronics
+4 credits
+This course is centered on the theory, components, and diagnostic procedures related to modern automobile electrical and electronic systems. The major emphasis of the course involves the computer, sensors, and actuators as used in vehicles to control the ignition, fuel, emission, ABS, and chassis systems.
+Prerequisites:
+AET 160, AET 261, EET 113
+EET 113
+DC Circuits
+3 credits
+A study of DC electrical circuits, Kirchhoff's laws, series and parallel circuits, inductors, capacitors, circuit response to RL, RC and RLC circuits. Thevenin's equivalent circuit theorem, and other network analysis theorems. Use of dependent sources in DC circuits. MATH 112 or 115 may be taken concurrently.
+Prerequisites:
+MATH 112 or MATH 115
+ENG 101
+Foundations of Writing & Rhetoric
+4 credits
+Students in this course approach writing as a subject of study by investigating how writing works across a variety of contexts.
+Prerequisites:
+none
+Goal Areas: GE-1A
+MATH 121
+Calculus I
+4 credits
+Limits, continuity, the derivative and applications, transcendental functions, L'Hopital's Rule, and development of the Riemann integral.
+Prerequisites:
+Satisfy Placement Table in this section, MATH 115 or both MATH 112 and MATH 113 with "C" (2.0) or better.
+Goal Areas: GE-04
+MET 142
+Introduction to Parametric Modeling
+3 credits
+The course covers a process of developing and analyzing solid parametric models for mechanical applications. Course includes solving technical design problems based on real-world applications as well as creating technical documentation: working and assembly drawings.
+Prerequisites:
+none
+MET 275
+Manufacturing Processes I
+4 credits
+Fundamentals of machine technology and metallurgy. Students learn to perform machining on a lathe, mill, and drill press, and also assemble the products. Basics of heat treatment, welding and machining are discussed. Extra lab time is required.
+Prerequisites:
+CHEM 104 and MET 142
+PHYS 211
+Principles of Physics I
+4 credits
+General background in physical concepts for those who do not plan advanced study in physics or engineering. Topics include mechanics, fluids, heat and thermodynamics. Lecture and laboratory.
+Prerequisites:
+Either MATH 112 and MATH 113, or MATH 115
+Goal Areas: GE-02, GE-03
+Communication
+- Choose 3 Credit(s).
+COMM 100
+Fundamentals of Communication
+3 credits
+A course designed to improve students' understanding in communication, including the areas of interpersonal, nonverbal, listening, small group and public speaking.
+Prerequisites:
+none
+Goal Areas: GE-1B
+COMM 102
+Public Speaking
+3 credits
+A course in communication principles to develop skills in the analysis and presentation of speeches.
+Prerequisites:
+none
+Goal Areas: GE-1B
+Major Common Core
+AET 280
+Data Acquisition and Analysis
+3 credits
+This is an introductory course to graphical programming and data acquisition using LabVIEW®. Fundamental programming concepts are introduced including variables and data types, conditions, loop structures, functions, and data file input/output. Students will learn how to use data acquisition equipment, acquire and analyze signals, and present results.
+Prerequisites:
+EET 113, MATH 121
+AET 334
+Fluid Power
+3 credits
+Course provides a fundamental understanding of the physical principles of fluid power, along with a practical working knowledge of the components utilized in designing, installing, operating, and maintaining hydraulic and pneumatic power systems.
+Prerequisites:
+MATH 121, PHYS 211
+AET 364
+Chassis Design and Performance Testing
+4 credits
+This course is an exploration of the theory and design of chassis systems, in addition to evaluation of these designs. Research tools include software design simulators, chassis geometry gauges, and dynamometers.
+Prerequisites:
+MATH 121, PHYS 211
+AET 366
+Automotive Thermodynamics and Engine Design
+3 credits
+This course focuses on the study of thermodynamics as it relates to internal combustion engines and their design. Static and dynamic engine measurements are thoroughly covered along with an introduction to fuel cell and hybrid application. Thermochemistry topics are covered including fuel characteristics, mixture ratios and emission characteristics.
+Prerequisites:
+CHEM 104, MATH 121, PHYS 211
+AET 387
+Junior Design Project
+3 credits
+An examination of automotive design and research along with a review of topics such as ethics, professionalism, measurement, statistics, and career development/placement. This course prepares the student for AET 488, Senior Design Project I, where the design proposal, design project and final report are completed.
+Prerequisites:
+ENG 271W, STAT 154
+AET 436
+Hybrid and Electric Vehicles
+3 credits
+This course covers advanced vehicle propulsion systems within the electric and hybrid electric category. Fundamentals of the operation of electric motors, controllers, inverters, and batteries utilized in electric and hybrid platforms will be covered. In addition a significant focus will be placed on the application, modeling, integration, testing, and optimization of the systems in electric and hybrid electric vehicles.
+Prerequisites:
+AET 280, AET 366
+AET 465
+Automotive Laboratory Experience
+2 credits
+This course is designed to provide experience in management, organization, supervision, and maintenance in a laboratory environment. Enrollment is limited. Sign up at least two semesters ahead.
+Prerequisites:
+AET 364, Permission required
+AET 468
+Automotive Research Methods
+4 credits
+Automotive research techniques and equipment form the basis of this course. Environmental measurement, air flow testing, dynamometer testing, emissions measurement and fuel efficiency testing is covered. Emphasis is placed on research procedures, data acquisition and interpretation.
+Prerequisites:
+AET 366, PHYS 211, STAT 154
+AET 488W
+Senior Design Project I
+3 credits
+The first of a two course sequence where students carry out their capstone design project. Weekly meetings are scheduled where the design team carries out the tasks required for completion. Formal design presentations and research papers are presented at the end of the course.
+Prerequisites:
+MET 341, AET 364, AET 387
+AET 489W
+Senior Design Project II
+3 credits
+The second of a two course sequence where students build upon the first semester's work. This course culminates with the completion of the capstone project with a formal technical paper following SAE format that would be ready to be submitted for publication.
+Prerequisites:
+AET 468, AET 488W, MET 324
+MATH 122
+Calculus II
+4 credits
+Techniques of integration, applications of integration, improper integrals, numerical integration, the calculus of parametric curves, and infinite series and sequences.
+Prerequisites:
+MATH 121 with "C" (2.0) or better or consent
+MET 323
+Statics
+3 credits
+This course covers principles of statics, force equilibrium, analysis of structures, friction, centroid, centers of gravity, and moment of inertia.
+Prerequisites:
+PHYS 211 and MATH 121
+MET 324
+Strength of Materials and Dynamics
+4 credits
+This course covers stress and strain, torsion, bending of beams, shearing stresses in beams, compound stresses, principal stresses, deflections of beams, columns, connections, and pressure vessels. Topics also include kinematics and kinetics of rigid bodies, work, energy, and power.
+Prerequisites:
+MET 323
+MET 341
+Advanced Parametric Modeling
+3 credits
+The course emphasizes the use of parametric modeling in design, analysis and manufacturing. Topics include component design, assembly, mechanism, animation, EFX and rapid prototyping using computer technology.
+Prerequisites:
+MET 142
+MET 375
+Manufacturing Processes II
+4 credits
+Advanced manufacturing processes including casting, forging, sheet metal forming, and powder metals are discussed. Topics also include materials treatment, preparation, and design for manufacture. Extra lab time is required.
+Prerequisites:
+MET 275
+MET 424
+Industrial Safety
+2 credits
+Techniques of developing safety practices in an industrial environment. Topics include OSHA, current legislation, cost analysis, personal protection, employee selection, psychological aspects, product safety, hazard materials and catastrophe control.
+Prerequisites:
+none
+MET 425
+Project and Value Management
+3 credits
+Planning, management, and economic justification of projects are supported by computer tools for scheduling, staffing, and economic analysis.
+Prerequisites:
+STAT 154
+PHYS 212
+Principles of Physics II
+4 credits
+Includes waves and sound, electricity and magnetism, light and optics, and topics in modern physics. Lecture and laboratory.
+Prerequisites:
+PHYS 211Initial deposit: N/A
+
+
+Application Fee for Undergraduate: $ 20
+Application Fee for Postgraduate: $ 40
+
+
+Annual Fee for Undergraduate: $ 18,812
+Annual Fee for Postgraduate: $ 14,918
+
+
+English Language Requirements Undergraduate only:
+TOEFL iBT (internet-based test) score of 61 or better
+Pearson Test of English (PTE) score of 47 or better
+IELTS academic test score of 5.5 or better
+
+
+English Language Requirements Postgraduate only:
+Different for every course and given in course content 
+
+
+Entry Requirements Undergraduate only:
+A cumulative high school GPA of 3.0 or higher or A rank in the top 50% of your high school class or An ACT composite score of 21 or higher and a minimum cumulative high school GPA of 2.7. If you do not meet the above admission requirements, you can submit additional information to consider when reviewing your application.
+
+
+Entry Requirements Postgraduate only:
+Applicants must possess the equivalent of a U.S. Bachelor's degree to be considered for graduate programs at Minnesota State Mankato. The degree must be earned at an institution recognized and approved to award the degree. GRE (Graduate Record Examination) is required by some academic programs.
+
+English Language requirements of graduate programs is different for each course. Graduate programs only have IELTS and TOEFL test scores.
+For Graduate Entry Requirements, some requirements like GPA, Score are mentioned on the course page so add them too.

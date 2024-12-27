@@ -1,0 +1,845 @@
+Link: https://cset.mnsu.edu/academic-programs/civil-engineering/civil-engineering-bachelor-of-science-civil-engineering-bsce2/
+
+College of Science, Engineering & Technology
+Academic Programs
+Civil Engineering
+Civil Engineering, Bachelor of Science Civil Engineering (BSCE)
+Civil Engineering Section
+Civil Engineering
+Civil Engineering, Bachelor of Science Civil Engineering (BSCE)
+Civil Engineering Faculty and Staff
+Civil Engineering (BSCE)
+Current Catalog Year
+2024-2025
+Degree
+Bachelor of Science - Civil Engineering
+Major /                                         Total Credits
+101 / 128
+Locations
+Mankato
+Accreditation
+ABET
+Accreditation Board for Engineering and Technology
+Apply
+Program Requirements
+Degree Plan
+Program
+                                    Requirements
+Required General Education
+Required Special General Education (23 credits)
+The Bachelor of Science in Civil Engineering degree does not adhere to the standard general education program required by other majors. Rather, it requires a special distribution of courses from communication, economics, and other courses from Goal Areas 2, 5, 6, 7, 8, 9, or 10. Courses may be chosen to satisfy the university cultural diversity requirement concurrently.
+Required Goal Area Courses. Each student should discuss with their academic advisor on the selection of courses to meet this requirement early in their academic career. Specifically, the minimum requirements consist of at least 6 credits from Goal Areas 2, 5, or 6, excluding CHEM 191, CHEM 201, and ENG 271W; and at least 6 credits from Goal Areas, 7, 8, 9, or 10 excluding ENVR 101, in addition to the Required General Education courses.
+ENG 101
+Foundations of Writing & Rhetoric
+4 credits
+Students in this course approach writing as a subject of study by investigating how writing works across a variety of contexts.
+Prerequisites:
+none
+Goal Areas: GE-1A
+ENG 271W
+Technical Communication
+4 credits
+Introduction to learning the written and oral communication of technical information. Assignments include writing and presenting proposals, reports, and documentation. Emphasis on use of rhetorical analysis, computer applications, collaborative writing, and usability testing to complete technical communication tasks in the workplace.
+Prerequisites:
+ENG 101
+Goal Areas: GE-02, GE-13
+Choose 3 Credit(s).
+ECON 201
+Principles of Macroeconomics
+3 credits
+Emphasis on forces influencing employment and inflation. Current problems of the economy are stressed along with tools government has to cope with them.
+Prerequisites:
+none
+Goal Areas: GE-05
+ECON 202
+Principles of Microeconomics
+3 credits
+Examines decision making by the individual firm, the determination of prices and wages, and current problems facing business firms.
+Prerequisites:
+none
+Goal Areas: GE-05
+Prerequisites to the Major
+CIVE 201
+Introduction to Problem Solving and Civil Engineering Design
+2 credits
+Introduction to the design concepts of civil engineering projects including presentations, codes and standards, construction drawings, and public hearing; problem solving skills for civil engineering analysis and design including the use of appropriate computational tools and programming logic. Includes laboratory component.
+Prerequisites:
+CIVE 101
+MATH 121
+Calculus I
+4 credits
+Limits, continuity, the derivative and applications, transcendental functions, L'Hopital's Rule, and development of the Riemann integral.
+Prerequisites:
+Satisfy Placement Table in this section, MATH 115 or both MATH 112 and MATH 113 with "C" (2.0) or better.
+Goal Areas: GE-04
+MATH 122
+Calculus II
+4 credits
+Techniques of integration, applications of integration, improper integrals, numerical integration, the calculus of parametric curves, and infinite series and sequences.
+Prerequisites:
+MATH 121 with "C" (2.0) or better or consent
+MATH 223
+Calculus III
+4 credits
+Surfaces, vector-valued functions, partial differentiation, multiple integration, and vector calculus.
+Prerequisites:
+MATH 122 with "C" (2.0) or better, or consent
+MATH 321
+Ordinary Differential Equations
+4 credits
+This course presents the theory, computations, and applications of first and second order differential equations and two-dimensional systems.
+Prerequisites:
+MATH 122 with "C" (2.0) or better or consent
+ME 212
+Statics
+3 credits
+Resultants of force systems, equilibrium, analysis of forces acting on structural and machine elements, friction, second moments, virtual work.
+Prerequisites:
+PHYS 221
+ME 214
+Dynamics
+3 credits
+Kinematics and kinetics of particles, systems of particles and rigid bodies, work-energy, linear and angular impulse momentum, vibrations.
+Prerequisites:
+ME 212
+ME 223
+Mechanics of Materials
+3 credits
+Load deformation, stress, strain, stress-strain relationship, buckling, energy concepts, stress analysis of structural and machine elements.
+Prerequisites:
+ME 212
+ME 291
+Engineering Analysis
+3 credits
+Probability and statistics. Uncertainty, distributions. Numerical solution of algebraic, transcendental and differential equations. Numerical integration and differentiation. Structured programming language required.
+Prerequisites:
+MATH 122, PHYS 221. Select one from EE 107, CIVE 201, ME 201
+PHYS 221
+General Physics I
+4 credits
+Designed for science and engineering students. Calculus-based physics. Covers elementary mechanics including kinematics, statics, equilibrium and dynamics of particles, work and energy, rotational motion, gravitation, and oscillation. Lecture and Laboratory. MATH 121 must be completed with a C or better prior to taking this course or must be taken concurrently. High school physics or PHYS 101 is also strongly encouraged. Fall, Spring
+Prerequisites:
+none
+Goal Areas: GE-02, GE-03
+Chemistry Options
+- Select one of the two Chemistry Options for 5 credits.
+Option 1: General Chemistry
+CHEM 201
+General Chemistry I
+5 credits
+Introduction to the basic principles of chemistry including atomic and molecular structure, bonding, chemical reactions, stoichiometry, thermodynamics and states of matter. Laboratory will reinforce lecture concepts. Prereq: C or higher in MATH 112 or the equivalent; high school chemistry or C or higher in CHEM 104
+Prerequisites:
+"C" (2.0) or higher in MATH 112 or the equivalent; high school chemistry or "C" (2.0) or higher in CHEM 104.
+Goal Areas: GE-02, GE-03
+Option 2: Chemistry Applications
+- Choose 5 Credit(s).
+CHEM 191
+Chemistry Applications
+3 credits
+From an engineering perspective, concepts of general chemistry will be investigated. Topics include atomic structure, stiochiometry, gas laws, periodic trends chemical bonds, thermodynamics, kinetics and organic chemistry.
+Prerequisites:
+High school chemistry or "C" (2.0) or higher in CHEM 104. Student must demonstrate math placement requirements at or above MATH 115 in the placement chart. See Mathematics for details.
+Goal Areas: GE-02, GE-03
+GEOL 291
+Introduction to Water and Soil Analysis
+2 credits
+Introduction to laboratory analyses of aqueous solutions and soils in support of civil engineering or geological applications. Includes techniques of analysis of water and soil samples. Water analysis includes biological and chemical oxygen demand, corrosion, pH, phosphorus, chlorine, VOCs, nitrogen, hardness, turbidity, thermal measurement and flow tracing. Soil analysis includes pH, loss on ignition, redox, and fertility.
+Prerequisites:
+none
+Major Common Core
+CIVE 101
+Introduction to Engineering - Civil
+2 credits
+To prepare the students for a career in engineering with some emphasis in civil; introduce the engineering fundamentals and the skills necessary to have a successful learning experience; and to prepare students for engineering education and profession through interactions with upper-class engineering students and practicing engineers.
+Prerequisites:
+none
+CIVE 145
+CAD for Civil Engineering
+2 credits
+Basic computer applications for drafting and designing civil engineering projects. Structure and use of standard CAD software. Basic orthographic construction and projections, and development of different types of drawings - sections, plan and profile, and construction details.
+Prerequisites:
+none
+CIVE 235
+Properties of Civil Engineering Materials
+3 credits
+Mechanical behavior and properties of civil engineering materials. Microstructure, response to stress, creep, fatigue, fracture and failure. Composition, application and construction of steel, concrete, asphalt, aggregates, steel, timber, composites and other materials. Includes laboratory component.
+Prerequisites:
+ME 212
+CIVE 271
+Civil Engineering Measurements
+2 credits
+Basic civil engineering measurements as relates to construction layout, including distances, angles, bearings, elevations, mapping, and positioning. Includes laboratory component.
+Prerequisites:
+Select One: MATH 113, MATH 115, MATH 121
+CIVE 321
+Fluid Mechanics
+3 credits
+Introduction to fluid properties, fluid statics, buoyancy, fluid kinematics, Bernoulli¿s equation, control volume and differential approach to flow conservation equations, dimensional analysis, similitude, viscous flow in pipes, flow over immersed bodies, and pumps. Includes significant design component.
+Prerequisites:
+ME 214. Select one: ME 241 or ME 299
+CIVE 340
+Structural Analysis
+3 credits
+Minimum design loads for buildings using ASCE 7 guidelines and load distribution. Analysis of determinate structural systems including the case of moving loads. Analysis of indeterminate structures using the flexibility and moment distribution methods. Use of software to enhance the analysis.
+Prerequisites:
+CIVE 223 or ME 223
+CIVE 350
+Hydraulics and Hydrology
+4 credits
+Concept of hydraulics such as pipe flow and open channel flow. Hydrologic principles such as weather patterns; precipitation measurement and distribution, abstractions, and runoff; storm hydrograph and peak flow analysis. Design includes flood design, reservoir and channel routing. Includes significant design component.
+Prerequisites:
+CIVE 321 or ME 321, ME 291
+CIVE 360
+Geotechnical Engineering
+4 credits
+Study of soil behaviors and their classifications; index properties. Applications of mechanics principles to soils as an engineering material, consolidation theory, compaction theory, effective stresses, shear strength; earth pressure and slope stability. Elements of foundation designs. Includes significant design component.
+Prerequisites:
+CIVE 223 or ME 223
+CIVE 370W
+Transportation Engineering
+4 credits
+Introduction to Transportation systems; land use and transportation interaction, planning, and traffic operations; transportation decision making using economic analysis. Introduction to design, construction, maintenance, and operation of various transportation modes. Includes significant design component.
+Prerequisites:
+CIVE 145, ME 291
+CIVE 380
+Environmental Engineering
+3 credits
+Introduction of the fundamental chemical, biological and physical principles of environmental engineering for water and wastewater treatment and distribution systems, solid waste management, air pollution control, and the analysis of air quality, surface water, and ground water. Includes significant design component.
+Prerequisites:
+Select one: CHEM 201 or GEOL 291
+CIVE 401W
+Civil Engineering Design I
+2 credits
+Practical civil engineering design project with real world constraints. This course focuses on the planning and formulation of a project, and the presentation of preliminary findings to the public. Includes significant design component.
+Prerequisites:
+ENG 271W, CIVE 340, CIVE 350, CIVE 360, CIVE 370W
+CIVE 402W
+Civil Engineering Design II
+3 credits
+Practical civil engineering design project with real world constraints. Focuses on the engineering analysis, design, and economic analysis of the project. Includes significant design component. Students will prepare for and complete the Fundamentals of Engineering exam.
+Prerequisites:
+CIVE 401W
+CIVE 435
+Civil Engineering Experimentation I
+2 credits
+Provides students with hands-on experience in the testing of civil engineering materials including concrete, metals and structural systems. Includes laboratory component.
+Prerequisites:
+CIVE 235, CIVE 340
+CIVE 436
+Civil Engineering Experimentation II
+2 credits
+Provides students with hands-on experience in the testing of civil engineering materials including soil and asphalt, fluid mechanics, hydraulics, and hydrology. Includes laboratory component.
+Prerequisites:
+CIVE 350, CIVE 360, CIVE 380
+GEOL 121
+Physical Geology
+4 credits
+Physical geology is the study of how the earth works. From mountain building to soil erosion, this course provides an introduction to all the main areas of geologic study. Lecture discussions and laboratory exercises are designed for students seeking a major or minor in one of the natural sciences.
+Prerequisites:
+none
+Goal Areas: GE-03, GE-10
+Choose 2 - 3 Credit(s).
+ME 241
+Thermodynamics
+3 credits
+Fundamental concepts of thermodynamics. Thermal properties of substances and state equations. Conservation of mass, first and second laws. Examples of applications to different engineering systems.
+Prerequisites:
+PHYS 221
+ME 299
+Thermal Analysis
+2 credits
+Basic principles of thermodynamics, fluid mechanics, and heat transfer. First and second laws of thermodynamics and application to engineering systems and their design. Not for mechanical engineering major.
+Prerequisites:
+PHYS 221 with "C-" (1.67) or better
+Choose 3 Credit(s).
+CIVE 446
+Reinforced Concrete Design
+3 credits
+Design of reinforced concrete beams, columns, slabs, and structural foundations according to ACI 318 Building Code requirements. Includes significant design component.
+Prerequisites:
+CIVE 340
+CIVE 448
+Steel Design
+3 credits
+Behavior and properties of structural steel. Design of tension members, compression members, beams, and connections using the LRFD method. Use of the AISC Steel Construction Manual is required. Includes significant design component.
+Prerequisites:
+CIVE 340
+Major Restricted Electives
+Physics II or III
+- Choose one group
+College Physics II
+PHYS 222
+General Physics II
+3 credits
+Designed for science and engineering students. Calculus-based physics. Covers electrical charge and field; magnetic field and its sources; current and resistance; simple DC and AC circuits; and electromagnetic induction. Lecture only. (Associated laboratory course is PHYS 232.) MATH 121 must be completed with a C or better prior to taking this course. MATH 122 must be completed before taking this course or taken concurrently. Fall, Spring
+Prerequisites:
+MATH 121 with a "C" or better; PHYS 221 with a "C" or better.
+PHYS 232
+General Physics II Laboratory
+1 credits
+Designed for science and engineering students. Laboratory course accompanying PHYS 222. Experiments involving electric and magnetic fields, electric potential, electric and magnetic forces, and simple circuits. Laboratory only. Prereq: PHYS 221 with a C or better; and PHYS 222 or concurrent. Fall, Spring
+Prerequisites:
+PHYS 221 with a "C" or better; and PHYS 222 or concurrent.
+College Physics III
+PHYS 223
+General Physics III
+3 credits
+Designed for science and engineering students. Calculus-based physics. Covers fluids, thermodynamics, mechanical and sound waves, geometrical optics, physical optics, and modern physics. Lecture only. (Associated laboratory course is PHYS 233.) Pre: MATH 121 with a Cor better; and PHYS 221 with a C or better. MATH 122 must be completed before taking this course or taken concurrently. Spring
+Prerequisites:
+MATH 121 with a "C" or better; and PHYS 221 with a "C" or better
+PHYS 233
+General Physics III Laboratory
+1 credits
+Designed for science and engineering students. Laboratory course accompanying PHYS 223. Experiments involving fluids, thermodynamics, mechanical waves, geometrical optics, and physical optics. Laboratory only. Prereq: PHYS 221 with a C or better; and PHYS 223 or concurrent. Spring
+Prerequisites:
+PHYS 221 with a "C" or better; and PHYS 223 or concurrent.
+Civil and Technical Electives
+- Choose a minimum of 14 credits in civil (minimum 9) and technical (minimum 2) electives. Elective courses are selected from the list below, and are recommended to be taken after identifying an area of interest and in consultation with an academic advisor.
+Civil Engineering Electives
+- Choose 9 - 12 Credit(s).
+CIVE 412
+Advanced Surveying
+3 credits
+Advanced surveying techniques related to control surveys, coordinate systems, error identification, adjustment computation, ethics and client relations, and techniques specific to a range of applications including: land development, highway layout, mining, hydrography and riparian boundaries.
+Prerequisites:
+none
+CIVE 415
+Boundary Survey and Law
+3 credits
+History and concept of boundaries; boundary location procedures; property ownership and conveyance; metes and bounds; legal research regarding boundaries; rules of boundary evidence including classification and evaluation; land description composition; easements.
+Prerequisites:
+none
+CIVE 417
+Surveying Capstone
+2 credits
+A practical surveying project with real world constraints. Focuses on residential or commercial land development incorporating: subdivision and land development regulatory processes, zoning issues, elements of civil infrastructure design, boundary description and location, grading and earthwork, utility design and layout, and storm water management. Supports preparation for the Fundamentals of Surveying licensure examination.
+Prerequisites:
+none
+CIVE 432
+Properties of Concrete
+3 credits
+Selected studies in the properties and design of concrete mixtures, cement chemistry, concrete durability, specialty concrete, construction, admixtures, and quality control. Includes laboratory and significant design components.
+Prerequisites:
+ME 223
+CIVE 446
+Reinforced Concrete Design
+3 credits
+Design of reinforced concrete beams, columns, slabs, and structural foundations according to ACI 318 Building Code requirements. Includes significant design component.
+Prerequisites:
+CIVE 340
+CIVE 447
+Prestressed Concrete Design
+3 credits
+Design of prestressed concrete structures. Basic materials and prestress loss mechanisms. Flexure, shear, and deflections of prestressed concrete beams. Load-moment interaction curves for columns. Prestressed concrete bridge girders. The use of software is expected. Includes significant design component.
+Prerequisites:
+CIVE 340
+CIVE 448
+Steel Design
+3 credits
+Behavior and properties of structural steel. Design of tension members, compression members, beams, and connections using the LRFD method. Use of the AISC Steel Construction Manual is required. Includes significant design component.
+Prerequisites:
+CIVE 340
+CIVE 452
+Open Channel Flow
+3 credits
+Analysis of open channel flow systems. Includes natural channels, designed channels, flow transitions, steady flow, unsteady flow, uniform flow, and non-uniform flow. Includes significant design component.
+Prerequisites:
+CIVE 350
+CIVE 454
+Hydraulic Structures
+3 credits
+Analysis and design of water regulating structures. Includes dams, spillways, gates, dikes, levees, stilling basins, water distribution systems, and various simpler structures. Environmental impacts of hydraulic structures are discussed throughout the course. Includes significant design component.
+Prerequisites:
+CIVE 350
+CIVE 458
+Stormwater Management
+3 credits
+Application of fluid mechanics and hydrology to the design of stormwater management facilities. Environmental impacts of stormwater management are discussed throughout the course. Includes significant design component.
+Prerequisites:
+CIVE 350
+CIVE 461
+Fundamentals of Pavement Design
+3 credits
+Performance and design of rigid, flexible, and composite pavement structures with emphasis on modern pavement design procedures. Principles of pavement maintenance, rehabilitation, and pavement management systems. Materials characterization, tests, quality control, and life cycle cost analysis. Includes significant design component.
+Prerequisites:
+ME 223, CIVE 235
+CIVE 465
+Foundation Design
+3 credits
+Classification of foundations; applications of fundamental soil mechanics to design and analysis of soil-structure systems; design and computer application of shallow and deep foundations, piles and caissons, retaining structures. Introduction to rock mechanics. Includes significant design component.
+Prerequisites:
+CIVE 360
+CIVE 467
+Earth Structures
+3 credits
+Design and construction of traditional embankments, including slope stability analysis; earth and rockfill dams, introduction to seepage analysis; excavations, earth retaining structures, and other geotechnical structures. Geotechnical software application in analysis and design. Includes significant design component.
+Prerequisites:
+CIVE 360
+CIVE 470
+Traffic Engineering
+3 credits
+Elements of traffic engineering including road use, vehicle and roadway systems; traffic flow theory; traffic studies and data collections; traffic control devices; principles of intersecting signalization; capacity and level of service; analysis of freeways, rural highways and intersections using computer software for traffic operations and management. Includes significant design component.
+Prerequisites:
+CIVE 370W
+CIVE 471
+Highway Planning and Design
+3 credits
+Classification and design process of highways; development and use of design controls; criteria, and highway design elements; design of vertical and horizontal alignment, and establishment of sight distances; design of cross sections, intersections, and interchanges. Extensive use of CAD software. Includes significant design component.
+Prerequisites:
+CIVE 370W
+CIVE 475
+Rural and Agricultural Transportation Design
+3 credits
+Introduction to rural and agricultural transportation topics including transport economics, freight transportation, multimodal issues and asset management. Introduction to driver, pedestrian, and vehicular characteristics. Traffic characteristics; highway capacity; traffic studies and analyses. Principles of traffic control for improved highway traffic service. Includes significant design component.
+Prerequisites:
+CIVE 370W
+CIVE 476
+Planning and Design of Airports
+3 credits
+Development and design of airport facilities and the integration of multiple disciplines including runway orientation and capacity, terminal facilities, forcasting, planning, noise, airspace utilization, parking, lighting, and construction. Includes significant design component.
+Prerequisites:
+CIVE 370W
+CIVE 478W
+Transportation Asset Management
+3 credits
+Engineering management techniques for maintaining and managing infrastructure assets. Systematic approach to management through value engineering, engineering economics, and life cycle cost analysis. Selection and scheduling of maintenance activities. Analysis of network-wide resource needs. Project level analysis. Transportation Asset Management Plans. Includes significant design component.
+Prerequisites:
+CIVE 370W
+CIVE 481
+Water & Wastewater Treatment, Collection & Distribution
+3 credits
+Overview of municipal water and wastewater treatment and distribution practices. Application of chemical, biological and physical principles to design and the operation of water and wastewater treatment and distribution systems. Includes significant design component.
+Prerequisites:
+CIVE 380
+CIVE 484
+Landfill and Hazardous Waste Engineering
+3 credits
+This course will be taught as a classroom based course with a combination of lecture, individual and group projects, reading, homework, discussion, review, and examinations. The goal of the course is to develop competency in the design and implementation of landfill design and hazardous waste remediation, with understanding of both performance and cost implications to all choices.
+Prerequisites:
+CIVE 380
+Technical Electives
+- Choose 2 - 5 Credit(s).
+BIOL 270
+Microbiology
+4 credits
+An introduction to the general principles and methods used in the study of microorganisms. Lab included. Prereq: One BIOL course and one semester of chemistry from among CHEM 104, CHEM 106, CHEM 111, or CHEM 201. Fall, Spring, Summer
+Prerequisites:
+One BIOL course and one semester of chemistry from among CHEM 104, CHEM 106, CHEM 111, or CHEM 201
+Goal Areas: GE-03
+BLAW 450
+Contract Law and Professional Responsibility
+3 credits
+Fundamentals of contracts, the law of sales under the UCC; the legal liability of accountants to clients and third parties. Formation of contracts; statute of frauds and parol evidence rule; contract performance; remedies for breach of contract; scope of UCC Article Two; sales warranties; remedies for breach of contracts.
+Prerequisites:
+BLAW 200
+BLAW 453
+International Legal Environment of Business
+3 credits
+Legal aspects of United States global trade policies, regulation of imports, contracting in the global marketplace, international marketing concerns, structure of various international organizations and treaties. Legal aspects of international licensing and technology, transfers risks of nationalization and expropriation, international dispute resolution, comity, the Act of State, and sovereign immunity doctrines.
+Prerequisites:
+BLAW 200
+BLAW 474
+Environmental Law
+3 credits
+The course introduces students to the legal framework for environmental protection in the United States. Students will study the principle treaties, common law, constitutional principles, statutes, and regulations that govern environmental regulation. They will also explore issues of land use and planning, clean air and water laws, sustainability, and emerging environmental legal issues.
+Prerequisites:
+BLAW 200
+BLAW 476
+Construction and Design Law
+3 credits
+Legal responsibilities of architects, engineers and contractors in dealing with each other, the project's owner, sureties and subcontractors. Special emphasis on performance problems, forms of business association, legal relationships with independent contractors, the AIA contract documents, mechanics liens, AAA Construction Arbitration Rules, dispute avoidance, claims management and collection strategies.
+Prerequisites:
+BLAW 200
+CHEM 202
+General Chemistry II
+5 credits
+Continuation of the basic principles of chemistry including properties of solutions, kinetics, acids and bases, equilibria, buffers, precipitation reactions, electron transfer reactions, electrochemistry, entropy and free energy. Laboratory will reinforce lecture concepts.
+Prerequisites:
+"C" (2.0) or higher in CHEM 201
+CHEM 305
+Analytical Chemistry
+4 credits
+Introduction to the principles of chemical analysis, with emphasis on classical methods of analysis. Lectures will stress the theory of chemical measurements and sample handling. Laboratory exercises will provide students with opportunities to explore calibration methods, method development, and established procedures for volumetric and gravimetric analyses. Basic atomic spectroscopy is also presented.
+Prerequisites:
+"C" (2.0) or higher in CHEM 202
+CHEM 407
+Environmental Chemistry
+3 credits
+The sources of various elements and chemical reactions between them in the atmosphere and hydrosphere are treated. Current research topics relevant to the field of environmental chemistry will also be addressed. Laboratory exercises will emphasize proper sampling technique and various analytical methods for quantifying environmentally important components.
+Prerequisites:
+"C" (2.0) or higher in CHEM 305
+CIVE 300 - 489
+Except Required Courses
+credits
+Prerequisites:
+none
+CM 310
+Estimating I
+3 credits
+This course covers types of estimates and their uses, the basics of quantity take-off, labor and equipment productivity and basic computer applications.
+Prerequisites:
+MATH 113 or MATH 115 or MATH 121
+CM 330
+Planning and Scheduling
+3 credits
+The course focuses on understanding project planning, scheduling and control models emphasizing the critical path method. It will introduce techniques used in the industry by utilizing commercial software to create a construction project schedule. The class highlights the importance of analyzing project schedules and schedule alternatives.
+Prerequisites:
+CM 220
+CM 340
+Construction Project Management
+3 credits
+This course examines the project management framework, including key terminology, project management context, and project management processes. Topics include project management knowledge areas, life cycles, and organizational designs. Different project delivery methods will be discussed and the roles of project stakeholders will be identified and analyzed.
+Prerequisites:
+CM 220, CM 222, CM 297
+EE 300 - 489
+credits
+Prerequisites:
+none
+EE 230
+Circuit Analysis I
+3 credits
+This course is meant to develop Electrical Engineering Circuit Analysis skills in DC and AC circuits. It includes circuit laws and theorems, mesh and node analysis. Natural and step response of RL, RC, and RLC circuits.
+Prerequisites:
+PHYS 222 or concurrent, MATH 321 or concurrent
+ENVR 440
+Environmental Regulations
+3 credits
+This is a lecture course introducing students to major federal environmental laws and regulations. Discussions include the cause(s) that prompted the enactment of various environmental legislation as well as intent and implementation of the legislation. Both Federal and State of MN environmental statutes will be discussed.
+Prerequisites:
+none
+ENVR 450
+Environmental Pollution & Control
+3 credits
+This is a lecture course that introduces students to sources and controls for pollutants in air, water, and soils including hazardous waste. Chemical and biological mechanisms that are important in nature and used to control/treat various types of pollutants are emphasized. Strongly recommended that this course be taken immediately after completing 1 year of Chemistry.
+Prerequisites:
+1 year CHEM
+ENVR 460
+Analysis of Pollutants
+4 credits
+The purpose of this lecture/lab class is to introduce students to standard practices and procedures used in sampling and analysis of environmental matrices and to develop an environmental research project. Standard quality control/quality assurance procedures per EPA are emphasized.
+Prerequisites:
+none
+GEOG 313
+Natural Disasters
+4 credits
+An examination of the underlying causes of natural disasters occurring over the globe. Focus will be primarily upon weather and climate related disasters. Students will also be exposed to concepts of plate tectonics and how these affect the distribution of earthquakes and volcanism over the planet.
+Prerequisites:
+none
+GEOG 315
+Geomorphology
+4 credits
+This course explores the scientific study of earth's surface, through investigating landscapes and landforms, their characteristics, origin and evolution, and the biologic, chemical, and physical processes that create these landscapes and landforms through time. Fundamental linkages between process and form and climate/climate change, earth materials, geologic structures, plate tectonics, and biological systems will be examined. Implications of anthropogenic influences on processes and modification of earth's surface will also be assessed. Laboratory exercises and field trips are required.
+Prerequisites:
+none
+GEOG 373
+Introduction to Geography Information Systems
+4 credits
+The course will be an introduction to the analysis of spatial data using the concept of a geographic information system (GIS). Content of the course will be, to a great extent, based on the NCGIA core curriculum with assignments tailored to the data and software available within the department such as ArcGIS.
+Prerequisites:
+none
+GEOG 410
+Climatic Environments
+3 credits
+The characteristics of particular climates and understanding the factors that control their spatial distribution.
+Prerequisites:
+none
+GEOG 411
+Soils Geomorphology
+4 credits
+This course examines the dynamic nature of soils including the processes that control formation and degradation, anthropogenic impacts, spatial distribution across landscapes, and links among soils and other components of the earth system. A combination of lectures and hands-on exercises in field and laboratory settings are utilized to explore the complex interactions between soils and landscapes.
+Prerequisites:
+none
+GEOG 413
+Soil Conservation
+4 credits
+This course examines basic concepts and components of soils, factors that influence formation and degradation, soil as a natural resource for ecosystems and societies, and the importance of soil conservation to restore functions that reduce erosion, improve water quality and quantity, mitigate climate change, enhance biodiversity, and increase agricultural productivity to feed an expanding population. Students will gain hands-on experience in field and laboratory settings to assess soil quality and quantity, investigate site-specific and landscape-scale impacts to soils, and develop management strategies to protect and improve soils in urban and agricultural systems.
+Prerequisites:
+none
+GEOG 420
+Conservation of Natural Resources
+3 credits
+Survey of natural resources emphasizing energy, minerals, soils, fisheries, and water resources. Also addresses timber, wetlands, and wildlife on public and private lands.
+Prerequisites:
+none
+GEOG 439
+Transportation Modeling & GIS
+4 credits
+Four major sets of ideas will be covered: (1) Introduction to Spatial Organization, (2) Network Analysis, (3) Allocation Methods, and (4) Urban Transportation. The emphasis is on these approaches to understanding the geography of transport by description, explanation, and normative or optimal methods.
+Prerequisites:
+none
+GEOL 330
+Structural Geology
+4 credits
+Study of the processes and results of rock deformation at scales ranging from microscopic to plate tectonic, and at conditions ranging from the Earth's surface to the deep interior.
+Prerequisites:
+GEOL 100 or GEOL 107or GEOL 121
+GEOL 449
+Applied Soil Science and Surface Hydrology
+4 credits
+The application of geologic data and principles to problems created by human occupancy and use of the physical environment. Lecture and laboratory topics include soil classification and conservation, hazardous waste site evaluation and remediation, and living with geologic hazards.
+Prerequisites:
+GEOL 100 GEOL 104 or GEOL 107 or GEOL 121
+GEOL 450
+Hydrogeology
+3 credits
+This course introduces physical and chemical studies of hydrogeology. The main areas of discussion will include the physical and chemical attributes of aquifers, movement of ground-water and solute through soils and rocks, and reactions between earth materials and pollutants in ground-water systems. The class includes extensive use of MODFLOW and MT3D, the two most commonly usedgroundwater modeling programs currently available.
+Prerequisites:
+GEOL 100 or GEOL 107or GEOL 121
+ME 300 - 489
+credits
+Prerequisites:
+none
+URBS 437
+Urban Heritage Preservation
+3 credits
+Preservation techniques, principles of structural evaluation, adaptive use potentials and options, economic consideration in preservation and the role of legislation.
+Prerequisites:
+none
+URBS 438
+Historic Preservation: Policy and Field Methods
+3 credits
+Historic Preservation: Policy and Field Methods introduces students to the rules and laws of structural historic preservation. The course will investigate the major policy documents, laws, agencies, survey methods, and examine how they are applied in local government preservation.
+Prerequisites:
+none
+URBS 471
+Urban Transportation
+3 credits
+Examines transportation problems of, and solutions for large and medium sized cities. Special emphasis on reducing traffic congestion, improving management of transit systems, and linking transportation and land-use planning.
+Prerequisites:
+none
+Degree Plan
+First Year
+Fall
+- 15 Credits
+CIVE 101
+Introduction to Engineering - Civil
+2 credits
+To prepare the students for a career in engineering with some emphasis in civil; introduce the engineering fundamentals and the skills necessary to have a successful learning experience; and to prepare students for engineering education and profession through interactions with upper-class engineering students and practicing engineers.
+Prerequisites:
+none
+ENG 101
+Foundations of Writing & Rhetoric
+4 credits
+Students in this course approach writing as a subject of study by investigating how writing works across a variety of contexts.
+Prerequisites:
+none
+Goal Areas: GE-1A
+MATH 121
+Calculus I
+4 credits
+Limits, continuity, the derivative and applications, transcendental functions, L'Hopital's Rule, and development of the Riemann integral.
+Prerequisites:
+Satisfy Placement Table in this section, MATH 115 or both MATH 112 and MATH 113 with "C" (2.0) or better.
+Goal Areas: GE-04
+CIVE 145
+CAD for Civil Engineering
+2 credits
+Basic computer applications for drafting and designing civil engineering projects. Structure and use of standard CAD software. Basic orthographic construction and projections, and development of different types of drawings - sections, plan and profile, and construction details.
+Prerequisites:
+none
+CHEM 191
+Chemistry Applications
+3 credits
+From an engineering perspective, concepts of general chemistry will be investigated. Topics include atomic structure, stiochiometry, gas laws, periodic trends chemical bonds, thermodynamics, kinetics and organic chemistry.
+Prerequisites:
+High school chemistry or "C" (2.0) or higher in CHEM 104. Student must demonstrate math placement requirements at or above MATH 115 in the placement chart. See Mathematics for details.
+Goal Areas: GE-02, GE-03
+Spring
+- 15 Credits
+MATH 122
+Calculus II
+4 credits
+Techniques of integration, applications of integration, improper integrals, numerical integration, the calculus of parametric curves, and infinite series and sequences.
+Prerequisites:
+MATH 121 with "C" (2.0) or better or consent
+CIVE 201
+Introduction to Problem Solving and Civil Engineering Design
+2 credits
+Introduction to the design concepts of civil engineering projects including presentations, codes and standards, construction drawings, and public hearing; problem solving skills for civil engineering analysis and design including the use of appropriate computational tools and programming logic. Includes laboratory component.
+Prerequisites:
+CIVE 101
+PHYS 221
+General Physics I
+4 credits
+Designed for science and engineering students. Calculus-based physics. Covers elementary mechanics including kinematics, statics, equilibrium and dynamics of particles, work and energy, rotational motion, gravitation, and oscillation. Lecture and Laboratory. MATH 121 must be completed with a C or better prior to taking this course or must be taken concurrently. High school physics or PHYS 101 is also strongly encouraged. Fall, Spring
+Prerequisites:
+none
+Goal Areas: GE-02, GE-03
+CIVE 271
+Civil Engineering Measurements
+2 credits
+Basic civil engineering measurements as relates to construction layout, including distances, angles, bearings, elevations, mapping, and positioning. Includes laboratory component.
+Prerequisites:
+Select One: MATH 113, MATH 115, MATH 121
+Second Year
+Fall
+- 16 Credits
+GEOL 121
+Physical Geology
+4 credits
+Physical geology is the study of how the earth works. From mountain building to soil erosion, this course provides an introduction to all the main areas of geologic study. Lecture discussions and laboratory exercises are designed for students seeking a major or minor in one of the natural sciences.
+Prerequisites:
+none
+Goal Areas: GE-03, GE-10
+ME 212
+Statics
+3 credits
+Resultants of force systems, equilibrium, analysis of forces acting on structural and machine elements, friction, second moments, virtual work.
+Prerequisites:
+PHYS 221
+GEOL 291
+Introduction to Water and Soil Analysis
+2 credits
+Introduction to laboratory analyses of aqueous solutions and soils in support of civil engineering or geological applications. Includes techniques of analysis of water and soil samples. Water analysis includes biological and chemical oxygen demand, corrosion, pH, phosphorus, chlorine, VOCs, nitrogen, hardness, turbidity, thermal measurement and flow tracing. Soil analysis includes pH, loss on ignition, redox, and fertility.
+Prerequisites:
+none
+ME 291
+Engineering Analysis
+3 credits
+Probability and statistics. Uncertainty, distributions. Numerical solution of algebraic, transcendental and differential equations. Numerical integration and differentiation. Structured programming language required.
+Prerequisites:
+MATH 122, PHYS 221. Select one from EE 107, CIVE 201, ME 201
+MATH 321
+Ordinary Differential Equations
+4 credits
+This course presents the theory, computations, and applications of first and second order differential equations and two-dimensional systems.
+Prerequisites:
+MATH 122 with "C" (2.0) or better or consent
+Spring
+- 16 Credits
+ME 214
+Dynamics
+3 credits
+Kinematics and kinetics of particles, systems of particles and rigid bodies, work-energy, linear and angular impulse momentum, vibrations.
+Prerequisites:
+ME 212
+MATH 223
+Calculus III
+4 credits
+Surfaces, vector-valued functions, partial differentiation, multiple integration, and vector calculus.
+Prerequisites:
+MATH 122 with "C" (2.0) or better, or consent
+ME 223
+Mechanics of Materials
+3 credits
+Load deformation, stress, strain, stress-strain relationship, buckling, energy concepts, stress analysis of structural and machine elements.
+Prerequisites:
+ME 212
+ENG 271W
+Technical Communication
+4 credits
+Introduction to learning the written and oral communication of technical information. Assignments include writing and presenting proposals, reports, and documentation. Emphasis on use of rhetorical analysis, computer applications, collaborative writing, and usability testing to complete technical communication tasks in the workplace.
+Prerequisites:
+ENG 101
+Goal Areas: GE-02, GE-13
+ME 299
+Thermal Analysis
+2 credits
+Basic principles of thermodynamics, fluid mechanics, and heat transfer. First and second laws of thermodynamics and application to engineering systems and their design. Not for mechanical engineering major.
+Prerequisites:
+PHYS 221 with "C-" (1.67) or better
+Third Year
+Fall
+- 16 Credits
+CIVE 321
+Fluid Mechanics
+3 credits
+Introduction to fluid properties, fluid statics, buoyancy, fluid kinematics, Bernoulli¿s equation, control volume and differential approach to flow conservation equations, dimensional analysis, similitude, viscous flow in pipes, flow over immersed bodies, and pumps. Includes significant design component.
+Prerequisites:
+ME 214. Select one: ME 241 or ME 299
+CIVE 340
+Structural Analysis
+3 credits
+Minimum design loads for buildings using ASCE 7 guidelines and load distribution. Analysis of determinate structural systems including the case of moving loads. Analysis of indeterminate structures using the flexibility and moment distribution methods. Use of software to enhance the analysis.
+Prerequisites:
+CIVE 223 or ME 223
+CIVE 370W
+Transportation Engineering
+4 credits
+Introduction to Transportation systems; land use and transportation interaction, planning, and traffic operations; transportation decision making using economic analysis. Introduction to design, construction, maintenance, and operation of various transportation modes. Includes significant design component.
+Prerequisites:
+CIVE 145, ME 291
+CIVE 380
+Environmental Engineering
+3 credits
+Introduction of the fundamental chemical, biological and physical principles of environmental engineering for water and wastewater treatment and distribution systems, solid waste management, air pollution control, and the analysis of air quality, surface water, and ground water. Includes significant design component.
+Prerequisites:
+Select one: CHEM 201 or GEOL 291
+Spring
+- 17 Credits
+CIVE 235
+Properties of Civil Engineering Materials
+3 credits
+Mechanical behavior and properties of civil engineering materials. Microstructure, response to stress, creep, fatigue, fracture and failure. Composition, application and construction of steel, concrete, asphalt, aggregates, steel, timber, composites and other materials. Includes laboratory component.
+Prerequisites:
+ME 212
+CIVE 350
+Hydraulics and Hydrology
+4 credits
+Concept of hydraulics such as pipe flow and open channel flow. Hydrologic principles such as weather patterns; precipitation measurement and distribution, abstractions, and runoff; storm hydrograph and peak flow analysis. Design includes flood design, reservoir and channel routing. Includes significant design component.
+Prerequisites:
+CIVE 321 or ME 321, ME 291
+CIVE 360
+Geotechnical Engineering
+4 credits
+Study of soil behaviors and their classifications; index properties. Applications of mechanics principles to soils as an engineering material, consolidation theory, compaction theory, effective stresses, shear strength; earth pressure and slope stability. Elements of foundation designs. Includes significant design component.
+Prerequisites:
+CIVE 223 or ME 223
+Fourth Year
+Fall
+- 17 Credits
+CIVE 401W
+Civil Engineering Design I
+2 credits
+Practical civil engineering design project with real world constraints. This course focuses on the planning and formulation of a project, and the presentation of preliminary findings to the public. Includes significant design component.
+Prerequisites:
+ENG 271W, CIVE 340, CIVE 350, CIVE 360, CIVE 370W
+CIVE 435
+Civil Engineering Experimentation I
+2 credits
+Provides students with hands-on experience in the testing of civil engineering materials including concrete, metals and structural systems. Includes laboratory component.
+Prerequisites:
+CIVE 235, CIVE 340
+Spring
+- 16 Credits
+CIVE 402W
+Civil Engineering Design II
+3 credits
+Practical civil engineering design project with real world constraints. Focuses on the engineering analysis, design, and economic analysis of the project. Includes significant design component. Students will prepare for and complete the Fundamentals of Engineering exam.
+Prerequisites:
+CIVE 401W
+CIVE 436
+Civil Engineering Experimentation II
+2 credits
+Provides students with hands-on experience in the testing of civil engineering materials including soil and asphalt, fluid mechanics, hydraulics, and hydrology. Includes laboratory component.
+Prerequisites:
+CIVE 350, CIVE 360, CIVE 380Initial deposit: N/A
+
+
+Application Fee for Undergraduate: $ 20
+Application Fee for Postgraduate: $ 40
+
+
+Annual Fee for Undergraduate: $ 18,812
+Annual Fee for Postgraduate: $ 14,918
+
+
+English Language Requirements Undergraduate only:
+TOEFL iBT (internet-based test) score of 61 or better
+Pearson Test of English (PTE) score of 47 or better
+IELTS academic test score of 5.5 or better
+
+
+English Language Requirements Postgraduate only:
+Different for every course and given in course content 
+
+
+Entry Requirements Undergraduate only:
+A cumulative high school GPA of 3.0 or higher or A rank in the top 50% of your high school class or An ACT composite score of 21 or higher and a minimum cumulative high school GPA of 2.7. If you do not meet the above admission requirements, you can submit additional information to consider when reviewing your application.
+
+
+Entry Requirements Postgraduate only:
+Applicants must possess the equivalent of a U.S. Bachelor's degree to be considered for graduate programs at Minnesota State Mankato. The degree must be earned at an institution recognized and approved to award the degree. GRE (Graduate Record Examination) is required by some academic programs.
+
+English Language requirements of graduate programs is different for each course. Graduate programs only have IELTS and TOEFL test scores.
+For Graduate Entry Requirements, some requirements like GPA, Score are mentioned on the course page so add them too.

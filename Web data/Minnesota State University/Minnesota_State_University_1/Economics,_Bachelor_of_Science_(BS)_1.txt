@@ -1,0 +1,678 @@
+Link: https://hss.mnsu.edu/academic-programs/economics/academic-programs/economics-bs/
+
+College of Humanities and Social Sciences
+Academic Programs
+Economics
+Academic Programs
+Economics, BS
+Economics Section
+Economics
+Academic Programs
+Economics, BS
+Economics, BA
+Economics, Minor
+Faculty and Staff
+Contact Economics
+Apply Today
+Economics (BS)
+Current Catalog Year
+2024-2025
+Degree
+Bachelor of Science
+Major /                                         Total Credits
+69 / 120
+Locations
+Mankato
+Apply
+Program Requirements
+Degree Plan
+Transfer Pathways
+Program
+                                    Requirements
+Major Common Core
+ECON 201
+Principles of Macroeconomics
+3 credits
+Emphasis on forces influencing employment and inflation. Current problems of the economy are stressed along with tools government has to cope with them.
+Prerequisites:
+none
+Goal Areas: GE-05
+ECON 202
+Principles of Microeconomics
+3 credits
+Examines decision making by the individual firm, the determination of prices and wages, and current problems facing business firms.
+Prerequisites:
+none
+Goal Areas: GE-05
+ECON 207
+Business Statistics
+4 credits
+Basic statistical methods including measures of central tendency and dispersion, probability, probability distributions, sampling, problems of estimation and hypothesis testing in the case of one and two sample meaans and proportions. Chi-Square, one-way analysis of variance, simple regression and correlation analysis, and brief introduction to multiple regression analysis. Use of computer statistical packages required.
+Prerequisites:
+MATH 112 or equivalent
+Goal Areas: GE-02, GE-04
+ECON 301
+Introduction to Mathematical Economics
+3 credits
+This course will introduce the student to the use of mathematics in economic analysis. Topics include optimization methods, comparative statics, and linear algebra.
+Prerequisites:
+ECON 201, ECON 202, ECON 207, MATH 112 or equivalent
+ECON 355
+Intermediate Microeconomics
+3 credits
+A survey of imperfect competition, multiple-product firms, multiple-plant firms, and interest theory, designed to develop a system of economic thought.
+Prerequisites:
+ECON 201, ECON 202 and ECON 301
+ECON 356
+Intermediate Macroeconomics
+3 credits
+Study of factors determining aggregate level of production, employment, inflation, and implications of monetary and fiscal policies.
+Prerequisites:
+ECON 201, ECON 202 and ECON 301
+ECON 420
+International Economics
+3 credits
+The economic rationale for interregional trade: emphasis on current problems.
+Prerequisites:
+ECON 201 and ECON 202
+ECON 462W
+Econometrics
+4 credits
+The study of methods and techniques for building econometric models with the goal of forecasting and measurement of the economic relationships by integrating economic theory and statistics in it.
+Prerequisites:
+ECON 201, ECON 202, and ECON 207
+Business Foundation
+- * All Business Foundation courses are required for the degree.
+ACCT 200
+Financial Accounting
+3 credits
+The accounting process, financial statement preparation, and analysis. Includes the accounting cycle, asset, liability, and equity accounting. Emphasis on the use of accounting data.
+Prerequisites:
+MATH 112 or MATH 115or MATH 121 or MATH 130 or MATH 181
+ACCT 210
+Managerial Accounting
+3 credits
+Preparation and analysis of cost-based management reports: use of cost information to make short-term operating decisions and long-term capital decisions.
+Prerequisites:
+ACCT 200
+BLAW 200
+Legal Environment of Business
+3 credits
+Application of law to business settings; the American court system; alternative dispute resolution; ethics and the social responsibility of business; fundamentals of legal reasoning; sources of law; constitutional, criminal, tort, and contract law; business associations.
+Prerequisites:
+none
+CIS 101
+Introduction to Information Systems
+3 credits
+Introduction to the personal computer as a productivity tool for business majors. Using Microsoft Office suite, students learn to be productive with document processing, spreadsheets, electronic presentations, and databases. Cannot be used toward any major or minor in Computer Information Science.
+Prerequisites:
+none
+FINA 362
+Business Finance
+3 credits
+An introduction to finance relating to problems, methods, and policies in financing business enterprise.
+Prerequisites:
+ACCT 200
+MATH 112
+College Algebra
+4 credits
+Concepts of algebra (real numbers, exponents, polynomials, rational expressions), equations and inequalities, functions and graphs, polynomial and rational functions, exponential and logarithmic functions, systems of equations and inequalities, matrices and determinants, conic sections, sequences and series, probability, and binomial theorem.
+Prerequisites:
+Satisfy Placement Table in this section, or MATH 098 with grade of P.
+Goal Areas: GE-04
+MGMT 230
+Principles of Management
+3 credits
+This course examines basic management concepts and principles, their historical development, and their application to modern organizations. Topics covered include planning, organizing, decision making, leadership, control, and organizational change. In addition, the course includes an introduction to business ethics and social responsibility, human resource management, organizational design and organizational behavior.
+Prerequisites:
+none
+MGMT 300
+Introduction to MIS
+3 credits
+This course is designed to introduce students to the Management Information Systems and its application in organizations. The course will present to the students the information systems role to support the various managerial activities, and to help the students identify and evaluate various options in Management Information Systems.
+Prerequisites:
+ISYS 101 or CIS 101
+MGMT 346
+Operations Management for the Supply Chain
+3 credits
+This course engages students in the study of the operations management function in manufacturing and service organizations. Students learn how to apply the basic analytical models to operation decisions involving topics such as scheduling, production technology, inventory management, quality assurance, just-in-time production, and others.
+Prerequisites:
+ECON 207
+MRKT 210
+Principles of Marketing
+3 credits
+This course provides a basic understanding of marketing concepts with emphasis on the pricing, promotion, and distribution of need satisfying products and services in domestic and international markets. The format of the course consists of lectures, case discussions, application exercises, projects, exams, and in-class group assignments.
+Prerequisites:
+none
+Major Restricted Electives
+Choose 12 Credit(s).
+ECON 305
+Money and Banking
+3 credits
+A descriptive and analytical study of the basic principles of money, banking, and finance as they are related to business and public policy.
+Prerequisites:
+ECON 201 and ECON 202
+ECON 314W
+Current Economic Issues
+3 credits
+Elementary economic background and analysis of housing, medical care, inflation, unemployment dilemma, pollution, poverty and affluence, balance between public and private sectors, transportation, urban problems, and other issues will be covered in this course.
+Prerequisites:
+none
+ECON 320W
+Gender Issues and Economic Globalization
+3 credits
+This course will provide tools for analyzing the effects of economic globalization on employment, distribution of income, economic development and socio-economic issues from a gender perspective.
+Prerequisites:
+ECON 201 or ECON 202
+Diverse Cultures: Purple
+ECON 403
+Labor Economics
+3 credits
+Employment, wages, and economic security. The structure and impact of labor organizations and labor legislation.
+Prerequisites:
+ECON 201 and ECON 202
+ECON 405
+Central Banking
+3 credits
+A detailed examination of the Federal Reserve System and monetary policy. The topics will include a history of the Federal Reserve and its monetary tools and strategies: Monetarism, the demand for money, the money supply process, and the impact of financial deregulation on federal policy.
+Prerequisites:
+ECON 305
+ECON 406
+Economics of Unions
+3 credits
+Students examine the economics of unions, including the history of union activity, the development and impact of labor laws on labor markets, the economics of strikes and alternative dispute resolution systems, and the impact of unions on wages and price levels.
+Prerequisites:
+ECON 201 and ECON 202
+ECON 411
+Urban Economics
+3 credits
+Economic forces which account for the development of cities and application of principles to some of the major problems of the modern urban community.
+Prerequisites:
+ECON 201 and ECON 202
+ECON 412
+Resource and Environmental Economics
+3 credits
+Concepts and techniques for evaluating the alternative uses, management and development of natural resources.
+Prerequisites:
+ECON 201 and ECON 202
+ECON 416
+Sports Economics
+3 credits
+This course examines the economics of professional and collegiate sports and sports institutions. Students examine the market for sports competitions, the labor market for player talent, and the role government plays in the business of sports.
+Prerequisites:
+ECON 202
+ECON 429
+Economic Education
+3 credits
+Fundamental ideas and structure of economics with emphasis on the application of such ideas in the K-12 school curriculum.
+Prerequisites:
+none
+ECON 440
+Public Finance
+3 credits
+Public expenditures, taxes and other revenues, debts and financial administration at federal, state, and local levels.
+Prerequisites:
+ECON 201 and ECON 202
+ECON 450
+Economic Development
+3 credits
+Economic underdevelopment and the relationships between mature economies and developing nations.
+Prerequisites:
+ECON 201 and ECON 202
+ECON 463
+Applied Econometrics of Financial Markets
+3 credits
+This course is designed to cover basic tools in time series analysis and to equip students with quantitative skills to analyze the financial market.Fall
+Prerequisites:
+ECON 207
+ECON 472
+Industrial Organization
+3 credits
+This course is an introduction to non-competitive markets using economic models and game theory.
+Prerequisites:
+ECON 201, ECON 202 and ECON 207
+ECON 480
+Seminar in Economics
+1-3 credits
+Variable
+Prerequisites:
+ECON 201 and ECON 202
+ECON 481
+Readings in Economics
+1-3 credits
+Variable
+Prerequisites:
+none
+ECON 491
+In-Service
+1-3 credits
+.
+Prerequisites:
+none
+ECON 498
+Internship
+1-3 credits
+.
+Prerequisites:
+ECON 207, ECON 355, ECON 356
+Major Unrestricted Electives
+The following specializations under Major Restricted Electives are not required and are only advising tools. See your advisor for guidance.
+Labor Economics
+ECON 403
+Labor Economics
+3 credits
+Employment, wages, and economic security. The structure and impact of labor organizations and labor legislation.
+Prerequisites:
+ECON 201 and ECON 202
+ECON 406
+Economics of Unions
+3 credits
+Students examine the economics of unions, including the history of union activity, the development and impact of labor laws on labor markets, the economics of strikes and alternative dispute resolution systems, and the impact of unions on wages and price levels.
+Prerequisites:
+ECON 201 and ECON 202
+MGMT 340
+Human Resource Management
+3 credits
+This course examines the effective management of the human resources of organizations. Topics include analyzing jobs and writing job descriptions; recruiting and hiring of applicants; complying with employment law; managing promotions, quits, and layoffs; employee training and development; evaluating job performance; determining compensation; and managing human resources in a unionized environment.
+Prerequisites:
+none
+MGMT 380
+Human Behavior in Organizations
+3 credits
+Concepts, theories, and empirical research on organizational behavior are studied. Models and tools for diagnosing situations, individual behavior, group behavior, intergroup conflicts, supervisory problems and organizational change are analyzed.
+Prerequisites:
+none
+MGMT 442
+Compensation Management
+3 credits
+The focus of this course is operating an effective, efficient, legal and responsible system for compensating one's employees. Includes the workings of labor markets, analyzing jobs, finding the market value for jobs, designing a pay structure, appraising performance, setting individual pay, determining benefits, occupations requiring special pay programs.
+Prerequisites:
+MGMT 340
+Economics of Public Sector
+ECON 403
+Labor Economics
+3 credits
+Employment, wages, and economic security. The structure and impact of labor organizations and labor legislation.
+Prerequisites:
+ECON 201 and ECON 202
+ECON 412
+Resource and Environmental Economics
+3 credits
+Concepts and techniques for evaluating the alternative uses, management and development of natural resources.
+Prerequisites:
+ECON 201 and ECON 202
+ECON 420
+International Economics
+3 credits
+The economic rationale for interregional trade: emphasis on current problems.
+Prerequisites:
+ECON 201 and ECON 202
+ECON 440
+Public Finance
+3 credits
+Public expenditures, taxes and other revenues, debts and financial administration at federal, state, and local levels.
+Prerequisites:
+ECON 201 and ECON 202
+ECON 462W
+Econometrics
+4 credits
+The study of methods and techniques for building econometric models with the goal of forecasting and measurement of the economic relationships by integrating economic theory and statistics in it.
+Prerequisites:
+ECON 201, ECON 202, and ECON 207
+ECON 472
+Industrial Organization
+3 credits
+This course is an introduction to non-competitive markets using economic models and game theory.
+Prerequisites:
+ECON 201, ECON 202 and ECON 207
+Financial Economics
+BLAW 455
+Legal Aspects of Banking and Finance
+3 credits
+Legal aspects of checks and promissory notes, forgery and the use of counterfeit currency. Discusses the Federal Reserve check collection process, electronic banking, the purchase and sale of commercial paper, debtor and creditor rights, securities regulation, fundamentals of collateral foreclosure, the federal bankruptcy code and insurance law.
+Prerequisites:
+BLAW 200
+ECON 305
+Money and Banking
+3 credits
+A descriptive and analytical study of the basic principles of money, banking, and finance as they are related to business and public policy.
+Prerequisites:
+ECON 201 and ECON 202
+ECON 405
+Central Banking
+3 credits
+A detailed examination of the Federal Reserve System and monetary policy. The topics will include a history of the Federal Reserve and its monetary tools and strategies: Monetarism, the demand for money, the money supply process, and the impact of financial deregulation on federal policy.
+Prerequisites:
+ECON 305
+ECON 420
+International Economics
+3 credits
+The economic rationale for interregional trade: emphasis on current problems.
+Prerequisites:
+ECON 201 and ECON 202
+ECON 463
+Applied Econometrics of Financial Markets
+3 credits
+This course is designed to cover basic tools in time series analysis and to equip students with quantitative skills to analyze the financial market.Fall
+Prerequisites:
+ECON 207
+FINA 464
+Financial Institutions and Markets
+3 credits
+Introduction to money and capital markets, instruments and institutions. Consideration of the management problems of financial institutions.
+Prerequisites:
+FINA 362
+FINA 482
+Risk Management for Financial Institutions
+3 credits
+Fundamental concepts of commercial bank management, financial regulations, and risk management in financial institutions. Coverage includes the financial statements of commercial banks and their use in evaluating a bank¿s financial performance; bank¿s assets, liabilities, and off-balance sheet items management and different risk management approaches applied in financial institutions.
+Prerequisites:
+FINA 362
+Graduate School Preparation
+- These courses are recommended for students planning to attend graduate school in economics and are not required for the major. Econ 301, Math 121, MATH 122, Math 247, Econ 462W and Math 354 are the most important. See your advisor for guidance.
+ECON 301
+Introduction to Mathematical Economics
+3 credits
+This course will introduce the student to the use of mathematics in economic analysis. Topics include optimization methods, comparative statics, and linear algebra.
+Prerequisites:
+ECON 201, ECON 202, ECON 207, MATH 112 or equivalent
+ECON 462W
+Econometrics
+4 credits
+The study of methods and techniques for building econometric models with the goal of forecasting and measurement of the economic relationships by integrating economic theory and statistics in it.
+Prerequisites:
+ECON 201, ECON 202, and ECON 207
+MATH 121
+Calculus I
+4 credits
+Limits, continuity, the derivative and applications, transcendental functions, L'Hopital's Rule, and development of the Riemann integral.
+Prerequisites:
+Satisfy Placement Table in this section, MATH 115 or both MATH 112 and MATH 113 with "C" (2.0) or better.
+Goal Areas: GE-04
+MATH 122
+Calculus II
+4 credits
+Techniques of integration, applications of integration, improper integrals, numerical integration, the calculus of parametric curves, and infinite series and sequences.
+Prerequisites:
+MATH 121 with "C" (2.0) or better or consent
+MATH 223
+Calculus III
+4 credits
+Surfaces, vector-valued functions, partial differentiation, multiple integration, and vector calculus.
+Prerequisites:
+MATH 122 with "C" (2.0) or better, or consent
+MATH 247
+Linear Algebra I
+4 credits
+Matrices, determinants, systems of linear equations, vector spaces, linear transformations, and characteristic value problems.
+Prerequisites:
+MATH 122 with "C" (2.0) or better or consent
+MATH 321
+Ordinary Differential Equations
+4 credits
+This course presents the theory, computations, and applications of first and second order differential equations and two-dimensional systems.
+Prerequisites:
+MATH 122 with "C" (2.0) or better or consent
+MATH 354
+Concepts of Probability & Statistics
+4 credits
+A calculus based introduction to probability and statistics. Topics include probability, random variables, probability distributions (discrete and continuous), joint probability distributions (discrete and continuous), statistical inference (both estimation and hypothesis testing), confidence intervals for distribution of parameters and their functions, sample size determinations, analysis of variance, regression, and correlation. This course meets the needs of the practitioner and the person who plans further study in statistics. Same as MATH 354. Fall, Spring, Summer
+Prerequisites:
+MATH 122 with "C" (2.0) or better or consent
+MATH 417
+Real Analysis I
+4 credits
+The topology of Euclidean spaces, compact and connectedness, properties of continuous functions, differentiation, basic theory of Riemann-Stieltjes integration and the fundamental theorem of Calculus.
+Prerequisites:
+MATH 223 and MATH 290 with "C" (2.0) or better or consent
+Minor
+Required Minor: None.
+Degree Plan
+First Year
+Fall
+- 15 Credits
+MATH 112
+College Algebra
+4 credits
+Concepts of algebra (real numbers, exponents, polynomials, rational expressions), equations and inequalities, functions and graphs, polynomial and rational functions, exponential and logarithmic functions, systems of equations and inequalities, matrices and determinants, conic sections, sequences and series, probability, and binomial theorem.
+Prerequisites:
+Satisfy Placement Table in this section, or MATH 098 with grade of P.
+Goal Areas: GE-04
+Spring
+- 14 Credits
+ECON 201
+Principles of Macroeconomics
+3 credits
+Emphasis on forces influencing employment and inflation. Current problems of the economy are stressed along with tools government has to cope with them.
+Prerequisites:
+none
+Goal Areas: GE-05
+Second Year
+Fall
+- 15 Credits
+ECON 202
+Principles of Microeconomics
+3 credits
+Examines decision making by the individual firm, the determination of prices and wages, and current problems facing business firms.
+Prerequisites:
+none
+Goal Areas: GE-05
+ECON 207
+Business Statistics
+4 credits
+Basic statistical methods including measures of central tendency and dispersion, probability, probability distributions, sampling, problems of estimation and hypothesis testing in the case of one and two sample meaans and proportions. Chi-Square, one-way analysis of variance, simple regression and correlation analysis, and brief introduction to multiple regression analysis. Use of computer statistical packages required.
+Prerequisites:
+MATH 112 or equivalent
+Goal Areas: GE-02, GE-04
+Spring
+- 15 Credits
+ACCT 200
+Financial Accounting
+3 credits
+The accounting process, financial statement preparation, and analysis. Includes the accounting cycle, asset, liability, and equity accounting. Emphasis on the use of accounting data.
+Prerequisites:
+MATH 112 or MATH 115or MATH 121 or MATH 130 or MATH 181
+ECON 301
+Introduction to Mathematical Economics
+3 credits
+This course will introduce the student to the use of mathematics in economic analysis. Topics include optimization methods, comparative statics, and linear algebra.
+Prerequisites:
+ECON 201, ECON 202, ECON 207, MATH 112 or equivalent
+Third Year
+Fall
+- 15 Credits
+BLAW 200
+Legal Environment of Business
+3 credits
+Application of law to business settings; the American court system; alternative dispute resolution; ethics and the social responsibility of business; fundamentals of legal reasoning; sources of law; constitutional, criminal, tort, and contract law; business associations.
+Prerequisites:
+none
+ACCT 210
+Managerial Accounting
+3 credits
+Preparation and analysis of cost-based management reports: use of cost information to make short-term operating decisions and long-term capital decisions.
+Prerequisites:
+ACCT 200
+ECON 355
+Intermediate Microeconomics
+3 credits
+A survey of imperfect competition, multiple-product firms, multiple-plant firms, and interest theory, designed to develop a system of economic thought.
+Prerequisites:
+ECON 201, ECON 202 and ECON 301
+Spring
+- 15 Credits
+MGMT 300
+Introduction to MIS
+3 credits
+This course is designed to introduce students to the Management Information Systems and its application in organizations. The course will present to the students the information systems role to support the various managerial activities, and to help the students identify and evaluate various options in Management Information Systems.
+Prerequisites:
+ISYS 101 or CIS 101
+ECON 356
+Intermediate Macroeconomics
+3 credits
+Study of factors determining aggregate level of production, employment, inflation, and implications of monetary and fiscal policies.
+Prerequisites:
+ECON 201, ECON 202 and ECON 301
+ECON 420
+International Economics
+3 credits
+The economic rationale for interregional trade: emphasis on current problems.
+Prerequisites:
+ECON 201 and ECON 202
+Fourth Year
+Fall
+- 16 Credits
+MRKT 210
+Principles of Marketing
+3 credits
+This course provides a basic understanding of marketing concepts with emphasis on the pricing, promotion, and distribution of need satisfying products and services in domestic and international markets. The format of the course consists of lectures, case discussions, application exercises, projects, exams, and in-class group assignments.
+Prerequisites:
+none
+MGMT 230
+Principles of Management
+3 credits
+This course examines basic management concepts and principles, their historical development, and their application to modern organizations. Topics covered include planning, organizing, decision making, leadership, control, and organizational change. In addition, the course includes an introduction to business ethics and social responsibility, human resource management, organizational design and organizational behavior.
+Prerequisites:
+none
+ECON 462W
+Econometrics
+4 credits
+The study of methods and techniques for building econometric models with the goal of forecasting and measurement of the economic relationships by integrating economic theory and statistics in it.
+Prerequisites:
+ECON 201, ECON 202, and ECON 207
+Spring
+- 15 Credits
+MGMT 346
+Operations Management for the Supply Chain
+3 credits
+This course engages students in the study of the operations management function in manufacturing and service organizations. Students learn how to apply the basic analytical models to operation decisions involving topics such as scheduling, production technology, inventory management, quality assurance, just-in-time production, and others.
+Prerequisites:
+ECON 207
+FINA 362
+Business Finance
+3 credits
+An introduction to finance relating to problems, methods, and policies in financing business enterprise.
+Prerequisites:
+ACCT 200
+Transfer Pathways
+A Transfer Pathway is a partnership between the Minnesota community colleges and Minnesota State University, Mankato. The Pathway suggests a plan for students with a specific associate degree to complete the last two years for a designated bachelor’s degree.
+Students who are transferring to Minnesota State Mankato from a Minnesota community college should meet with an advisor in your college advising office to ensure the Pathway is an appropriate option for completing your degree.
+More information on Transfer Pathways is available at
+https://mnsu.edu/pathways/about/
+Third Year
+Fall
+- 15 Credits
+ACCT 200
+Financial Accounting
+3 credits
+The accounting process, financial statement preparation, and analysis. Includes the accounting cycle, asset, liability, and equity accounting. Emphasis on the use of accounting data.
+Prerequisites:
+MATH 112 or MATH 115or MATH 121 or MATH 130 or MATH 181
+BLAW 200
+Legal Environment of Business
+3 credits
+Application of law to business settings; the American court system; alternative dispute resolution; ethics and the social responsibility of business; fundamentals of legal reasoning; sources of law; constitutional, criminal, tort, and contract law; business associations.
+Prerequisites:
+none
+ECON 301
+Introduction to Mathematical Economics
+3 credits
+This course will introduce the student to the use of mathematics in economic analysis. Topics include optimization methods, comparative statics, and linear algebra.
+Prerequisites:
+ECON 201, ECON 202, ECON 207, MATH 112 or equivalent
+ECON 420
+International Economics
+3 credits
+The economic rationale for interregional trade: emphasis on current problems.
+Prerequisites:
+ECON 201 and ECON 202
+Spring
+- 15 Credits
+CIS 101
+Introduction to Information Systems
+3 credits
+Introduction to the personal computer as a productivity tool for business majors. Using Microsoft Office suite, students learn to be productive with document processing, spreadsheets, electronic presentations, and databases. Cannot be used toward any major or minor in Computer Information Science.
+Prerequisites:
+none
+ACCT 210
+Managerial Accounting
+3 credits
+Preparation and analysis of cost-based management reports: use of cost information to make short-term operating decisions and long-term capital decisions.
+Prerequisites:
+ACCT 200
+MGMT 346
+Operations Management for the Supply Chain
+3 credits
+This course engages students in the study of the operations management function in manufacturing and service organizations. Students learn how to apply the basic analytical models to operation decisions involving topics such as scheduling, production technology, inventory management, quality assurance, just-in-time production, and others.
+Prerequisites:
+ECON 207
+ECON 355
+Intermediate Microeconomics
+3 credits
+A survey of imperfect competition, multiple-product firms, multiple-plant firms, and interest theory, designed to develop a system of economic thought.
+Prerequisites:
+ECON 201, ECON 202 and ECON 301
+FINA 362
+Business Finance
+3 credits
+An introduction to finance relating to problems, methods, and policies in financing business enterprise.
+Prerequisites:
+ACCT 200
+Fourth Year
+Fall
+- 15 Credits
+MGMT 300
+Introduction to MIS
+3 credits
+This course is designed to introduce students to the Management Information Systems and its application in organizations. The course will present to the students the information systems role to support the various managerial activities, and to help the students identify and evaluate various options in Management Information Systems.
+Prerequisites:
+ISYS 101 or CIS 101
+ECON 356
+Intermediate Macroeconomics
+3 credits
+Study of factors determining aggregate level of production, employment, inflation, and implications of monetary and fiscal policies.
+Prerequisites:
+ECON 201, ECON 202 and ECON 301
+Spring
+- 15 Credits
+MRKT 210
+Principles of Marketing
+3 credits
+This course provides a basic understanding of marketing concepts with emphasis on the pricing, promotion, and distribution of need satisfying products and services in domestic and international markets. The format of the course consists of lectures, case discussions, application exercises, projects, exams, and in-class group assignments.
+Prerequisites:
+none
+MGMT 230
+Principles of Management
+3 credits
+This course examines basic management concepts and principles, their historical development, and their application to modern organizations. Topics covered include planning, organizing, decision making, leadership, control, and organizational change. In addition, the course includes an introduction to business ethics and social responsibility, human resource management, organizational design and organizational behavior.
+Prerequisites:
+noneInitial deposit: N/A
+
+
+Application Fee for Undergraduate: $ 20
+Application Fee for Postgraduate: $ 40
+
+
+Annual Fee for Undergraduate: $ 18,812
+Annual Fee for Postgraduate: $ 14,918
+
+
+English Language Requirements Undergraduate only:
+TOEFL iBT (internet-based test) score of 61 or better
+Pearson Test of English (PTE) score of 47 or better
+IELTS academic test score of 5.5 or better
+
+
+English Language Requirements Postgraduate only:
+Different for every course and given in course content 
+
+
+Entry Requirements Undergraduate only:
+A cumulative high school GPA of 3.0 or higher or A rank in the top 50% of your high school class or An ACT composite score of 21 or higher and a minimum cumulative high school GPA of 2.7. If you do not meet the above admission requirements, you can submit additional information to consider when reviewing your application.
+
+
+Entry Requirements Postgraduate only:
+Applicants must possess the equivalent of a U.S. Bachelor's degree to be considered for graduate programs at Minnesota State Mankato. The degree must be earned at an institution recognized and approved to award the degree. GRE (Graduate Record Examination) is required by some academic programs.
+
+English Language requirements of graduate programs is different for each course. Graduate programs only have IELTS and TOEFL test scores.
+For Graduate Entry Requirements, some requirements like GPA, Score are mentioned on the course page so add them too.

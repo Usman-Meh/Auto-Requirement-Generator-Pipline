@@ -1,0 +1,228 @@
+Link: https://cset.mnsu.edu/academic-programs/clinical/biology-bs-clinical-and-diagnostic-sciences-nuclear-medicine-technology/
+
+College of Science, Engineering & Technology
+Academic Programs
+Clinical and Diagnostic Sciences
+Biology, BS Clinical and Diagnostic Sciences Nuclear Medicine Technology
+College of Science, Engineering & Technology Section
+College of Science, Engineering & Technology
+Academic Programs
+Applied Statistics
+Astronomy
+Automotive Engineering Technology
+Integrated Science and Technology
+Biochemistry
+Biology
+Biotechnology
+Chemistry
+Civil Engineering
+Computer Application Development
+Computer Engineering
+Computer Engineering Technology
+Computer Information Technology
+Computer Science
+Construction Management
+Electrical Engineering
+Electronic Engineering Technology
+Environmental Science
+Food Science Technology
+Geology
+Global Solutions in Engineering and Technology
+Health Informatics
+Master of Science in Information Technology
+Integrated Engineering
+Iron Range Engineering
+Management Information Systems
+Manufacturing Engineering Technology
+Mathematics
+Mathematics and Statistics
+Mathematics Teaching
+Mechanical Engineering
+Physics
+Science Teaching (K-12)
+Statistics
+Twin Cities Engineering
+Agricultural Science
+Software Engineering
+Clinical and Diagnostic Sciences
+Biology, BS Clinical and Diagnostic Sciences Medical Laboratory Sciences
+Biology, BS Clinical and Diagnostic Sciences Cytotechnology
+Biology, BS Clinical and Diagnostic Sciences Nuclear Medicine Technology
+Software Engineering
+Dean's Welcome
+Departments
+CSET Advising Center
+CSET Scholarships
+News & Events
+Scholarships
+Partnerships and Centers
+Connect with Us
+Women In STEM
+Engineers Week
+Engineering Machine Design Contest
+Southern Minnesota Regional Science & Engineering Fair
+CSET Photo Gallery
+Clinical and Diagnostic Sciences (BS)
+Nuclear Medicine Technology
+Nuclear Medicine Technology is a highly specialized allied healthcare field that utilizes radioactive materials in diagnosis, treatment of disease, and medical research. The four year Nuclear Medicine Technology Program curriculum consists of three years spent at the university completing required courses and electives. The fourth year is a 34 credit internship spent in professional education and experience. Agencies participating in the nuclear medicine technology program include, but are not limited to Mayo Clinic School of Health Sciences in Rochester, MN. Admission into the fourth year accredited program at Mayo Clinic School of Health Sciences is competitive. Therefore, admission to the program does not ensure placement into the fourth year internship. The BS degree is awarded by the university after successful completion of the internship year. Graduates will be eligible to take the professional certification examinations administered by the Nuclear Medicine Technology Certification Board and /or the American Registry of Radiologic Technologists. Nuclear medicine technologists are employed in a wide variety of clinical settings including large and small community hospitals, university affiliated teaching hospitals and medical centers, outpatient and research imaging facilities, as well as private institutes.
+Current Catalog Year
+2024-2025
+Degree
+Bachelor of Science
+Major /                                         Total Credits
+75 / 120
+Locations
+Mankato
+Apply
+Program Requirements
+Program
+                                    Requirements
+Required General Education
+BIOL 105
+General Biology I
+4 credits
+Study of biological processes at the suborganismal level including cell chemistry, metabolism, reproduction, genetics, and complex tissue physiology. Laboratory and discussion sessions stress problem solving and experimental design.
+Prerequisites:
+none
+Goal Areas: GE-03
+CHEM 201
+General Chemistry I
+5 credits
+Introduction to the basic principles of chemistry including atomic and molecular structure, bonding, chemical reactions, stoichiometry, thermodynamics and states of matter. Laboratory will reinforce lecture concepts. Prereq: C or higher in MATH 112 or the equivalent; high school chemistry or C or higher in CHEM 104
+Prerequisites:
+"C" (2.0) or higher in MATH 112 or the equivalent; high school chemistry or "C" (2.0) or higher in CHEM 104.
+Goal Areas: GE-02, GE-03
+MATH 121
+Calculus I
+4 credits
+Limits, continuity, the derivative and applications, transcendental functions, L'Hopital's Rule, and development of the Riemann integral.
+Prerequisites:
+Satisfy Placement Table in this section, MATH 115 or both MATH 112 and MATH 113 with "C" (2.0) or better.
+Goal Areas: GE-04
+PHYS 211
+Principles of Physics I
+4 credits
+General background in physical concepts for those who do not plan advanced study in physics or engineering. Topics include mechanics, fluids, heat and thermodynamics. Lecture and laboratory.
+Prerequisites:
+Either MATH 112 and MATH 113, or MATH 115
+Goal Areas: GE-02, GE-03
+Major Common Core
+BIOL 106
+General Biology II
+4 credits
+Study of biological processes at the organismal level including a survey of life forms (viruses, bacteria, protists, fungi, plants, and animals), their evolution, and ecology. Laboratory and discussion sessions stress problem solving and experimental design.
+Prerequisites:
+none
+BIOL 211
+Genetics
+4 credits
+Introduction to genetic analysis. Topics covered will include those of both classical and modern genetics: population genetics, molecular genetics, genetic manipulation of organisms and selection. Central to this course will be the primacy of the trait as the object of genetics and the development/refinement of the concept of the gene. Lab included.Fall, Spring, Summer
+Prerequisites:
+BIOL 105, BIOL 106, and MATH 112
+BIOL 325
+Principles of Human Anatomy
+4 credits
+Systems and regional approach to the structure of the human body. Primary emphasis on gross anatomy supported by 3-dimensional models and animal dissections, with additional emphasis on cell and tissue-level anatomy supported by histological examination. The course is designed for students majoring in biology programs. Lab included.
+Prerequisites:
+BIOL 105
+BIOL 330
+Principles of Human Physiology
+4 credits
+Principles of functions of human cells, organs, and systems with an emphasis on organ/system interactions. This course is designed for students majoring in biology, chemistry, or related sciences, and medically-related areas. Includes a laboratory with a research and medical emphasis.
+Prerequisites:
+BIOL 220, CHEM 104 or CHEM 106 or CHEM 111 or CHEM 201
+CHEM 202
+General Chemistry II
+5 credits
+Continuation of the basic principles of chemistry including properties of solutions, kinetics, acids and bases, equilibria, buffers, precipitation reactions, electron transfer reactions, electrochemistry, entropy and free energy. Laboratory will reinforce lecture concepts.
+Prerequisites:
+"C" (2.0) or higher in CHEM 201
+Emphasis Common Core
+CHEM 322
+Organic Chemistry I
+4 credits
+Introduction to organic nomenclature, structure, bonding, chemical reactivity, organic acid-base reactions, mechanisms and stereochemistry. IR, MS, and NMR spectroscopy will be introduced. The chemistry of alkanes, alkyl halides, alkenes, alkynes, and alcohols will be covered. Laboratory illustrates synthetic techniques and the preparation and reactions of functional groups discussed during lecture.
+Prerequisites:
+CHEM 202, "C" (2.0) or higher in CHEM 202.
+CHEM 360
+Principles of Biochemistry
+4 credits
+Analysis of the structure and metabolism of biologically important compounds. This intermediate-level course is designed for students in the medical technology, food science, chemistry education, chemistry and pre-professional health majors. The laboratory teaches basic biochemical techniques.
+Prerequisites:
+CHEM 322. CHEM 324 is strongly recommended.
+HLTH 321
+Medical Terminology
+3 credits
+For health care personnel, emphasis on spelling, pronunciation and meaning.
+Prerequisites:
+none
+PHYS 212
+Principles of Physics II
+4 credits
+Includes waves and sound, electricity and magnetism, light and optics, and topics in modern physics. Lecture and laboratory.
+Prerequisites:
+PHYS 211
+PHYS 417
+Biophysics
+2 credits
+This course bridges the gap between introductory physics and its application to the life and biomedical sciences. Topics include fluid flow, membrane transport, nerve conduction, imaging methods including MRI, CT, and nuclear imaging, radiotherapy, and health physics.
+Prerequisites:
+MATH 121, PHYS 212 or PHYS 222
+Emphasis Restricted Electives
+Statistics Requirement
+- Choose 3 - 4 Credit(s).
+HLTH 475
+Biostatistics
+3 credits
+Introduction to statistical analysis as applied to the health sciences. Examines concepts and methods of statistical procedures applied to health problems and issues.
+Prerequisites:
+MATH 110, STAT 154, Or any other mathematics course higher than MATH 110.
+STAT 154
+Elementary Statistics
+4 credits
+An introduction to statistical concepts and methods that is applicable to all disciplines. Topics include descriptive measures of data, probability and probability distributions, statistical inference, tests of hypotheses, confidence intervals, correlation, linear regression, and analysis of variance. The use of statistical software will be emphasized. Prereq: ACT Math sub-score of 19 or higher, successful completion of MATH 098 or appropriate placement scores (see Placement Information under Statistics) Fall, Spring, Summer GE-4
+Prerequisites:
+Satisfy Placement Table in this section, or MATH 098 with grade of P.
+Goal Areas: GE-02, GE-04
+Choose 34 Credit(s).
+BIOL 487
+Nuclear Medicine Technology Internship I
+17 credits
+The clinical internship and training include lectures, demonstrations, laboratory sessions, and clinical practicum in the area of nuclear medicine technology in affiliation with Mayo School of Health Sciences in Rochester, MN.
+Prerequisites:
+none
+BIOL 488
+Nuclear Medicine Technology Internship II
+17 credits
+The clinical internship and training include lectures, demonstrations, laboratory sessions, and clinical practicum in the area of nuclear medicine technology in affiliation with Mayo School of Health Sciences in Rochester, MN.
+Prerequisites:
+noneInitial deposit: N/A
+
+
+Application Fee for Undergraduate: $ 20
+Application Fee for Postgraduate: $ 40
+
+
+Annual Fee for Undergraduate: $ 18,812
+Annual Fee for Postgraduate: $ 14,918
+
+
+English Language Requirements Undergraduate only:
+TOEFL iBT (internet-based test) score of 61 or better
+Pearson Test of English (PTE) score of 47 or better
+IELTS academic test score of 5.5 or better
+
+
+English Language Requirements Postgraduate only:
+Different for every course and given in course content 
+
+
+Entry Requirements Undergraduate only:
+A cumulative high school GPA of 3.0 or higher or A rank in the top 50% of your high school class or An ACT composite score of 21 or higher and a minimum cumulative high school GPA of 2.7. If you do not meet the above admission requirements, you can submit additional information to consider when reviewing your application.
+
+
+Entry Requirements Postgraduate only:
+Applicants must possess the equivalent of a U.S. Bachelor's degree to be considered for graduate programs at Minnesota State Mankato. The degree must be earned at an institution recognized and approved to award the degree. GRE (Graduate Record Examination) is required by some academic programs.
+
+English Language requirements of graduate programs is different for each course. Graduate programs only have IELTS and TOEFL test scores.
+For Graduate Entry Requirements, some requirements like GPA, Score are mentioned on the course page so add them too.

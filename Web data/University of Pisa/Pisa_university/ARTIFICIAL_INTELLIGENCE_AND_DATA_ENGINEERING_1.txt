@@ -1,0 +1,159 @@
+Link: https://unipi.coursecatalogue.cineca.it/corsi/2024/11227
+
+contenuto principale
+[WAI-LM] ARTIFICIAL INTELLIGENCE AND DATA ENGINEERING
+Laurea Magistrale
+Inglese
+Info
+Piani di studio
+Informazioni generali
+Durata
+2 anni
+Ordinamento
+2021
+stato
+Aperto
+Crediti
+120 CFU
+Lingua
+Inglese
+Classe di laurea
+LM-32 - Classe delle lauree magistrali in Ingegneria informatica
+Accesso
+Libero
+Dipartimento
+DIPARTIMENTO DI INGEGNERIA DELL'INFORMAZIONE
+Sito web
+https://computer.ing.unipi.it/aide-lm
+Verifica conoscenze richieste per l'accesso
+No
+Requisiti di accesso
+Conoscenze richieste per l´accesso
+I requisiti curriculari per l'accesso alla Laurea Magistrale sono i seguenti:
+- possesso di una laurea nelle seguenti classi:
+--- L-8 Ingegneria dell'Informazione
+--- L-30 Scienze e tecnologie fisiche
+--- L-31 Scienze e tecnologie informatiche
+--- L-35 Scienze matematiche
+- possesso di una laurea in altra classe, avendo conseguito
+--- almeno 36 CFU negli SSD: MAT/02, MAT/03, MAT/05, MAT/06, MAT/07, MAT/08, MAT09, FIS/01, FIS/03;
+--- almeno 9 CFU negli SSD: ING-INF/05, INF/01;
+--- almeno 9 CFU negli SSD: ING-IND/35; SECS-P/08
+Per i candidati con titolo di studio acquisito all'estero e riconosciuto idoneo, la verifica dei requisiti viene effettuata sulla base dello specifico percorso formativo del candidato.
+È inoltre richiesta una adeguata conoscenza della lingua inglese almeno di livello B2, secondo il Quadro Comune Europeo di riferimento per le Lingue.
+La verifica della preparazione personale è effettuata sulla base del curriculum di studi del candidato, e può prevedere un colloquio orale.
+Modalità di ammissione
+Per essere ammessi al Corso di Laurea Magistrale in Artificial Intelligence and Data Engineering Classe LM-32 occorre essere in possesso della laurea o del diploma universitario di durata triennale, ovvero di altro titolo di studio conseguito all'estero, riconosciuto idoneo. Il candidato deve presentare domanda con allegati almeno il certificato di laurea, o equivalente, e i programmi degli esami sostenuti.
+In base ai criteri di seguito illustrati vengono stabiliti i requisiti curriculari e l'adeguatezza della personale preparazione per l'accesso al Corso di Laurea Magistrale ai sensi dell'art. 6, comma 2, del D.M. 270/2004.
+L'ammissione al Corso di Laurea Magistrale in Artificial Intelligence and Data Engineering Classe LM-32 viene decisa sulla base dell'esistenza di entrambi i requisiti (curriculari e di preparazione). Il Consiglio di Corso di Studio (CdS) nomina una Commissione Istruttoria di Valutazione (CIV), composta da due o più docenti con il compito di:
+• esaminare le domande di ammissione,
+• valutare i curricula dei candidati,
+• verificare il possesso dei requisiti curriculari e personali,
+• proporre al Consiglio di CdS l'ammissione o la non ammissione del candidato,
+• indicare le eventuali modalità per l'ottenimento dei requisiti mancanti.
+Il candidato, laureato presso un ateneo italiano, soddisfa i requisiti curriculari se, in alternativa:
+1) è in possesso di una laurea nelle seguenti classi: L-8 Ingegneria dell'Informazione; L-30 Scienze e tecnologie fisiche; L-31 Scienze e tecnologie informatiche; L-35 Scienze matematiche;
+2) è in possesso di una laurea in altra classe, avendo conseguito:
+- almeno 36 CFU negli SSD: MAT/02, MAT/03, MAT/05, MAT/06, MAT/07, MAT/08, MAT09, FIS/01, FIS/03;
+- almeno 9 CFU negli SSD: ING-INF/05, INF/01;
+- almeno 9 CFU negli SSD: ING-IND/35; SECS-P/08
+In caso di candidato con titolo acquisito all'estero, la CIV valuterà i requisiti curriculari sulla base della durata temporale dei singoli insegnamenti e dei programmi dei relativi esami sostenuti.
+È inoltre richiesto di avere una adeguata conoscenza della lingua inglese equiparabile al livello B2 del quadro comune di riferimento europeo. Il possesso di tale requisito potrà essere certificato dagli studenti in fase di iscrizione o, in assenza di una certificazione, sarà verificato in fase di esame delle domande di ammissione durante la verifica della personale preparazione dello studente.
+In accordo con il Regolamento Didattico di Ateneo, la CIV:
+• può proporre al Consiglio di CdS di accettare ovvero di respingere la domanda di iscrizione del candidato sulla base della valutazione della documentazione presentata con la domanda di ammissione,
+• può proporre al Consiglio di CdS di rimandare il candidato al colloquio di ammissione secondo la procedura descritta di seguito.
+Colloquio di ammissione
+Il colloquio di ammissione ha lo scopo di accertare che il candidato possieda la preparazione necessaria per affrontare proficuamente gli studi magistrali, in particolare riguardo le conoscenze di base di matematica e ingegneria informatica. Il programma del colloquio, individuato dalla CIV, sarà preventivamente comunicato al candidato dal presidente del Corso di Studio.
+Al termine del colloquio la commissione esaminatrice formula un giudizio definitivo di idoneità oppure di non idoneità all'ammissione, eventualmente evidenziando i requisiti mancanti.
+Contatti
+Presidente del Corso di Laurea
+Marco Avvenuti
+Email:
+marco.avvenuti@unipi.it
+Referente didattico
+Barbara Conte
+Tel.
+(+39) 050 2217642
+Email:
+barbara.conte@unipi.it
+Unità Didattica del Dipartimento di Ingegneria dell'Informazione:
+https://www.dii.unipi.it/didattica
+Orario di ricevimento:
+Previo appuntamento telefonico (+39) 050 2217642/692 o via e-mail:
+didattica@dii.unipi.it
+Valutazioni - Condizione occupazionale - Descrizione del corso
+Valutazione studenti
+Report dei risultati a.a. 23/24
+Valutazione laureandi
+Report Almalaurea
+Condizione occupazionale
+Report Almalaurea
+Caratteristiche della prova finale
+Le caratteristiche della prova finale (tesi) sono le seguenti: 1) il giudizio sulla prova finale è affidato ad una commissione di laurea nominata dal Direttore del Dipartimento (Art. 24 dello Statuto), su proposta del Corso di studio. Tale commissione, valutata la prova finale, provvede a determinare il voto di laurea. 2) La prova mira a valutare la capacità del candidato di svolgere in completa autonomia: l'approfondimento di un'attività di progettazione o di ricerca, documentata in una dissertazione scritta; l'illustrazione in forma di presentazione scritta e orale del lavoro svolto.
+Il Corso di Studio in breve
+The MSc (laurea magistralis) provides a solid in-depth education that enables the graduates to design and implement, on one side, systems for efficiently managing large amount of data and extracting useful knowledge from these data, and, on the other, intelligent systems by exploiting artificial intelligence techniques. The MSc advances the students' knowledge portfolio, in both computer infrastructures for intensive data management, and methods for data analytics and artificial intelligence. These competences allow graduates to interact with professionals in different domains and contexts where data processing is required, as well as to complete their mastering of computer engineering.
+The course is structured to admit not only students with already a strong background in computer engineering, but alsostudents coming from different disciplines with at least a proper knowledge of computer programming. Graduates in computer engineering will have the opportunity to go in-depth into engineering and methodological disciplines; graduates in other disciplines will complete their knowledge of base methodologies of computer engineering, including operating systems, computer networks, databases, algorithms and advanced programming.
+link utili
+menu secondario
+Cookie policy
+Usiamo i cookie!
+Utilizziamo cookie di prima e di terza parte per garantire la funzionalità del sito. I cookie di terze parti sono disattivati per default, salvo esplicito consenso da parte dell'utente (button 'Accetta tutti'). ATTENZIONE: la mancata abilitazione dei cookies di terze parti potrebbe non consentire la corretta esecuzione di alcune funzioni o causare altri problemi di funzionamento, come la mancata visualizzazione di contenuti.
+Fammi scegliere
+Accetta tutto
+Accetta solo i necessari
+Preferenze cookie
+Usiamo i cookie!
+Utilizziamo i cookie per consentire il funzionamento del sito e per migliorare la tua esperienza online. Puoi scegliere per ogni categoria se abilitarli o disabilitarli quando vuoi. Per maggiori dettagli relativi ai cookie ed altri dati sensibili, puoi leggere la
+cookie policy
+e la
+privacy policy
+integrale.
+Cookie strettamente necessari
+Cookie strettamente necessari
+Questi cookie sono essenziali per il funzionamento del nostro sito. Senza questi cookie, il sito potrebbe non funzionare correttamente.
+Cookie di performance e analytics
+Cookie di performance e analytics
+Questi cookie consentono al sito di ricordare le scelte che hai eseguito in precedenza
+Nome
+Dominio
+Durata
+Descrizione
+^_ga
+google.com
+2 years
+description ...
+_gid
+google.com
+1 day
+description ...
+Istruzioni per i vari browser:
+Istruzioni per i vari browser:
+Safari
+.
+Nome
+Dominio
+Durata
+Descrizione
+s_.*
+plu.mx
+sessione
+recupero grafico citazioni sociali da plumx
+A_.*
+core.ac.uk
+7 giorni
+recupero pubblicazioni consigliate per il pannello core-recommander
+GS_.*
+gstatic.com
+richiesta http
+visualizza grafico citazioni
+CC_.*
+creativecommons.org
+richiesta http
+visualizza licenza bitstream
+Maggiori informazioni
+Per qualsiasi domanda in relazione alle nostre policy sui cookie e sulle tue scelte, puoi visualizzare l'informativa completa a questo
+url
+.
+Accetta tutti
+Accetta solo i necessari
+Salva impostazioni

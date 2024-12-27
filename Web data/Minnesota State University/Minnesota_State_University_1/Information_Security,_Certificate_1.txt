@@ -1,0 +1,94 @@
+Link: https://cset.mnsu.edu/academic-programs/computer-information-technology/information-security-certificate/
+
+College of Science, Engineering & Technology
+Academic Programs
+Computer Information Technology
+Information Security, Certificate
+Computer Information Technology Section
+Computer Information Technology
+Computer Information Technology, Bachelor of Science (BS)
+Computer Information Science, Minor
+Computer Technology, Minor
+Database Technologies, Minor
+International Technology, Minor
+Networking and Information Security, Minor
+Software Development, Minor
+Database Technologies, Certificate
+Information Security, Certificate
+Networking Technologies, Certificate
+Software Development, Certificate
+Computer Information Technology Faculty & Staff
+Information Security (CERT)
+The Information Security certificate provides students with the necessary knowledge in information security principles and practices and an understanding of how information security functions in an organization from both business and technology aspects. The program will engage students with a thorough review of viruses, worms, backdoors, Trojan horses, Rootkits, and other threats. Students will analyze malware in order to understand the infection, propagation, and deception mechanisms of these attack vectors. It will also focus on risk assessment to identify reasonably foreseeable internal and external risks to the security, confidentiality and integrity of user information and assess the sufficiency of any safeguards in place to control these risks.
+The certificate may not be eligible for federal financial aid. Speak with the
+Campus Hub
+for details.
+Current Catalog Year
+2024-2025
+Degree
+Certificate
+Major /                                         Total Credits
+12 / 12
+Locations
+Mankato
+Apply
+Program Requirements
+Program
+                                    Requirements
+Prerequisites to the Major
+Students planning to take CIS 460 must have basic knowledge of or experience in data communications and networking (equivalent of CIS 360). Students planning to take CIS 442 must have basic knowledge of or experience in databases (equivalent of CIS 340).
+Major Restricted Electives
+Choose 12 Credit(s).
+CIS 350
+Information Security
+4 credits
+Security concepts and mechanisms; security technologies; authentication mechanisms; mandatory and discretionary controls; cryptography and applications; threats; intrusion detection and prevention; regulations; vulnerability assessment; information assurance; forensics; anonymity and privacy issues; disaster recovery planning, legal issues and ethics.
+Prerequisites:
+EE 107 or CIS 121 or an approved substitute.
+CIS 442
+Database Security, Auditing and Disaster Recovery
+4 credits
+This course covers science and study of methods of protecting data and designing disaster recovery strategy. Secure database design, data integrity, secure architectures, secure transaction processing, information flow controls, inference controls, and auditing. Security models for relational and object-oriented databases.Variable
+Prerequisites:
+CIS 350, CIS 440
+CIS 450
+Information Warfare
+4 credits
+Covers information warfare principles and technologies. Information warfare concepts; protocols, authentication, and encryption; network attack techniques, methodologies, and tools; network defense; malware; Trojan worms, viruses, and malicious code; electronic crimes and digital evidence.
+Prerequisites:
+CIS 350
+CIS 460
+Network and Security Protocols
+4 credits
+Advanced coverage of data communication, networking and security protocols. Topics: data transmission methods, error detection and recovery, flow control, routing, security issues and performance analysis of existing and emerging protocols for secure communication. Fall, Spring
+Prerequisites:
+CIS 360Initial deposit: N/A
+
+
+Application Fee for Undergraduate: $ 20
+Application Fee for Postgraduate: $ 40
+
+
+Annual Fee for Undergraduate: $ 18,812
+Annual Fee for Postgraduate: $ 14,918
+
+
+English Language Requirements Undergraduate only:
+TOEFL iBT (internet-based test) score of 61 or better
+Pearson Test of English (PTE) score of 47 or better
+IELTS academic test score of 5.5 or better
+
+
+English Language Requirements Postgraduate only:
+Different for every course and given in course content 
+
+
+Entry Requirements Undergraduate only:
+A cumulative high school GPA of 3.0 or higher or A rank in the top 50% of your high school class or An ACT composite score of 21 or higher and a minimum cumulative high school GPA of 2.7. If you do not meet the above admission requirements, you can submit additional information to consider when reviewing your application.
+
+
+Entry Requirements Postgraduate only:
+Applicants must possess the equivalent of a U.S. Bachelor's degree to be considered for graduate programs at Minnesota State Mankato. The degree must be earned at an institution recognized and approved to award the degree. GRE (Graduate Record Examination) is required by some academic programs.
+
+English Language requirements of graduate programs is different for each course. Graduate programs only have IELTS and TOEFL test scores.
+For Graduate Entry Requirements, some requirements like GPA, Score are mentioned on the course page so add them too.

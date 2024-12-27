@@ -1,0 +1,121 @@
+Link: https://cset.mnsu.edu/academic-programs/information-technology/information-security-and-risk-management-professional-science-masters-psm/
+
+College of Science, Engineering & Technology
+Academic Programs
+Master of Science in Information Technology
+Information Security and Risk Management, Professional Science Master's (PSM)
+Master of Science in Information Technology Section
+Master of Science in Information Technology
+Information Security and Risk Management, Professional Science Master's (PSM)
+Information Technology, Master of Science (MS)
+Data Science, Master of Science (MS)
+Cyber Risk Analysis, Graduate Certificate
+Database Technology, Graduate Certificate
+Information Technology Faculty & Staff
+Information Security & Risk Management (PSM)
+The program is recognized by the Commission on Affiliation of Professional Science Master's Programs (PSM Commission).
+Current Catalog Year
+2024-2025
+Degree
+Professional Science Master's
+Major /                                         Total Credits
+30 / 30
+Locations
+Online
+Apply
+Program Requirements
+Program
+                                    Requirements
+Common Core
+CIS 550
+Information Warfare
+4 credits
+The course includes information warfare principles and technologies. The key areas are: Information warfare concepts; Protocols, Authentication, and Encryption; Network attach techniques, methodologies, and tools; Network defense; Malware: trojans, worms, viruses, and malicious code; Electronic crimes and digital evidence. Pre: With permission by the instructor.
+Prerequisites:
+none
+CIS 601
+Research Topics
+3 credits
+Special topics in computer science research not covered in other courses. May be repeated for credit on each new topic.
+Prerequisites:
+none
+CIS 650
+Researching and Analyzing Information Security Risks
+3 credits
+Content covered will include the following: scientific process; sampling bias; hypothesis tests; confidence intervals; risk analysis vs assessment; statistical analysis concepts. Issues with qualitative and quantitative risk analysis methodologies. Exposure to and practice with multiple risk analysis methodologies, including at least one that is considered a standard.
+Prerequisites:
+none
+CIS 653
+Reporting Information Security Risks
+3 credits
+Content covered will include the following: analyze audience; define report outline and objectives for target audience (IT, executives, audit & compliance); ethos/pathos/logos concepts; white papers. Data misrepresentations, intentional or unintentional; appropriate use of data visualization tools and dashboards; representing needle in haystack data (low volume, high risk).
+Prerequisites:
+none
+CIS 655
+Information Risk Management
+3 credits
+Risk management strategies. Human factors, resistance to change. Design, development and evaluation of security controls; catalog of security controls; performance metrics. Management oversight; cost-benefit analysis, business impact analysis; policies, processes, standards. Technical, administrative, physical controls.
+Prerequisites:
+none
+CIS 662
+Data Communications and Networking
+3 credits
+This course will focus on research, design, and analysis of computer networks and data communications systems. The course will also entail detailed examination of modern communication standards, protocol systems and their implementation. Additional topics may include transmission technology, packet switching, routing, flow control, and protocols. Same as CS 662. Pre-req: IT 562 or 564
+Prerequisites:
+none
+Capstone Component
+- Choose 4 Credit(s).
+CIS 697
+Internship
+1-12 credits
+Provides students with opportunity to utilize their training in a real-world business environment working under the guidance and direction of a faculty member. (A maximum of 4 credits apply toward a degree in this department.) Pre: consent Fall, Spring, Summer
+Prerequisites:
+none
+Restricted Electives
+ENG 675
+Technical Communication for STEM Professionals
+3 credits
+Technical communication course designed specifically for STEM industry professionals or students in PSM programs; emphasis on development of technical communication skills and expertise needed for business- and industry-specific documents and presentations for internal or external audiences.
+Prerequisites:
+none
+MBA 610
+Writing in the Workplace
+2 credits
+This course provides an advanced overview of the production and management of workplace communication. Participants will analyze and produce documents typical of workplace communication (ranging from memos and reports to business plans and websites) and research presentations, documentation, and management of communication projects appropriate to their industry or business concerns.
+Prerequisites:
+none
+MBA 681
+Global Business Strategy
+2 credits
+The purpose of this course is to provide a comprehensive understanding of the policies, strategies and operations of companies doing business internationally.
+Prerequisites:
+noneInitial deposit: N/A
+
+
+Application Fee for Undergraduate: $ 20
+Application Fee for Postgraduate: $ 40
+
+
+Annual Fee for Undergraduate: $ 18,812
+Annual Fee for Postgraduate: $ 14,918
+
+
+English Language Requirements Undergraduate only:
+TOEFL iBT (internet-based test) score of 61 or better
+Pearson Test of English (PTE) score of 47 or better
+IELTS academic test score of 5.5 or better
+
+
+English Language Requirements Postgraduate only:
+Different for every course and given in course content 
+
+
+Entry Requirements Undergraduate only:
+A cumulative high school GPA of 3.0 or higher or A rank in the top 50% of your high school class or An ACT composite score of 21 or higher and a minimum cumulative high school GPA of 2.7. If you do not meet the above admission requirements, you can submit additional information to consider when reviewing your application.
+
+
+Entry Requirements Postgraduate only:
+Applicants must possess the equivalent of a U.S. Bachelor's degree to be considered for graduate programs at Minnesota State Mankato. The degree must be earned at an institution recognized and approved to award the degree. GRE (Graduate Record Examination) is required by some academic programs.
+
+English Language requirements of graduate programs is different for each course. Graduate programs only have IELTS and TOEFL test scores.
+For Graduate Entry Requirements, some requirements like GPA, Score are mentioned on the course page so add them too.

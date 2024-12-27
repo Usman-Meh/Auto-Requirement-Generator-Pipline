@@ -1,0 +1,140 @@
+Link: https://uel.unipd.it/en/masters/ml-machine-learning-and-big-data-in-precision-medicine-and-biomedical-research/
+
+Skip to content
+Second level university master
+ML
+Machine learning and big data in precision medicine and biomedical research
+Home
+>
+Master e corsi
+>
+Second level university master
+>
+ML - Machine learning and big data in precision medicine and biomedical research
+Home
+>
+Master e corsi
+>
+Second level university master
+>
+ML - Machine learning and big data in precision medicine and biomedical research
+The Master joins the second extraordinary pre-enrolment term from the 4th to the 25th November 2024, 12.30 pm.
+The
+Master in Machine Learning and Big Data in Precision Medicine and Biomedical Research
+prepares biomedical professionals to acquire the techniques and implement them in data processing, in order to develop big data information potential to the fullest.
+The course is oriented to learning advanced data analysis methods, and is characterized by a
+marked practical and hands-on approach.
+Concerning automatic learning techniques in the biomedical field, a case study will be presented for each machine learning topic, under the guide of expert in software and programming language.
+Learning content
+The
+Master in Machine Learning and Big Data in Precision Medicine and Biomedical Research
+covers the following main topics: introduction to the types of analysis issues that machine learning can deal with , and the R software; introduction to supervised and non-supervised numerical prevision and classification techniques, such as linear and generalized models, random forest, k-means hierarchical clustering, self-organizing maps, Bayesian networks, neural networks, support vector machines, and non-negative matrix factorization.
+Also, the course will cover the theoretical fundamentals of Deep Learning and a few explainability techniques. A case study will be presented for each machine learning technique.
+Recipients and career opportunities
+The
+Master in Machine Learning and Big Data in Precision Medicine and Biomedical Research
+is addressed to professionals already working or looking to work in the biomedical sector (and especially biostatists, bioengineers, bioinformaticians
+,
+and computational biologists).
+Concerning career opportunities, it is expected that the application of machine learning techniques in the medical field will change the way we think about diagnoses and treatments, in a
+personalized medicine
+view. Therefore, the knowledge acquired during the Master are relevant for the further specialization of healthcare professionals already working, and to define technical-quantitative profiles to work in the healthcare sector, in biomedical research and in CROs.
+Course program
+The
+Master in Machine Learning and Big Data in Precision Medicine and Biomedical Research
+provides specific knowledge on:
+Module 1 – MACHINE LEARNING FOR OUTCOME FORECASTING
+The possibility of forecasting a health-related outcome is an essential aspect of the medical and clinical practice. Forecasting covers many areas of application, from prognosis to treatment evaluation. This module covered supervised MLT for numerical forecasting and classification.
+Module 2 – MACHINE LEARNING FOR CLINICAL CONDITION FORECASTING
+This module introduces basic and advanced techniques used in clinical and biomedical research, for forecasting and stratification issues, with particular focus on the identification of patients’ clinical conditions, their response to different treatment strategies, and their belonging to specific progression classes. The module covers topics related to learning with and without supervision, such as GLM, GMM, Bayesian networks and survival models. Starting from the fundamental elements of the different methods, biomedical research and clinical practice scenarios were these advanced techniques may be applied are considered.
+Module 3 – MANAGING HETEROGENEITY IN BIOMEDICAL RESEARCH AND CLINICAL PRACTICE
+This module introduces standard and advanced clustering techniques, such as k-means hierarchical clustering and self-organizing maps. It also presents examples of biological and clinical data applications.
+Module 4 – ADVANCED FORECASTING AND STRATIFICATION TECHNIQUES
+This module introduces advanced forecasting and stratification techniques for the biomedical and clinical practice sector, such as neural networks, support vector machines, and non-negative matrix factorization. Starting from the fundamental elements of the different methods, biomedical research and clinical practice scenarios were these advanced techniques may be applied are considered.
+Module 5 – DEEP LEARNING IN THE CLINICAL FIELD FOR BIOMEDICAL RESEARCH
+This module introduces Deep Learning (DL). The module covers the following topics:
+theoretical fundamentals of this innovative tool
+the most widespread programming language for DL: Python
+DL application to test and image analysis, with focus on medical datasets
+training process
+DL application to small datasets
+tools and libraries for DL system development
+Module 6 – GENERALIZABILITY, TRANSPARENCY AND EXPLAINABILITY IN CLINICAL RESEARCH
+In the clinical field and in the other fields of application of AI and Machine Learning, it is essential to explain the forecasts in terms of variables and their values to classify the subject in a risk class, and also to identify casual relations instead of simple correlations.
+TEACHING SYSTEM
+This level 2 Master course provides asynchronous remote lessons through the Moodle multimedia platform of the University of Padua, and is designed for students and professionals who wish to conciliate other activities and professions with the need to qualify or specialize themselves further.  The course will start on December 2024 and will last one year. The course includes several 4-week modules, each one followed by 1 week off. At the end of each module, students will be assigned the relevant homework, in asynchronous mode, to ascertain their knowledge. At the end of the course, students will complete a project work, which will then be presented during the final exam, in September/October, on Zoom.
+Grading of the course
+The final assessment of the Master’s course will be the average of the grades from the homework completed during the year (70% of the final assessment) along with the grade from the final project work (30% of the final assessment).
+General ranking of merit
+The general ranking of merit will be published on the Italian page of this Master according to the timing provided in the Call.
+Information
+Thematic area:
+Health, environment and territory
+End of classes:
+31/10/2024
+Mandatory attendance:
+70%
+Minimum available spots:
+5
+Maximum available spots:
+80
+First instalment:
+€
+									2.022,50
+Second instalment:
+€
+									1.000,00
+Selection process notice
+Find the admission titles in the selection notice 24/25.
+FAQ
+Will there be an internships?
+There will not be an internship, as it would not be reconcilable with the type of Master’s students. However, students will have the chance to confront themselves with scientific queries and actual databases, as suggested by the Master’s Direction during the lectures and the project work. In agreement with the professors and their tutor, students may also opt to complete their project work in a personal and specific professional field.
+Will there be any forms of facilitation?
+Students with disabilities between 66% and 100%, or certification pursuant to Law no. 104, will be exempted from paying the enrolment fee, and will be only required to pay the pre-enrolment fee, the insurance fee, and stamp
+PA and top grades: PA employees enrolling in our Master, will enjoy a €330 reduction on the second registration
+University staff with an open-ended employment contract may enrol in the course. The enrolment fee for University Technical-Administrative Staff is equal to the minimum enrolment fee, as established by Article 24, p. 1 of the University Regulation for Master Courses, Post-Graduate and Higher Education Courses of the University of Padua, and is equal to 20% of the fee. If the staff with open-ended labour contract possesses the requirements to enrol in the Course, once the Master is over, they will obtain the related Title or Diploma, or, if they do not possess the selection requirements, they may attend as Auditors and obtain an Attendance Certificate.
+The enrolment fee for Auditors is 50% of the Master’s regular fee.
+What are the minimum attendance requirements?
+Even though the course is online, attendance is mandatory. The minimum attendance requirement is 70%. However, since the video-lessons are pre-recorded, and they can be watched 24/7, it will be very easy to stay in-course. The Academic Office and professors are willing to cater to any student with heavy commitments or intense work schedules.
+Classes start:
+02/12/2024
+Duration:
+One-year
+Venue:
+Padua
+Language:
+Italian
+ECTS:
+60
+Teaching method:
+Distance learning
+Total enrolment fee:
+€
+							3.022,50
+Pre-enrolment deadline:
+25/11/2024
+Management
+Prof.ssa Ileana Baldi
+Administrative Office
+Contact Person:
+Unit of Biostatistics, Epidemiology and Public Health
+Phone:
+3312601668
+Email:
+segreteria.master@ubep.unipd.it
+Teaching method:
+ECTS:
+In-person lessons:
+H
+Month and year:
+Fee:
+€
+Close
+© 2024 UEL. All rights reserved.
+Privacy policy
+-
+Cookie Policy
+-
+Cookies settings
+Page load link
+Go to Top

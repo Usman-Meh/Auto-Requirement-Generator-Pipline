@@ -1,0 +1,238 @@
+Link: https://cob.mnsu.edu/academics/business-administration/minor-in-business-administration/
+
+College of Business
+Academic Programs
+Business Administration
+Minor in Business Administration
+Academic Programs Section
+Academic Programs
+Accounting
+AgriBusiness and Food Innovation Program
+Business Administration
+Master of Business Administration (MBA) Online
+Bachelor of Business Administration
+Minor in Business Administration
+Business Law
+Entrepreneurship & Innovation
+Finance
+International Business
+Management and Entrepreneurship
+Marketing
+Advising
+College of Business registration, forms, policies, advising sessions and more.
+more info
+Bus Ad: General Minor
+Current Catalog Year
+2024-2025
+Degree
+Minor
+Total Credits
+21
+Locations
+Mankato
+Apply
+The minor in Business Administration is geared toward non-business majors interested in a broad scope of business courses and skills. Coursework includes accounting, finance, marketing, management and economics.
+|
+VIEW THE CURRENT ACADEMIC CATALOG
+|
+VIEW PAST CATALOGS
+Program Requirements
+Program
+                                    Requirements
+Core
+ACCT 200
+Financial Accounting
+3 credits
+The accounting process, financial statement preparation, and analysis. Includes the accounting cycle, asset, liability, and equity accounting. Emphasis on the use of accounting data.
+Prerequisites:
+MATH 112 or MATH 115or MATH 121 or MATH 130 or MATH 181
+FINA 362
+Business Finance
+3 credits
+An introduction to finance relating to problems, methods, and policies in financing business enterprise.
+Prerequisites:
+ACCT 200
+MGMT 230
+Principles of Management
+3 credits
+This course examines basic management concepts and principles, their historical development, and their application to modern organizations. Topics covered include planning, organizing, decision making, leadership, control, and organizational change. In addition, the course includes an introduction to business ethics and social responsibility, human resource management, organizational design and organizational behavior.
+Prerequisites:
+none
+MRKT 210
+Principles of Marketing
+3 credits
+This course provides a basic understanding of marketing concepts with emphasis on the pricing, promotion, and distribution of need satisfying products and services in domestic and international markets. The format of the course consists of lectures, case discussions, application exercises, projects, exams, and in-class group assignments.
+Prerequisites:
+none
+Restricted Electives
+Choose 9 - 10 Credit(s). At least 6 credits must be 300- or 400-level courses.
+ACCT 210
+Managerial Accounting
+3 credits
+Preparation and analysis of cost-based management reports: use of cost information to make short-term operating decisions and long-term capital decisions.
+Prerequisites:
+ACCT 200
+ACCT 300
+Intermediate Financial Accounting I
+3 credits
+An in-depth analysis of financial accounting concepts and procedures, and includes coverage of the income statement, balance sheet, time value of money, receivables and inventories.
+Prerequisites:
+ACCT 200
+ACCT 310
+Management Accounting I
+3 credits
+Emphasizes product and service costing, including job order and process costing systems. Other related topics are budgeting, pricing, cost-volume-profit analysis, standards and variance analysis.
+Prerequisites:
+ACCT 200, ACCT 210
+ACCT 330
+Individual Income Tax
+3 credits
+The course examines the principles and procedures relating to the determination and computation of federal income taxes for an individual. Federal estate tax, gift tax, and income taxation of estates and trusts are also examined.
+Prerequisites:
+ACCT 200, ACCT 210
+BLAW 200
+Legal Environment of Business
+3 credits
+Application of law to business settings; the American court system; alternative dispute resolution; ethics and the social responsibility of business; fundamentals of legal reasoning; sources of law; constitutional, criminal, tort, and contract law; business associations.
+Prerequisites:
+none
+BLAW 450
+Contract Law and Professional Responsibility
+3 credits
+Fundamentals of contracts, the law of sales under the UCC; the legal liability of accountants to clients and third parties. Formation of contracts; statute of frauds and parol evidence rule; contract performance; remedies for breach of contract; scope of UCC Article Two; sales warranties; remedies for breach of contracts.
+Prerequisites:
+BLAW 200
+BLAW 452
+Employment Law
+3 credits
+Federal employment discrimination laws; sexual harassment; first amendment rights; employee safety; workers' compensation; privacy; wrongful termination; federal laws governing the right to organize and bargain collectively; emerging issues.
+Prerequisites:
+BLAW 200
+ECON 201
+Principles of Macroeconomics
+3 credits
+Emphasis on forces influencing employment and inflation. Current problems of the economy are stressed along with tools government has to cope with them.
+Prerequisites:
+none
+Goal Areas: GE-05
+ECON 202
+Principles of Microeconomics
+3 credits
+Examines decision making by the individual firm, the determination of prices and wages, and current problems facing business firms.
+Prerequisites:
+none
+Goal Areas: GE-05
+ECON 207
+Business Statistics
+4 credits
+Basic statistical methods including measures of central tendency and dispersion, probability, probability distributions, sampling, problems of estimation and hypothesis testing in the case of one and two sample meaans and proportions. Chi-Square, one-way analysis of variance, simple regression and correlation analysis, and brief introduction to multiple regression analysis. Use of computer statistical packages required.
+Prerequisites:
+MATH 112 or equivalent
+Goal Areas: GE-02, GE-04
+FINA 375
+Business Analytics
+3 credits
+Introduction to analytic tools and techniques using business applications.Grading Method
+Prerequisites:
+ECON 207, STAT 154
+FINA 467
+Insurance and Risk Management
+3 credits
+Examination of the fundamentals of the insurance industry; the risk management process; and commercial insurance exposures and policies including commercial property, general liability, and workers' compensation.
+Prerequisites:
+none
+IBUS 380
+Principles of International Business
+3 credits
+International dimensions of business: global business environment (economic, cultural, legal, political) and international business functions (management, marketing, finance, exporting, importing).
+Prerequisites:
+none
+IBUS 428
+International Marketing
+3 credits
+Managerial approach to marketing decision making in multicultural market situations.
+Prerequisites:
+MRKT 210
+IBUS 448
+International Business Management
+3 credits
+This course examines cross-cultural differences in business practices. Among the topics covered are the differences in management styles, multiculturalism, international negotiations, as well as international human resource issues, social responsibility and ethics in a global context, international labor relations, cultural synergy and multicultural teams.
+Prerequisites:
+none
+IBUS 469
+International Business Finance
+3 credits
+International finance functions in a corporation include currency issues, investment, financial markets interacting, raising debt and equity, and export financing.
+Prerequisites:
+IBUS 380
+MGMT 300
+Introduction to MIS
+3 credits
+This course is designed to introduce students to the Management Information Systems and its application in organizations. The course will present to the students the information systems role to support the various managerial activities, and to help the students identify and evaluate various options in Management Information Systems.
+Prerequisites:
+ISYS 101 or CIS 101
+MGMT 332
+Creativity and Innovation
+3 credits
+This course is designed to develop a students personal creativity and help a student identify the process of organizational innovation. The course is comprised of a combination of short lecture, in-class discussion of readings and videos, writing assignments, an elevator pitch and group activities.
+Prerequisites:
+none
+MGMT 340
+Human Resource Management
+3 credits
+This course examines the effective management of the human resources of organizations. Topics include analyzing jobs and writing job descriptions; recruiting and hiring of applicants; complying with employment law; managing promotions, quits, and layoffs; employee training and development; evaluating job performance; determining compensation; and managing human resources in a unionized environment.
+Prerequisites:
+none
+MGMT 380
+Human Behavior in Organizations
+3 credits
+Concepts, theories, and empirical research on organizational behavior are studied. Models and tools for diagnosing situations, individual behavior, group behavior, intergroup conflicts, supervisory problems and organizational change are analyzed.
+Prerequisites:
+none
+MRKT 312
+Professional Selling
+3 credits
+The course is designed to provide basic human motivation theories, and develop persuasive communications strategies and applications necessary in the field of professional selling. The course takes a hands-on approach to professional selling techniques with the use of sales presentations, sales manuals, and exams.
+Prerequisites:
+MRKT 210
+MRKT 316
+Consumer Behavior
+3 credits
+Students will learn about consumer decision styles, perceptions, group influences, family decision-making, lifestyles, shopping behaviors and domestic and international trends related to marketing strategies. The framework consists of individual or group projects, usually requiring some personal interviewing, exams, and reports.
+Prerequisites:
+none
+MRKT 318
+Integrated Marketing Communications
+3 credits
+Integrated Marketing Communications provide an understanding of the elements of the marketing communications mix; advertising, public relations, personal selling, sales promotion and corporate sponsorship through traditional and digital media.
+Prerequisites:
+MRKT 210Initial deposit: N/A
+
+
+Application Fee for Undergraduate: $ 20
+Application Fee for Postgraduate: $ 40
+
+
+Annual Fee for Undergraduate: $ 18,812
+Annual Fee for Postgraduate: $ 14,918
+
+
+English Language Requirements Undergraduate only:
+TOEFL iBT (internet-based test) score of 61 or better
+Pearson Test of English (PTE) score of 47 or better
+IELTS academic test score of 5.5 or better
+
+
+English Language Requirements Postgraduate only:
+Different for every course and given in course content 
+
+
+Entry Requirements Undergraduate only:
+A cumulative high school GPA of 3.0 or higher or A rank in the top 50% of your high school class or An ACT composite score of 21 or higher and a minimum cumulative high school GPA of 2.7. If you do not meet the above admission requirements, you can submit additional information to consider when reviewing your application.
+
+
+Entry Requirements Postgraduate only:
+Applicants must possess the equivalent of a U.S. Bachelor's degree to be considered for graduate programs at Minnesota State Mankato. The degree must be earned at an institution recognized and approved to award the degree. GRE (Graduate Record Examination) is required by some academic programs.
+
+English Language requirements of graduate programs is different for each course. Graduate programs only have IELTS and TOEFL test scores.
+For Graduate Entry Requirements, some requirements like GPA, Score are mentioned on the course page so add them too.

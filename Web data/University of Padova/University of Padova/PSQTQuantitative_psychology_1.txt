@@ -1,0 +1,163 @@
+Link: https://uel.unipd.it/en/masters/psqt-quantitative-psychology/
+
+Skip to content
+Second level university master
+PSQT
+Quantitative psychology
+Measurement, evaluation and analysis of psychosocial variables
+Home
+>
+Master e corsi
+>
+Second level university master
+>
+PSQT - Quantitative psychology
+Home
+>
+Master e corsi
+>
+Second level university master
+>
+PSQT - Quantitative psychology
+The
+Master’s Degree in Quantitative psychology
+prepares psychologists and professionals to
+measure, assess and analyse psycho-social variables
+, in order to plan and conduct high-level research activities and develop and validate survey tools within the psycho-social field.
+The course provides knowledge on
+quantitative psychology
+,
+statistics
+and
+computer science
+, in order to train professionals with a high multidisciplinary technical profile.
+The purpose of this Master’s Course is to train professionals capable of measuring psycho-social variables in an effective way, by identifying the most suitable and innovative surveying methods, and by treating the data collected through automated calculation systems and analysis methods that allow transforming them into useful and communicable information.
+Educational content
+The course units of the
+Master’s Degree in Quantitative psychology
+are organized in twelve modules, presented below, to acquire specific technical competencies to plan and conduct high-level research activities and develop and validate survey tools within the psycho-social field.
+Course target and career opportunities
+The Master’s Degree in Quantitative psychology
+is addressed to psychologists and professionals interested in the study and analysis of psychological and social variables. Professionals will be able to work in organizational, clinical, legal, social and market contexts. The figures formed can work in many different contexts, such as in clinical,
+market survey
+, organizational assessment, legal, and social research fields.
+Their line of work can include companies interested in psycho-social assessments, behavioural and opinion surveys, market surveys, or local or tertiary bodies that implement and manage social projects. Other job opportunities may include social
+research companies
+or national and international bodies that study and manage psycho-social variables.
+Course program
+The
+Master’s Degree in Quantitative psychology
+provides training on:
+Module 1:
+Psycho-social research statistical and methodological elements
+Logic, research methodology and measuring of psycho-social variables.
+Module 2:
+Data collection techniques
+Neuro-psychological measurements and new data collection methods.
+Module 3:
+Factor analysis and structural equation models
+Factor analysis, observed and latent variable models, mediation and moderation effects.
+Module 4:
+General mixed-effect models
+Linear and general linear models and their extension to mixed-effect models.
+Module 5:
+Longitudinal models
+Longitudinal surveys, cross-lag models, growth curves and multi-level longitudinal models.
+Module 6:
+Programming and applications in R
+Programming elements, selection and use of the main bundles.
+Module 7:
+Bayesian statistics
+Bayesian inference and statistics.
+Module 8:
+Implicit measures
+Experiment programming and index calculation.
+Module 9:
+Test theories and techniques
+Selection, use and development of psycho-social assessment tools.
+Module 10:
+Item response theory
+Item response theory: theory and applications.
+Module 11:
+Knowledge space theory and cognitive diagnostic models
+Formal assessment models. Theoretical fundamentals and applications.
+Module 12:
+Medical statistics
+Statistical indicators in the healthcare sectors; statistical survival analysis models; epidemiological study plans and clinical trials.
+General ranking of merit
+The general ranking of merit for the academic year 2024/25 will be published on the Italian page of this Master according to the timing provided in the Call.
+Information
+Thematic area:
+Mind and psycho-physical well-being
+End of classes:
+30/09/2025
+Mandatory attendance:
+70%
+Minimum available spots:
+8
+Maximum available spots:
+40
+First instalment:
+€
+									2.422,50
+Second instalment:
+€
+									1.600,00
+Selection process notice
+Find the admission titles in the selection notice 24/25.
+FAQ
+How will the teaching be organized?
+It will be divided into 210 hours of in-class lessons, 90 hours of distance learning and 200 hours of stage/project work.
+Lessons will be held on Friday and Saturday (1 or 2 per month).
+Also, there will be an intensive week with daily educational activities.
+Classes will be held at the University of Padua.
+How will distance learning be organized?
+Distance learning hours will include different activities, such as, by way of example, exercises, audio-video materials (video-lessons), and educational materials provided by the professors. Distance learning will be provided in asynchronous mode, without any set attendance times.
+Will there be a stage/traineeship?
+The Master’ includes a 200-hour traineeship (8 CFU): the traineeship can be done at companies or national/international bodies affiliated with the University of Padua. The traineeship can be replaced with an individual project work. This activity entail the preparation of a research paper created by the attendee with the topics covered during the course. The project work replaces the traineeship, but not the final dissertation.
+Will there be any form of facilitation?
+Unfortunately, no scholarships will be awarded. However, there will be a €500 study prize (including charges to be paid by the Body). The prize will be assigned to the attendee presenting the best final dissertation, at the Committee’s unquestionable judgement (presided by the Master’s Director). The following criteria will be considered: innovation, applicative repercussions, interdisciplinarity, precision and accuracy in presenting the dissertation and bibliographic research.
+Is there a maximum absence threshold?
+The Master will be divided into 300 of lessons (210 hours of in-class lessons, 90 hours of distance learning) and 200 hours of stage/project work. A minimum attendance of 147 hours of in-person lessons is required.
+Classes start:
+13/12/2024
+Duration:
+One-year
+Venue:
+Padua
+Language:
+Italian
+ECTS:
+60
+Teaching method:
+blended
+Total enrolment fee:
+€
+							4.022,50
+Pre-enrolment deadline:
+25/11/2024
+Management
+Prof. Egidio Robusto
+Administrative Office
+Contact Person:
+UniSMART Fondazione Università di Padova
+Phone:
+3346005104
+Email:
+formazione@unismart.it
+Teaching method:
+ECTS:
+In-person lessons:
+H
+Month and year:
+Fee:
+€
+Close
+© 2024 UEL. All rights reserved.
+Privacy policy
+-
+Cookie Policy
+-
+Cookies settings
+Page load link
+Go to Top

@@ -1,0 +1,292 @@
+Link: https://cset.mnsu.edu/academic-programs/statistics/statistics-bachelor-of-science-bs/
+
+College of Science, Engineering & Technology
+Academic Programs
+Statistics
+Statistics, Bachelor of Science (BS)
+Statistics Section
+Statistics
+Statistics, Bachelor of Science (BS)
+Statistics Actuarial Track, Bachelor of Science (BS)
+Statistics, Minor
+Statistics Faculty and Staff
+Statistics (BS)
+Current Catalog Year
+2024-2025
+Degree
+Bachelor of Science
+Major /                                         Total Credits
+73 / 120
+Locations
+Mankato
+Apply
+Program Requirements
+Program
+                                    Requirements
+Required General Education
+MATH 121
+Calculus I
+4 credits
+Limits, continuity, the derivative and applications, transcendental functions, L'Hopital's Rule, and development of the Riemann integral.
+Prerequisites:
+Satisfy Placement Table in this section, MATH 115 or both MATH 112 and MATH 113 with "C" (2.0) or better.
+Goal Areas: GE-04
+Major Common Core
+CIS 121
+Introduction to Programming
+4 credits
+This course provides conceptual and logical tools for students planning to major in a computing-based major. Programming in a high-level language such as C++, Python, or Java, and the development of skills in abstraction, problem-solving, and algorithmic thinking are emphasized.
+Prerequisites:
+MATH 112 or MATH 113 or MATH 115 or MATH 121
+CIS 122
+Data Structures
+4 credits
+This course is a continuation of CIS 121. Students develop a basic knowledge of programming skills and object-oriented concepts, and use fundamental data structures such as lists, stacks, queues, and trees.
+Prerequisites:
+CIS 121. Select One Course: MATH 112, MATH 113, MATH 115, MATH 121, or MATH 130
+MATH 122
+Calculus II
+4 credits
+Techniques of integration, applications of integration, improper integrals, numerical integration, the calculus of parametric curves, and infinite series and sequences.
+Prerequisites:
+MATH 121 with "C" (2.0) or better or consent
+MATH 223
+Calculus III
+4 credits
+Surfaces, vector-valued functions, partial differentiation, multiple integration, and vector calculus.
+Prerequisites:
+MATH 122 with "C" (2.0) or better, or consent
+MATH 247
+Linear Algebra I
+4 credits
+Matrices, determinants, systems of linear equations, vector spaces, linear transformations, and characteristic value problems.
+Prerequisites:
+MATH 122 with "C" (2.0) or better or consent
+STAT 154
+Elementary Statistics
+4 credits
+An introduction to statistical concepts and methods that is applicable to all disciplines. Topics include descriptive measures of data, probability and probability distributions, statistical inference, tests of hypotheses, confidence intervals, correlation, linear regression, and analysis of variance. The use of statistical software will be emphasized. Prereq: ACT Math sub-score of 19 or higher, successful completion of MATH 098 or appropriate placement scores (see Placement Information under Statistics) Fall, Spring, Summer GE-4
+Prerequisites:
+Satisfy Placement Table in this section, or MATH 098 with grade of P.
+Goal Areas: GE-02, GE-04
+STAT 354
+Concepts of Probability & Statistics
+4 credits
+A calculus based introduction to probability and statistics. Topics include probability, random variables, probability distributions (discrete and continuous), joint probability distributions (discrete and continuous), statistical inference (both estimation and hypothesis testing), confidence intervals for distribution of parameters and their functions, sample size determinations, analysis of variance, regression, and correlation. This course meets the needs of the practitioner and the person who plans further study in statistics. Same as MATH 354. Prereq: MATH 122 with C or better or consent Fall, Spring, Summer
+Prerequisites:
+MATH 122 with C or better or consent
+STAT 356
+Introduction to Programming in SAS
+3 credits
+Introduction to basic programming techniques: creating DATA and PROC statements, libraries, functions, programming syntax, and formats. Descriptive and Inferential statistics in SAS. Emphasis is placed on using these tools for statistical analyses. Working with arrays, loop and SAS macro.
+Prerequisites:
+STAT 154 or instructor's approval
+STAT 450
+Regression Analysis
+3 credits
+Simple and multiple linear regression, model adequacy checking and validation, identification of outliers, leverage and influence, polynomial regression, variable selection and model building strategies, nonlinear regression, and generalized linear regression.
+Prerequisites:
+MATH 354 / STAT 354 or STAT 455 with "C" (2.0) or better or consent
+STAT 451
+Design and Analysis of Experiments
+3 credits
+Randomized complete block design, Latin squares design, Graco- Latin squares design, balanced incomplete block design, factorial design, fractional factorial design, response surface method, fixed effects and random effects models, nested and split plot design.
+Prerequisites:
+MATH 354 / STAT 354 or STAT 455 with "C" (2.0) or better or consent
+STAT 455
+Theory of Statistics I
+4 credits
+A mathematical approach to statistics with derivation of theoretical results and of basic techniques used in applications. Includes probability, continuous probability distributions, multivariate distributions, functions of random variables, central limit theorem and statistical inference. Same as MATH 455. Prereq: MATH 223 with C or better or consent
+Prerequisites:
+MATH 223 with "C" (2.0) or better or consent
+STAT 456
+Theory of Statistics II
+4 credits
+A mathematical approach to statistics with derivation of theoretical results and of basic techniques used in applications, including sufficient statistics, additional statistical inference, theory of statistical tests, inferences about normal models and nonparametric methods. Same as MATH 456. Prereq: MATH/STAT 455 with C or better or consent
+Prerequisites:
+MATH 455, STAT 455 with "C" (2.0) or better or consent
+STAT 457
+Sample Survey, Design and Analysis
+3 credits
+Sampling distributions: means and variances. Bias, robustness and efficiency. Random sampling, systematic sampling methods including stratified random sampling, cluster sampling and two-stage sampling, ratio, regression, and population size estimation. Suitable statistical software is introduced, for example, MATLAB, R, SAS, etc.
+Prerequisites:
+Either MATH/STAT 354 or both MATH 121 adn STAT 154 with "C" (2.0) or better, or consent.
+STAT 458
+Categorical Data Analysis
+3 credits
+Forms of multivariate analysis for discrete data, two dimensional tables, models of independence, log linear models, estimation of expected values, model selection, higher dimensional tables, logistic models and incompleteness. Logistic regression. Suitable statistical software is introduced, for example, MATLAB, R, SAS etc.
+Prerequisites:
+Either MATH/STAT 354 or both MATH 121 and STAT 154 with "C" (2.0) or better, or consent.
+STAT 459
+Nonparametric Methods
+3 credits
+Derivation and usage of nonparametric statistical methods in univariate, bivariate, and multivariate data. Applications in count, score, and rank data, analysis of variance for ranked data. Nonparametric regression estimation. Suitable statistical software is introduced, for example, MATLAB, R, SAS, etc.
+Prerequisites:
+Either MATH/STAT 354 or both STAT 154 and MATH 121 with "C" (2.0) or better, or consent.
+STAT 492
+Statistics Capstone Experience
+3 credits
+This course is designed to allow undergraduate students an opportunity to integrate their statistics experiences by engaging each student in working on problems in applied or theoretical statistics. Spring
+Prerequisites:
+STAT 457, STAT 458, STAT 459, STAT 450 (at least two of these)
+Major Restricted Electives
+Choose one Track for the major: Applied Mathematics, Biological Science, or Information Technology.
+Students with an interest in Actuarial should complete the Statistics BS with Actuarial emphasis.
+Applied Mathematics Track
+- Choose 16 Credit(s).
+MATH 290
+Foundations of Mathematics
+4 credits
+Logic, proof techniques, set theory, relations, functions, cardinality, operations, and an introduction to mathematical structures and number theory.
+Prerequisites:
+MATH 122 with "C" (2.0) or better or consent.
+Goal Areas: GE-02
+MATH 321
+Ordinary Differential Equations
+4 credits
+This course presents the theory, computations, and applications of first and second order differential equations and two-dimensional systems.
+Prerequisites:
+MATH 122 with "C" (2.0) or better or consent
+MATH 375
+Introduction to Discrete Mathematics
+4 credits
+MATH 375 Introduction to Discrete Mathematics (4 credits)An introduction to the concepts fundamental to the analysis of algorithms and their realization. Topics will include combinatorics, generating functions, recurrence relations, graph theory, and networks.
+Prerequisites:
+MATH 247 and MATH 290 with grade of "C" (2.0) or higher.
+MATH 422
+Partial Differential Equations
+4 credits
+This course presents the theory, computations, and applications of partial differential equations and Fourier series.
+Prerequisites:
+MATH 223 and MATH 321 with "C" (2.0) or better or consent
+MATH 425
+Mathematical Modeling
+4 credits
+This course presents topics from mathematical analysis of both discrete and continuous models taken from problems in the natural sciences, economics and resource management.
+Prerequisites:
+MATH 223 and MATH 247 with "C" (2.0) or better or consent
+MATH 470
+Numerical Analysis I
+4 credits
+This course provides an introduction to techniques and analysis involved with solving mathematical problems using technology. Topics included are errors in computation, solutions of linear and nonlinear equations, numerical differentiation and integration, and interpolation.
+Prerequisites:
+MATH 122, MATH 247 with "C" (2.0) or better or consent
+MATH 471
+Numerical Analysis II
+4 credits
+This course is a continuation of MATH 470. Topics included are the algebraic eigenvalue problem, least squares approximation, solutions of systems of nonlinear equations, numerical solutions of ordinary differential equations.
+Prerequisites:
+MATH 470 and MATH 223 with "C" (2.0) or better or consent
+Biological Science Track
+- Choose 16 Credit(s).
+BIOL 105
+General Biology I
+4 credits
+Study of biological processes at the suborganismal level including cell chemistry, metabolism, reproduction, genetics, and complex tissue physiology. Laboratory and discussion sessions stress problem solving and experimental design.
+Prerequisites:
+none
+Goal Areas: GE-03
+BIOL 106
+General Biology II
+4 credits
+Study of biological processes at the organismal level including a survey of life forms (viruses, bacteria, protists, fungi, plants, and animals), their evolution, and ecology. Laboratory and discussion sessions stress problem solving and experimental design.
+Prerequisites:
+none
+BIOL 211
+Genetics
+4 credits
+Introduction to genetic analysis. Topics covered will include those of both classical and modern genetics: population genetics, molecular genetics, genetic manipulation of organisms and selection. Central to this course will be the primacy of the trait as the object of genetics and the development/refinement of the concept of the gene. Lab included.Fall, Spring, Summer
+Prerequisites:
+BIOL 105, BIOL 106, and MATH 112
+BIOL 320
+Cell Biology
+4 credits
+An examination of eukaryotic cellular structure, organization and physiology. Lab included.
+Prerequisites:
+BIOL 105 and BIOL 106, BIOL 211
+BIOL 479
+Molecular Biology
+4 credits
+This course will cover both eukaryotic and prokaryotic molecular biology including: DNA and RNA structure, transcription, regulation of gene expression, RNA processing, protein synthesis, DNA replication, mutagenesis and repair, recombination, and insertion elements. A number of important techniques used in recombinant DNA technology will be discussed and practiced.
+Prerequisites:
+BIOL 105, BIOL 106, BIOL 211
+Information Technology Track
+- Choose 16 Credit(s).
+CIS 400 - 485
+Any CIS courses 400 485
+credits
+Prerequisites:
+none
+CIS 223
+Algorithms
+4 credits
+This course builds on CS 122 (Data Structures) with coverage of advanced data structures and associated algorithms, including trees, graphs, hashing, searching, priority queues, and memory management. Formal proof techniques, the analysis of best, worst, and expected cases, and the development of efficient algorithms are emphasized. Use of effect-free programming, first-class functions, and higher-order operations such as map, reduce, and filter are explored.
+Prerequisites:
+MATH 121 and CS 111 or CIS 122 or IT 214
+CIS 224
+Computer Architecture
+4 credits
+This course presents historical and current concepts and implementations of computer organization. Topics include instruction set design, digital storage, performance metrics, processor datapath and control, pipelining, memory hierarchy, busses and I/O interfacing, and parallel processors.
+Prerequisites:
+CS 111 or CIS 122or IT 214
+CIS 340
+Introduction to Database Systems
+4 credits
+Introduction to database systems, entity relationship models, relational algebra, database design, data modeling, normalization, and conversion of business rules into relational model. Introduction to basic SQL including subqueries, joins, functions, sequences, triggers, views, and stored procedures.
+Prerequisites:
+CIS 121 or an approved substitute.
+CIS 350
+Information Security
+4 credits
+Security concepts and mechanisms; security technologies; authentication mechanisms; mandatory and discretionary controls; cryptography and applications; threats; intrusion detection and prevention; regulations; vulnerability assessment; information assurance; forensics; anonymity and privacy issues; disaster recovery planning, legal issues and ethics.
+Prerequisites:
+EE 107 or CIS 121 or an approved substitute.
+CIS 360
+Introduction to Networking
+4 credits
+This course covers basic concepts related to computer networking. Topics addressed will include the OSI model, the Internet model, network management, network protocols and data security. Prerequisite: a 3.0 or higher grade in IT 210 or an approved substitute is required.
+Prerequisites:
+CIS 121. Select 1: MATH 113, MATH 115, MATH 121. Or an approved substitute.
+CIS 380
+Systems Analysis and Design
+4 credits
+This course explores both structured as well as object oriented systems analysis and design. Use of upper and lower CASE tools are employed in the analysis, design and implementation of a team oriented term project.
+Prerequisites:
+CIS 340. Select One Course: CIS 122 or CIS 123
+MATH 470
+Numerical Analysis I
+4 credits
+This course provides an introduction to techniques and analysis involved with solving mathematical problems using technology. Topics included are errors in computation, solutions of linear and nonlinear equations, numerical differentiation and integration, and interpolation.
+Prerequisites:
+MATH 122, MATH 247 with "C" (2.0) or better or consent
+Minor
+NoneInitial deposit: N/A
+
+
+Application Fee for Undergraduate: $ 20
+Application Fee for Postgraduate: $ 40
+
+
+Annual Fee for Undergraduate: $ 18,812
+Annual Fee for Postgraduate: $ 14,918
+
+
+English Language Requirements Undergraduate only:
+TOEFL iBT (internet-based test) score of 61 or better
+Pearson Test of English (PTE) score of 47 or better
+IELTS academic test score of 5.5 or better
+
+
+English Language Requirements Postgraduate only:
+Different for every course and given in course content 
+
+
+Entry Requirements Undergraduate only:
+A cumulative high school GPA of 3.0 or higher or A rank in the top 50% of your high school class or An ACT composite score of 21 or higher and a minimum cumulative high school GPA of 2.7. If you do not meet the above admission requirements, you can submit additional information to consider when reviewing your application.
+
+
+Entry Requirements Postgraduate only:
+Applicants must possess the equivalent of a U.S. Bachelor's degree to be considered for graduate programs at Minnesota State Mankato. The degree must be earned at an institution recognized and approved to award the degree. GRE (Graduate Record Examination) is required by some academic programs.
+
+English Language requirements of graduate programs is different for each course. Graduate programs only have IELTS and TOEFL test scores.
+For Graduate Entry Requirements, some requirements like GPA, Score are mentioned on the course page so add them too.

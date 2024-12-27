@@ -1,0 +1,186 @@
+Link: https://www.fdu.edu/program/bs-information-technology-ms-computer-science/
+
+Skip to content
+Information Technology BS, Computer Science MS 4 Plus 1 Program
+Home
+/
+Program
+/
+Information Technology BS, Computer Science MS 4 Plus 1 Program
+The Lee Gildart and Oswald Haase School of Computer Sciences and Engineering (GHSCSE) offers a 4 Plus1 program that allows qualified students to obtain a Bachelor of Science (BS) in information technology (IT) with a pathway to the Master of Science (MS) in computer science. In particular, three graduate courses:
+CSCI6623
+Database Systems (3 credits),
+CSCI6638
+Operating Systems (3 credits), and
+CSCI6731
+Computer Networks (3 credits), when successfully completed under the 4 Plus 1 program, can be credited toward both the BS and the MS degrees. Students can take one or more of the three concentrations:
+network and system administration
+,
+security and forensics
+and
+web-development technology
+in the BS in information technology program. This combined-degree program is offered by the GHSCSE at the Metropolitan Campus, Teaneck, New Jersey.
+Students must have achieved a cumulative grade point ratio (CGPR) of at least 2.75. A minimum of 120 credits is required for the BS in information technology. In addition, for degree completion, the BS in information technology degree requires a minimum CGPR of 2.00, while the MS in computer science degree requires a minimum CGPR of 2.75.
+Professional Accreditation and Other Designation
+The BS in information technology program is accredited by the Computing Accreditation Commission of ABET-
+https://www.abet.org
+.
+This accreditation applies only to the BS in information technology program offered by the GHSCSE at the Metropolitan Campus, Teaneck, New Jersey.
+Students completing the BS in information technology program with a concentration in security and forensics are eligible to receive a Certificate of Completion of a National Security Agency (NSA) and Department of Homeland Security (DHS)-designated CAE-CDE program of study from FDU’s Center for Cybersecurity and Information Assurance (CCIA). CAE-CDE denotes the Center for Academic Excellence for Cyber Defense Education.
+Cooperative Education Option
+Students in the BS in information technology program have the option to undertake a cooperative education experience and earn a total of 6 academic credits toward their technical electives
+Scholarship – DoD CySP
+Students pursuing the BSIT degree program with the Concentration in Security and Forensics are eligible to apply for the prestigious Department of Defense (DoD) Cyber Scholarship Program (CySP). Apart from paying for the full tuition and fees, the Cyber Scholars receive a lucrative $25,000 a year stipend until graduation, guaranteed paid summer internship at the DoD Agency and a job offer on graduation.
+Degree Plan
+1st Semester (14 credits)
+CSCI1105
+Computers & Computer Software
+WRIT1002
+Composition I:  Rhetoric & Inquiry
+INFO1101
+Computer Concepts & Tech
+MATH1105
+College Algebra
+UNIV1001
+Transitioning to University Life
+2nd Semester (14 credits)
+CGD1177
+Intro to Digital Media
+WRIT1003
+Composition II:  Research & Argument
+INFO1201
+Information Technology
+MATH1107
+Pre-calculus
+UNIV1002
+Preparing for Professional Life
+3rd Semester (16 credits)
+EGTG2210
+Technical Communication
+INFO2101
+Computer Programming for Information Technologists I
+INFO2105
+Internet & Web Applications
+UNIV2001
+Cross-cultural Perspectives
+Laboratory Science Elective: Students are required to complete one full-year laboratory science sequence totaling eight (8) credits from the following courses:
+PHYS2101
+,
+PHYS2102
+General Physics I & II and
+PHYS2201
+,
+PHYS2202
+Physics Laboratory I & II;
+CHEM1201
+,
+CHEM1202
+General Chemistry I & II and
+CHEM1203
+,
+CHEM1204
+General Chemistry Laboratory I & II; or
+BIOL1251
+,
+BIOL1252
+General Biology I & II and
+BIOL1253
+,
+BIOL1254
+General Biology Laboratory I & II.
+4th Semester (16 credits)
+ENGR2286
+Digital Systems Design
+INFO2102
+for Information Technologists II (or)
+INFO2106
+Web Site Design & Management
+Laboratory Science Elective: See 3rd Semester
+UNIV2002
+Global Issues
+5th Semester (15 credits)
+CSCI2234
+Data Structures and Algorithms
+CSCI2247
+Assembly Lang Programming (or)
+EENG2287
+Microprocessor System Design I
+ENGR3000
+Modern Technologies: Principles, Applications and Impacts
+MATH2337
+Applied Statistics I
+IT Technical Elective: Twelve credits must be selected from the approved list of Information Technology Technical Electives listed below. The courses must be approved by the GHSCSE Director or their designee. Students can elect to participate in a cooperative educational experience.
+6th Semester (15 credits)
+CSCI6623
+Database Systems
+CSCI6638
+Operating Systems
+INFO3201
+Human Computer Interface
+INFO3205
+Digital Media Publishing
+IT Technical Elective: See Semester 5.
+7th Semester (18 credits)
+CSCI3274
+Linux System Administration
+CSCI6603
+Computer Architecture
+ENGR4210
+Management & Engineering Economics
+INFO4101
+Data Communication & Computer Networks I
+MATH2255
+Discrete Structures
+IT Technical Elective: See Semester 5.
+8th Semester (15 credits)
+INFO4201
+IT Needs Assessment & Management
+INFO4205
+Capstone Project
+INFO4410
+Foundations on Cybersecurity
+INFO4844
+Programming for Internet
+IT Technical Elective: See Semester 5
+Technical Electives
+Prerequisites must be fulfilled for any course(s) selected.
+CGD2255
+Basics of Computer Animation
+CGD2274
+Computer 3-Dimensional Modeling
+COMM2215
+Photoshop for Advertisement and Illustration
+COMM2648
+/
+COMM2649
+Basic Video Editing
+CSCI3251
+Design of Software Systems
+CSCI3315
+Mobile Application Development
+CSCI3317
+Computer Game Programming
+CSCI3331
+Advanced Database
+CSCI3338
+Advanced Oracle SQL Performance and Tuning
+CSCI3345
+Firewalls and Intrusion Detection Systems
+CSCI3380
+UNIX Shell Programming
+CSCI3420
+Cryptography
+CSCI3461
+Data Mining Applications
+CSCI4373
+Distributed Database Systems
+CSCI4380
+Systems Development with Java
+EGTE3288
+Microprocessor System Design II
+Learn more
+Gildart Haase School of Computer Sciences and Engineering
+Admissions
+Apply now
+Visit FDU
+Request Information

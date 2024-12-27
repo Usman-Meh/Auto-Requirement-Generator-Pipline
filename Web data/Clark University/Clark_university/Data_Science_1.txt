@@ -1,0 +1,167 @@
+Link: https://www.clarku.edu/academics/undergraduate/programs/majors-minors/major-in-data-science
+
+Skip to content
+Major in Data Science (B.A.)
+Home
+Academics
+Major in Data Science (B.A.)
+Request Information
+I understand that by providing my contact information to Clark University, I am joining the Admissions Office’s mailing list and may receive both print and online communication relating to Clark’s programs and application process. I also understand that Clark uses cookies on its websites to offer a better browsing experience, analyze web traffic and personalize content.  To learn more about Clark’s use of cookies, please refer to the Privacy Policy at: www.clarku.edu/privacy. You may unsubscribe at any time by selecting the “Unsubscribe” link at the bottom of any email communications or by contacting us at admissions@clarku.edu.
+Accept
+Cancel
+Entry Term*
+2025 Fall
+2025 Spring
+2026 Fall
+2026 Spring
+2027 Fall
+2027 Spring
+2028 Fall
+2028 Spring
+Submit
+Sidebar Menu
+Faculty
+Contact Us
+Download Major Map
+Apply
+Visit Campus
+Related Undergraduate Programs
+Computer Science
+Management
+Geography/GIS
+Economics
+Mathematics
+Accelerated B.A./Master's Programs
+Clark’s fifth-year Accelerated Degree Programs offer scholarships ranging from 50 to 100 percent. Data science majors might be interested in:
+Accounting
+Business Administration
+Business Analytics
+Finance
+Information Technology
+Geographic Information Science (GIS)
+Management
+Marketing
+How Accelerated Degree Programs and Scholarships Work
+Why Major in Data Science?
+Information is everywhere. Our increasingly global and digitized world produces huge amounts of data, and understanding it is essential to all organizations, whether they are in the public, private, or nonprofit arenas. Data science and analytics help organizations harness their data and use it to discover knowledge, identify opportunities, and develop solutions, ultimately leading to smarter policies, more efficient and equitable practices, better services, and more inclusive societies.
+Leading to a bachelor of arts degree, data science at Clark is an interdisciplinary major with courses taught by faculty from computer science, economics, geography, management, and mathematics. Students learn approaches and techniques that are widely applied to quantitative analyses in almost every discipline, with particular relevance to Clark’s academic programs in computer science, mathematics,  geographic information science (GIS), economics, business analytics, environmental science and policy, international development, biology, chemistry, and physics.
+Academic Catalog:
+MA
+Major
+MI
+Minor
+Why Study Data Science at Clark?
+Learn approaches and techniques that are widely applicable to quantitative analyses in almost every discipline.
+Gain the expertise and knowledge to produce high-quality work, secure jobs at top companies or admission to leading graduate schools, and change our increasingly data-driven world.
+Study this emerging field in a small liberal arts research university with diverse participating programs and strong interdisciplinary collaborations.
+Benefit from a wealth of opportunities to apply your learning in a professional setting right here on campus.
+Join an expanding network of students and alumni who will help each other succeed.
+Data Science
+Featured Courses
+Arrow Icon
+Previous Course
+1
+2
+3
+DSCI 105
+POP
+Applied Data Analytics
+An investigation into the fundamental techniques and practices of data analysis, this course focuses on applying tools and techniques to practical problems of analysis, visualization, and discovery.
+DSCI 122
+Mathematical Foundations of Data Science
+Learn fundamental mathematical concepts, theorems, and tools used in data science and machine learning, from linear algebra to analytic geometry, matrix decompositions, and probability and statistics.
+DSCI 125
+POP
+Introduction to Data Science
+Get to know foundational concepts and skills, then dig in to process and analyze, and extract information from, real-world datasets. Discussions will also cover data privacy, bias, fairness, and more.
+DSCI 216
+Stochastic Computing
+Uncertainty appears in virtually all areas of data science and computer science. In this course, you’ll use the problem, theory, and prototype (PTP) approach to measure, describe, evaluate, and make decisions.
+DSCI 225
+Applied Machine Learning
+Through lectures, labs, programming projects, and written assignments, students learn the fundamental theory of machine learning and apply it to practical problems in data science.
+Arrow Icon
+Next Course
+View All Courses
+The Major Path
+Curriculum
+Hands-On Learning
+Research
+Career / Graduate Study
+As a data science major, you’ll learn how to formulate problems; design data collection strategies; process, analyze, and extract information from data; and use that information to make sound decisions. You’ll also become familiar with the social and ethical issues surrounding data science, and the code of conduct observed by data science professionals.
+Fourteen courses are required to complete the major, which offers five tracks of study: computer science, economics, geography/GIS, management, and mathematics.
+Two mathematics courses
+Two computer science courses
+Four data science courses (at least two at the 200 level)
+Six electives
+Four from one track, including at least one at the 200 level
+Two elective courses from any track
+As a data science major, you also will complete a capstone, which draws on all you’ve learned during your time at Clark. Your capstone may be in the form of a 200-level course (counted toward your 14-unit major requirements) or another approved activity.
+If you wish to take a 200-level course to satisfy your capstone requirement, you must arrange to do so with the instructor within the first two weeks of the course. The course instructor will serve as your capstone adviser and certify the completion of the capstone requirement.
+Alternative capstone experience may include any of the following, if the experience includes a significant data science component and is approved by the Data Science program:
+Faculty-guided research
+Self-designed project
+Academic internship
+Study abroad courses
+Practices for and participations in data science/analytics contests and hackathons
+Skills You Learn
+Skills you will learn include:
+Formulating problems
+Designing data collection strategies
+Processing, analyzing, and extracting information from data
+Making sound decisions using the data collected
+Recognizing the social and ethical issues surrounding data science
+Understanding the code of conduct observed by data science professionals
+Related Programs
+Computer Science
+Management
+Geography/GIS
+Economics
+Mathematics
+At Clark, your education extends beyond the classroom. Visit the
+Career Connections Center
+to learn more about
+internship opportunities
+that complement your coursework and put your data science knowledge into practice.
+The data science major is designed to help you learn outside the classroom. For example, as you become increasingly proficient, you will be encouraged to apply and share your data science expertise, analytic skills, and interdisciplinary knowledge.
+Many students take advantage of
+internship
+opportunities during the academic year or over the summer to connect what they’re learning with their professional development. You have opportunities to sharpen your data science skills by working as a teaching assistant, doing research, proctoring a computer lab, or serving as system, support, or technical staff in the department or for Clark’s Office of Technology Services.
+Other opportunities include:
+Study Abroad and Away
+Participation in a study abroad and away program is an opportunity to gain world and workplace experience to complement your on-campus experience. Clark approves semester, year-long, and summer opportunities to earn credit through academic coursework, internships, community-based learning, or research.
+Explore our
+Study Abroad and Away
+website where you can search programs by academic interest,
+location
+, and language; after you’ve identified some appropriate programs, talk with your faculty adviser as early as possible to ensure that a program fits into your four-year plan.
+Student Clubs and Organizations
+You can participate in Clark’s many clubs, organizations, and athletic teams as a way to complement your academic work. Here are some student organizations that might be of interest to you as a data science student:
+Clark Center for Technology, Innovation, and Entrepreneurship
+CU Student Chapter of the Association of Computing Machinery
+Clark Competitive Computing Club
+Clark Entrepreneurship Club
+Clark’s Women in STEM
+Economics Society
+Clark is committed to action-based learning, which means that as an undergraduate you can join faculty in their
+research
+. Our data science professors come from Clark’s Computer Science, Economics, Geography, Management, and Mathematics departments and have a strong track record of advising undergraduate and graduate student research.
+You can participate in research in several ways:
+Initiate your own research project under the guidance of a faculty member.
+Work with a Clark professor on their research.
+Work with a professor or in a research lab at another institution during the summer.
+You can also apply for
+funding
+to support your own research on a project of your choice during the academic year or during the summer.
+At Clark, you’ll get more than a great education; you’ll also be prepared for a long, productive career and life of consequence. And once you’ve completed your degree, you can join other Clark alumni who have gone on to work for great organizations and attend some of the best graduate schools in the world.
+Our data science major provides a solid foundation for students who want to apply their knowledge in their chosen professions, as well as for those who want to study data science in graduate school.
+Faculty and Programs in the Department of Computer Science
+Learn More
+Copyright © 2024 Clark University
+Public Information
+|
+Privacy Policy
+|
+Website Accessibility
+|
+Nondiscrimination Policy

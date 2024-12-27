@@ -1,0 +1,244 @@
+Link: https://www.derby.ac.uk/postgraduate/electrical-electronic-engineering-courses/control-instrumentation-msc/
+
+Control and Instrumentation MSc - Electrical and Electronic Engineering - University of Derby
+Study
+Postgraduate
+Postgraduate course search
+Electrical and Electronic Engineering
+Control and Instrumentation MSc
+Apply now
+Apply now
+Postgraduate Course
+Control and Instrumentation
+MSc
+Apply
+Apply
+Order your prospectus
+Order your prospectus
+Contact us
+Contact us
+On this page
+Course description
+What you will study
+How you will learn
+Entry requirements
+Fees and funding
+How to apply
+Careers
+Available for January start
+Course details
+Study options
+Full-time: 12 months,  Part-time: 2-3 years
+UK fee
+£9,000 per year of study or £1,000 per 20 credits*
+(2024/25)
+International fee
+£14,900 per year of study
+(2024/25)
+Start dates
+September, January
+Location
+Derby Campus
+There is a growing demand for professionals who can harness latest technology to design and produce novel measurement and control systems.
+Choose a highly regarded masters course accredited by the
+Institute of Measurement and Control
+Take your first steps towards Chartered Engineer status: this programme covers all the educational requirements you need
+Gain the ideal preparation for senior roles in areas such as automotive, aerospace, petrochemical, scientific or manufacturing applications
+Enjoy vital industry insights with visits to major companies
+Undertake practical projects underpinned by latest research
+Learn from experienced and supportive tutors who will help you to reach your full potential
+Employable graduates
+– we’re ranked 15th highest amongst all UK universities and 12th for English institutions with 96.9% of graduates in work or further study within six months of completing their degree: HESA 2016
+Offering a practical and dynamic learning experience, this MSc is ideal for high-calibre individuals who want to specialise in control and instrumentation.
+Your route to CEng status
+Our MSc Control and Instrumentation is a vital step towards helping you apply for registration as a Chartered Engineer (CEng). It has been developed to cover all the educational requirements for CEng status: you will then need to meet the requirements for responsible work experience.
+Chartered Engineers use a range of fundamental scientific principles to:
+Research, develop and apply new technologies
+Develop and promote advanced designs and design methods
+Introduce new and more efficient production techniques
+Initiate marketing and construction concepts
+Pioneer new engineering services and management methods
+Tailor your MSc studies
+Highly flexible, this course offers lots of choice in the specialist subject modules you can take and the ways in which you learn. Some modules are delivered through lectures and tutorials, some are provided online and you can take others in your own workplace.
+You will study both on your own and as part of a group. Your project work will also give you vital experience of working in teams.
+Exciting opportunities for international students
+Located in the heart of England and boasting a thriving technology-based economy, Derby is the ideal city in which to study Engineering. With nearly four times the national average of people employed in high technology occupations, it is home to world-famous companies such as Rolls-Royce, Toyota and JCB.
+If you are an international student, you can combine the bridging course with an appropriate English language course if you need to meet our international entry requirements.
+I was attracted by this course because it gave me the opportunity to work for a wide range of fields. A lot of subjects were about the implementation of electronics on systems that we can find pretty much everywhere such as mobile phones.
+Beatrice Dipaola
+MSc Control and Instrumentation graduate
+Postgraduate Open Event
+Join us at an upcoming Postgraduate Open Event, where you will get the opportunity to meet our expert academics and find out more about your course.
+Book your Postgraduate Open Event
+Book your Postgraduate Open Event
+What you will study
+This course is made up of three stages - Postgraduate Certificate, Postgraduate Diploma and MSc.
+Postgraduate Certificate
+You will study modules such as:
+Research Methods: Application and Evaluation
+This module will advise, guide and develop you in the various elements that constitute the skills required for identifying and applying appropriate research methods and developing an overall research plan. Your learning will include how to identify, evaluate and apply different research philosophies, research approaches, research strategies, research methods, and methods of data collection and analysis.
+Intelligent Instrumentation Systems
+The increased processing power available, coupled with the development of more sensitive sensors and more complex measurement techniques, have brought many sophisticated computerised products into both industrial and consumer markets. This module aims to give you an in-depth understanding of the basis of instrumentation, advanced signal processing, and the operation of the sensors and modern instrumentation techniques and applications which are currently used. Your understanding of these elements will underpin your ability to appreciate the application of intelligent instrumentation systems in a variety of sectors, including manufacturing industry, instrument production and development, and medical research and practice.
+Embedded System Design
+Embedded systems are products in which tiny computers are hidden in order to undertake a control function. They appear in a wide variety of forms today, including the car, domestic appliances, stage, office or medical equipment, and industrial machinery. In this module, industrially relevant hardware and software design skills are developed, including embedded C programming, and working with a real-time operating system. The wider contexts of embedded devices are explored, for example relating to real time, low power or high reliability.
+Environmental Risk and Responsibility
+You will evaluate how the professional actions, decisions and leadership of others have a local impact as well as wider implications for the environment and the sustainable future of the planet. This module will be delivered online for students joining the course in January.
+Postgraduate Diploma
+You will study modules such as:
+CPD and Strategic Management
+During this module, you will develop your managerial skills in preparation for work in a global industry environment. You will study strategic concepts and learn how to transfer them into your own industry or specialism using a structured approach. You will focus on managing the global future by analysis rather than by instinct and will become adept at forecasting and financial analysis, while considering business ethics.
+Modern Control System Design
+Modern control system design is an integral part of modern society. It appears in numerous applications all around us, including aerospace, entertainment, motor vehicle and office environments. You will analyse advanced control systems using analytical techniques and computer tools. You will be introduced to optimal control of time varying and time invariant systems, solutions to the linear quadratic regulator, optimal filtering, and linear quadratic Gaussian problems. There will be a high dependence on exploring system behaviour using CAD packages.
+You will also choose one module, such as:
+Industrial Electronics
+This module is designed to consolidate your postgraduate and industrial knowledge so you will carry out practical case studies on a number of small industrial applications. These bring together aspects of electronics, electrical, mechanical and CAD used in industry. We focus on implementing electrical and electronic principles, sensors and actuators, with the emphasis on how these elements fit into industrial applications.
+Negotiated Technical Module
+You will engage with a specific aspect of the technology used within your subject area at masters level. The module includes project management, target-setting and the practical implementation of your objectives in an industrial context. We will locate relevant issues in an academic context to promote the links between conceptual analysis and industrial practice, making possible an accurate evaluation of the project’s objectives.
+MSc
+You will study one module, such as:
+Independent Engineering Scholarship
+This module provides you with an opportunity to apply and enhance the knowledge and intellectual skills gained during your programme and develop your specialist skills in an area of your choice. The aim is to improve your ability to work independently, in a chosen topic, using appropriate research and design concepts and analytical, test, measurement and evaluation techniques in order to produce a finished artefact or product. You will be challenged to demonstrate a critical understanding of how the boundaries of knowledge are advanced through research in the production of clear, logically argued and original work related to your field of study.
+Please note that our modules are subject to change - we review the content of our courses regularly, making changes where necessary to improve your experience and graduate prospects.
+How you will learn
+You will be able to engage in a broad range of activities, such as industrial visits to companies like Rolls-Royce, Mitsubishi and NPL. You will also have the opportunity to attend and contribute to the Derby Electrical and Electronic Research Showcase (DEERS) conference – a chance to see latest developments from across the region, to network with industry specialists and to trial new ideas.
+In addition, your learning will be enriched by the influential research being conducted by our teaching team. For example, research on the Quad-Rotor helicopter has led to the development of the 'Modelling and Control of a Quad-Rotor Helicopter' team project. In a similar way, research on the 32-bit ARM processor paved the way for our 'Moon Buggy' team project.
+Assessment may take many forms:  written work, presentations, contributions to online discussions, computer aided designs, laboratory assessments, in-company interviews, viva voce and time constraint exams
+Who will teach you
+Dr Amar Bousbaine
+Programme Leader
+Dr Amar Bousbaine
+Dr. Amar Bousbaine is an experienced senior Electrical and Electronic Engineering academic and active researcher in the fields of automotive electrical power system for Electrical Vehicles (EVs), renewable energy sources, Hydrogen fuel...
+View full staff profile
+→
+Entry requirements
+You'll normally need an appropriate engineering or science undergraduate degree (2:2 or above) or an equivalent, professional qualification, or significant industrial or professional experience following your initial qualification.
+If English is not your first language, you'll also need an IELTS score of 6.0 or equivalent.
+Fees and funding
+2024/25 (August 2024 - July 2025)
+Type
+Full-time
+Part-time
+UK
+£9,000 per year of study or £1,000 per 20 credits*
+£1,000 per 20 credits
+International
+£14,900 per year of study
+N/A
+Please note
+fees normally increase in line with inflation and the University's strategic approach to fees, which is reviewed on an annual basis. The total fee you pay may therefore increase after one year of study.
+* UK full-time fees paid within one academic year are rounded down to the nearest £50 if applicable
+Additional costs and optional extras
+2025/26 (August 2025 - July 2026)
+Type
+Full-time
+Part-time
+UK
+£9,720 per year of study or £1,055 per 20 credits*
+£1,055 per 20 credits
+International
+£16,900 per year of study
+N/A
+Please note
+fees normally increase in line with inflation and the University's strategic approach to fees, which is reviewed on an annual basis. The total fee you pay may therefore increase after one year of study.
+* UK full-time fees paid within one academic year are rounded down to the nearest £50 if applicable
+Additional costs and optional extras
+About postgraduate awards
+Please note
+at postgraduate level, you’ll need to gain the following number of credits in total to obtain the respective awards. If you have any questions please
+contact us
+.
+Award
+Credits
+Postgraduate Certificate
+60 Credits
+Postgraduate Diploma
+120 Credits
+MA or MSc
+180 Credits
+This means you will gain 180 credits in total to complete the full MA or MSc. If you are studying part time you will normally complete your studies over two or three years, depending on the course structure.
+Funding your studies
+Find out more about fees, postgraduate loans and support you may be entitled to.
+Find out about funding your studies
+Find out about funding your studies
+Alumni discount for Derby graduates
+We offer a discount on postgraduate course fees for all Derby alumni.
+Find out about the Alumni discount
+Find out about the Alumni discount
+✕
+Additional costs and optional extras
+We're committed to providing you with an outstanding learning experience. Our expert teaching, excellent facilities and great employability prepare you for your future career. As part of our commitment to you we aim to keep any additional study costs to a minimum. However, there are occasions where students may incur some additional costs.
+Included in your fees
+Free student membership of relevant professional accreditation body
+Some essential educational software packages will be provided free
+Use of resources such as computer rooms, workshops and laboratories
+Use of PPE kits in workshops as and when required, such as safety boots, safety googles and ear plugs
+Talks from expert industry speakers
+£150 maximum allowance for master's project
+Mandatory costs not included in your fees
+Additional Educational Software, approximately £100
+Computer Accessories, approximately £30
+Workshop material, approximately £100
+Additional Industry visits, approximately £40
+Additional expenses for master's project, approximately £50
+Printing, approximately £80
+Optional costs not included in your fees
+Personal computer or tablet computer approx. £500
+International student scholarships
+We have a range of scholarships and discounts available to international students which can be used together to offer a reduction in your tuition fees.
+Find out if you're eligible for an international scholarship
+Find out if you're eligible for an international scholarship
+How to apply
+Please look at our
+application deadlines
+before you apply.
+✕
+When should I apply?
+Our
+undergraduate
+and
+postgraduate
+course pages will show the intakes that are available and open to applications. It's best to apply early so you can secure your place and beat the rush.
+Once we have received your application and supporting documents (such as qualifications or references), we will review it and contact you within 4 weeks to let you know if you have been successful or not.
+Our aim is to support all students to have the best possible opportunities to succeed and so our application and enrolment deadlines are in place to ensure you stand the best chance of doing so.
+Joining the programme later may harm your chances of success on your course. It is therefore vital that you take note of the dates and ensure you submit your completed application and subsequent enrolment in time.
+Undergraduate and postgraduate taught deadlines
+Please note some courses may have an earlier induction, teaching and enrolment deadline date.
+If your course operates a gathered field or pooled admissions process there may be an earlier application date. Please check your individual course page for further details.
+UK students
+Apply directly to the University.
+Apply directly to the University
+International students
+Find your agent
+Apply directly to the University
+Guidance for international applicants applying for a postgraduate degree
+Careers
+When you graduate, you will be skilled and knowledgeable in many areas sought after by employers across sectors including the motor vehicle, manufacturing, aerospace and petrochemical industries.
+There is currently a shortage of staff who can understand and apply current technology to design and produce novel measurement and control systems. This opens up many opportunities for high-calibre professionals, including rapid progression to senior roles.
+Career opportunities include:
+Engine health monitoring engineer
+Electronic control systems consultant
+Electrical operations manager
+Chief design engineer
+Electronics hardware design engineer
+Project coordinator/engineer
+Employers our graduates have gone on to work for include:
+Rolls Royce
+Lloyd's Register
+Jaguar Land Rover
+Skanska
+Romax Technology
+Footfalls and Heartbeats (UK) Ltd
+TERRA Energy Services
+Contact us
+If you need any more information from us, eg on courses, accommodation, applying, car parking, fees or funding, please
+contact us
+and we will do everything we can to help you.
+Contact us
+Contact us
+Additional information about your studies
+Download programme specification
+Teaching hours
+Like most universities, we operate extended teaching hours at the University of Derby, so contact time with your lecturers and tutors could be anytime between 9am and 9pm. Your timetable will usually be available on the website 24 hours after enrolment on to your course.
+Other courses you might like
+Mechanical and Manufacturing Engineering MSc
+Audio Engineering MSc

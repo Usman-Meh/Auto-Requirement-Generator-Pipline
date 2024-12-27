@@ -1,0 +1,38 @@
+Link: https://www.clarku.edu/academics/undergraduate/programs/concentration/concentration-in-geospatial-data-analytics
+
+Skip to content
+Concentration in Geospatial Data Analytics
+Home
+Academics
+Concentration in Geospatial Data Analytics
+Sidebar Menu
+Faculty
+Contact Us
+Apply
+Visit Campus
+Why Study Geospatial Data Analytics?
+Use spatial data to to better visualize and understand the world’s most complex challenges
+Geospatial technologies enable researchers, communities, and industries to address analytical problems where location is an essential parameter. A geographic information system (GIS) integrates the location data in maps with a wide range of information. This provides a foundation for mapping and analysis that is used in almost every field. Examining data in relation to its geographic location can help policy makers, researchers and communities discover new spatial patterns, trends, and connections.
+Geospatial analytics continues to gain prominence across industries due to the abundance of geospatial data available, such as location coordinates and satellite images. Advances in cloud computing, models, and sensing technologies have also enhanced geospatial data analysis capabilities, enabling students to gain a deeper understanding of complex environmental and social patterns.
+As a student in the geospatial data analytics
+concentration, you’ll gain a comprehensive skillset for a diverse range of careers or graduate study. By integrating geospatial data into data science and analytics, you’ll uncover valuable insights and patterns.
+Minimum number of courses to complete this concentration: 7
+Requirements and Courses
+Hands-On Learning
+Students will receive specialized training in geospatial analysis, including Geographic Information Systems (GIS), remote sensing, and deep learning techniques applied to real-world observation data.
+Careers
+The program provides the tools, techniques, and theoretical foundations necessary to tackle global challenges in a rapidly evolving job market. Graduates of the program are well-prepared for careers as data scientists, geospatial analysts, spatial data engineers, or consultants in diverse industries such as environmental planning, urban development, transportation, public health, and natural resource management. The program also provides a strong foundation for further academic studies or research.
+Program Co-Directors
+Lyndon Estes, Ph.D
+Phone: 1-508-793-7531
+John Rogan, Ph.D.
+Phone: 1-508-793-7562
+Program Faculty
+Copyright © 2024 Clark University
+Public Information
+|
+Privacy Policy
+|
+Website Accessibility
+|
+Nondiscrimination Policy

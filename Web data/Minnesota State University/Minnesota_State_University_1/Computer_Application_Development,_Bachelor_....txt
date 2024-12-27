@@ -1,0 +1,268 @@
+Link: https://cset.mnsu.edu/academic-programs/computer-application-development/computer-application-development-bachelor-of-applied-science-bas2/
+
+College of Science, Engineering & Technology
+Academic Programs
+Computer Application Development
+Computer Application Development, Bachelor of Applied Science (BAS)
+Computer Application Development Section
+Computer Application Development
+Computer Application Development, Bachelor of Applied Science (BAS)
+Computer Application Development Faculty & Staff
+Computer Application Development (BAS)
+Current Catalog Year
+2024-2025
+Degree
+Bachelor of Applied Science
+Major /                                         Total Credits
+50 / 120
+Locations
+Mankato
+Apply
+Program Requirements
+Degree Plan
+Program
+                                    Requirements
+Required General Education
+The required General Education course (or a comparable course) are available at the 2-year schools. Some are required in various 2-year programs. Students may have already completed these courses before entering MSU, thus the remaining credits to complete the required credits must be completed with open electives.
+MATH 112
+College Algebra
+4 credits
+Concepts of algebra (real numbers, exponents, polynomials, rational expressions), equations and inequalities, functions and graphs, polynomial and rational functions, exponential and logarithmic functions, systems of equations and inequalities, matrices and determinants, conic sections, sequences and series, probability, and binomial theorem.
+Prerequisites:
+Satisfy Placement Table in this section, or MATH 098 with grade of P.
+Goal Areas: GE-04
+Major Common Core
+Classes are selected for tight integration with industry partners, plus 6 credits of internship (1 or 2 credits per semester; pass/no credit portfolio based on employer recommendation).
+CIS 340
+Introduction to Database Systems
+4 credits
+Introduction to database systems, entity relationship models, relational algebra, database design, data modeling, normalization, and conversion of business rules into relational model. Introduction to basic SQL including subqueries, joins, functions, sequences, triggers, views, and stored procedures.
+Prerequisites:
+CIS 121 or an approved substitute.
+CIS 350
+Information Security
+4 credits
+Security concepts and mechanisms; security technologies; authentication mechanisms; mandatory and discretionary controls; cryptography and applications; threats; intrusion detection and prevention; regulations; vulnerability assessment; information assurance; forensics; anonymity and privacy issues; disaster recovery planning, legal issues and ethics.
+Prerequisites:
+EE 107 or CIS 121 or an approved substitute.
+CIS 380
+Systems Analysis and Design
+4 credits
+This course explores both structured as well as object oriented systems analysis and design. Use of upper and lower CASE tools are employed in the analysis, design and implementation of a team oriented term project.
+Prerequisites:
+CIS 340. Select One Course: CIS 122 or CIS 123
+CIS 497
+Internship
+1-12 credits
+Provides students with opportunity to utilize their training in a real-world business environment working under the guidance and direction of a faculty member. (At most 4 hours toward a major in this department). Fall, Spring, Summer Prereq: Permanent admission to IT and consent.
+Prerequisites:
+none
+COMM 333
+Advanced Public Communication
+4 credits
+This is an advanced course in public presentation focused on improving presentational skills of speech delivery and language choice.
+Prerequisites:
+none
+ENG 272W
+Business Communication
+4 credits
+Introduction to business communication. Assignments include writing and presenting proposals, reports, and documentation typical to a business/industry setting. Emphasis on use of rhetorical analysis, software applications, collaboration, and usability testing to complete business communication tasks. Fall, Spring
+Prerequisites:
+none
+Goal Areas: GE-02, GE-13
+STAT 154
+Elementary Statistics
+4 credits
+An introduction to statistical concepts and methods that is applicable to all disciplines. Topics include descriptive measures of data, probability and probability distributions, statistical inference, tests of hypotheses, confidence intervals, correlation, linear regression, and analysis of variance. The use of statistical software will be emphasized. Prereq: ACT Math sub-score of 19 or higher, successful completion of MATH 098 or appropriate placement scores (see Placement Information under Statistics) Fall, Spring, Summer GE-4
+Prerequisites:
+Satisfy Placement Table in this section, or MATH 098 with grade of P.
+Goal Areas: GE-02, GE-04
+Major Restricted Electives
+Choose 20 Credit(s). Additional special topics classes may also be available.
+CIS 223
+Algorithms
+4 credits
+This course builds on CS 122 (Data Structures) with coverage of advanced data structures and associated algorithms, including trees, graphs, hashing, searching, priority queues, and memory management. Formal proof techniques, the analysis of best, worst, and expected cases, and the development of efficient algorithms are emphasized. Use of effect-free programming, first-class functions, and higher-order operations such as map, reduce, and filter are explored.
+Prerequisites:
+MATH 121 and CS 111 or CIS 122 or IT 214
+CIS 224
+Computer Architecture
+4 credits
+This course presents historical and current concepts and implementations of computer organization. Topics include instruction set design, digital storage, performance metrics, processor datapath and control, pipelining, memory hierarchy, busses and I/O interfacing, and parallel processors.
+Prerequisites:
+CS 111 or CIS 122or IT 214
+CIS 311
+Business Application Programming
+4 credits
+Business application development using a non-object oriented programming language. Emphasis on principles of application programming such as control breaks, read a record/write a line, driver, shared sub-routines, pass by reference, and sub-programming. File concepts emphasized include index-sequential file handling, CRUD, heap files, sorting, transaction, and master files. Programming concepts include input-processing-output definitions, understanding requirements, structure charts, program documentation, and programming standards. Large group project is completed during semester.
+Prerequisites:
+CIS 122
+CIS 360
+Introduction to Networking
+4 credits
+This course covers basic concepts related to computer networking. Topics addressed will include the OSI model, the Internet model, network management, network protocols and data security. Prerequisite: a 3.0 or higher grade in IT 210 or an approved substitute is required.
+Prerequisites:
+CIS 121. Select 1: MATH 113, MATH 115, MATH 121. Or an approved substitute.
+CIS 414
+Advanced Object-Oriented Programming with Design Patterns
+4 credits
+This course provides the student with a solid understanding of the principles, techniques and design patterns involved in advanced object-oriented programming. Successful students should have a distinct advantage in the marketplace.Variable
+Prerequisites:
+CIS 223, CIS 380
+CIS 440
+Database Management Systems
+4 credits
+Extensive coverage of SQL, database programming, large scale data modeling, and database enhancement through reverse engineering. This course also covers theoretical concepts of query processing, and optimization, basic understanding of concurrency control and recovery, and database security and integrity in centralized/distributed environments. Team-oriented projects in a heterogeneous client server environment.
+Prerequisites:
+CIS 340, CIS 380
+CIS 450
+Information Warfare
+4 credits
+Covers information warfare principles and technologies. Information warfare concepts; protocols, authentication, and encryption; network attack techniques, methodologies, and tools; network defense; malware; Trojan worms, viruses, and malicious code; electronic crimes and digital evidence.
+Prerequisites:
+CIS 350
+CIS 460
+Network and Security Protocols
+4 credits
+Advanced coverage of data communication, networking and security protocols. Topics: data transmission methods, error detection and recovery, flow control, routing, security issues and performance analysis of existing and emerging protocols for secure communication. Fall, Spring
+Prerequisites:
+CIS 360
+CIS 462
+Network, Security, Administration and Programming
+4 credits
+Network and server systems administration. Domain administration; file system management; networked printers; user management; and workstation configuration. Network programming assignments/projects in Layered Software Systems, HTTP Server, UDP (TFTP or DNS), CGI program, IPV6, RPC/SCTP.Variable
+Prerequisites:
+CIS 360
+CIS 465
+Mobile Device Application Programming
+4 credits
+This course is designed to give students the skills required to write applications for mobile devices (smartphones and tablets). Topics to be covered include interacting with the UI, using an emulator/simulator, application lifecycle, moving from one screen to another, services, alarms, broadcast receivers, maps API, location based programs, GPS, persistence, hardware sensors, and web applications.
+Prerequisites:
+CIS 223, CIS 380
+CIS 480
+Software Quality Assurance and Testing
+4 credits
+Topics include software quality assurance, software quality metrics, software configuration management, software verification and validation, reviews, inspections, and software process improvement models, functional and structural testing models.
+Prerequisites:
+CIS 223, CIS 380
+CIS 482
+Human Computer Interaction
+4 credits
+This course discusses concepts and techniques for design, development and evaluation of user interfaces. Students will learn the principles of interaction design, interaction styles, user-centered design, usability evaluation, input/output devices, design and analysis of controlled experiments and principles of perception and cognition used in building efficient and effective interfaces. Group project work.
+Prerequisites:
+MATH 121. Select one: STAT 154 or PSYC 201. Select one: CS 230 or CIS 380
+CIS 483
+Web Application Design and Development
+4 credits
+HTTP Protocol; Web-markup languages; Client-side, Server-side programming; Web services; Web servers; Emerging technologies; Security; Standards & Bodies; Web interface design techniques; User-centered design; Visual development environments and development tools; Interface design effectiveness. Fall, Spring
+Prerequisites:
+CIS 380
+CIS 484
+Software Engineering
+4 credits
+An introduction to all important aspects of software engineering. The emphasis is on principles of software engineering including project planning, requirements gathering, size and cost estimation, analysis, design, coding, testing, implementation, and maintenance. Group project work.
+Prerequisites:
+CIS 223, CIS 380
+CIS 499
+Individual Study
+1-4 credits
+Problems on an individual basis.
+Prerequisites:
+none
+Degree Plan
+First Year
+Fall
+- 12 Credits
+MATH 115
+Precalculus Mathematics
+4 credits
+This course will cover topics of precalculus mathematics. Topics covered will include functions, graphs of functions, exponential and logarithmic functions, conic sections, systems of equations and inequalities, matrices, trigonometric functions, circular functions, vectors and complex numbers, induction, series and probability.
+Prerequisites:
+Satisfy Math Placement Table in this section, or grade of P in MATH 098.
+Goal Areas: GE-04
+CIS 340
+Introduction to Database Systems
+4 credits
+Introduction to database systems, entity relationship models, relational algebra, database design, data modeling, normalization, and conversion of business rules into relational model. Introduction to basic SQL including subqueries, joins, functions, sequences, triggers, views, and stored procedures.
+Prerequisites:
+CIS 121 or an approved substitute.
+CIS 350
+Information Security
+4 credits
+Security concepts and mechanisms; security technologies; authentication mechanisms; mandatory and discretionary controls; cryptography and applications; threats; intrusion detection and prevention; regulations; vulnerability assessment; information assurance; forensics; anonymity and privacy issues; disaster recovery planning, legal issues and ethics.
+Prerequisites:
+EE 107 or CIS 121 or an approved substitute.
+Spring
+- 14 Credits
+STAT 154
+Elementary Statistics
+4 credits
+An introduction to statistical concepts and methods that is applicable to all disciplines. Topics include descriptive measures of data, probability and probability distributions, statistical inference, tests of hypotheses, confidence intervals, correlation, linear regression, and analysis of variance. The use of statistical software will be emphasized. Prereq: ACT Math sub-score of 19 or higher, successful completion of MATH 098 or appropriate placement scores (see Placement Information under Statistics) Fall, Spring, Summer GE-4
+Prerequisites:
+Satisfy Placement Table in this section, or MATH 098 with grade of P.
+Goal Areas: GE-02, GE-04
+CIS 380
+Systems Analysis and Design
+4 credits
+This course explores both structured as well as object oriented systems analysis and design. Use of upper and lower CASE tools are employed in the analysis, design and implementation of a team oriented term project.
+Prerequisites:
+CIS 340. Select One Course: CIS 122 or CIS 123
+CIS 497
+Internship
+2 credits
+Provides students with opportunity to utilize their training in a real-world business environment working under the guidance and direction of a faculty member. (At most 4 hours toward a major in this department). Fall, Spring, Summer Prereq: Permanent admission to IT and consent.
+Prerequisites:
+none
+Second Year
+Fall
+- 14 Credits
+ENG 272W
+Business Communication
+4 credits
+Introduction to business communication. Assignments include writing and presenting proposals, reports, and documentation typical to a business/industry setting. Emphasis on use of rhetorical analysis, software applications, collaboration, and usability testing to complete business communication tasks. Fall, Spring
+Prerequisites:
+none
+Goal Areas: GE-02, GE-13
+CIS 497
+Internship
+2 credits
+Provides students with opportunity to utilize their training in a real-world business environment working under the guidance and direction of a faculty member. (At most 4 hours toward a major in this department). Fall, Spring, Summer Prereq: Permanent admission to IT and consent.
+Prerequisites:
+none
+Spring
+- 14 Credits
+CIS 497
+Internship
+2 credits
+Provides students with opportunity to utilize their training in a real-world business environment working under the guidance and direction of a faculty member. (At most 4 hours toward a major in this department). Fall, Spring, Summer Prereq: Permanent admission to IT and consent.
+Prerequisites:
+noneInitial deposit: N/A
+
+
+Application Fee for Undergraduate: $ 20
+Application Fee for Postgraduate: $ 40
+
+
+Annual Fee for Undergraduate: $ 18,812
+Annual Fee for Postgraduate: $ 14,918
+
+
+English Language Requirements Undergraduate only:
+TOEFL iBT (internet-based test) score of 61 or better
+Pearson Test of English (PTE) score of 47 or better
+IELTS academic test score of 5.5 or better
+
+
+English Language Requirements Postgraduate only:
+Different for every course and given in course content 
+
+
+Entry Requirements Undergraduate only:
+A cumulative high school GPA of 3.0 or higher or A rank in the top 50% of your high school class or An ACT composite score of 21 or higher and a minimum cumulative high school GPA of 2.7. If you do not meet the above admission requirements, you can submit additional information to consider when reviewing your application.
+
+
+Entry Requirements Postgraduate only:
+Applicants must possess the equivalent of a U.S. Bachelor's degree to be considered for graduate programs at Minnesota State Mankato. The degree must be earned at an institution recognized and approved to award the degree. GRE (Graduate Record Examination) is required by some academic programs.
+
+English Language requirements of graduate programs is different for each course. Graduate programs only have IELTS and TOEFL test scores.
+For Graduate Entry Requirements, some requirements like GPA, Score are mentioned on the course page so add them too.

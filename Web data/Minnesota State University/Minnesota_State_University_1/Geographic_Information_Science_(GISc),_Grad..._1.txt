@@ -1,0 +1,171 @@
+Link: https://hss.mnsu.edu/academic-programs/geography/graduate/geographic-information-science-gc/
+
+College of Humanities and Social Sciences
+Academic Programs
+Geography
+Graduate Programs
+Geographic Information Science (GISc), Graduate Certificate
+Geography Section
+Geography
+Geography Colloquia
+Geography Faculty and Staff
+Contact Geography
+Geographic Information Science (GC)
+The goal of the program is to educate students in Remote Sensing, Geographic Information System (GIS), Global Positioning System (GPS), geovisualization, geoanalytics, geospatial modeling, and various associated sciences. The program provides students the skills necessary to investigate spatio-temporal patterns that result from human-environmental interactions. Emphasis is on vector and raster based models in Geography, Social Sciences, Business, Physical and Environmental Sciences, Health, Engineering, Recreation, and Resource Management.  It is designed for students who want to acquire or advance their knowledge in the field of geospatial sciences, and for professionals who need these skills for their current careers. The primary objective of the certificate program is to provide necessary exposure to geospatial data, concepts, methods, tools, models, and programing knowledge so that students can evaluate geospatial issues and construct appropriate plans of action. The certificate provides background and training to enable students to enter careers in the public or private sectors, and to prepare them for higher study in geospatial sciences.
+Current Catalog Year
+2024-2025
+Degree
+Certificate
+Major /                                         Total Credits
+18 / 18
+Apply
+The courses in the GISc certificate introduce the main concepts and basic principles of geographic information systems and their use in spatial analysis and, information management.
+Gainful Employment Program Information
+The Minnesota State System makes available data for some of Minnesota State Mankato's undergraduate and graduate certificate programs. Information includes: program length, program costs, students borrowing money, licensure requirements, college scorecard and additional information.
+Program Report
+Course Number Updates:
+GEOG580 seminar classes are now GEOG582: GIS for Natural Resources & GEOG585: Programming for GIS.
+Program Requirements
+Degree Plan
+Program
+                                    Requirements
+Common Core
+GEOG 573
+Intermediate GIS
+4 credits
+Comprehensive examination of GIS for manipulation and analysis of spatially-referenced data, including data structure and organization, input and output problems, data management, and strategies for analytical work.
+Prerequisites:
+none
+GEOG 574
+Introduction to Remote Sensing
+4 credits
+This is an introductory course on theories and techniques of remote sensing. Focus will be placed on providing students with a general overview of the application of remote sensing to practical problems, and hands-on experiencee for image processing and analysis.
+Prerequisites:
+none
+GEOG 670
+Seminar in GIS
+3 credits
+Discussion and analysis of contemporary issues in the field of Geographic Techniques. Designed to allow in-depth focus on current problems/issues that geographers will encounter in their professional practice. Topics vary according to instructor.
+Prerequisites:
+none
+Restricted Electives
+Choose 7 Credit(s).
+GEOG 539
+Transportation Modeling & GIS
+4 credits
+Four major sets of ideas will be covered: (1) Introduction to Spatial Organization, (2) Network Analysis, (3) Allocation Methods, and (4) Urban Transportation. The emphasis is on these approaches to understanding the geography of transport by description, explanation, and normative or optimal methods.
+Prerequisites:
+none
+GEOG 571
+Digital Field Mapping with GPS
+4 credits
+This course will cover basic strategies for conducting field surveys and gathering from the real world data appropriate to mapping the earth's surface. Emphasis will be upon simple but reliable techniques, ranging from compass-and-pacing to global positioning systems (GPS).
+Prerequisites:
+none
+GEOG 575
+Open-Source GIS
+4 credits
+This course will introduce students to the fundamental knowledge and techniques of open-source GIS and geospatial data analysis. Students will learn the basic and advanced GIS functions in QGIS, a popular open-source GIS with advanced capabilities. The major topics that will be covered include open-source GIS data standards; working with projections and available GIS data; making maps in QGIS; spatial and attribute data query, editing, and manipulation; multi-criteria overlay analysis; raster image styling and analysis; 3D and terrain analysis; spatial pattern analysis; spatial interpolation; automating map creation and complex workflows using processing models; customize and extend QGIS.
+Prerequisites:
+none
+GEOG 576
+Spatial Statistics
+3 credits
+Descriptive statistics, probability, hypothesis testing, introduction to non-parametric statistics, correlation, introduction to regression analysis, spatial statistics and principles of data representation in graphs, tables and statistical results.
+Prerequisites:
+none
+GEOG 578
+Spatial Analysis with GIS
+3 credits
+Survey of theoretical frameworks for spatial analysis and geographic quantitative methods. Includes basic and advanced spatial analysis principles and methods for studying and examining spatial patterns. Designed to equip students with the knowledge and skills necessary for carrying our research projects that demand spatial point pattern analysis and analysis of areal units.
+Prerequisites:
+none
+GEOG 579
+GIS Practicum
+1-4 credits
+This offering will include supervised project work in raster-based and/or vector-based GIS, using problems and data drawn from local or regional agencies or other professional-level organizations with whom the Geography Department maintains a relationship. Students must have completed one of the prerequisite courses, or professional-level experience.
+Prerequisites:
+none
+GEOG 581
+GIS and Environmental Hazards
+3 credits
+This course teaches students to reconstruct past landscapes and identify environmental hazards related to historical land use using GIS and remote sensing software. Applications include the identification of hazardous waste sites, wetland drainage, bluff erosion and other environmental hazards relevant to local history research, environmental consulting, archaeology, resource management, real estate, planning and civil engineering. Students will learn to use and interpret historical air photos and maps, digital imagery and LiDAR in problem-solving contexts and to report research findings in effective written, graphic and verbal presentation formats used by government agencies and private consulting firms.
+Prerequisites:
+GEOG 373 and GEOG 673
+GEOG 582
+GIS for Natural Resources
+4 credits
+This course provides students as well as natural resource professionals the opportunity to develop knowledge of natural resources management based on GIS science. Detailed examples and discussions of GIS operations and analyses associated with managing natural resources are provided. Weekly labs and the final project will focus on various GIS applications in this field. For example, integrating GIS and remote sensing techniques for sustainable land development, conservation biology, forest, water, wetland, wildlife, and agriculture management. Students will also learn how to combine GIS concepts with GIS software skills and apply them to real-world natural resources management tasks.
+Prerequisites:
+none
+GEOG 583
+Cloud Mapping & Visualization
+4 credits
+In this course, instruction is provided on foundational knowledge related to cloud mapping and visualization of geographical data. In addition, primarily through ArcGIS Online cloud platform, students will be introduced to the concepts of Hosted Layers, Web Maps, Predominance Maps, Web Apps, Story Maps, Web AppBuilder, Widgets, Geodata Visualization, ArcGIS Arcade Expressions, Custom Pop-ups, 3D Mapping and Visualization, ArcGIS Scene Viewer, Visualize Temporal Change, Real-time Mapping, Mapping Internet of Things, Landsat Explorer, and Business Analyst. Cloud mapping and visualization theories and techniques are introduced through a combination of lectures, hands-on exercises, reading materials, and individual or team projects.
+Prerequisites:
+none
+GEOG 584
+Web GIS
+4 credits
+Foundational knowledge related to mapping and analysis of geospatial data using both open source and enterprise level Web Mapping and Web GIS platforms. Students will learn how to use HTML, CSS, JavaScript, Google Maps API, ArcGIS Online, and ArcGIS API for JavaScript to store, retrieve, manage, analyze, and display geographical information. Students will be introduced to the concepts of mobile GIS technologies and Web based 3D mapping.
+Prerequisites:
+none
+GEOG 585
+GIS Programming
+4 credits
+This is an introductory course of GIS programming. It consists of lecture and laboratory components covering fundamentals of GIS programming concepts and techniques, as well as hands-on practice with Model builder and Python supported by ESRI'S ArcGIS platforms.
+Prerequisites:
+none
+Degree Plan
+First Year
+Fall
+- 11 Credits
+GEOG 573
+Intermediate GIS
+4 credits
+Comprehensive examination of GIS for manipulation and analysis of spatially-referenced data, including data structure and organization, input and output problems, data management, and strategies for analytical work.
+Prerequisites:
+none
+GEOG 574
+Introduction to Remote Sensing
+4 credits
+This is an introductory course on theories and techniques of remote sensing. Focus will be placed on providing students with a general overview of the application of remote sensing to practical problems, and hands-on experiencee for image processing and analysis.
+Prerequisites:
+none
+GEOG 670
+Seminar in GIS
+3 credits
+Discussion and analysis of contemporary issues in the field of Geographic Techniques. Designed to allow in-depth focus on current problems/issues that geographers will encounter in their professional practice. Topics vary according to instructor.
+Prerequisites:
+none
+Spring
+- 7 CreditsInitial deposit: N/A
+
+
+Application Fee for Undergraduate: $ 20
+Application Fee for Postgraduate: $ 40
+
+
+Annual Fee for Undergraduate: $ 18,812
+Annual Fee for Postgraduate: $ 14,918
+
+
+English Language Requirements Undergraduate only:
+TOEFL iBT (internet-based test) score of 61 or better
+Pearson Test of English (PTE) score of 47 or better
+IELTS academic test score of 5.5 or better
+
+
+English Language Requirements Postgraduate only:
+Different for every course and given in course content 
+
+
+Entry Requirements Undergraduate only:
+A cumulative high school GPA of 3.0 or higher or A rank in the top 50% of your high school class or An ACT composite score of 21 or higher and a minimum cumulative high school GPA of 2.7. If you do not meet the above admission requirements, you can submit additional information to consider when reviewing your application.
+
+
+Entry Requirements Postgraduate only:
+Applicants must possess the equivalent of a U.S. Bachelor's degree to be considered for graduate programs at Minnesota State Mankato. The degree must be earned at an institution recognized and approved to award the degree. GRE (Graduate Record Examination) is required by some academic programs.
+
+English Language requirements of graduate programs is different for each course. Graduate programs only have IELTS and TOEFL test scores.
+For Graduate Entry Requirements, some requirements like GPA, Score are mentioned on the course page so add them too.

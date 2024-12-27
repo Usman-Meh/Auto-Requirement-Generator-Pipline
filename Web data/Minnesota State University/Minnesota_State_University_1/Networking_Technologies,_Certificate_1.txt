@@ -1,0 +1,94 @@
+Link: https://cset.mnsu.edu/academic-programs/computer-information-technology/networking-technologies-certificate/
+
+College of Science, Engineering & Technology
+Academic Programs
+Computer Information Technology
+Networking Technologies, Certificate
+Computer Information Technology Section
+Computer Information Technology
+Computer Information Technology, Bachelor of Science (BS)
+Computer Information Science, Minor
+Computer Technology, Minor
+Database Technologies, Minor
+International Technology, Minor
+Networking and Information Security, Minor
+Software Development, Minor
+Database Technologies, Certificate
+Information Security, Certificate
+Networking Technologies, Certificate
+Software Development, Certificate
+Computer Information Technology Faculty & Staff
+Networking Technologies (CERT)
+The Networking Technologies certificate provides students with the necessary knowledge in networking principles, administration, programming, security issues and practices so that they are able to apply them in real world organizational challenges and opportunities. The students completing this certificate program will understand and evaluate current and emerging networking and security technologies and assess their applicability to address the needs of individuals and organizations.
+The certificate may not be eligible for federal financial aid. Speak with the
+Campus Hub
+for details.
+Current Catalog Year
+2024-2025
+Degree
+Certificate
+Major /                                         Total Credits
+12 / 12
+Locations
+Mankato
+Apply
+Program Requirements
+Program
+                                    Requirements
+Prerequisites to the Major
+Prerequisites. Students planning to take CIS 462 must have basic knowledge of or experience in information security (equivalent of CIS 350). Students planning to take CIS 483 must have basic knowledge of or experience in databases (equivalent of CIS 340).
+Major Restricted Electives
+Choose 12 Credit(s).
+CIS 360
+Introduction to Networking
+4 credits
+This course covers basic concepts related to computer networking. Topics addressed will include the OSI model, the Internet model, network management, network protocols and data security. Prerequisite: a 3.0 or higher grade in IT 210 or an approved substitute is required.
+Prerequisites:
+CIS 121. Select 1: MATH 113, MATH 115, MATH 121. Or an approved substitute.
+CIS 460
+Network and Security Protocols
+4 credits
+Advanced coverage of data communication, networking and security protocols. Topics: data transmission methods, error detection and recovery, flow control, routing, security issues and performance analysis of existing and emerging protocols for secure communication. Fall, Spring
+Prerequisites:
+CIS 360
+CIS 462
+Network, Security, Administration and Programming
+4 credits
+Network and server systems administration. Domain administration; file system management; networked printers; user management; and workstation configuration. Network programming assignments/projects in Layered Software Systems, HTTP Server, UDP (TFTP or DNS), CGI program, IPV6, RPC/SCTP.Variable
+Prerequisites:
+CIS 360
+CIS 483
+Web Application Design and Development
+4 credits
+HTTP Protocol; Web-markup languages; Client-side, Server-side programming; Web services; Web servers; Emerging technologies; Security; Standards & Bodies; Web interface design techniques; User-centered design; Visual development environments and development tools; Interface design effectiveness. Fall, Spring
+Prerequisites:
+CIS 380Initial deposit: N/A
+
+
+Application Fee for Undergraduate: $ 20
+Application Fee for Postgraduate: $ 40
+
+
+Annual Fee for Undergraduate: $ 18,812
+Annual Fee for Postgraduate: $ 14,918
+
+
+English Language Requirements Undergraduate only:
+TOEFL iBT (internet-based test) score of 61 or better
+Pearson Test of English (PTE) score of 47 or better
+IELTS academic test score of 5.5 or better
+
+
+English Language Requirements Postgraduate only:
+Different for every course and given in course content 
+
+
+Entry Requirements Undergraduate only:
+A cumulative high school GPA of 3.0 or higher or A rank in the top 50% of your high school class or An ACT composite score of 21 or higher and a minimum cumulative high school GPA of 2.7. If you do not meet the above admission requirements, you can submit additional information to consider when reviewing your application.
+
+
+Entry Requirements Postgraduate only:
+Applicants must possess the equivalent of a U.S. Bachelor's degree to be considered for graduate programs at Minnesota State Mankato. The degree must be earned at an institution recognized and approved to award the degree. GRE (Graduate Record Examination) is required by some academic programs.
+
+English Language requirements of graduate programs is different for each course. Graduate programs only have IELTS and TOEFL test scores.
+For Graduate Entry Requirements, some requirements like GPA, Score are mentioned on the course page so add them too.

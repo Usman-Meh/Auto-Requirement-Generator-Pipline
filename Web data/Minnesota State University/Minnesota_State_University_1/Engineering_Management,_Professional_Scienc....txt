@@ -1,0 +1,218 @@
+Link: https://cset.mnsu.edu/academic-programs/manufacturing-engineering-technology/engineering-management-professional-science-masters-psm/
+
+College of Science, Engineering & Technology
+Academic Programs
+Manufacturing Engineering Technology
+Engineering Management, Professional Science Master's (PSM)
+Manufacturing Engineering Technology Section
+Manufacturing Engineering Technology
+Manufacturing Engineering Technology, Bachelor of Science (BS)
+Manufacturing Engineering Technology, Minor
+Manufacturing Engineering Technology, Master of Science (MS)
+Engineering Management, Professional Science Master's (PSM)
+Project Management, Graduate Certificate
+Quality Management Systems, Graduate Certificate
+Manufacturing Engineering Technology Faculty & Staff
+Engineering Management (PSM)
+The program is designed to prepare students with the scientific and technical training necessary to advance and excel in industry, while simultaneously developing highly valued business skills. The program is characterized by the "manufacturing-plus" curricula, combining rigorous graduate study in manufacturing with coursework in management, communication, and other professional skills that are in high demand. The program focuses on written and verbal communication skills, leadership, and team-building required in professional settings. Instead of a thesis, a collaborative research project is required. The program is recognized by the Commission on Affiliation of Professional Science Master's Programs (PSM Commission).
+Current Catalog Year
+2024-2025
+Degree
+Professional Science Master's
+Major /                                         Total Credits
+32 / 32
+Locations
+Mankato
+Edina
+Apply
+Program Requirements
+Program
+                                    Requirements
+Common Core
+ENG 675
+Technical Communication for STEM Professionals
+3 credits
+Technical communication course designed specifically for STEM industry professionals or students in PSM programs; emphasis on development of technical communication skills and expertise needed for business- and industry-specific documents and presentations for internal or external audiences.
+Prerequisites:
+none
+MET 525
+Project & Value Management
+3 credits
+A study of the optimal relationship between value and function of products and the cost and availability of resources. Topics include valuation, appraisal and capital budgeting, cost minimization, depreciation and economics worth, rates and rate bases, original and reproduction costs, and engineering economics.
+Prerequisites:
+none
+MET 528
+Lean Manufacturing
+3 credits
+Basics of Lean Manufacturing in industry, with emphasis on application of concepts. Students will learn the principles of Lean Manufacturing and how they can benefit a business.
+Prerequisites:
+none
+MET 625
+Advanced Project Management
+3 credits
+Advanced Project Management presents in-depth topics in the management process of prioritizing, planning, staffing, managing, and directing projects. Both people skills and advanced management tools will be addressed, along with advanced project evaluation techniques.
+Prerequisites:
+none
+MET 627
+Six Sigma from an Industrial Perspective
+3 credits
+Basics of Six Sigma from an industrial perspective. Emphasis is on practical application of concepts. Upon completion of course, the student will be familiar on a working level with Six Sigma tools leading to Green Belt certification level.
+Prerequisites:
+none
+Research/Methods Course(s)
+MET 654
+Design of Experiments
+3 credits
+This course emphasizes the following topics: Factorial designs, robust parameter design, Taguchi methods in Technology and product development, and other design and analysis topics.
+Prerequisites:
+none
+Restricted Electives
+MBA Electives
+- Choose 6 Credit(s).
+MBA 612
+Data Analysis and Statistics for Managers
+2 credits
+This course provides an understanding of the role of statistics related to the gathering and creation of information used in business decision making. Data analysis concepts covered include hypotheses testing, ANOVA, multiple regression, time series analysis, and chi-square tests.
+Prerequisites:
+none
+MBA 614
+Economic Analysis for Managers
+2 credits
+The course develops and integrates principles and ideas from economic and business and applies them to managerial decision making and policy formulation within a firm.
+Prerequisites:
+none
+MBA 642
+Management of Human Resources
+2 credits
+The course will cover a range of topics, including the strategic management of human resources, job analysis, hiring, performance appraisal, training and development, compensation, as well as labor relations.
+Prerequisites:
+none
+MBA 645
+Information Technology and Systems Management
+2 credits
+The MBA MIS course integrates contemporary technology concepts with an emphasis on the managerial aspects of information systems. A review of contemporary technology examines data management, analysis, modeling, and design, and data communications, and networking in the most recent generation of technology. Project and change management, and information systems policy and strategy emphasize the managerial aspects of information systems. Project and change management examines how systems and technologies are implemented. It includes consideration of project planning, scheduling, and budgeting, as well as consideration of the change management required to implement projects, MIS policy, and strategy examines the IS project portfolio from the view of the senior IS executive and from the view of the business executive. It shows students how policy and strategy considerations affect every aspects of IS and, conversely, how IT transforms organizations, and indeed, the very nature of business.
+Prerequisites:
+none
+MBA 651
+Managing Behavior in a Changing World
+2 credits
+This course will focus on an area of study that attempts to explain, predict, control, and increase understanding of human work behavior in organizations both in the U.S. and internationally. Using a variety of techniques, students will learn about the nature of people as well as how individual and group behavior is influenced by organizational factors. The intent is to use various theories and principles to help diagnose and solve organizational problems. The goal is to more effectively manage in today's environment so employees are engaging in ethical, creative, and productive behaviors on the job. Learning tools include some lecture/discussion active learning groups, original readings, exercises, projects, cases, library research and presentations.
+Prerequisites:
+none
+MBA 657
+Managing Service and Manufacturing Operations
+2 credits
+This course addresses the concepts, techniques, and technology necessary to manage and control operations in services and manufacturing. The emphasis is on operations strategy, project management, quality management, and supply chain management.
+Prerequisites:
+none
+MBA 667
+Organizational Development and Change
+2 credits
+This course is designed to provide students with the theory and practical applications to diagnose organizational problems and to develop appropriate interventions and solutions to those problems. Students also use theory to guide practice in designing and implementing successful organizational change. These activities require students to use research and data analysis skills to gather data to learn about organizations.
+Prerequisites:
+none
+Unrestricted Electives
+Manufacturing Electives
+- Choose 6 Credit(s).
+MET 507
+Manufacturing Resource Planning and Control
+3 credits
+Planning and control of plant resources in globally competitive manufacturing environments. Approaches to manufacturing problems related to design integration, production scheduling, staffing, plant layout, material flow, and inventory issues are examined.
+Prerequisites:
+none
+MET 523
+Ergonomics & Work Measurement
+3 credits
+Investigation of work place design and environmental stress from heat, noise, vibration, repetitive motion, and illumination in personal machine systems and human-machine interaction.
+Prerequisites:
+none
+MET 526
+Logistics & Transportation
+3 credits
+Fundamentals of logistics: control of materials, material handling, WIP, finished goods, costs of logistics. Theory and step-by-step procedures are used to analyze logistic systems, packaging and transportation, including global logistics.
+Prerequisites:
+none
+MET 527
+Quality Management Systems
+3 credits
+This course is focused on quality assurance systems, management philosophies, methodology, function and impact of quality systems in manufacturing operations. Development and application of statistical process control tools.
+Prerequisites:
+none
+MET 555
+Project and Value Management II
+3 credits
+This course covers replacement analysis, depreciation, income taxes, break even & risk analysis and capital budgeting during the life cycle of an engineering project. Advanced concepts in project management such as resource planning and project closure are also taught.
+Prerequisites:
+none
+MET 628
+Statistical Quality Control
+3 credits
+This course covers the statistical properties, acceptance sampling, as well as the design, implementation, and operation, of various statistical quality control schemes including those based on Shewhart, and cumulative sum control charts. Methods appropriate for conducting a capability study will also be covered. The role of quality in process improvement will be examined, as well as statistical models useful in quality control.
+Prerequisites:
+none
+MET 645
+Computer-Aided Engineering
+1-3 credits
+An advanced modeling course which emphasizes the study of Computer-Aided Engineering (CAE), related software and tools to support modeling, analysis, and simulation of mechanisms. Emphasis is on body, joint definition, static, kinematics, and dynamics analysis, and results visualization.
+Prerequisites:
+none
+MET 678
+Manufacturing Processes
+2 credits
+A study of modern manufacturing processes. The recent developments in manufacturing affect everyone in the factory, from the designers and manufacturing engines to the machine operators. New technologies, automation, the use of the computers in design, process control, and inspection create complex industrial or plant environment.
+Prerequisites:
+none
+MET 679
+Advanced Manufacturing Automation
+3 credits
+This course includes the following topics: Advanced CNC programming, computer-aided manufacturing (CAM), flexible automations, robotics, and programmable logic controllers. Extra lab time is required.
+Prerequisites:
+none
+MET 692
+Seminar: Manufacturing
+1-3 credits
+Selected manufacturing topics. May be repeated for credit with different topics, with advisor's approval.
+Prerequisites:
+none
+MET 697
+Internship: Industrial
+1-5 credits
+Manufacturing work experience in an area pertinent to the student's objective. Registration required prior to beginning employment.
+Prerequisites:
+none
+Capstone Course
+MET 698
+Professional Science Masters Capstone Experience
+2 credits
+An integral part of every Professional Science Masters degree, regardless of field, is the Capstone, develop a workforce project, produce a written report, and present it as an oral report.The capstone project is developed and supervised collaboratively by faculty and employers, and evaluated or graded by faculty with input from the employer. For a student who is not already employed, a semester-long internship with a private firm or public agency is established. The intent of the Capstone is to integrate the practical application of scientific and professional knowledge, behavior, and skills.
+Prerequisites:
+noneInitial deposit: N/A
+
+
+Application Fee for Undergraduate: $ 20
+Application Fee for Postgraduate: $ 40
+
+
+Annual Fee for Undergraduate: $ 18,812
+Annual Fee for Postgraduate: $ 14,918
+
+
+English Language Requirements Undergraduate only:
+TOEFL iBT (internet-based test) score of 61 or better
+Pearson Test of English (PTE) score of 47 or better
+IELTS academic test score of 5.5 or better
+
+
+English Language Requirements Postgraduate only:
+Different for every course and given in course content 
+
+
+Entry Requirements Undergraduate only:
+A cumulative high school GPA of 3.0 or higher or A rank in the top 50% of your high school class or An ACT composite score of 21 or higher and a minimum cumulative high school GPA of 2.7. If you do not meet the above admission requirements, you can submit additional information to consider when reviewing your application.
+
+
+Entry Requirements Postgraduate only:
+Applicants must possess the equivalent of a U.S. Bachelor's degree to be considered for graduate programs at Minnesota State Mankato. The degree must be earned at an institution recognized and approved to award the degree. GRE (Graduate Record Examination) is required by some academic programs.
+
+English Language requirements of graduate programs is different for each course. Graduate programs only have IELTS and TOEFL test scores.
+For Graduate Entry Requirements, some requirements like GPA, Score are mentioned on the course page so add them too.

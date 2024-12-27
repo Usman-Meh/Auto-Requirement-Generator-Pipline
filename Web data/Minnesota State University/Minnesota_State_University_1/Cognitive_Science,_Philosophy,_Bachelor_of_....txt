@@ -1,0 +1,503 @@
+Link: https://hss.mnsu.edu/academic-programs/cognitive-science/cognitive-science-bachelor-of-science-bs-philosophy/
+
+College of Humanities and Social Sciences
+Academic Programs
+Cognitive Science
+Cognitive Science, Bachelor of Science (BS) Philosophy
+Cognitive Science  Section
+Cognitive Science
+Cognitive Science, Bachelor of Science (BS) Biology
+Cognitive Science, Bachelor of Science (BS) Computer Science
+Cognitive Science, Bachelor of Science (BS) Philosophy
+Cognitive Science, Bachelor of Science (BS) Psychology
+Faculty and Staff
+Cognitive Science (BS)
+Philosophy
+The philosophy concentration for the Cognitive Science program aims to challenge students to think critically, while providing a framework of various schools of thought that have led to the prominent theories of today. Students can expect to discuss questions regarding human perception, thought, intentionality, truth, etc, in order to better understand human connections, individually and socially. Where is the line between perception and reality? Are our minds separate from our bodies? Students who complete the Philosophy concentration of the Cognitive Science program can go on to careers or graduate programs in any of the 4 respective areas. Philosophy students will be especially proficient in the ethical studies regarding the cognitive science field, along with the legal implications of new technologies.
+Current Catalog Year
+2024-2025
+Degree
+Bachelor of Science
+Major /                                         Total Credits
+71 / 120
+Locations
+Mankato
+Apply
+Program Requirements
+Degree Plan
+Program
+                                    Requirements
+Required General Education
+BIOL 105
+General Biology I
+4 credits
+Study of biological processes at the suborganismal level including cell chemistry, metabolism, reproduction, genetics, and complex tissue physiology. Laboratory and discussion sessions stress problem solving and experimental design.
+Prerequisites:
+none
+Goal Areas: GE-03
+MATH 121
+Calculus I
+4 credits
+Limits, continuity, the derivative and applications, transcendental functions, L'Hopital's Rule, and development of the Riemann integral.
+Prerequisites:
+Satisfy Placement Table in this section, MATH 115 or both MATH 112 and MATH 113 with "C" (2.0) or better.
+Goal Areas: GE-04
+Choose 5 Credit(s).
+CHEM 111
+Chemistry of Life Process Part II (Organic & Biochemistry)
+5 credits
+This course is an introduction to organic chemistry and biological chemistry. The laboratory will reinforce lecture.
+Prerequisites:
+CHEM 106 or high school chemistry
+Goal Areas: GE-02, GE-03
+CHEM 201
+General Chemistry I
+5 credits
+Introduction to the basic principles of chemistry including atomic and molecular structure, bonding, chemical reactions, stoichiometry, thermodynamics and states of matter. Laboratory will reinforce lecture concepts. Prereq: C or higher in MATH 112 or the equivalent; high school chemistry or C or higher in CHEM 104
+Prerequisites:
+"C" (2.0) or higher in MATH 112 or the equivalent; high school chemistry or "C" (2.0) or higher in CHEM 104.
+Goal Areas: GE-02, GE-03
+Prerequisites to the Major
+CIS 121
+Introduction to Programming
+4 credits
+This course provides conceptual and logical tools for students planning to major in a computing-based major. Programming in a high-level language such as C++, Python, or Java, and the development of skills in abstraction, problem-solving, and algorithmic thinking are emphasized.
+Prerequisites:
+MATH 112 or MATH 113 or MATH 115 or MATH 121
+PSYC 206
+Introduction to Cognitive Science
+4 credits
+This course introduces a multidisciplinary approach to the scientific study of cognition. Contributions from the fields of biology, computer science, neuroscience, philosophy, and psychology are emphasized. Topics include the mind-body problem, perception, memory, linguistics, problem solving, artificial intelligence, and robotics. This course is a prerequisite for the cognitive science major. For the psychology major, it serves as unrestricted elective credit; it does not satisfy the cognitive restricted elective requirement.
+Prerequisites:
+none
+Goal Areas: GE-05
+Choose 3 - 4 Credit(s).
+HLTH 475
+Biostatistics
+3 credits
+Introduction to statistical analysis as applied to the health sciences. Examines concepts and methods of statistical procedures applied to health problems and issues.
+Prerequisites:
+MATH 110, STAT 154, Or any other mathematics course higher than MATH 110.
+PSYC 201
+Statistics for Psychology
+4 credits
+This course emphasizes understanding the conceptual basis of common statistical procedures and applying those procedures to the problems of organizing information and making inferences from data. Topics include: summarizing data, the logic of inference, estimation, analysis of variance, and correlation.
+Prerequisites:
+Complete one course: MATH 112, MATH 113, MATH 115, MATH 121, MATH 130, or STAT 154
+STAT 154
+Elementary Statistics
+4 credits
+An introduction to statistical concepts and methods that is applicable to all disciplines. Topics include descriptive measures of data, probability and probability distributions, statistical inference, tests of hypotheses, confidence intervals, correlation, linear regression, and analysis of variance. The use of statistical software will be emphasized. Prereq: ACT Math sub-score of 19 or higher, successful completion of MATH 098 or appropriate placement scores (see Placement Information under Statistics) Fall, Spring, Summer GE-4
+Prerequisites:
+Satisfy Placement Table in this section, or MATH 098 with grade of P.
+Goal Areas: GE-02, GE-04
+STAT 354
+Concepts of Probability & Statistics
+4 credits
+A calculus based introduction to probability and statistics. Topics include probability, random variables, probability distributions (discrete and continuous), joint probability distributions (discrete and continuous), statistical inference (both estimation and hypothesis testing), confidence intervals for distribution of parameters and their functions, sample size determinations, analysis of variance, regression, and correlation. This course meets the needs of the practitioner and the person who plans further study in statistics. Same as MATH 354. Prereq: MATH 122 with C or better or consent Fall, Spring, Summer
+Prerequisites:
+MATH 122 with C or better or consent
+Major Common Core
+BIOL 324
+Neurobiology
+3 credits
+Basic anatomy and physiology of the nervous system. The course is designed for students majoring in biology, psychology or health related programs.
+Prerequisites:
+BIOL 220
+CIS 122
+Data Structures
+4 credits
+This course is a continuation of CIS 121. Students develop a basic knowledge of programming skills and object-oriented concepts, and use fundamental data structures such as lists, stacks, queues, and trees.
+Prerequisites:
+CIS 121. Select One Course: MATH 112, MATH 113, MATH 115, MATH 121, or MATH 130
+CS 230
+Introduction to Intelligent Systems
+4 credits
+Fundamentals of data mining and knowledge discovery. Methods include decision tree algorithms, association rule generators, neural networks, and web-based mining. Rule-based systems and intelligent agents are introduced. Students learn how to apply data-mining tools to real-world problems.
+Prerequisites:
+CIS 121
+PHIL 101W
+Philosophical Problem: The Mind-Body Problem
+3 credits
+This course considers historical and contemporary analyses of the mind in relation to the body and the connection of the mind-body problem to other issues concerning both religion and science.
+Prerequisites:
+none
+Goal Areas: GE-06
+PHIL 475
+Philosophical Issues in Cognitive Science
+3 credits
+This course examines the conceptual and philosophical complexities of efforts to understand the mind in science. Topics include the difference and similarities between humans and other animals, the nature of psychological explanation, and reductive strategies for explaining consciousness, intentionality and language. Fall
+Prerequisites:
+none
+PSYC 211W
+Research Methods and Design
+4 credits
+An introduction to the major components of research methodology in psychology. This is a writing intensive course and involves the processing, interpretation, and exposition of behavioral data.
+Prerequisites:
+Must have a minimum total cumulative GPA of 2.70 or instructor permission to enroll; PSYC 201
+PSYC 321
+Introduction to Brain and Behavior
+4 credits
+This course will introduce students to the relationship between the structure and function of the nervous system to the underlying biological processes of behavior.
+Prerequisites:
+PSYC 201
+PSYC 325
+Introduction to Cognitive Psychology
+4 credits
+Explores the scientific study of human cognition and provides students with broad coverage of the mental processes used to acquire, process, and retain knowledge. Students will examine basic concepts and research findings in topics of human cognition such as perception, attention, memory, reading, and problem solving. Concepts in Cognitive Psychology will be related to everyday behaviors and experiences.
+Prerequisites:
+either Psy 101 OR Psy 206, not both
+Anatomy & Physiology
+- Choose one sequence of two classes.
+A&P 1 & 2
+- Choose 8 Credit(s).
+BIOL 201
+Anatomy & Physiology I
+4 credits
+This course is designed for nursing and allied health sciences majors and will prepare them for advanced coursework in their majors. The course will focus on human anatomy and physiology with emphasis on the structure and function of the systems of the body. Special emphasis will be placed on cell structure and function, tissues, metabolism and major organ systems including the integumentary system, the skeletal system, joints, muscle and muscular system, and nervous system, and special senses. Lab included with dissection.
+Prerequisites:
+none
+BIOL 202
+Anatomy & Physiology II
+4 credits
+This course is designed for nursing and allied health sciences majors and will prepare them for advanced coursework in their majors. This course will focus on human anatomy and physiology with emphasis on the structure and function of the systems of the body. Special emphasis will be placed on cells, tissues, structure and function of major organ systems including endocrine, cardiovascular, lymphatic, immune, respiratory, digestive, urinary, and reproductive systems, and development. Lab included with dissection.
+Prerequisites:
+none
+Human Anatomy & Physiology
+- Choose 8 Credit(s).
+BIOL 325
+Principles of Human Anatomy
+4 credits
+Systems and regional approach to the structure of the human body. Primary emphasis on gross anatomy supported by 3-dimensional models and animal dissections, with additional emphasis on cell and tissue-level anatomy supported by histological examination. The course is designed for students majoring in biology programs. Lab included.
+Prerequisites:
+BIOL 105
+BIOL 330
+Principles of Human Physiology
+4 credits
+Principles of functions of human cells, organs, and systems with an emphasis on organ/system interactions. This course is designed for students majoring in biology, chemistry, or related sciences, and medically-related areas. Includes a laboratory with a research and medical emphasis.
+Prerequisites:
+BIOL 220, CHEM 104 or CHEM 106 or CHEM 111 or CHEM 201
+Major Restricted Electives
+In addition to the common core and elective courses, students will select one of the four core areas as their discipline of emphasis and complete 3-4 specialized courses in that area.
+Philosophy Electives
+- Choose 6 Credit(s).
+PHIL 311
+Symbolic Logic
+3 credits
+Study of the elements of first order symbolic logic, i.e., the propositional calculus and the predicate calculus, and its applications to ordinary language and mathematics.
+Prerequisites:
+none
+PHIL 410
+Philosophy of Language
+3 credits
+Theories of meaning, speech acts and semantics, relation of language to the world.
+Prerequisites:
+none
+PHIL 474
+Philosophy of the Mind
+3 credits
+The nature of consciousness, mind and body relations, freedom of action.
+Prerequisites:
+none
+PHIL 476
+Philosophy of Perception
+3 credits
+Cognitive and epistemic issues surrounding sensory perception, including the nature of perception, its immediate objects, and its ability to deliver knowledge of the world.
+Prerequisites:
+none
+PHIL 477
+Animal Minds
+3 credits
+Philosophical issues concerning the mental lives of non-human animals, with emphasis on consciousness, rationality, language, and implications for non-human animal ethics.
+Prerequisites:
+none
+PHIL 480
+Philosophy of Science
+3 credits
+Nature of explanations, causality, theoretical entities, and selected problems.
+Prerequisites:
+none
+PHIL 481
+Philosophy of Biology
+3 credits
+This course examines conceptual and philosophical issues in biology, the nature and scope of biological explanation and conflicts between evolutionary and religious explanations for the origin of life.
+Prerequisites:
+none
+Computer Science Electives
+- Choose 4 Credit(s). CS 435 and CS 470 may be repeated for credit.
+CIS 482
+Human Computer Interaction
+4 credits
+This course discusses concepts and techniques for design, development and evaluation of user interfaces. Students will learn the principles of interaction design, interaction styles, user-centered design, usability evaluation, input/output devices, design and analysis of controlled experiments and principles of perception and cognition used in building efficient and effective interfaces. Group project work.
+Prerequisites:
+MATH 121. Select one: STAT 154 or PSYC 201. Select one: CS 230 or CIS 380
+CS 303
+CS Core: Programming Languages
+2 credits
+This course introduces the foundational concepts of programming languages, including the principles of language design, language constructs, and comparison of major languages. Topics include formal methods of examining syntax and semantics of languages and lexical analysis of language components and constructs, and propositional and predicate calculi.
+Prerequisites:
+CIS 223, CIS 224, and admission to major.
+CS 435
+Topics in Intelligent Systems
+2 credits
+Study of theory and/or implementation topics related to intelligent systems such as Basic Search Strategies, Basic Knowledge Representation and Reasoning, Basic Machine Learning, Advanced Search, Advanced Representation and Reasoning, Reasoning Under Uncertainty, Agents, Natural Language Processing, Advanced Machine Learning, Robotics, and Perception and Computer Vision. Prerequisite: Admission to Major or Permission
+Prerequisites:
+none
+CS 470
+Topics in Human Computer Interaction
+2 credits
+Study of theory and/or implementation topics related to human computer interaction such as designing interaction, programming interactive systems, user-centered design and testing, new interactive technologies, collaboration & communication, statistical methods for HCI, human factors and security, design-oriented HCI, and mixed, augmented and virtual reality. This course builds on the use of modern compilers. Related topics covered include lexical scanning, parsing, type checking, code generation and translation, optimization, and compile-time and run-time support for modern programming languages.
+Prerequisites:
+Admission to major or permission.
+Emphasis Common Core
+PHIL 497
+Philosophy-Cognitive Science Thesis
+3 credits
+Restricted to Cognitive Science Majors in their final year.
+Prerequisites:
+none
+Senior Portfolio
+- Choose 1 Credit(s). Must be taken in final semester of the major
+PHIL 499
+Individual Study
+1-6 credits
+Individual study of a philosopher or problem.
+Prerequisites:
+none
+Emphasis Restricted Electives
+Choose 3 Credit(s). Courses may not double count in the major
+PHIL 410
+Philosophy of Language
+3 credits
+Theories of meaning, speech acts and semantics, relation of language to the world.
+Prerequisites:
+none
+PHIL 474
+Philosophy of the Mind
+3 credits
+The nature of consciousness, mind and body relations, freedom of action.
+Prerequisites:
+none
+PHIL 476
+Philosophy of Perception
+3 credits
+Cognitive and epistemic issues surrounding sensory perception, including the nature of perception, its immediate objects, and its ability to deliver knowledge of the world.
+Prerequisites:
+none
+PHIL 477
+Animal Minds
+3 credits
+Philosophical issues concerning the mental lives of non-human animals, with emphasis on consciousness, rationality, language, and implications for non-human animal ethics.
+Prerequisites:
+none
+PHIL 480
+Philosophy of Science
+3 credits
+Nature of explanations, causality, theoretical entities, and selected problems.
+Prerequisites:
+none
+PHIL 481
+Philosophy of Biology
+3 credits
+This course examines conceptual and philosophical issues in biology, the nature and scope of biological explanation and conflicts between evolutionary and religious explanations for the origin of life.
+Prerequisites:
+none
+Choose 6 Credit(s). Courses may not double count in the major
+PHIL 311
+Symbolic Logic
+3 credits
+Study of the elements of first order symbolic logic, i.e., the propositional calculus and the predicate calculus, and its applications to ordinary language and mathematics.
+Prerequisites:
+none
+PHIL 410
+Philosophy of Language
+3 credits
+Theories of meaning, speech acts and semantics, relation of language to the world.
+Prerequisites:
+none
+PHIL 420
+Epistemology
+3 credits
+Theories of knowledge and justification, skeptical attacks on the possibility of knowledge, and anti-skeptical defenses.
+Prerequisites:
+none
+PHIL 430
+Metaphysics
+3 credits
+An investigation of the most fundamental concepts of reality, including the nature of things, identity over time, modality, causation, free will, space and time, and universals and particulars.
+Prerequisites:
+none
+PHIL 437
+Contemporary Philosophy
+3 credits
+Major philosophers and philosophies of the late 20th Century.
+Prerequisites:
+none
+PHIL 455
+Existentialism & Phenomenology
+3 credits
+In-depth analysis of major European existentialists such as Kierkegaard, Heidegger, and Sartre.
+Prerequisites:
+none
+PHIL 474
+Philosophy of the Mind
+3 credits
+The nature of consciousness, mind and body relations, freedom of action.
+Prerequisites:
+none
+PHIL 476
+Philosophy of Perception
+3 credits
+Cognitive and epistemic issues surrounding sensory perception, including the nature of perception, its immediate objects, and its ability to deliver knowledge of the world.
+Prerequisites:
+none
+PHIL 477
+Animal Minds
+3 credits
+Philosophical issues concerning the mental lives of non-human animals, with emphasis on consciousness, rationality, language, and implications for non-human animal ethics.
+Prerequisites:
+none
+PHIL 480
+Philosophy of Science
+3 credits
+Nature of explanations, causality, theoretical entities, and selected problems.
+Prerequisites:
+none
+PHIL 481
+Philosophy of Biology
+3 credits
+This course examines conceptual and philosophical issues in biology, the nature and scope of biological explanation and conflicts between evolutionary and religious explanations for the origin of life.
+Prerequisites:
+none
+Degree Plan
+First Year
+Fall
+- 16 Credits
+BIOL 105
+General Biology I
+4 credits
+Study of biological processes at the suborganismal level including cell chemistry, metabolism, reproduction, genetics, and complex tissue physiology. Laboratory and discussion sessions stress problem solving and experimental design.
+Prerequisites:
+none
+Goal Areas: GE-03
+MATH 121
+Calculus I
+4 credits
+Limits, continuity, the derivative and applications, transcendental functions, L'Hopital's Rule, and development of the Riemann integral.
+Prerequisites:
+Satisfy Placement Table in this section, MATH 115 or both MATH 112 and MATH 113 with "C" (2.0) or better.
+Goal Areas: GE-04
+Spring
+- 15 Credits
+PHIL 101W
+Philosophical Problem: The Mind-Body Problem
+3 credits
+This course considers historical and contemporary analyses of the mind in relation to the body and the connection of the mind-body problem to other issues concerning both religion and science.
+Prerequisites:
+none
+Goal Areas: GE-06
+Second Year
+Fall
+- 15 Credits
+PSYC 206
+Introduction to Cognitive Science
+4 credits
+This course introduces a multidisciplinary approach to the scientific study of cognition. Contributions from the fields of biology, computer science, neuroscience, philosophy, and psychology are emphasized. Topics include the mind-body problem, perception, memory, linguistics, problem solving, artificial intelligence, and robotics. This course is a prerequisite for the cognitive science major. For the psychology major, it serves as unrestricted elective credit; it does not satisfy the cognitive restricted elective requirement.
+Prerequisites:
+none
+Goal Areas: GE-05
+Spring
+- 14 Credits
+PSYC 211W
+Research Methods and Design
+4 credits
+An introduction to the major components of research methodology in psychology. This is a writing intensive course and involves the processing, interpretation, and exposition of behavioral data.
+Prerequisites:
+Must have a minimum total cumulative GPA of 2.70 or instructor permission to enroll; PSYC 201
+BIOL 220
+Human Anatomy
+4 credits
+Systems approach to the structure of the human body. The course is designed for students majoring in biology or health related programs. Lab included.
+Prerequisites:
+none
+Third Year
+Fall
+- 15 Credits
+CS 230
+Introduction to Intelligent Systems
+4 credits
+Fundamentals of data mining and knowledge discovery. Methods include decision tree algorithms, association rule generators, neural networks, and web-based mining. Rule-based systems and intelligent agents are introduced. Students learn how to apply data-mining tools to real-world problems.
+Prerequisites:
+CIS 121
+PSYC 321
+Introduction to Brain and Behavior
+4 credits
+This course will introduce students to the relationship between the structure and function of the nervous system to the underlying biological processes of behavior.
+Prerequisites:
+PSYC 201
+BIOL 324
+Neurobiology
+3 credits
+Basic anatomy and physiology of the nervous system. The course is designed for students majoring in biology, psychology or health related programs.
+Prerequisites:
+BIOL 220
+Spring
+- 15 Credits
+PSYC 325
+Introduction to Cognitive Psychology
+4 credits
+Explores the scientific study of human cognition and provides students with broad coverage of the mental processes used to acquire, process, and retain knowledge. Students will examine basic concepts and research findings in topics of human cognition such as perception, attention, memory, reading, and problem solving. Concepts in Cognitive Psychology will be related to everyday behaviors and experiences.
+Prerequisites:
+either Psy 101 OR Psy 206, not both
+BIOL 330
+Principles of Human Physiology
+4 credits
+Principles of functions of human cells, organs, and systems with an emphasis on organ/system interactions. This course is designed for students majoring in biology, chemistry, or related sciences, and medically-related areas. Includes a laboratory with a research and medical emphasis.
+Prerequisites:
+BIOL 220, CHEM 104 or CHEM 106 or CHEM 111 or CHEM 201
+PHIL 475
+Philosophical Issues in Cognitive Science
+3 credits
+This course examines the conceptual and philosophical complexities of efforts to understand the mind in science. Topics include the difference and similarities between humans and other animals, the nature of psychological explanation, and reductive strategies for explaining consciousness, intentionality and language. Fall
+Prerequisites:
+none
+Fourth Year
+Fall
+- 15 Credits
+PHIL 497
+Philosophy-Cognitive Science Thesis
+3 credits
+Restricted to Cognitive Science Majors in their final year.
+Prerequisites:
+none
+Spring
+- 15 CreditsInitial deposit: N/A
+
+
+Application Fee for Undergraduate: $ 20
+Application Fee for Postgraduate: $ 40
+
+
+Annual Fee for Undergraduate: $ 18,812
+Annual Fee for Postgraduate: $ 14,918
+
+
+English Language Requirements Undergraduate only:
+TOEFL iBT (internet-based test) score of 61 or better
+Pearson Test of English (PTE) score of 47 or better
+IELTS academic test score of 5.5 or better
+
+
+English Language Requirements Postgraduate only:
+Different for every course and given in course content 
+
+
+Entry Requirements Undergraduate only:
+A cumulative high school GPA of 3.0 or higher or A rank in the top 50% of your high school class or An ACT composite score of 21 or higher and a minimum cumulative high school GPA of 2.7. If you do not meet the above admission requirements, you can submit additional information to consider when reviewing your application.
+
+
+Entry Requirements Postgraduate only:
+Applicants must possess the equivalent of a U.S. Bachelor's degree to be considered for graduate programs at Minnesota State Mankato. The degree must be earned at an institution recognized and approved to award the degree. GRE (Graduate Record Examination) is required by some academic programs.
+
+English Language requirements of graduate programs is different for each course. Graduate programs only have IELTS and TOEFL test scores.
+For Graduate Entry Requirements, some requirements like GPA, Score are mentioned on the course page so add them too.

@@ -1,0 +1,134 @@
+Link: https://www.unibo.it/en/study/second-cycle-degree/programme/2024/9205
+
+You are here:
+Home
+>
+Study
+>
+Second Cycle Degree
+>
+Degree programme
+Laurea Magistrale (Second cycle degree/Two year Master - 120 ECTS) in
+Telecommunications Engineering
+A.Y. 2024/2025
+|
+Cod. 9205
+Place of teaching
+Campus Bologna
+Language
+English
+Degree Programme Class
+LM-27 - Telecommunications engineering
+Type of access
+Open access with assessment of personal competencies
+International Programmes
+Delivered entirely in English, Double/Multiple degree
+NTNU  - NORWEGIAN UNIVERSITY OF SCIENCE AND TECNOLOGY
+,
+INSTITUT SUPERIEUR D'ELECTRONIQUE DE PARIS
+,
+TONGJI UNIVERSITY
+Why choose this programme
+What you will study
+Professional profiles
+Experiences abroad
+Why choose this programme
+Learn inter-disciplinary technologies and methodologies to play a strategic role in the pervasive ICT and Industry 4.0 realities.
+Get in touch with the latest research and developments in communication technologies, including 5G and beyond.
+Experience an International environment.
+Get in contact with telecommunication companies and trends.
+Spend one year in China, Norway or France to get a Double Degree.
+Professional profiles
+OCCUPATIONALPROFILE:
+Telecommunications Engineer
+FUNCTION INA PROFESSIONAL CONTEXT:
+The 2ndcycle degree programme in Telecommunications Engineering produces professionalfigures able to fill technical and technical-organisational roles in workingcontexts demanding the knowledge of methodological and operative aspects ofbasic sciences and engineering, also in advanced design and research contexts,privileging the specific aspects of telecommunications but without ignoringmore general areas of ICT.
+Second cyclegraduates are trained to work profitably in the design, development,engineering, production, operation and maintenance of telecommunicationssystems, as well as similar areas including those of the related Classes,throughout Europe and the world.
+The packageof learning activities provides graduates with specific skills that allow themto work effectively also in different professional areas, as systems analystsand/or designers in all fields of application in which telecommunicationstechnologies play an important role. The specific technical knowledge caneasily be integrated with other competencies (managerial, economic, legal,etc.).
+Theprogramme outlines three typical profiles of the telecommunications engineeringprofession:
+- Devicesand systems designer;
+- Networksand services designer;
+- Networkmanagement expert.
+The followingfunctions are inherent in the above professional profiles.
+TLC engineer- devices and systems designer:
+- Designshardware architecture, firmware, middleware or software;
+-Coordinates and manages the design of complex telecommunications systems;
+- Coordinatesand manages customer relations to define the system specifications;
+-Coordinates and manages the professional teams involved in the design andproduction of telecommunications systems;
+-Coordinates and manages all phases of product development.
+TLC engineer- networks and services designer:
+- Designshardware architecture, firmware, middleware or software;
+- Sizes andconfigures telecommunications networks;
+-Coordinates and manages the professional teams involved in the design andproduction of telecommunications network equipment;
+-Coordinates and manages all phases of network development.
+TLC engineer- network management expert:
+-Coordinates and manages customer relations to define the system specifications;
+-Coordinates and manages the professional teams involved in the design andproduction of telecommunications services;
+-Coordinates and manages all phases of network development.
+COMPETENCIESASSOCIATED TO THE FUNCTION:
+Thecompetencies required to perform the above functions are partiallydifferentiated for each of the three above-described profiles.
+TLC engineer- devices and systems designer:
+- Specificknowledge of telecommunications systems (technologies, standards, etc.),
+- Specificknowledge of low-level programming languages (c, embedded c, VHDL, etc.),
+- Specificknowledge of analysis and simulation tools, such as MATLAB, etc.,
+-Self-learning and lifelong learning competencies;
+- Strongtransversal communication and interpersonal skills;
+-Organisational, managerial and programming skills;
+- Stronginclination for inductive and experimental methods;
+- Strongsynthesis and analytical skills.
+TLC Engineer- networks and services designer:
+- Specificknowledge of telecommunications systems (technologies, standards, etc.),
+- Specificknowledge of high-level programming languages (Java, etc.),
+- Specificknowledge of network analysis and simulation tools, such as NS3, etc.,
+-Self-learning and lifelong learning competencies;
+- Strongtransversal communication and interpersonal skills;
+-Organisational, managerial and programming skills;
+- A goodbalance of inductive and deductive methods;
+- Strongsynthesis and analytical skills.
+TLC Engineer- network management expert:
+- Specialisttechnical and engineering skills;
+- Knowledgeof design management techniques;
+- Knowledgeof regulatory aspects;
+- Knowledgeof logistics and infrastructure aspects;
+-Self-learning and lifelong learning competencies;
+- Strongtransversal communication and interpersonal skills;
+- Organisational,managerial and work planning skills;
+- Stronganalytical skills.
+CAREEROPPORTUNITIES:
+The typicalfields of employment of TLC Engineering graduates are those relating to:
+- Innovationand production development,
+- Advanceddesign;
+- Planningand programming;
+- Managementof complex systems, both in a freelance capacity and in manufacturing andservices companies, as well as in public administrations.
+Graduatesmay seek employment in:
+- Companiesworking in the design and production of components, devices, systems andinfrastructures for the acquisition and transmission of information and theiruse in remote applications;
+-Manufacturing industries;
+- Companiesproviding telecommunications and remote sensing services;
+- Allproduction and operational sectors applying technologies and infrastructuresfor signal transmission and use in civil, industrial and information technologyfields;
+- Land, seaand air traffic control bodies;
+- Regulatorybodies;
+- Public andprivate research bodies and institutes, in charge of design, research,development. Among the career areas in particular are telecommunicationssystems managers, service providers, technical and sales offices andprofessional firms, authorities including ITU, ETSI, ENAV, national and internationalagencies (TLC, ASI, ESA Authority), industries producing remote measuring,remote control and remote monitoring systems. Access to public administrationpositions is competition-based.
+Theprogramme leads to qualifications in the following regulated professions:Computer Engineer.
+Access to further study
+It gives access to third cycle studies (Dottorato di ricerca/Scuole di specializzazione) and master courses of second degree.
+What you will study
+Course structure diagrams for students enrolled a.y. 2024-25
+Experiences abroad
+As part of the experiences abroad, the course offers the possibility of internships, participation in exchange programmes, and has 3 active double degree agreements with Norway, France, and China. These experiences offer direct contact with international realities, enriching the understanding of global dynamics and providing a concrete advantage in the international labour market
+When you can attend the degree programme
+27
+Nov
+2024
+Open Day
+ELECTRICAL, ELECTRONIC AND INFORMATION ENGINEERING AREA | Presentation of the International Master’s degree programmes
+Are you interested in this programme?
+For more details
+Degree programme website
+Contacts
+How to enrol
+Receive programme updates
+E-mail
+Send
+I have read the
+privacy policy
+and I consent to the processing of my personal data

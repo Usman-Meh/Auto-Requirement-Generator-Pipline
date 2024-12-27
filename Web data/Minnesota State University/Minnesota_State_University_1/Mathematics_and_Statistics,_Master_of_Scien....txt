@@ -1,0 +1,99 @@
+Link: https://cset.mnsu.edu/academic-programs/mathematics-and-statistics/mathematics-and-statistics-master-of-science-ms/
+
+College of Science, Engineering & Technology
+Academic Programs
+Mathematics and Statistics
+Mathematics and Statistics, Master of Science (MS)
+Mathematics and Statistics Section
+Mathematics and Statistics
+Applied Statistics, Master of Science (MS)
+Mathematics and Statistics, Master of Science (MS)
+Mathematics Education, Master of Science (MS)
+Mathematics, Master of Arts (MA)
+Mathematics and Statistics Faculty and Staff
+Mathematics and Statistics (MS)
+This program is designed to prepare students to pursue a Ph.D. program in either statistics or mathematics, or prepare students to work in business or industry.
+Current Catalog Year
+2024-2025
+Degree
+Master of Science
+Major /                                         Total Credits
+34 / 34
+Locations
+Mankato
+Apply
+Program Requirements
+Program
+                                    Requirements
+Common Core
+(0-16) credits
+MATH 517
+Real Analysis I
+4 credits
+The topology of Euclidean spaces, norms, classical inequalities, local and global properties of continuous functions, preservation of compactness and connectedness, sequences in Euclidean space and sequences of functions.
+Prerequisites:
+MATH 223 and MATH 290 with "C" (2.0) or better or consent.
+MATH 547
+Linear Algebra II
+3 credits
+An in-depth study of linear operators and their related spaces, dimension, rank, matrix representation of linear operators, special matrices, determinants, eigenvectors, and eigenvalues.
+Prerequisites:
+MATH 345 with "C" (2.0) or better or consent.
+MATH 570
+Numerical Analysis I
+4 credits
+This course provides an introduction to techniques and analysis involved with solving mathematical problems using technology. Topics included are errors in computation, solutions of linear and nonlinear equations, numerical differentiation and integration, and interpolation.
+Prerequisites:
+MATH 122 and MATH 247 with "C" (2.0) or better or consent.
+STAT 550
+Regression Analysis
+3 credits
+Simple and multiple regression, correlation, analysis of variance and covariance.
+Prerequisites:
+MATH 354 or STAT 354 or (MATH 455 or MATH 555) or (STAT 455 or STAT 555) with "C" (2.0) or better or consent.
+STAT 555
+Theory of Statistics I
+4 credits
+A mathematical approach to statistics with derivation of theoretical results and of basic techniques used in applications. Includes probability, continuous probability distributions, multivariate distributions, functions of random variables, central limit theorem, and statistical inference. Same as MATH 555.
+Prerequisites:
+MATH 223 with "C" (2.0) or better or consent.
+STAT 556
+Theory of Statistics II
+4 credits
+A mathematical approach to statistics with derivation of theoretical results and of basic techniques used in applications, including sufficient statistics, additional statistical inference, theory of statistical tests, inferences about normal models, and nonparametric methods. Same as MATH 556.
+Prerequisites:
+(MATH 455 or MATH 555) or (STAT 455 or STAT 555) with "C" (2.0) or better or consent.
+A Common Core requirement is waived if credit has been received for an equivalent course with grade of C or better at the undergraduate or graduate levels. Up to, and including, 16 credit hours of Common Core courses taken at the graduate level can be applied to a student's program. All Common Core courses, or their equivalents, must be completed before graduation. College of Graduate Study and Research Transfer policy applies.
+Unrestricted Electives
+A minimum of 6 credits of 600 level Mathematics and a minimum of 6 credits of 600 level statistics. Advisor approval is required.
+Other Graduation Requirements
+Thesis or Alternate Plan Paper: (1-4 credits) Math 694 Alternate Plan Paper (1-2) Math 699 Thesis (1-4) Comprehensive Exam: Four courses, two chosen from MATH 517, MATH 547 and MATH 570, and two chosen from STAT 550, STAT 555, STAT 556. Advisor approval is required.Initial deposit: N/A
+
+
+Application Fee for Undergraduate: $ 20
+Application Fee for Postgraduate: $ 40
+
+
+Annual Fee for Undergraduate: $ 18,812
+Annual Fee for Postgraduate: $ 14,918
+
+
+English Language Requirements Undergraduate only:
+TOEFL iBT (internet-based test) score of 61 or better
+Pearson Test of English (PTE) score of 47 or better
+IELTS academic test score of 5.5 or better
+
+
+English Language Requirements Postgraduate only:
+Different for every course and given in course content 
+
+
+Entry Requirements Undergraduate only:
+A cumulative high school GPA of 3.0 or higher or A rank in the top 50% of your high school class or An ACT composite score of 21 or higher and a minimum cumulative high school GPA of 2.7. If you do not meet the above admission requirements, you can submit additional information to consider when reviewing your application.
+
+
+Entry Requirements Postgraduate only:
+Applicants must possess the equivalent of a U.S. Bachelor's degree to be considered for graduate programs at Minnesota State Mankato. The degree must be earned at an institution recognized and approved to award the degree. GRE (Graduate Record Examination) is required by some academic programs.
+
+English Language requirements of graduate programs is different for each course. Graduate programs only have IELTS and TOEFL test scores.
+For Graduate Entry Requirements, some requirements like GPA, Score are mentioned on the course page so add them too.

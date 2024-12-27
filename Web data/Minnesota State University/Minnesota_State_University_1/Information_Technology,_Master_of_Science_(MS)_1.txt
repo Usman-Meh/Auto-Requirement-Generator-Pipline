@@ -1,0 +1,255 @@
+Link: https://cset.mnsu.edu/academic-programs/information-technology/information-technology-master-of-science-ms/
+
+College of Science, Engineering & Technology
+Academic Programs
+Master of Science in Information Technology
+Information Technology, Master of Science (MS)
+Master of Science in Information Technology Section
+Master of Science in Information Technology
+Information Security and Risk Management, Professional Science Master's (PSM)
+Information Technology, Master of Science (MS)
+Data Science, Master of Science (MS)
+Cyber Risk Analysis, Graduate Certificate
+Database Technology, Graduate Certificate
+Information Technology Faculty & Staff
+Information Technology (MS)
+Thesis Plan – 32 credits
+Alternate Plan Paper – 34 credits
+Coursework Plan – 36 credits
+Current Catalog Year
+2024-2025
+Degree
+Master of Science
+Major /                                         Total Credits
+32 / 32
+Locations
+Mankato
+Apply
+Program Requirements
+Program
+                                    Requirements
+Research/Methods Course(s)
+CIS 600
+Research Methods
+3 credits
+Research methodology in general and in computer science. Data and research sources. Analysis of existing research. Preliminary planning and proposals. Conceptualization, design, and interpretation of research. Good reporting. Same as CS 600. Pre-req: An elementary statistics course.
+Prerequisites:
+none
+Restricted Electives
+Choose 10 Credit(s).
+CIS 602
+Research Seminar
+1 credits
+Students attend seminar presentations and present a research topic at one of the seminars. Same as CS 602. Pre-req: consent
+Prerequisites:
+none
+CIS 640
+Advanced Database Systems
+3 credits
+In-depth study of advanced topics such as object-oriented databases, intelligent database systems, parallel databases, database mining and warehousing, distributed database design and query processing, multi-database integration and interoperability, and multilevel secure systems.
+Prerequisites:
+none
+CIS 641
+Big Data Systems
+3 credits
+In this course, students will design and implement distributed big data architecture. The architecture consists integration of homogenous and heterogeneous databases and other structured and unstructured data sources. Students will apply concepts of distributed recovery and optimization, and other related topics.
+Prerequisites:
+none
+CIS 662
+Data Communications and Networking
+3 credits
+This course will focus on research, design, and analysis of computer networks and data communications systems. The course will also entail detailed examination of modern communication standards, protocol systems and their implementation. Additional topics may include transmission technology, packet switching, routing, flow control, and protocols. Same as CS 662. Pre-req: IT 562 or 564
+Prerequisites:
+none
+CIS 680
+Software Engineering Project
+3 credits
+Advanced software design, analysis, and development techniques under realistic time and budget constraints. Hands-on project management techniques. Emphasis of concepts through immersion in a team project of significant size. Same as CS 680. Pre-req: IT 580
+Prerequisites:
+none
+Specialization
+- Choose a minimum of 8 credits from any one of the following groups:
+Database Technologies
+CIS 540
+Database Management Systems
+4 credits
+Extensive coverage of SQL, database programming, large scale data modeling, and database enhancement through reverse engineering. This course also covers theoretical concepts of query processing, and optimization, basic understanding of concurrency control and recovery, and database security and integrity in centralized/distributed environments. Team-oriented projects in a heterogeneous client server environment.
+Prerequisites:
+none
+CIS 542
+Database Security, Auditing, and Disaster Recovery
+4 credits
+This course provides science and study of methods of protecting data, and designing disaster recovery strategy. Secure database design, data integrity, secure architectures, secure transaction processing, information flow controls, inference controls, and auditing. Security models for relational and object-oriented databases. Pre: With permission by instructor.
+Prerequisites:
+none
+CIS 544
+Data Analytics
+4 credits
+The course explores big data in structured and unstructured data sources. Emphasis is placed on big data strategies, techniques and evaluation methods. Various data analytics are covered. Students experiment with big data through big data analytics, data mining, and data warehousing tools.
+Prerequisites:
+none
+CIS 583
+Web Applications and User Interface Design
+4 credits
+HTTP Protocol; Presentation abstractions; Web-markup languages; Client-side programming; Server-side programming; Web services; Web servers; Emerging technologies; Security; Standards & Standard Bodies; Techniques for web interface design; User-centered design; Visual development environments and development tools; Measure the effectiveness of interface design. Pre: With permission by the instructor.
+Prerequisites:
+none
+Networking and Information Security
+CIS 540
+Database Management Systems
+4 credits
+Extensive coverage of SQL, database programming, large scale data modeling, and database enhancement through reverse engineering. This course also covers theoretical concepts of query processing, and optimization, basic understanding of concurrency control and recovery, and database security and integrity in centralized/distributed environments. Team-oriented projects in a heterogeneous client server environment.
+Prerequisites:
+none
+CIS 542
+Database Security, Auditing, and Disaster Recovery
+4 credits
+This course provides science and study of methods of protecting data, and designing disaster recovery strategy. Secure database design, data integrity, secure architectures, secure transaction processing, information flow controls, inference controls, and auditing. Security models for relational and object-oriented databases. Pre: With permission by instructor.
+Prerequisites:
+none
+CIS 550
+Information Warfare
+4 credits
+The course includes information warfare principles and technologies. The key areas are: Information warfare concepts; Protocols, Authentication, and Encryption; Network attach techniques, methodologies, and tools; Network defense; Malware: trojans, worms, viruses, and malicious code; Electronic crimes and digital evidence. Pre: With permission by the instructor.
+Prerequisites:
+none
+CIS 560
+Network and Security Protocols
+4 credits
+Advanced coverage of data communication, networking and security protocols. Topics include: data transmission methods, error detection and recovery, flow control, routing, data throughput, security issues, and performance analysis of existing and emerging protocols for secure communication between the many points within a computer network and across the internet. Pre: With permission by the instructor.
+Prerequisites:
+none
+CIS 562
+Network Administration and Programming
+4 credits
+Network and server systems administration include: domain administration; file system management; networked printers; user management; and workstation configuration. Network programming experience will be gained through programming assignments/projects in Layered Software Systems, HTTP Server, UDP (TFTP or DNS), CGI program, IPV6, RPC/SCTP. Pre: With permission by the instructor.
+Prerequisites:
+none
+CIS 564
+Applications of Wireless and Mobile Networks
+4 credits
+This course provides an understanding of existing and emerging mobile and wireless data networks, with an emphasis on digital data communications. Students will gain an understanding of the unique considerations that must be given to network protocols for wireless and mobile communication as well as their applications. Pre: With permission by the instructor.
+Prerequisites:
+none
+CIS 583
+Web Applications and User Interface Design
+4 credits
+HTTP Protocol; Presentation abstractions; Web-markup languages; Client-side programming; Server-side programming; Web services; Web servers; Emerging technologies; Security; Standards & Standard Bodies; Techniques for web interface design; User-centered design; Visual development environments and development tools; Measure the effectiveness of interface design. Pre: With permission by the instructor.
+Prerequisites:
+none
+Software Development
+CIS 514
+Advanced Object-Oriented Programming with Design Patterns
+4 credits
+This course endeavors to provide the student with a solid understanding of the principles, techniques and tools involved in advanced object-oriented programming as it is practiced in enterprise industries. The successful student should have a distinct advantage in the marketplace. Pre: With permission by the instructor.
+Prerequisites:
+none
+CIS 580
+Software Quality Assurance and Testing
+4 credits
+Topics include software quality assurance, software quality metrics, software configuration management, software verification and validation, reviews, inspections, and software process improvement models, functional and structural testing models.
+Prerequisites:
+none
+CIS 582
+Human Computer Interaction
+4 credits
+This course discusses concepts and techniques for design, development and evaluation of user interfaces. Students will learn the principles of interaction design, interaction styles, user-centered design, usability evaluation, input/output devices, design and analysis of controlled experiments and principles of perception and cognition used in building efficient and effective interfaces. Group project work.
+Prerequisites:
+none
+CIS 583
+Web Applications and User Interface Design
+4 credits
+HTTP Protocol; Presentation abstractions; Web-markup languages; Client-side programming; Server-side programming; Web services; Web servers; Emerging technologies; Security; Standards & Standard Bodies; Techniques for web interface design; User-centered design; Visual development environments and development tools; Measure the effectiveness of interface design. Pre: With permission by the instructor.
+Prerequisites:
+none
+CIS 584
+Software Engineering
+4 credits
+An introduction to all important aspects of software engineering. The emphasis is on principles of software engineering including project planning, requirements gathering, size and cost estimation, analysis, design, coding, testing, implementation, and maintenance. Group project work.
+Prerequisites:
+none
+Unrestricted Electives
+Broad Electives
+- Choose credits in any combination from the following or above to satisfy the total credit requirement for the Information Technology MS.
+600–level courses from the following list:
+CIS 601
+Research Topics
+3 credits
+Special topics in computer science research not covered in other courses. May be repeated for credit on each new topic.
+Prerequisites:
+none
+CIS 630
+Advanced Artificial Intelligence Systems
+3 credits
+This course is a continuation of Artificial Intelligence (IT 530). Emphasis is placed on advanced topics and the major areas of current research within the field. Theoretical and practical issues involved with developing large-scale systems are covered. Same as CS 630. Pre-req: IT 530
+Prerequisites:
+CIS 518
+CIS 631
+Machine Learning
+3 credits
+The design of large-scale, knowledge¿based data mining. Emphasis on concepts and application of machine learning using big data. Examination of knowledge representation techniques and problem¿solving methods used to design knowledge¿based systems. Pre-req: instructor permission required
+Prerequisites:
+CIS 518
+CIS 677
+Individual Study
+1-4 credits
+Problems on an individual basis. Pre-req: consent
+Prerequisites:
+none
+CIS 690
+Statistical Inference Packages
+3 credits
+Statistical package programs used in data collection, transformation, organization, summarization, interpretation and reporting, statistical description and hypothesis testing with statistical inference. Interpreting outputs, Chi-square, correlation, regression, analysis of variance, nonparametrics, and other designs. Accessing and using large files (U.S.Census data, National Health Survey, etc.). Same as CS 690. Pre-req: a statistics course
+Prerequisites:
+CIS 518
+Any other 500–level courses from the Computer Information Science Department
+Up to 8 credits of 5/600-level nondepartmental courses in consultation with the advisor (Max. 4 credits at 500-level from nondepartmental sources)
+Capstone Course
+Choose one option
+CIS 694
+Alternate Plan Paper
+1-2 credits
+Preparation of a master's degree alternate plan paper under the direction of the student's graduate advisor. Pre-req: consent
+Prerequisites:
+none
+CIS 697
+Internship
+1-12 credits
+Provides students with opportunity to utilize their training in a real-world business environment working under the guidance and direction of a faculty member. (A maximum of 4 credits apply toward a degree in this department.) Pre: consent Fall, Spring, Summer
+Prerequisites:
+none
+CIS 699
+Thesis
+1-6 credits
+Preparation of a master's degree thesis under the direction of the student's graduate advisor. Pre-req: consent
+Prerequisites:
+noneInitial deposit: N/A
+
+
+Application Fee for Undergraduate: $ 20
+Application Fee for Postgraduate: $ 40
+
+
+Annual Fee for Undergraduate: $ 18,812
+Annual Fee for Postgraduate: $ 14,918
+
+
+English Language Requirements Undergraduate only:
+TOEFL iBT (internet-based test) score of 61 or better
+Pearson Test of English (PTE) score of 47 or better
+IELTS academic test score of 5.5 or better
+
+
+English Language Requirements Postgraduate only:
+Different for every course and given in course content 
+
+
+Entry Requirements Undergraduate only:
+A cumulative high school GPA of 3.0 or higher or A rank in the top 50% of your high school class or An ACT composite score of 21 or higher and a minimum cumulative high school GPA of 2.7. If you do not meet the above admission requirements, you can submit additional information to consider when reviewing your application.
+
+
+Entry Requirements Postgraduate only:
+Applicants must possess the equivalent of a U.S. Bachelor's degree to be considered for graduate programs at Minnesota State Mankato. The degree must be earned at an institution recognized and approved to award the degree. GRE (Graduate Record Examination) is required by some academic programs.
+
+English Language requirements of graduate programs is different for each course. Graduate programs only have IELTS and TOEFL test scores.
+For Graduate Entry Requirements, some requirements like GPA, Score are mentioned on the course page so add them too.

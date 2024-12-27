@@ -1,0 +1,199 @@
+Link: https://uel.unipd.it/en/masters/giscience-giscience-and-remote-piloting-systems-for-integrated-territorial-and-natural-resource-management/
+
+Skip to content
+Second level university master
+GIScience
+GIScience and Remote Piloting Systems for Integrated Territorial and Natural Resource Management
+Home
+>
+Master e corsi
+>
+Second level university master
+>
+GIScience - GIScience and Remote Piloting Systems for Integrated Territorial and Natural Resource Management
+Home
+>
+Master e corsi
+>
+Second level university master
+>
+GIScience - GIScience and Remote Piloting Systems for Integrated Territorial and Natural Resource Management
+The
+Second-level Short Specialisation Degree
+in GIScience and Remote Piloting Systems for Integrated Territorial and Natural Resource Management
+prepares the new GIScience professionals on different profiles, capable of:
+using interdisciplinary approaches, technological solutions and geographic information for complex territorial cases;
+acquiring, representing and analysing geographic data to spread their expert use in complex decision-making processes;
+managing the technological transformation to support GIScience and identify solutions for companies, public institutions and populations.
+The purpose of the Master is responding to the increased availability of geographic information and to the development of new geographic data management technologies (drones, WebGIS, mobile-GIS), which require to
+update, reorganize, and process decision-making processes
+within public, private and non-profit framework, in light of the fact that about 80% of the data available and of collective and personal decisions are related to the territory.
+Educational content
+The course units of the
+Second-level Short Specialisation Degree
+in GIScience and Remote Piloting Systems for Integrated Territorial and Natural Resource Management
+are organized in 7 specializations (1 in-person and 6 remote), and combine synchronous remote and in-person
+video-lessons
+, through a
+situational learning
+approach, alternating the lessons with practical examples and trials, visits and on-field activities.
+Starting from the basics, the course provides specific competencies in GIScience, cartography, mobile-GIS, reference systems, GIS software and geographic data formats, territorial interpretation, technical/professional instruments, geodatabases and related IT languages, satellite and drone remote sensing, WebGIS, remote piloting systems, participatory GIS and geo-computer science.
+The first part of the Master provides
+common knowledge
+required for a complete geographic background and for specific competencies. The course starts with human and physical geography and with cartography, and then ranges in the fields of territorial understanding. It expands on
+GIScience
+in the strict sense, followed by
+specialization-related topics
+, which provide specific competencies for the different professional profiles.
+Course target and career opportunities
+The
+Second-level Short Specialisation Degree
+in GIScience and Remote Piloting Systems for Integrated Territorial and Natural Resource Management
+is addressed to recent graduates, public and private officers and technicians, freelancers interested in acquiring an advanced education and scientific specialization, more and more requested by public institutions, private and non-profit organizations, which have to deal with the increased availability of geographic data and the rapid development of new geographic data management technologies (drones, WebGIS, mobile-GIS).
+The Master forms the following
+GIScience professional profiles
+:
+Geographic Information Manager;
+Geographic Information Officer;
+Geographic Knowledge Enabler
+Geographic Information Specialist;
+GeoData Analyst.
+Course program
+The
+Second-level Short Specialisation Degree
+in GIScience and Remote Piloting Systems for Integrated Territorial and Natural Resource Management
+is divided into two main sections:
+Common subjects
+: during the first part of the course (November-February), attendees will build the place/people/pixel background required to develop the necessary competencies. Through a reasoned journey that sets off from the general characteristics of the Earth’s surface, up to the specific modules in the GIScience field.
+Specialization subjects
+: the second part (March-July) will be dedicated to specialist topics, with the option of choosing between 7 specializations:
+Geo-information production and management
+(in-person)
+: it forms professional figures expert in assessing and managing the existing territorial information and in planning the necessary actions to acquire new data, by defining the best technologies (and focusing on the role of remote piloting systems in particular), based on the organizational needs and the intervention.
+GIScience to manage environmental conflicts and participation in public decisions
+(remote)
+: it trains versatile professional figures, expert in managing inclusive decision-making processes and localized environmental conflicts, within a framework of a sustainable territorial population, as set forth by the Aarhus Convention and the related European and national environmental policies.
+Cartography and GIS for green infrastructures
+(remote)
+: it trains versatile professional figures, expert in designing green (and blue) infrastructures, within a framework of integrated European biodiversity conservation and climate change fighting policies.
+Geo-information and new technologies for sustainable agriculture
+(remote)
+: it trains versatile professional figures, expert in dealing with geo-information and the related technologies, to improve environmental farming performance and the diffusion of sustainable farming practices.
+Geo-technologies and geo-information in territorial planning
+(remote)
+: it trains versatile professional figures, expert in the use of new geographic information technologies and in managing and governing the territory.
+Design and management of territorial data infrastructures and GIS development to protect and manage the territory
+(remote)
+: it trains versatile professional figures, expert in designing and managing territorial data infrastructures, webgis, GIS development.
+GIScience and Geo-computer science
+(remote)
+:
+it trains versatile professional figures, expert in geo-information and geo-computer science. It prepares GIScience professionals, with solid knowledge in Python programming, management and development of territory-related projects, spatial data management, and WebGIS system production.
+Departments
+The Master involves 5 different departments of the University of Padua:
+Civil, Construction and Environmental Engineering – ICEA (coordinating department)
+Geosciences Department
+Historical, Geographical and Antiquity Sciences – DISSGEA
+Agronomy, Animals, Food, Natural Resources and Environment Department – DAFNAE
+Territory and Agro-Forestry Systems Department – TESAF
+Stage and project work
+The Master is especially active in contacts with institutions and companies, to define stage agreements. As of today, the Master has over 50 partnerships with institutions and companies working in the GIScience field. Furthermore, attendees can suggest stage partnerships with players they have already work with or will work in the future; the Master’s administrative office will assess the consistency and relevance of the activities, together with the attendee.
+Every year, the GIScience Master’s Team expands its agreement and partnership base with new organizations and companies.
+Attendees can develop their project works with one of the professors belonging to the five Master’s departments: DICEA, Geosciences, DISSGEA, DAFNAE, TESAF.
+The Master will include practice and on-site labs, with use of Remote Piloting Systems.
+Forms of facilitations and prizes
+If more than 20 students are enrolled,  2 prizes of €1,000.00 each will be awarded. Prizes will be awarded based on two criteria:
+– attendance;
+– evaluation of the final dissertation.
+Other forms of facilitation: attendees will be provided with an ArcGIS license – student edition – for one year, with open access webgis platforms and with the open access platform to manage the drone results’ photogrammetry.
+Events
+The Second-level Short Specialisation Degree in GIScience and Remotely Piloted Systems for Integrated Land and Natural Resources Management is organising 2 online Open Days.
+The Open Days will be held through the ZOOM platform, for information on the dates and to participate, consult the following link
+https://mastergiscience.it/open-day-i-giovedi-del-master-in-giscience-e-spr/
+.
+These appointments are opportunities to meet and exchange information for anyone who would like to receive more details or would like to ask questions or clarify doubts. During the Open Days, there will be the opportunity to talk with the Director of the Master’s Degree Course, Prof. Massimo De Marchi, with the Vice-Director of the Master’s Degree Course and Head of Internships and Project Work, Prof. Salvatore Pappalardo, and with some of the lecturers of the Organising Committee.
+The GIScience and Remote Piloting System Master’s Team is especially active on the territory. Every year, it holds scientific and socio-cultural diffusion events, on GIScience and Remote Piloting System topics, with the purpose of spreading a culture of an open, shared and accessible culture of geographic information.
+Our events are always free and include specific recurring moments: Estate GIS (June-September), Festival Drone for good (September); Notte della ricerca (September); Geo November (November); GIS Day (November); Notte della geografia (April).
+General ranking of merit
+The general ranking of merit will be published on the Italian page of this Master according to the timing provided in the Call.
+Information
+Thematic area:
+Scientific innovation
+End of classes:
+30/09/2023
+Mandatory attendance:
+70%
+Minimum available spots:
+10
+Maximum available spots:
+42
+First instalment:
+€
+									2.682,50
+Second instalment:
+€
+									1.140,00
+Selection process notice
+Website
+Find the admission titles in the selection notice 24/25.
+FAQ
+How will the teaching be organized?
+The course includes 304 hours of lessons, 646 hours of individual study, and 550 hours of stage, for a total of 1500 hours. The Master includes 20 UFC of common subjects, 18 UFC of specialization subjects, 18 UFC of stage and 4 UFC of final dissertation. The training activity is completed by a stage and a project work. The stage can be done at one of the Departments or at affiliated organizations and companies. Alternatively to the stage it will be possible to draft a project work to be agreed with the Direction.
+What is the last date to graduate (Second-level Short Specialisation Degree) in order to access the Master's Course?
+All applicants to the
+Second-level Short Specialisation Degree
+in GIScience and Remote Piloting Systems
+must graduate (Master’s Degree) before the Master’s lessons start.
+What is the difference between the in-person specialization and the remote ones? What is the attendance requirement?
+For all specializations, the first part including the common subjects will be provided in blended mode, with synchronous remote video-conferences and 3 in-person weekends (Friday and Saturday). All lessons require the presence of attendees online and will be provided through the Zoom platform. Once the specialization lessons start, specialization 1 (in-person) will continue to follow synchronous lessons (Zoom). While remote specializations will follow the video-lessons through the University’s Moodle platform.
+The attendance percentage to be met is 70% (calculated on the total number of lessons: both in-person, synchronous and asynchronous).
+If I can't attend all the courses during the academic year, can I rewatch the contents provided?
+The
+Second-level Short Specialisation Degree
+in GIScience and Remote Piloting Systems
+makes all the lessons available to attendees through the University’s Moodle platform, with the option of rewatching the content for another 2 years (following the year of attendance).
+Attendance (both in in-person and remote mode) will be calculated only based on the courses followed during the academic year.
+Where can I find more information?
+You can see all subjects at the following link, by clicking on each specialization: https://www.mastergiscience.it/il-master/cose-il-master/
+Classes start:
+10/11/2023
+Duration:
+One-year
+Venue:
+Padua
+Language:
+Italian
+ECTS:
+60
+Teaching method:
+blended
+Total enrolment fee:
+€
+							3.822,50
+Pre-enrolment deadline:
+06/10/2023
+Management
+Prof. Massimo De Marchi
+Administrative Office
+Contact Person:
+Giuseppe Della Frera
+Phone:
+www.mastergiscience.it/
+Email:
+mastergiscience.dicea@unipd.it
+Teaching method:
+ECTS:
+In-person lessons:
+H
+Month and year:
+Fee:
+€
+Close
+© 2024 UEL. All rights reserved.
+Privacy policy
+-
+Cookie Policy
+-
+Cookies settings
+Page load link
+Go to Top

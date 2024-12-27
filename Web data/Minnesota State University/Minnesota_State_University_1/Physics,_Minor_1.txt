@@ -1,0 +1,138 @@
+Link: https://cset.mnsu.edu/academic-programs/physics/physics-minor/
+
+College of Science, Engineering & Technology
+Academic Programs
+Physics
+Physics, Minor
+Physics Section
+Physics
+Physics, Bachelor of Science (BS)
+Physics Teaching, Bachelor of Science (BS)
+Physics, Minor
+Physics, Master of Science (MS)
+Physics Faculty and Staff
+Physics Minor
+Current Catalog Year
+2024-2025
+Degree
+Minor
+Total Credits
+26
+Locations
+Mankato
+Apply
+Program Requirements
+Program
+                                    Requirements
+Core
+MATH 121
+Calculus I
+4 credits
+Limits, continuity, the derivative and applications, transcendental functions, L'Hopital's Rule, and development of the Riemann integral.
+Prerequisites:
+Satisfy Placement Table in this section, MATH 115 or both MATH 112 and MATH 113 with "C" (2.0) or better.
+Goal Areas: GE-04
+MATH 122
+Calculus II
+4 credits
+Techniques of integration, applications of integration, improper integrals, numerical integration, the calculus of parametric curves, and infinite series and sequences.
+Prerequisites:
+MATH 121 with "C" (2.0) or better or consent
+PHYS 221
+General Physics I
+4 credits
+Designed for science and engineering students. Calculus-based physics. Covers elementary mechanics including kinematics, statics, equilibrium and dynamics of particles, work and energy, rotational motion, gravitation, and oscillation. Lecture and Laboratory. MATH 121 must be completed with a C or better prior to taking this course or must be taken concurrently. High school physics or PHYS 101 is also strongly encouraged. Fall, Spring
+Prerequisites:
+none
+Goal Areas: GE-02, GE-03
+PHYS 222
+General Physics II
+3 credits
+Designed for science and engineering students. Calculus-based physics. Covers electrical charge and field; magnetic field and its sources; current and resistance; simple DC and AC circuits; and electromagnetic induction. Lecture only. (Associated laboratory course is PHYS 232.) MATH 121 must be completed with a C or better prior to taking this course. MATH 122 must be completed before taking this course or taken concurrently. Fall, Spring
+Prerequisites:
+MATH 121 with a "C" or better; PHYS 221 with a "C" or better.
+PHYS 223
+General Physics III
+3 credits
+Designed for science and engineering students. Calculus-based physics. Covers fluids, thermodynamics, mechanical and sound waves, geometrical optics, physical optics, and modern physics. Lecture only. (Associated laboratory course is PHYS 233.) Pre: MATH 121 with a Cor better; and PHYS 221 with a C or better. MATH 122 must be completed before taking this course or taken concurrently. Spring
+Prerequisites:
+MATH 121 with a "C" or better; and PHYS 221 with a "C" or better
+PHYS 335
+Modern Physics I
+3 credits
+Special Theory of Relativity. Quantum nature of waves and particles: photons, de Broglie wavelength of matter and wave packet description of particles, Bohr model of hydrogen. Schrodinger wave equation in one-dimension: energy quantization, potential barriers, simple harmonic oscillator. One-electron atoms. X-ray and optical excitation of multielectron atoms. Lecture and laboratory. Prereq: MATH 122; (PHYS 222 and concurrently with PHYS 223) or PHYS 212.
+Prerequisites:
+MATH 122; (PHYS 222 and concurrently with PHYS 223) or PHYS 212.
+PHYS 336
+Modern Physics II
+3 credits
+Topics include the basics of molecular structure and spectra, classical and quantum statistical physics, solid state physics, nuclear physics,and particle physics. The lab component will teach the operation of various radiation detectors, and use them to study the interaction of radiation with matter.
+Prerequisites:
+PHYS 335
+Restricted Electives
+Choose 2 - 4 Credit(s).
+PHYS 441
+Mechanics
+4 credits
+Rectilinear motion of a particle, general motion of a particle in three dimensions, Newtonian mechanics including harmonic oscillations, forced oscillations, central forces and orbital motion, collisions, noninertial reference systems, dynamics of a system particles, rigid body motion, Lagrangian and Hamiltonian mechanics, normal coordinates.
+Prerequisites:
+PHYS 222 or PHYS 223; and MATH 321 or consent.
+PHYS 447
+Electricity & Magnetism I
+3 credits
+Electrostatic fields, magnetostatic fields, steady currents, electromagnetic induction. Review of vector algebra.
+Prerequisites:
+MATH 223 and MATH 321 and PHYS 222
+PHYS 457
+Optics
+3 credits
+Geometric optics, wave optics, properties of light and matter, optics of transformations, and quantum optics. Lecture and laboratory.
+Prerequisites:
+MATH 122 and PHYS 223
+PHYS 465
+Computer Applications in Physics
+3 credits
+Numerical solutions of physics problems and computer simulations of physical systems. Lecture and laboratory. Prereq: Familiarity with some programming language and PHYS 212 or 222, and MATH 122, or consent
+Prerequisites:
+CIS 121, MATH 122. Select one PHYS 222 or PHYS 223
+PHYS 473
+Statistical Physics
+3 credits
+Fundamental principles of statistical physics, including theory of probability, kinetic theory of transport process, entropy, classical and quantum statistical ensembles, Bose and Fermi systems. Applications to thermodynamics and magnetic properties of solids.
+Prerequisites:
+MATH 321 and PHYS 223
+PHYS 475
+Advanced Laboratory
+2 credits
+Experiments in modern physics, including solid-state physics and optics. Requires more independent work than introductory laboratories.
+Prerequisites:
+PHYS 336 or consentInitial deposit: N/A
+
+
+Application Fee for Undergraduate: $ 20
+Application Fee for Postgraduate: $ 40
+
+
+Annual Fee for Undergraduate: $ 18,812
+Annual Fee for Postgraduate: $ 14,918
+
+
+English Language Requirements Undergraduate only:
+TOEFL iBT (internet-based test) score of 61 or better
+Pearson Test of English (PTE) score of 47 or better
+IELTS academic test score of 5.5 or better
+
+
+English Language Requirements Postgraduate only:
+Different for every course and given in course content 
+
+
+Entry Requirements Undergraduate only:
+A cumulative high school GPA of 3.0 or higher or A rank in the top 50% of your high school class or An ACT composite score of 21 or higher and a minimum cumulative high school GPA of 2.7. If you do not meet the above admission requirements, you can submit additional information to consider when reviewing your application.
+
+
+Entry Requirements Postgraduate only:
+Applicants must possess the equivalent of a U.S. Bachelor's degree to be considered for graduate programs at Minnesota State Mankato. The degree must be earned at an institution recognized and approved to award the degree. GRE (Graduate Record Examination) is required by some academic programs.
+
+English Language requirements of graduate programs is different for each course. Graduate programs only have IELTS and TOEFL test scores.
+For Graduate Entry Requirements, some requirements like GPA, Score are mentioned on the course page so add them too.

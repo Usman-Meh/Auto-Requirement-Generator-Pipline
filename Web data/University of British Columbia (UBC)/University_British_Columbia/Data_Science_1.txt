@@ -1,0 +1,273 @@
+Link: https://you.ubc.ca/ubc_programs/data-science/
+
+Data Science
+at UBC's
+Okanagan Campus
+Summary
+Program info
+Your future
+Requirements
+Visit program website
+Data Science is an in-demand field that focuses on making decisions supported by data. It’s grounded in statistics to formulate relevant questions and determine the answer based on data, and in computer science to manipulate and visualize data efficiently.
+Why this program?
+Build a broad foundation with a globally recognized degree.
+Pursue a career in high demand that’s listed by Forbes as one of the best jobs for work-life balance.
+Contribute to the solution of modern data problems in the Statistical Machine Learning Laboratory or the Laboratory for Data Visualization.
+Visit program website
+Program information
+Send details
+Campus:
+Okanagan
+Faculty:
+Irving K. Barber Faculty of Science
+Degree:
+Bachelor of Science
+Length
+4 yrs
+Co-op
+Yes
+You can combine your studies with full-time, paid work at top local and international organizations.
+Honours
+Yes
+You can study intense specialization in a single field.
+In Data Science undergraduate studies at UBC’s Okanagan campus, you can complete a Bachelor of Science (BSc) with a Major in Data Science, a BSc Data Science Honours, or a Minor in Data Science.
+This program provides you with thorough training in Data Science, which focuses on making decisions supported by data.
+Experiential learning and research
+The Irving K. Barber Faculty of Science holds an annual Undergraduate Research Conference on UBC’s Okanagan campus to showcase student research projects. Students can also join the
+Quantitative Sciences Course Union
+on UBC’s Okanagan campus to connect with peers and access resources.
+Undergraduate Research Awards
+Directed studies in Computer Science
+Campus features
+Connect with peers through the Quantitative Sciences Course Union and the Women in Science and Engineering (WiSE) mentoring program.
+WiSE at UBC Okanagan
+Centre for Optimization, Convex Analysis, and Non-smooth Analysis
+Send details
+Why this program?
+Build a broad foundation with a globally recognized degree.
+Pursue a career in high demand that’s listed by Forbes as one of the best jobs for work-life balance.
+Contribute to the solution of modern data problems in the Statistical Machine Learning Laboratory or the Laboratory for Data Visualization.
+Sample courses
+Year 1
+Year 2
+Year 3
+Year 4
+CHEM 111 - Principles of Chemistry I
+Stoichiometry, atomic and molecular structure, chemical periodicity, gases, liquids, solids, and solutions. Not open to students with Chemistry 12.
+COSC 111 - Computer Programming I
+Introduction to the design, implementation, and understanding of computer programs. Topics include problem solving, algorithm design, and data and procedural abstraction, with emphasis on the development of working programs. This course should be followed by COSC 121.
+PHYS 111 - Introductory Physics for the Physical Sciences I
+Introduction to mechanics primarily for students majoring in the physical sciences (e.g. physics, chemistry, mathematics, computer science, geology, physical geography) or engineering. Particle kinematics and dynamics, work and energy, momentum, gravitation, rigid body motion, fluid statics and dynamics with applications to the physical sciences. Students with Physics 12 may apply for a tutorial exemption.
+MATH 100 - Differential Calculus with Applications to Physical Sciences and Engineering
+Derivatives of elementary functions, limits. Covers applications and modelling: graphing and optimization.
+MATH 200 - Calculus III
+Analytic geometry in two and three dimensions, partial and directional derivatives, chain rule, maxima and minima, second derivative test, Lagrange multipliers, multiple integrals with applications.
+STAT 230 - Introductory Statistics
+Applied statistics for students with a first-year calculus background. Estimation and testing of hypotheses, problem formulation, models and basic methods in analysis of variance, linear regression, and non-parametrics. Descriptive statistics and probability are presented as a basis for such procedures.
+COSC 221 - Introduction to Discrete Structures
+Introduction to sets, logic, combinatorics, and graph theory, as applied in computing: sets and propositions, permutations and combinations, graphs and trees, Boolean algebra, algorithms, and applications.
+COSC 222 - Data Structures
+Introduction to the design, implementation and analysis of data structures. Topics will include lists, stacks, queues, trees, and graphs.
+DATA 301 - Introduction to Data Analytics
+Techniques for computation, analysis, and visualization of data using software. Manipulation of small and large data sets. Automation using scripting. Real-world applications from life sciences, physical sciences, economics, engineering, or psychology. No prior computing background is required.
+DATA 311 - Machine Learning
+Regression, classification, resampling, model selection and validation, fundamental properties of matrices, dimension reduction, tree-based methods, unsupervised learning.
+COSC 304 - Introduction to Databases
+Databases from a user's perspective: querying with SQL, designing with UML, and using programs to analyze data.  Construction of database-driven applications and websites and experience with current database technologies.
+PHIL 331 - Computer Ethics
+Ethical and professional issues facing those who work with computers. Piracy, hacking, responsibility, and liability for the use of software; cyberpornography and freedom of information; computerized invasion of privacy; computers in the workplace; the use of artificial intelligence; and expert systems.
+COSC 360 - Web Programming
+Design and implementation of web-based information systems and app development. Rich user interfaces, asynchronous updates, client-side and server-side scripting using standard technologies such as HTML, CSS, SVG, JavaScript, PHP. Data manipulation with SQL, JSON, XML. Modern scripting frameworks and libraries.
+DATA 421 - Network Science
+Graphs and complex networks in scientific research. Probabilistic and statistical models. Structures, patterns, and behaviors in networks. Algorithmic and statistical methods. (online/mobile) social networks and social media platforms. Social influence, information diffusion, and viral marketing. Sentiment analysis and opinion mining. Data privacy. Search engines and recommendation systems.
+DATA 405 - Modelling and Simulation
+Numeric dynamic systems models and emphasis on discrete stochastic systems. State description of models, common model components, entities. Common simulation language. Simulation using algebraic languages. Simulation methodology: data collection, model design, output analysis, optimization, validation. Elements of queuing theory, relationship to simulation. Applications tocomputer systems models.
+BIOL 414 - Advanced Field Ecology
+Independent research projects in the field, while considering application of methods to solving problems in ecology. Study design, hypothesis development, primary data collection, analysis, and interpretation; formal manuscripts for publication.
+PSYO 443 - Psychometrics and Test Evaluation
+Theory and methodological principles underlying psychological tests and assessment. Fundamentals of test reliability, validity, development, and test evaluation. Use of computer programs to evaluate the psychometric properties of psychological tests.
+STAT 401 - Probability and Statistical Inference
+Formal introduction to the theory of statistical modeling with a focus on distributions of data, likelihood based inference for learning unknown parameters, construction of confidence intervals and development of tests.  Bayesian methods will be used to contrast standard statistical procedures.
+Follow this program
+Follow on Facebook
+Follow on Instagram
+Follow on Twitter
+View larger image
+UBC's Okanagan campus
+Life at UBC's Okanagan campus
+UBC's Okanagan campus is renowned for its research opportunities and access to professors. On a tight-knit campus like the Okanagan’s, you’ll be able to work closely with award-winning faculty and make meaningful connections with your peers. Professors are collaborating with student researchers on cutting-edge projects like virtual reality (VR), decision-support systems, and cybersecurity.
+Find out more
+Your future
+A BSc in Data Science can help you find an exciting career across a broad range of industries and organizations, everything from marketing analyst to data engineer.
+Your future role might be in national security such as law enforcement, defence and counterterrorism, or in business intelligence with options such as financial analysis or risk management. Marketing and online commerce also presents opportunities for data science grads in the form of gaming, internet and information technology companies.
+Related programs
+Program requirements
+Canadian high schools
+International high schools
+International baccalaureate
+- Select Location -
+Basic requirements (if your province is not selected)
+Alberta
+British Columbia
+Manitoba
+New Brunswick
+Newfoundland & Labrador
+Northwest Territories
+Nova Scotia
+Nunavut
+Ontario
+Prince Edward Island
+Quebec
+Saskatchewan
+Yukon
+- Select Location -
+Basic requirements (if your country is not listed)
+Argentina
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belize
+Bermuda
+Bolivia
+Botswana
+Brazil
+British Virgin Islands
+Brunei
+Cameroon - British
+Cameroon - French
+Cayman Islands
+Chile
+China
+Colombia
+Costa Rica
+Czech Republic
+Denmark
+Dominica
+Ecuador
+Egypt – 11 Years of Education
+Egypt – 12 Years of Education
+El Salvador
+Ethiopia
+Finland
+France (French Baccalaureate)
+Germany
+Ghana
+Gibraltar
+Greece
+Grenada
+Guatemala
+Guyana
+Honduras
+Hong Kong
+India
+Indonesia
+Iran
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kuwait
+Lebanon
+Lesotho
+Liberia
+Macao
+Malawi
+Malaysia
+Mauritius
+Mexico
+Mongolia
+Montserrat
+Morocco
+Namibia
+Netherlands
+New Zealand
+Nigeria
+Norway
+Oman
+Pakistan
+Panama
+Peru
+Philippines
+Poland
+Qatar
+Russia
+Rwanda
+Saint Kitts and Nevis
+Saint Lucia
+Saint Vincent and the Grenadines
+Saudi Arabia
+Scotland
+Seychelles
+Sierra Leone
+Singapore
+South Africa
+South Korea
+Spain
+Sri Lanka
+Sweden
+Switzerland
+Syria
+Taiwan
+Tanzania
+Thailand
+The Gambia
+Trinidad and Tobago
+Tunisia
+Turkey
+Turks and Caicos Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom (British-patterned education)
+United States (American curriculum)
+Venezuela
+Vietnam
+Zambia
+Zimbabwe
+English-language requirements
+English is the language of instruction at UBC. All prospective students must demonstrate English-language competency prior to admission. There are numerous ways to meet the
+English Language Admission Standard
+.
+General admission requirements
+IB Diploma Programme
+Completed IB Diploma, including at least three Higher Level courses.
+IB Certificate Courses
+IB Certificate courses (Standard and Higher Level) may be used in an admissions average if you are graduating from a recognized high school curriculum that can be used as your basis of admission.
+IB Math Applications and Interpretations SL, or IB Math Studies, do not satisfy the math requirement for admission to UBC’s science-based programs, the Faculty of Management, the UBC Sauder School of Business, or the Vancouver School of Economics.
+Degree-specific requirements:
+Science
+IB Math Analysis and Approaches SL
+or
+HL,
+or
+IB Math Applications and Interpretations HL (IB Math Applications and Interpretations SL, or IB Math Studies, are not acceptable)
+One of IB Biology, IB Chemistry, or IB Physics
+Grade 11 or equivalent Chemistry
+Grade 11 or equivalent Physics is strongly recommended
+Note: Grade 11 Chemistry and Physics requirements listed are only relevant to students who are
+not
+completing the equivalent IB Diploma Chemistry and/or Physics courses.
+For students studying outside of Canada, some examples of courses that may be accepted as Grade 11 equivalents are junior-level courses for American students, and IGCSE and O Level for those following British-patterned curricula.
+Related courses
+The following
+subject categories
+are particularly relevant for this degree. Consider taking courses in these areas in your junior year and senior year.
+Language Arts
+Mathematics and Computation
+Sciences
+Visit program website
+You’ll find these pages helpful
+10 things you never knew about UBC
+Read admissions blog post
+Meet Darcy, a Mathematics student who left Maui to study in the Okanagan Valley
+Read full story
+Ready to choose your degree?
+Apply to UBC

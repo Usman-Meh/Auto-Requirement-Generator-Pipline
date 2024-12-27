@@ -1,0 +1,176 @@
+Link: https://www.fdu.edu/program/bs-computer-science-ms-management-information-systems/
+
+Skip to content
+Computer Science BS Management Information Systems MS 4 Plus 1 Program
+Home
+/
+Program
+/
+Computer Science BS Management Information Systems MS 4 Plus 1 Program
+The Lee Gildart and Oswald Haase School of Computer Sciences and Engineering (GHSCSE) offers a 4 Plus 1 program that allows qualified students to obtain a Bachelor of Science (BS) in computer science degree and a Master of Science (MS) in management information systems degree with a combined course load that is 9 credits less. In particular, three graduate courses:
+CSCI6603
+Computer Architecture (3 credits),
+CSCI6623
+Database Systems (3 credits) and
+CSCI6638
+Operating Systems (3 credits), when successfully completed under the 4 Plus 1 program, can be credited toward both the BS and the MS degrees.
+This combined degree program is offered by GHSCSE at the Metropolitan Campus, Teaneck, New Jersey. The BS in computer science program is accredited by the Engineering Accreditation Commission of
+ABET
+. This accreditation applies only to the BS in computer science program offered by the GHSCSE at the Metropolitan Campus.
+Students in the BS in computer science program must take one of the three concentrations: big data analytics, cybersecurity and information assurance or mobile and game app development. Students completing the BS in computer science program with a concentration in cybersecurity and information assurance are eligible to receive a Certificate of Completion of a National Security Agency (NSA) and Department of Homeland Security (DHS)-designated CAE-CDE program of study from FDU’s Center for Cybersecurity and Information Assurance (CCIA).
+Students must have achieved a cumulative grade point ratio (CGPR) of at least 2.75. A minimum of 120 credits is required for the BS in computer science degree.
+Degree Plan
+1st Semester (14 credits)
+CSCI1201
+Computer Programming I
+ENGR2286
+Digital System Design
+WRIT1002
+Composition I: Rhetoric & Inquiry
+MATH1201
+Calculus I
+UNIV1001
+Transitioning to University Life
+2nd Semester (14 credits)
+CSCI1202
+Computer Programming II
+CSCI2215
+Introduction to Computer Science
+WRIT1003
+Composition II: Research & Argument
+MATH2202
+Calculus II
+UNIV1002
+Preparing for Professional Life
+3rd Semester (16 credits)
+CSCI2234
+Data Structures and Algorithms
+CSCI2247
+Assembly Language Programming
+ACCT2021
+Intro to Financial Accounting
+PHYS2201
+University Physics I Lecture
+PHYS2203
+University Physics I Lab
+UNIV2001
+Cross-cultural Perspectives
+4th Semester (16 credits)
+CSCI3251
+Design of Software Systems
+CSCI6623
+Database Systems
+MATH3237
+Probability and Statistics I
+PHYS2204
+University Physics II Lab
+PHYS2202
+University Physics II Lecture
+CSCI2235
+Survey of Computing Security
+5th Semester (15 credits)
+Concentration (3 credits): Students must complete any one of three concentration areas: Cybersecurity and Information Assurance, Game and Mobile Application Development, Big Data Analytics.
+CSCI3240
+Computer Networks
+MKTG2120
+Principles of Marketing
+MATH2255
+Discrete Structures
+Technical Elective (3 credits)
+6th Semester (15 credits)
+Concentration: (3 credits)
+CSCI3260
+Mathematical Foundations of Computer Science
+CSCI6638
+Operating Systems
+ENGR3000
+Modern Technologies
+Humanities/Soc Sci Elective: Take three credits of coursework in HIST, HUMN, LANG, PHIL, POLS, PSYC, RELI, or SOCI. ANIMH ARTH CGDH DANH, MUSICH, THEATH, AFAM, ENGL, HIST, LITS, PHIL, RELI
+ENGR4210
+Managerial Eng. Economics
+7th Semester (16 credits)
+Concentration: (3 credits)
+CSCI6603
+Computer Organization
+ENGR2210
+Technical Communications
+MATH3220
+Linear Algebra
+CSCI4384
+Prep for Computer Science Project
+Technical Elective (3 credits)
+8th Semester (14 credits)
+Concentration (3 credits)
+CSCI4386
+Computer Science Senior Project
+UNIV2002
+Global Issues
+ENGR4210
+Managerial & Econ Analysis
+Concentration (3 credits
+Concentration Requirements, 15 credits
+Students must complete any one of three concentration areas:
+Cybersecurity and Information Assurance
+,
+Big Data Analytics
+, and
+Game and Mobile Application Development
+. Each concentration requires the successful completion of five courses (15 credits). Students completing the BS in Computer Science with a concentration in the Cybersecurity and Information Assurance concentration are eligible to receive a Certificate of Completion of an NSA & DHS designated CAE-CDE program of study from FDU’s Center for Cybersecurity and Information Assurance (CCIA). Students pursuing a concentration in Game and Mobile Application Development are recommended to take
+two
+computer animation courses from the School of Art and Media Studies as a Free Elective and a Technical Elective in the B.S. Computer Science curriculum.
+Cybersecurity and Information Assurance
+CSCI3274
+Linux System Administration (3 credits)
+CSCI3345
+Firewalls and Intrusion Detection Systems (3 credits)
+CSCI3410
+Foundations of Cybersecurity (3 credits)
+CSCI3420
+Cryptography (3 credits)
+CSCI3783
+Information Security (3 credits
+Cybersecurity and Information Assurance Student Outcomes
+The B.S. Computer Science graduates with a concentration in cybersecurity and information assurance will additionally have the ability to:
+Apply security principles and practices to maintain operations in the presence of risks and threats.
+Assess vulnerabilities of components, connections, and systems for data protection, privacy, and threat mitigation.
+Big Data Analytics
+CSCI3331
+Advanced Database
+CSCI3318
+Cloud Computing
+CSCI3387
+Machine Learning
+CSCI3461
+Data Mining and Applications
+CSCI3485
+Big Data Analytics
+Big Data Analytics Student Outcomes
+The B.S. Computer Science graduates with a concentration in big data analytics will additionally have the ability to:
+Analyze data analytics algorithms and Big Data analytics frameworks.
+Apply data and Big Data analytics methods to projects and products.
+Game and Mobile Application Development
+CSCI3314
+Mobile Application Development (3 credits)
+CSCI3317
+Computer Game Programming (3 credits)
+CSCI3444
+Programming for the Internet
+CSCI3385
+Artificial Intelligence
+CSCI3387
+Machine Learning
+Game and Mobile Application Development Student Outcomes
+The B.S. Computer Science graduates with a concentration in game & mobile application development will additionally have the ability to:
+Apply multimedia data processing algorithms
+Develop applications on different platforms
+Contact Information
+tan@fdu.edu
+Alfredo Tan, Phd, Director
+ytang@fdu.edu
+Yongming Tang, Phd, Assoc. Director
+Learn more
+Gildart Haase School of Computer Sciences and Engineering
+Admissions
+Apply now
+Visit FDU
+Request Information

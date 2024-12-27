@@ -1,0 +1,45 @@
+Link: https://www.fdu.edu/program/internet-programming-graduate-certificate/
+
+Skip to content
+Internet Programming Graduate Certificate
+Home
+/
+Program
+/
+Internet Programming Graduate Certificate
+Internet programming is a contemporary field of computer programming. It refers to network communication, distributed computing and web applications. The internet programming graduate certificate is offered by the Lee Gildart and Oswald Haase School of Computer Sciences and Engineering at the Metropolitan Campus, Teaneck, New Jersey. The objective of this certificate is to provide expertise in computer programming fundamentals, web programming and internet-based application software development.
+Admission Requirements
+Admission to the certificate program requires a baccalaureate degree from a regionally accredited college or university with a satisfactory academic record.
+Certificate Requirements
+18 credits (six courses) are to be taken from the following:
+CSCI5505
+Introduction to Computer Programming
+CSCI5555
+Data Structures
+CSCI6731
+Computer Networks
+CSCI6735
+Client-server Computing
+CSCI6810
+Java and the Internet
+CSCI6844
+Programming for the Internet
+Prerequisites
+Students must satisfy the prerequisites of the courses that they will take.
+Academic Credits
+Courses with number 6000 or higher completed through this certificate program can be credited toward the MS in computer science program. Other courses may be substituted with prior approval of the academic adviser.
+For Information
+Yongming Tang
+, Associate Director, Computer Science, Information Systems and Mathematics Division, Lee Gildart and Oswald Haase School of Computer Sciences and Engineering
+Associate Professor of Computer Science and Information Systems
+ytang@fdu.edu
+201-692-2258
+Susan Seed
+, Director, Student Advisement and Retention, Lee Gildart and Oswald Haase School of Computer Sciences and Engineering
+srseed@fdu.edu
+201-692-2284
+Learn more
+Gildart Haase School of Computer Sciences and Engineering
+Admissions
+More Information
+Apply now

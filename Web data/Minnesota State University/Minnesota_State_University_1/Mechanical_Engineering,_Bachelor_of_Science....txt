@@ -1,0 +1,593 @@
+Link: https://cset.mnsu.edu/academic-programs/mechanical-engineering/mechanical-engineering-bachelor-of-science-mechanical-engineering-bsme/
+
+College of Science, Engineering & Technology
+Academic Programs
+Mechanical Engineering
+Mechanical Engineering Bachelor of Science Mechanical Engineering (BSME)
+Mechanical Engineering Section
+Mechanical Engineering
+Mechanical Engineering Bachelor of Science Mechanical Engineering (BSME)
+HVACR Engineering Design CERT
+Mechanical Engineering, Master of Science (MSME)
+Engineering, Master of Science (MS)
+Engineering, Master of Science (MS) Mechanical Engineering Emphasis
+Global Solutions in Engineering and Technology, Graduate Certificate
+Mechanical Engineering Faculty & Staff
+Mechanical Engineering (BSME)
+Current Catalog Year
+2024-2025
+Degree
+Bach Sci-Mechanical Engineering
+Major /                                         Total Credits
+105 / 128
+Locations
+Mankato
+Mesabi Range
+Accreditation
+ABET
+Accreditation Board for Engineering and Technology
+Apply
+Program Requirements
+Degree Plan
+Program
+                                    Requirements
+Required General Education
+Required Special General Education (23 credits)
+The Bachelor of Science in Mechanical Engineering degree does not adhere to the standard general education program required by other majors. Rather, it requires a special distribution of courses from communication, economics, and other courses from Goal Areas 2, 5, 6, 7, 8, 9, or 10. Courses may be chosen to satisfy the university cultural diversity requirement concurrently.
+Required Goal Area Courses. Each student should discuss with their academic advisor on the selection of courses to meet this requirement early in their academic career. Specifically, the minimum requirements consist of at least 6 credits from Goal Areas 2, 5, or 6, excluding CHEM 191, CHEM 201, and ENG 271W; and at least 6 credits from Goal Areas, 7, 8, 9, or 10 excluding ENVR 101, in addition to the Required General Education courses.
+ENG 101
+Foundations of Writing & Rhetoric
+4 credits
+Students in this course approach writing as a subject of study by investigating how writing works across a variety of contexts.
+Prerequisites:
+none
+Goal Areas: GE-1A
+Choose 3 - 4 Credit(s).
+COMM 102
+Public Speaking
+3 credits
+A course in communication principles to develop skills in the analysis and presentation of speeches.
+Prerequisites:
+none
+Goal Areas: GE-1B
+ENG 271W
+Technical Communication
+4 credits
+Introduction to learning the written and oral communication of technical information. Assignments include writing and presenting proposals, reports, and documentation. Emphasis on use of rhetorical analysis, computer applications, collaborative writing, and usability testing to complete technical communication tasks in the workplace.
+Prerequisites:
+ENG 101
+Goal Areas: GE-02, GE-13
+Prerequisites to the Major
+CHEM 191
+Chemistry Applications
+3 credits
+From an engineering perspective, concepts of general chemistry will be investigated. Topics include atomic structure, stiochiometry, gas laws, periodic trends chemical bonds, thermodynamics, kinetics and organic chemistry.
+Prerequisites:
+High school chemistry or "C" (2.0) or higher in CHEM 104. Student must demonstrate math placement requirements at or above MATH 115 in the placement chart. See Mathematics for details.
+Goal Areas: GE-02, GE-03
+MATH 121
+Calculus I
+4 credits
+Limits, continuity, the derivative and applications, transcendental functions, L'Hopital's Rule, and development of the Riemann integral.
+Prerequisites:
+Satisfy Placement Table in this section, MATH 115 or both MATH 112 and MATH 113 with "C" (2.0) or better.
+Goal Areas: GE-04
+MATH 122
+Calculus II
+4 credits
+Techniques of integration, applications of integration, improper integrals, numerical integration, the calculus of parametric curves, and infinite series and sequences.
+Prerequisites:
+MATH 121 with "C" (2.0) or better or consent
+MATH 223
+Calculus III
+4 credits
+Surfaces, vector-valued functions, partial differentiation, multiple integration, and vector calculus.
+Prerequisites:
+MATH 122 with "C" (2.0) or better, or consent
+MATH 321
+Ordinary Differential Equations
+4 credits
+This course presents the theory, computations, and applications of first and second order differential equations and two-dimensional systems.
+Prerequisites:
+MATH 122 with "C" (2.0) or better or consent
+PHYS 221
+General Physics I
+4 credits
+Designed for science and engineering students. Calculus-based physics. Covers elementary mechanics including kinematics, statics, equilibrium and dynamics of particles, work and energy, rotational motion, gravitation, and oscillation. Lecture and Laboratory. MATH 121 must be completed with a C or better prior to taking this course or must be taken concurrently. High school physics or PHYS 101 is also strongly encouraged. Fall, Spring
+Prerequisites:
+none
+Goal Areas: GE-02, GE-03
+PHYS 222
+General Physics II
+3 credits
+Designed for science and engineering students. Calculus-based physics. Covers electrical charge and field; magnetic field and its sources; current and resistance; simple DC and AC circuits; and electromagnetic induction. Lecture only. (Associated laboratory course is PHYS 232.) MATH 121 must be completed with a C or better prior to taking this course. MATH 122 must be completed before taking this course or taken concurrently. Fall, Spring
+Prerequisites:
+MATH 121 with a "C" or better; PHYS 221 with a "C" or better.
+PHYS 232
+General Physics II Laboratory
+1 credits
+Designed for science and engineering students. Laboratory course accompanying PHYS 222. Experiments involving electric and magnetic fields, electric potential, electric and magnetic forces, and simple circuits. Laboratory only. Prereq: PHYS 221 with a C or better; and PHYS 222 or concurrent. Fall, Spring
+Prerequisites:
+PHYS 221 with a "C" or better; and PHYS 222 or concurrent.
+Major Common Core
+EE 230
+Circuit Analysis I
+3 credits
+This course is meant to develop Electrical Engineering Circuit Analysis skills in DC and AC circuits. It includes circuit laws and theorems, mesh and node analysis. Natural and step response of RL, RC, and RLC circuits.
+Prerequisites:
+PHYS 222 or concurrent, MATH 321 or concurrent
+EE 240
+Evaluation of Circuits
+1 credits
+Laboratory support for EE 230. Use of laboratory instrumentation to measure currents and voltages associated with DC and AC circuits. Statistical analysis of measurement data. Measurements of series, parallel and series-parallel DC and AC circuits. Measurement of properties for circuits using operational amplifiers. Measurement of transient responses for R-L and R-C circuits. Simulation of DC and AC circuits using PSPICE. Concepts covered in EE 230 will be verified in the laboratory. Pre-req: Must be taken concurrently with EE 230.
+Prerequisites:
+Must be taken concurrently with EE 230.
+EE 244
+Introduction to Digital Systems
+2 credits
+Simple coding schemes, Boolean algebra fundamentals, elements of digital building blocks such as gates, flip-flops, shift registers, memories, etc.; basic engineering aspects of computer architecture.
+Prerequisites:
+none
+ME 101
+Introduction to Engineering - Mechanical
+2 credits
+To prepare students for a career in engineering with emphasis on mechanical; introduce the engineering fundamentals and the skills necessary to have a successful learning experience; and to prepare students for engineering education and profession through interactions with upper-class engineering students and practitioners.
+Prerequisites:
+ACT Math Subscore of 23 or higher.
+ME 103
+Computer Graphics Communication
+1 credits
+Standards of graphics communication. Orthographic projections, dimensioning, tolerancing, section views. Extensive use of modern software to create engineering drawings. Introduction to solid modeling of parts and assemblies. This course includes laboratory component.
+Prerequisites:
+none
+ME 201
+Introduction to Problem Solving and Engineering Design
+2 credits
+This course has two main parts. Part one covers problem solving and fundamentals of programming including data types, decision making, repetitive loops, and arrays. Engineering applications requiring programming are included. Part two covers engineering design philosophy and methodology, communication skills, and teamwork. A design project is also included. Coreq: ME 103, MATH 121
+Prerequisites:
+ME 101
+ME 203
+Geometric Dimensioning and Tolerancing in Engineering Design
+2 credits
+This course is intended to provide the students with an understanding of the principles and methodologies of geometric dimensioning and tolerancing. Topics include: Datums, Material condition symbols, Tolerances of Form and profile, Tolerances of orientation and runout, locations tolerances, and Virtual condition. This course includes laboratory component. Coreq: ME 103
+Prerequisites:
+ME 103, ME 201
+ME 212
+Statics
+3 credits
+Resultants of force systems, equilibrium, analysis of forces acting on structural and machine elements, friction, second moments, virtual work.
+Prerequisites:
+PHYS 221
+ME 214
+Dynamics
+3 credits
+Kinematics and kinetics of particles, systems of particles and rigid bodies, work-energy, linear and angular impulse momentum, vibrations.
+Prerequisites:
+ME 212
+ME 223
+Mechanics of Materials
+3 credits
+Load deformation, stress, strain, stress-strain relationship, buckling, energy concepts, stress analysis of structural and machine elements.
+Prerequisites:
+ME 212
+ME 241
+Thermodynamics
+3 credits
+Fundamental concepts of thermodynamics. Thermal properties of substances and state equations. Conservation of mass, first and second laws. Examples of applications to different engineering systems.
+Prerequisites:
+PHYS 221
+ME 291
+Engineering Analysis
+3 credits
+Probability and statistics. Uncertainty, distributions. Numerical solution of algebraic, transcendental and differential equations. Numerical integration and differentiation. Structured programming language required.
+Prerequisites:
+MATH 122, PHYS 221. Select one from EE 107, CIVE 201, ME 201
+ME 306
+Materials Science
+3 credits
+Physical principles of elastic and plastic deformation of materials. Dislocation theory. Fatigue, creep, fracture, hardness, phase diagrams and other mechanical phenomena in materials. Ceramics and composite materials. Residual stresses. Lecture and lab demonstrations.
+Prerequisites:
+ME 223
+ME 321
+Fluid Mechanics
+3 credits
+Introduction to fluid properties, fluid statics, buoyancy, fluid kinematics, Bernoulli's equation, control volume and differential approach to flow conservation equations, dimensional analysis, similitude, viscous flow in pipes, flow over immersed bodies, and pumps. Includes significant design component.
+Prerequisites:
+MATH 223, ME 214
+ME 324
+Heat Transfer
+3 credits
+Steady and unsteady conduction. Free and forced convection. Heat transfer by radiation. Combined modes of heat transfer. Elements of heat exchangers design. Includes significant design component.
+Prerequisites:
+ME 241, ME 321
+ME 329
+Applied Thermodynamics
+3 credits
+Energy analysis and design of thermodynamic systems including power and refrigeration cycles. Thermodynamic relations. Application of thermodynamics to mixtures and solutions. Psychometrics. Introduction to chemical thermodynamics. Third law of thermodynamics. Includes significant design component.
+Prerequisites:
+CHEM 191, ME 241
+ME 333
+Manufacturing Processes
+3 credits
+Introduction to manufacturing, tribology, casting, bulk deformation, sheet metal forming, material removal, joining, polymers, powder metals, ceramics, automation, integrated systems. Design for manufacture. Includes significant design component.
+Prerequisites:
+ME 206, ME 223
+ME 336
+Mechanical Engineering Experimentation I
+2 credits
+Experiments in Mechanical Engineering, load-deformation, load-failure, fatigue, impact, hardness. Introduction to traditional machining and material processing. This course includes laboratory.
+Prerequisites:
+ME 306
+ME 341
+Linear Systems
+3 credits
+Analysis of linear systems in the time and frequency domains. Physical systems modeled and analyzed using time domain techniques. Fourier and Laplace Transforms.
+Prerequisites:
+ME 201, ME 214, PHYS 222, EE 230, PHYS 232, EE 240, ME 281, MATH 321
+ME 417
+Design of Machine Elements
+3 credits
+Application of principles of mechanics to the design of various machine elements such as gears, bearings, springs, rivets, welding. Stresses in mechanical elements. Design factors, fatigue, manufacturability. Lectures and design projects. Includes significant design content.
+Prerequisites:
+ME 214, ME 223
+ME 420
+Computer Aided Engineering
+3 credits
+This course provides the students with sound understanding of both solid modeling techniques and finite element analysis. It covers the major features as well as feature manipulation techniques. It also provides a background in deriving, understanding and applying the stiffness matrices and finite element equations for various types of finite elements and systems. Static stress analyses, sensitivity studies and optimization studies are covered. Includes significant design component. Prerequisite: ME 203, ME 324, ME 417 Fall
+Prerequisites:
+ME 203, ME 324, ME 417
+ME 428
+Design Project I
+3 credits
+The first course in a two semester sequence that provides a complete design experience under professional guidance. The course covers: the product realization process, financial analysis, quality, patents, ethics and case studies. The students initiate a design project early in the semester to be completed in ME 438. Prereq: senior standing in ME
+Prerequisites:
+ME 324, ME 329, ME 333, ME 336, ME 341, ME 417
+ME 436W
+Mechanical Engineering Experimentation II
+2 credits
+Experimental and analytical studies of phenomena and performance of fluid flow, heat transfer, thermodynamics, refrigeration and mechanical power systems. Extensive writing component.
+Prerequisites:
+ME 291, ME 324, ME 329
+ME 438W
+Design Project II
+3 credits
+The second course of a two semester sequence providing a complete design experience and introduction to professional practice. This course includes: completion of the design project, design presentations, and the final design report. Students will prepare for and complete the Fundamentals of Engineering exam.
+Prerequisites:
+ME 428
+ME 463
+Automatic Controls
+3 credits
+Analysis of control systems using the methods of Evans, Nyquist and Bode. Improvement of system performance by feedback compensation. Introduction to digital control. Includes significant design component.
+Prerequisites:
+ME 341
+ME 466
+Mechanical Engineering Experimentation III
+2 credits
+Experiments in vibrations: Motion measurement, force measurement, free vibration, frequency response, impact response, noise, signal processing. Experiments in control: system modelling and characterization in the time and frequency domains, feedback and compensation, PID control, control of velocity and position. This course includes laboratory.
+Prerequisites:
+ME 463
+ME 492
+Mechanical Engineering Seminar
+1 credits
+To acquaint students with various engineering careers, various industries, and various societal and ethical problems. Prereq: senior standing in ME
+Prerequisites:
+Senior standing in Mechanical Engineering
+Major Restricted Electives
+Mechanical Engineering Electives
+- Choose 6 Credit(s). Consult with your advisor for selection of appropriate mechanical engineering electives.
+Math/Science Electives
+- Choose 4 Credit(s).
+BIOL 105
+General Biology I
+4 credits
+Study of biological processes at the suborganismal level including cell chemistry, metabolism, reproduction, genetics, and complex tissue physiology. Laboratory and discussion sessions stress problem solving and experimental design.
+Prerequisites:
+none
+Goal Areas: GE-03
+CHEM 202
+General Chemistry II
+5 credits
+Continuation of the basic principles of chemistry including properties of solutions, kinetics, acids and bases, equilibria, buffers, precipitation reactions, electron transfer reactions, electrochemistry, entropy and free energy. Laboratory will reinforce lecture concepts.
+Prerequisites:
+"C" (2.0) or higher in CHEM 201
+ENVR 101
+Perspectives in Environmental Science
+4 credits
+This course is designed to introduce students to the complex field of environmental science. Reading assignments, lectures, discussions and other class assignments will introduce students to the structure and functions of ecosystems, the concept of sustainability, issues in environmental protection with an emphasis on global commons, the interrelationships between environment, culture, government and economics and what individuals or groups can do to influence environmental policy/rules.
+Prerequisites:
+none
+Goal Areas: GE-08, GE-10
+MATH 247
+Linear Algebra I
+4 credits
+Matrices, determinants, systems of linear equations, vector spaces, linear transformations, and characteristic value problems.
+Prerequisites:
+MATH 122 with "C" (2.0) or better or consent
+MATH 422
+Partial Differential Equations
+4 credits
+This course presents the theory, computations, and applications of partial differential equations and Fourier series.
+Prerequisites:
+MATH 223 and MATH 321 with "C" (2.0) or better or consent
+PHYS 223
+General Physics III
+3 credits
+Designed for science and engineering students. Calculus-based physics. Covers fluids, thermodynamics, mechanical and sound waves, geometrical optics, physical optics, and modern physics. Lecture only. (Associated laboratory course is PHYS 233.) Pre: MATH 121 with a Cor better; and PHYS 221 with a C or better. MATH 122 must be completed before taking this course or taken concurrently. Spring
+Prerequisites:
+MATH 121 with a "C" or better; and PHYS 221 with a "C" or better
+PHYS 233
+General Physics III Laboratory
+1 credits
+Designed for science and engineering students. Laboratory course accompanying PHYS 223. Experiments involving fluids, thermodynamics, mechanical waves, geometrical optics, and physical optics. Laboratory only. Prereq: PHYS 221 with a C or better; and PHYS 223 or concurrent. Spring
+Prerequisites:
+PHYS 221 with a "C" or better; and PHYS 223 or concurrent.
+Degree Plan
+First Year
+Fall
+- 16 Credits
+ENG 101
+Foundations of Writing & Rhetoric
+4 credits
+Students in this course approach writing as a subject of study by investigating how writing works across a variety of contexts.
+Prerequisites:
+none
+Goal Areas: GE-1A
+ME 101
+Introduction to Engineering - Mechanical
+2 credits
+To prepare students for a career in engineering with emphasis on mechanical; introduce the engineering fundamentals and the skills necessary to have a successful learning experience; and to prepare students for engineering education and profession through interactions with upper-class engineering students and practitioners.
+Prerequisites:
+ACT Math Subscore of 23 or higher.
+MATH 121
+Calculus I
+4 credits
+Limits, continuity, the derivative and applications, transcendental functions, L'Hopital's Rule, and development of the Riemann integral.
+Prerequisites:
+Satisfy Placement Table in this section, MATH 115 or both MATH 112 and MATH 113 with "C" (2.0) or better.
+Goal Areas: GE-04
+CHEM 191
+Chemistry Applications
+3 credits
+From an engineering perspective, concepts of general chemistry will be investigated. Topics include atomic structure, stiochiometry, gas laws, periodic trends chemical bonds, thermodynamics, kinetics and organic chemistry.
+Prerequisites:
+High school chemistry or "C" (2.0) or higher in CHEM 104. Student must demonstrate math placement requirements at or above MATH 115 in the placement chart. See Mathematics for details.
+Goal Areas: GE-02, GE-03
+Spring
+- 16 Credits
+ME 103
+Computer Graphics Communication
+1 credits
+Standards of graphics communication. Orthographic projections, dimensioning, tolerancing, section views. Extensive use of modern software to create engineering drawings. Introduction to solid modeling of parts and assemblies. This course includes laboratory component.
+Prerequisites:
+none
+MATH 122
+Calculus II
+4 credits
+Techniques of integration, applications of integration, improper integrals, numerical integration, the calculus of parametric curves, and infinite series and sequences.
+Prerequisites:
+MATH 121 with "C" (2.0) or better or consent
+ME 201
+Introduction to Problem Solving and Engineering Design
+2 credits
+This course has two main parts. Part one covers problem solving and fundamentals of programming including data types, decision making, repetitive loops, and arrays. Engineering applications requiring programming are included. Part two covers engineering design philosophy and methodology, communication skills, and teamwork. A design project is also included. Coreq: ME 103, MATH 121
+Prerequisites:
+ME 101
+PHYS 221
+General Physics I
+4 credits
+Designed for science and engineering students. Calculus-based physics. Covers elementary mechanics including kinematics, statics, equilibrium and dynamics of particles, work and energy, rotational motion, gravitation, and oscillation. Lecture and Laboratory. MATH 121 must be completed with a C or better prior to taking this course or must be taken concurrently. High school physics or PHYS 101 is also strongly encouraged. Fall, Spring
+Prerequisites:
+none
+Goal Areas: GE-02, GE-03
+EE 244
+Introduction to Digital Systems
+2 credits
+Simple coding schemes, Boolean algebra fundamentals, elements of digital building blocks such as gates, flip-flops, shift registers, memories, etc.; basic engineering aspects of computer architecture.
+Prerequisites:
+none
+Second Year
+Fall
+- 15 Credits
+ME 212
+Statics
+3 credits
+Resultants of force systems, equilibrium, analysis of forces acting on structural and machine elements, friction, second moments, virtual work.
+Prerequisites:
+PHYS 221
+PHYS 222
+General Physics II
+3 credits
+Designed for science and engineering students. Calculus-based physics. Covers electrical charge and field; magnetic field and its sources; current and resistance; simple DC and AC circuits; and electromagnetic induction. Lecture only. (Associated laboratory course is PHYS 232.) MATH 121 must be completed with a C or better prior to taking this course. MATH 122 must be completed before taking this course or taken concurrently. Fall, Spring
+Prerequisites:
+MATH 121 with a "C" or better; PHYS 221 with a "C" or better.
+EE 230
+Circuit Analysis I
+3 credits
+This course is meant to develop Electrical Engineering Circuit Analysis skills in DC and AC circuits. It includes circuit laws and theorems, mesh and node analysis. Natural and step response of RL, RC, and RLC circuits.
+Prerequisites:
+PHYS 222 or concurrent, MATH 321 or concurrent
+PHYS 232
+General Physics II Laboratory
+1 credits
+Designed for science and engineering students. Laboratory course accompanying PHYS 222. Experiments involving electric and magnetic fields, electric potential, electric and magnetic forces, and simple circuits. Laboratory only. Prereq: PHYS 221 with a C or better; and PHYS 222 or concurrent. Fall, Spring
+Prerequisites:
+PHYS 221 with a "C" or better; and PHYS 222 or concurrent.
+EE 240
+Evaluation of Circuits
+1 credits
+Laboratory support for EE 230. Use of laboratory instrumentation to measure currents and voltages associated with DC and AC circuits. Statistical analysis of measurement data. Measurements of series, parallel and series-parallel DC and AC circuits. Measurement of properties for circuits using operational amplifiers. Measurement of transient responses for R-L and R-C circuits. Simulation of DC and AC circuits using PSPICE. Concepts covered in EE 230 will be verified in the laboratory. Pre-req: Must be taken concurrently with EE 230.
+Prerequisites:
+Must be taken concurrently with EE 230.
+MATH 321
+Ordinary Differential Equations
+4 credits
+This course presents the theory, computations, and applications of first and second order differential equations and two-dimensional systems.
+Prerequisites:
+MATH 122 with "C" (2.0) or better or consent
+Spring
+- 16 Credits
+ME 203
+Geometric Dimensioning and Tolerancing in Engineering Design
+2 credits
+This course is intended to provide the students with an understanding of the principles and methodologies of geometric dimensioning and tolerancing. Topics include: Datums, Material condition symbols, Tolerances of Form and profile, Tolerances of orientation and runout, locations tolerances, and Virtual condition. This course includes laboratory component. Coreq: ME 103
+Prerequisites:
+ME 103, ME 201
+ME 214
+Dynamics
+3 credits
+Kinematics and kinetics of particles, systems of particles and rigid bodies, work-energy, linear and angular impulse momentum, vibrations.
+Prerequisites:
+ME 212
+MATH 223
+Calculus III
+4 credits
+Surfaces, vector-valued functions, partial differentiation, multiple integration, and vector calculus.
+Prerequisites:
+MATH 122 with "C" (2.0) or better, or consent
+ME 223
+Mechanics of Materials
+3 credits
+Load deformation, stress, strain, stress-strain relationship, buckling, energy concepts, stress analysis of structural and machine elements.
+Prerequisites:
+ME 212
+Third Year
+Fall
+- 15 Credits
+ME 241
+Thermodynamics
+3 credits
+Fundamental concepts of thermodynamics. Thermal properties of substances and state equations. Conservation of mass, first and second laws. Examples of applications to different engineering systems.
+Prerequisites:
+PHYS 221
+ME 291
+Engineering Analysis
+3 credits
+Probability and statistics. Uncertainty, distributions. Numerical solution of algebraic, transcendental and differential equations. Numerical integration and differentiation. Structured programming language required.
+Prerequisites:
+MATH 122, PHYS 221. Select one from EE 107, CIVE 201, ME 201
+ME 306
+Materials Science
+3 credits
+Physical principles of elastic and plastic deformation of materials. Dislocation theory. Fatigue, creep, fracture, hardness, phase diagrams and other mechanical phenomena in materials. Ceramics and composite materials. Residual stresses. Lecture and lab demonstrations.
+Prerequisites:
+ME 223
+ME 321
+Fluid Mechanics
+3 credits
+Introduction to fluid properties, fluid statics, buoyancy, fluid kinematics, Bernoulli's equation, control volume and differential approach to flow conservation equations, dimensional analysis, similitude, viscous flow in pipes, flow over immersed bodies, and pumps. Includes significant design component.
+Prerequisites:
+MATH 223, ME 214
+ME 341
+Linear Systems
+3 credits
+Analysis of linear systems in the time and frequency domains. Physical systems modeled and analyzed using time domain techniques. Fourier and Laplace Transforms.
+Prerequisites:
+ME 201, ME 214, PHYS 222, EE 230, PHYS 232, EE 240, ME 281, MATH 321
+Spring
+- 17 Credits
+ME 324
+Heat Transfer
+3 credits
+Steady and unsteady conduction. Free and forced convection. Heat transfer by radiation. Combined modes of heat transfer. Elements of heat exchangers design. Includes significant design component.
+Prerequisites:
+ME 241, ME 321
+ME 329
+Applied Thermodynamics
+3 credits
+Energy analysis and design of thermodynamic systems including power and refrigeration cycles. Thermodynamic relations. Application of thermodynamics to mixtures and solutions. Psychometrics. Introduction to chemical thermodynamics. Third law of thermodynamics. Includes significant design component.
+Prerequisites:
+CHEM 191, ME 241
+ME 333
+Manufacturing Processes
+3 credits
+Introduction to manufacturing, tribology, casting, bulk deformation, sheet metal forming, material removal, joining, polymers, powder metals, ceramics, automation, integrated systems. Design for manufacture. Includes significant design component.
+Prerequisites:
+ME 206, ME 223
+ME 336
+Mechanical Engineering Experimentation I
+2 credits
+Experiments in Mechanical Engineering, load-deformation, load-failure, fatigue, impact, hardness. Introduction to traditional machining and material processing. This course includes laboratory.
+Prerequisites:
+ME 306
+ME 417
+Design of Machine Elements
+3 credits
+Application of principles of mechanics to the design of various machine elements such as gears, bearings, springs, rivets, welding. Stresses in mechanical elements. Design factors, fatigue, manufacturability. Lectures and design projects. Includes significant design content.
+Prerequisites:
+ME 214, ME 223
+Fourth Year
+Fall
+- 18 Credits
+ME 420
+Computer Aided Engineering
+3 credits
+This course provides the students with sound understanding of both solid modeling techniques and finite element analysis. It covers the major features as well as feature manipulation techniques. It also provides a background in deriving, understanding and applying the stiffness matrices and finite element equations for various types of finite elements and systems. Static stress analyses, sensitivity studies and optimization studies are covered. Includes significant design component. Prerequisite: ME 203, ME 324, ME 417 Fall
+Prerequisites:
+ME 203, ME 324, ME 417
+ME 428
+Design Project I
+3 credits
+The first course in a two semester sequence that provides a complete design experience under professional guidance. The course covers: the product realization process, financial analysis, quality, patents, ethics and case studies. The students initiate a design project early in the semester to be completed in ME 438. Prereq: senior standing in ME
+Prerequisites:
+ME 324, ME 329, ME 333, ME 336, ME 341, ME 417
+ME 436W
+Mechanical Engineering Experimentation II
+2 credits
+Experimental and analytical studies of phenomena and performance of fluid flow, heat transfer, thermodynamics, refrigeration and mechanical power systems. Extensive writing component.
+Prerequisites:
+ME 291, ME 324, ME 329
+ME 463
+Automatic Controls
+3 credits
+Analysis of control systems using the methods of Evans, Nyquist and Bode. Improvement of system performance by feedback compensation. Introduction to digital control. Includes significant design component.
+Prerequisites:
+ME 341
+ME 492
+Mechanical Engineering Seminar
+1 credits
+To acquaint students with various engineering careers, various industries, and various societal and ethical problems. Prereq: senior standing in ME
+Prerequisites:
+Senior standing in Mechanical Engineering
+Spring
+- 15 Credits
+ME 438W
+Design Project II
+3 credits
+The second course of a two semester sequence providing a complete design experience and introduction to professional practice. This course includes: completion of the design project, design presentations, and the final design report. Students will prepare for and complete the Fundamentals of Engineering exam.
+Prerequisites:
+ME 428
+ME 466W
+Mechanical Engineering Experimentation III
+2 credits
+Experiments in vibrations: Motion measurement, force measurement, free vibration, frequency response, impact response, noise, signal processing. Experiments in control: system modelling and characterization in the time and frequency domains, feedback and compensation, PID control, control of velocity and position. This course includes laboratory. Extensive writing component.
+Prerequisites:
+ME 344, ME 463Initial deposit: N/A
+
+
+Application Fee for Undergraduate: $ 20
+Application Fee for Postgraduate: $ 40
+
+
+Annual Fee for Undergraduate: $ 18,812
+Annual Fee for Postgraduate: $ 14,918
+
+
+English Language Requirements Undergraduate only:
+TOEFL iBT (internet-based test) score of 61 or better
+Pearson Test of English (PTE) score of 47 or better
+IELTS academic test score of 5.5 or better
+
+
+English Language Requirements Postgraduate only:
+Different for every course and given in course content 
+
+
+Entry Requirements Undergraduate only:
+A cumulative high school GPA of 3.0 or higher or A rank in the top 50% of your high school class or An ACT composite score of 21 or higher and a minimum cumulative high school GPA of 2.7. If you do not meet the above admission requirements, you can submit additional information to consider when reviewing your application.
+
+
+Entry Requirements Postgraduate only:
+Applicants must possess the equivalent of a U.S. Bachelor's degree to be considered for graduate programs at Minnesota State Mankato. The degree must be earned at an institution recognized and approved to award the degree. GRE (Graduate Record Examination) is required by some academic programs.
+
+English Language requirements of graduate programs is different for each course. Graduate programs only have IELTS and TOEFL test scores.
+For Graduate Entry Requirements, some requirements like GPA, Score are mentioned on the course page so add them too.

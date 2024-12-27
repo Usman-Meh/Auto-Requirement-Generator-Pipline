@@ -1,0 +1,76 @@
+Link: https://cset.mnsu.edu/academic-programs/information-technology/cyber-risk-analysis-graduate-certificate/
+
+College of Science, Engineering & Technology
+Academic Programs
+Master of Science in Information Technology
+Cyber Risk Analysis, Graduate Certificate
+Master of Science in Information Technology Section
+Master of Science in Information Technology
+Information Security and Risk Management, Professional Science Master's (PSM)
+Information Technology, Master of Science (MS)
+Data Science, Master of Science (MS)
+Cyber Risk Analysis, Graduate Certificate
+Database Technology, Graduate Certificate
+Information Technology Faculty & Staff
+Cyber Risk Analysis (GC)
+This graduate certificate provides students with the knowledge and skills they need to analyze cyber risks, communicate cyber risks to technical and non-technical audiences, and to take steps to manage those risks.
+Current Catalog Year
+2024-2025
+Degree
+Certificate
+Major /                                         Total Credits
+9 / 9
+Locations
+Online
+Apply
+Program Requirements
+Program
+                                    Requirements
+Common Core
+CIS 650
+Researching and Analyzing Information Security Risks
+3 credits
+Content covered will include the following: scientific process; sampling bias; hypothesis tests; confidence intervals; risk analysis vs assessment; statistical analysis concepts. Issues with qualitative and quantitative risk analysis methodologies. Exposure to and practice with multiple risk analysis methodologies, including at least one that is considered a standard.
+Prerequisites:
+none
+CIS 653
+Reporting Information Security Risks
+3 credits
+Content covered will include the following: analyze audience; define report outline and objectives for target audience (IT, executives, audit & compliance); ethos/pathos/logos concepts; white papers. Data misrepresentations, intentional or unintentional; appropriate use of data visualization tools and dashboards; representing needle in haystack data (low volume, high risk).
+Prerequisites:
+none
+CIS 655
+Information Risk Management
+3 credits
+Risk management strategies. Human factors, resistance to change. Design, development and evaluation of security controls; catalog of security controls; performance metrics. Management oversight; cost-benefit analysis, business impact analysis; policies, processes, standards. Technical, administrative, physical controls.
+Prerequisites:
+noneInitial deposit: N/A
+
+
+Application Fee for Undergraduate: $ 20
+Application Fee for Postgraduate: $ 40
+
+
+Annual Fee for Undergraduate: $ 18,812
+Annual Fee for Postgraduate: $ 14,918
+
+
+English Language Requirements Undergraduate only:
+TOEFL iBT (internet-based test) score of 61 or better
+Pearson Test of English (PTE) score of 47 or better
+IELTS academic test score of 5.5 or better
+
+
+English Language Requirements Postgraduate only:
+Different for every course and given in course content 
+
+
+Entry Requirements Undergraduate only:
+A cumulative high school GPA of 3.0 or higher or A rank in the top 50% of your high school class or An ACT composite score of 21 or higher and a minimum cumulative high school GPA of 2.7. If you do not meet the above admission requirements, you can submit additional information to consider when reviewing your application.
+
+
+Entry Requirements Postgraduate only:
+Applicants must possess the equivalent of a U.S. Bachelor's degree to be considered for graduate programs at Minnesota State Mankato. The degree must be earned at an institution recognized and approved to award the degree. GRE (Graduate Record Examination) is required by some academic programs.
+
+English Language requirements of graduate programs is different for each course. Graduate programs only have IELTS and TOEFL test scores.
+For Graduate Entry Requirements, some requirements like GPA, Score are mentioned on the course page so add them too.

@@ -1,0 +1,349 @@
+Link: https://cset.mnsu.edu/academic-programs/food-science-technology/food-science-technology-bachelor-of-science-bs/
+
+College of Science, Engineering & Technology
+Academic Programs
+Food Science Technology
+Food Science Technology, Bachelor of Science (BS)
+Food Science Technology Section
+Food Science Technology
+Food Science Technology, Bachelor of Science (BS)
+Food Science Technology (BS)
+Current Catalog Year
+2024-2025
+Degree
+Bachelor of Science
+Major /                                         Total Credits
+68 / 120
+Locations
+Mankato
+Apply
+Program Requirements
+Degree Plan
+Program
+                                    Requirements
+Required General Education
+BIOL 105
+General Biology I
+4 credits
+Study of biological processes at the suborganismal level including cell chemistry, metabolism, reproduction, genetics, and complex tissue physiology. Laboratory and discussion sessions stress problem solving and experimental design.
+Prerequisites:
+none
+Goal Areas: GE-03
+STAT 154
+Elementary Statistics
+4 credits
+An introduction to statistical concepts and methods that is applicable to all disciplines. Topics include descriptive measures of data, probability and probability distributions, statistical inference, tests of hypotheses, confidence intervals, correlation, linear regression, and analysis of variance. The use of statistical software will be emphasized. Prereq: ACT Math sub-score of 19 or higher, successful completion of MATH 098 or appropriate placement scores (see Placement Information under Statistics) Fall, Spring, Summer GE-4
+Prerequisites:
+Satisfy Placement Table in this section, or MATH 098 with grade of P.
+Goal Areas: GE-02, GE-04
+Math
+- Choose 4 Credit(s). Math 121 Calculus is strongly suggested if graduate study is intended.
+MATH 112
+College Algebra
+4 credits
+Concepts of algebra (real numbers, exponents, polynomials, rational expressions), equations and inequalities, functions and graphs, polynomial and rational functions, exponential and logarithmic functions, systems of equations and inequalities, matrices and determinants, conic sections, sequences and series, probability, and binomial theorem.
+Prerequisites:
+Satisfy Placement Table in this section, or MATH 098 with grade of P.
+Goal Areas: GE-04
+MATH 115
+Precalculus Mathematics
+4 credits
+This course will cover topics of precalculus mathematics. Topics covered will include functions, graphs of functions, exponential and logarithmic functions, conic sections, systems of equations and inequalities, matrices, trigonometric functions, circular functions, vectors and complex numbers, induction, series and probability.
+Prerequisites:
+Satisfy Math Placement Table in this section, or grade of P in MATH 098.
+Goal Areas: GE-04
+MATH 121
+Calculus I
+4 credits
+Limits, continuity, the derivative and applications, transcendental functions, L'Hopital's Rule, and development of the Riemann integral.
+Prerequisites:
+Satisfy Placement Table in this section, MATH 115 or both MATH 112 and MATH 113 with "C" (2.0) or better.
+Goal Areas: GE-04
+Prerequisites to the Major
+BIOL 220
+Human Anatomy
+4 credits
+Systems approach to the structure of the human body. The course is designed for students majoring in biology or health related programs. Lab included.
+Prerequisites:
+none
+Major Common Core
+BIOL 106
+General Biology II
+4 credits
+Study of biological processes at the organismal level including a survey of life forms (viruses, bacteria, protists, fungi, plants, and animals), their evolution, and ecology. Laboratory and discussion sessions stress problem solving and experimental design.
+Prerequisites:
+none
+BIOL 270
+Microbiology
+4 credits
+An introduction to the general principles and methods used in the study of microorganisms. Lab included. Prereq: One BIOL course and one semester of chemistry from among CHEM 104, CHEM 106, CHEM 111, or CHEM 201. Fall, Spring, Summer
+Prerequisites:
+One BIOL course and one semester of chemistry from among CHEM 104, CHEM 106, CHEM 111, or CHEM 201
+Goal Areas: GE-03
+BIOL 330
+Principles of Human Physiology
+4 credits
+Principles of functions of human cells, organs, and systems with an emphasis on organ/system interactions. This course is designed for students majoring in biology, chemistry, or related sciences, and medically-related areas. Includes a laboratory with a research and medical emphasis.
+Prerequisites:
+BIOL 220, CHEM 104 or CHEM 106 or CHEM 111 or CHEM 201
+BIOL 453
+Biological Engineering Analysis I
+4 credits
+The application of engineering principles and skills as applied to fermentation and to biological product recovery. Prereq: BIOL 270 and one semester each of calculus, physics, and organic chemistry, taken concurrently with BIOL 456.
+Prerequisites:
+BIOL 270 and one semester each of calculus, physics, and organic chemistry, taken concurrently with BIOL 456.
+BIOL 478
+Food Microbiology and Sanitation
+4 credits
+The role microbes play in production and spoilage of food products, as prepared for mass market. Topics include foodborn pathogens, epidemiology and control, essential principles in sanitation including Hazard Analysis/Critical Control Point and ISO 9000 requirements. Lab included.
+Prerequisites:
+BIOL 105, BIOL 106 and BIOL 270
+CHEM 201
+General Chemistry I
+5 credits
+Introduction to the basic principles of chemistry including atomic and molecular structure, bonding, chemical reactions, stoichiometry, thermodynamics and states of matter. Laboratory will reinforce lecture concepts. Prereq: C or higher in MATH 112 or the equivalent; high school chemistry or C or higher in CHEM 104
+Prerequisites:
+"C" (2.0) or higher in MATH 112 or the equivalent; high school chemistry or "C" (2.0) or higher in CHEM 104.
+Goal Areas: GE-02, GE-03
+CHEM 202
+General Chemistry II
+5 credits
+Continuation of the basic principles of chemistry including properties of solutions, kinetics, acids and bases, equilibria, buffers, precipitation reactions, electron transfer reactions, electrochemistry, entropy and free energy. Laboratory will reinforce lecture concepts.
+Prerequisites:
+"C" (2.0) or higher in CHEM 201
+CHEM 305
+Analytical Chemistry
+4 credits
+Introduction to the principles of chemical analysis, with emphasis on classical methods of analysis. Lectures will stress the theory of chemical measurements and sample handling. Laboratory exercises will provide students with opportunities to explore calibration methods, method development, and established procedures for volumetric and gravimetric analyses. Basic atomic spectroscopy is also presented.
+Prerequisites:
+"C" (2.0) or higher in CHEM 202
+CHEM 322
+Organic Chemistry I
+4 credits
+Introduction to organic nomenclature, structure, bonding, chemical reactivity, organic acid-base reactions, mechanisms and stereochemistry. IR, MS, and NMR spectroscopy will be introduced. The chemistry of alkanes, alkyl halides, alkenes, alkynes, and alcohols will be covered. Laboratory illustrates synthetic techniques and the preparation and reactions of functional groups discussed during lecture.
+Prerequisites:
+CHEM 202, "C" (2.0) or higher in CHEM 202.
+CHEM 360
+Principles of Biochemistry
+4 credits
+Analysis of the structure and metabolism of biologically important compounds. This intermediate-level course is designed for students in the medical technology, food science, chemistry education, chemistry and pre-professional health majors. The laboratory teaches basic biochemical techniques.
+Prerequisites:
+CHEM 322. CHEM 324 is strongly recommended.
+ENG 271W
+Technical Communication
+4 credits
+Introduction to learning the written and oral communication of technical information. Assignments include writing and presenting proposals, reports, and documentation. Emphasis on use of rhetorical analysis, computer applications, collaborative writing, and usability testing to complete technical communication tasks in the workplace.
+Prerequisites:
+ENG 101
+Goal Areas: GE-02, GE-13
+FCS 150
+Cooking and Culture
+3 credits
+Introduces students to basic food science, food preparation and culinary techniques. The course is taught from the lens of different global cultures and the roles of individuals and nations in a global context using food habits as a model. Foods from around the world are prepared by students to develop culinary skills.
+Prerequisites:
+none
+FCS 242
+Nutrition for Healthcare Professionals
+3 credits
+The science of six nutrient classes, including digestion through metabolism and excretion, sources, functions, deficiencies and excess symptoms. The course covers the foundational knowledge and application of nutrition knowledge to clinical care, including weight control and common chronic conditions requiring nutrition therapy.
+Prerequisites:
+Select One Course: CHEM 106 or CHEM 111
+FCS 340
+Food Science
+4 credits
+This class will explore why, how, and when physical and chemical phenomena occur during the preparation of food. Includes discussion and laboratory experience demonstrating how preparation methods affect food quality, composition, and nutritive value. Includes National Restaurant Association ServSafe Certification.
+Prerequisites:
+FCS 150
+Major Restricted Electives
+Choose 3 Credit(s).
+BIOL 452
+Biological Instrumentation
+3 credits
+The principle and operation of instruments and their application to biological research. Types of instrumentation examined include spectroscopic, chromatographic, electroanalytic, radiographic, and imaging. Laboratory Information Management systems (LIMS) will also be examined. Emphasis is placed on GLP, GMP, and ISO 9000 practices.
+Prerequisites:
+BIOL 105, BIOL 106, or consent
+Practicum
+- Choose 2 - 4 Credit(s).
+BIOL 497
+Internship I
+1-12 credits
+Experience in applied biology according to a prearranged training program for a minimum of five 40-hour weeks.
+Prerequisites:
+Consent
+BIOL 499
+Individual Study
+1-4 credits
+Individual Study
+Prerequisites:
+none
+Degree Plan
+First Year
+Fall
+- 15 Credits
+BIOL 105
+General Biology I
+4 credits
+Study of biological processes at the suborganismal level including cell chemistry, metabolism, reproduction, genetics, and complex tissue physiology. Laboratory and discussion sessions stress problem solving and experimental design.
+Prerequisites:
+none
+Goal Areas: GE-03
+MATH 112
+College Algebra
+4 credits
+Concepts of algebra (real numbers, exponents, polynomials, rational expressions), equations and inequalities, functions and graphs, polynomial and rational functions, exponential and logarithmic functions, systems of equations and inequalities, matrices and determinants, conic sections, sequences and series, probability, and binomial theorem.
+Prerequisites:
+Satisfy Placement Table in this section, or MATH 098 with grade of P.
+Goal Areas: GE-04
+FCS 150
+Cooking and Culture
+3 credits
+Introduces students to basic food science, food preparation and culinary techniques. The course is taught from the lens of different global cultures and the roles of individuals and nations in a global context using food habits as a model. Foods from around the world are prepared by students to develop culinary skills.
+Prerequisites:
+none
+Spring
+- 17 Credits
+ENG 101
+Foundations of Writing & Rhetoric
+4 credits
+Students in this course approach writing as a subject of study by investigating how writing works across a variety of contexts.
+Prerequisites:
+none
+Goal Areas: GE-1A
+BIOL 106
+General Biology II
+4 credits
+Study of biological processes at the organismal level including a survey of life forms (viruses, bacteria, protists, fungi, plants, and animals), their evolution, and ecology. Laboratory and discussion sessions stress problem solving and experimental design.
+Prerequisites:
+none
+CHEM 201
+General Chemistry I
+5 credits
+Introduction to the basic principles of chemistry including atomic and molecular structure, bonding, chemical reactions, stoichiometry, thermodynamics and states of matter. Laboratory will reinforce lecture concepts. Prereq: C or higher in MATH 112 or the equivalent; high school chemistry or C or higher in CHEM 104
+Prerequisites:
+"C" (2.0) or higher in MATH 112 or the equivalent; high school chemistry or "C" (2.0) or higher in CHEM 104.
+Goal Areas: GE-02, GE-03
+BIOL 220
+Human Anatomy
+4 credits
+Systems approach to the structure of the human body. The course is designed for students majoring in biology or health related programs. Lab included.
+Prerequisites:
+none
+Second Year
+Fall
+- 16 Credits
+CHEM 202
+General Chemistry II
+5 credits
+Continuation of the basic principles of chemistry including properties of solutions, kinetics, acids and bases, equilibria, buffers, precipitation reactions, electron transfer reactions, electrochemistry, entropy and free energy. Laboratory will reinforce lecture concepts.
+Prerequisites:
+"C" (2.0) or higher in CHEM 201
+FCS 242
+Nutrition for Healthcare Professionals
+3 credits
+The science of six nutrient classes, including digestion through metabolism and excretion, sources, functions, deficiencies and excess symptoms. The course covers the foundational knowledge and application of nutrition knowledge to clinical care, including weight control and common chronic conditions requiring nutrition therapy.
+Prerequisites:
+Select One Course: CHEM 106 or CHEM 111
+ENG 271W
+Technical Communication
+4 credits
+Introduction to learning the written and oral communication of technical information. Assignments include writing and presenting proposals, reports, and documentation. Emphasis on use of rhetorical analysis, computer applications, collaborative writing, and usability testing to complete technical communication tasks in the workplace.
+Prerequisites:
+ENG 101
+Goal Areas: GE-02, GE-13
+BIOL 330
+Principles of Human Physiology
+4 credits
+Principles of functions of human cells, organs, and systems with an emphasis on organ/system interactions. This course is designed for students majoring in biology, chemistry, or related sciences, and medically-related areas. Includes a laboratory with a research and medical emphasis.
+Prerequisites:
+BIOL 220, CHEM 104 or CHEM 106 or CHEM 111 or CHEM 201
+Spring
+- 15 Credits
+STAT 154
+Elementary Statistics
+4 credits
+An introduction to statistical concepts and methods that is applicable to all disciplines. Topics include descriptive measures of data, probability and probability distributions, statistical inference, tests of hypotheses, confidence intervals, correlation, linear regression, and analysis of variance. The use of statistical software will be emphasized. Prereq: ACT Math sub-score of 19 or higher, successful completion of MATH 098 or appropriate placement scores (see Placement Information under Statistics) Fall, Spring, Summer GE-4
+Prerequisites:
+Satisfy Placement Table in this section, or MATH 098 with grade of P.
+Goal Areas: GE-02, GE-04
+BIOL 270
+Microbiology
+4 credits
+An introduction to the general principles and methods used in the study of microorganisms. Lab included. Prereq: One BIOL course and one semester of chemistry from among CHEM 104, CHEM 106, CHEM 111, or CHEM 201. Fall, Spring, Summer
+Prerequisites:
+One BIOL course and one semester of chemistry from among CHEM 104, CHEM 106, CHEM 111, or CHEM 201
+Goal Areas: GE-03
+CHEM 305
+Analytical Chemistry
+4 credits
+Introduction to the principles of chemical analysis, with emphasis on classical methods of analysis. Lectures will stress the theory of chemical measurements and sample handling. Laboratory exercises will provide students with opportunities to explore calibration methods, method development, and established procedures for volumetric and gravimetric analyses. Basic atomic spectroscopy is also presented.
+Prerequisites:
+"C" (2.0) or higher in CHEM 202
+Third Year
+Fall
+- 15 Credits
+CHEM 322
+Organic Chemistry I
+4 credits
+Introduction to organic nomenclature, structure, bonding, chemical reactivity, organic acid-base reactions, mechanisms and stereochemistry. IR, MS, and NMR spectroscopy will be introduced. The chemistry of alkanes, alkyl halides, alkenes, alkynes, and alcohols will be covered. Laboratory illustrates synthetic techniques and the preparation and reactions of functional groups discussed during lecture.
+Prerequisites:
+CHEM 202, "C" (2.0) or higher in CHEM 202.
+FCS 340
+Food Science
+4 credits
+This class will explore why, how, and when physical and chemical phenomena occur during the preparation of food. Includes discussion and laboratory experience demonstrating how preparation methods affect food quality, composition, and nutritive value. Includes National Restaurant Association ServSafe Certification.
+Prerequisites:
+FCS 150
+BIOL 453
+Biological Engineering Analysis I
+4 credits
+The application of engineering principles and skills as applied to fermentation and to biological product recovery. Prereq: BIOL 270 and one semester each of calculus, physics, and organic chemistry, taken concurrently with BIOL 456.
+Prerequisites:
+BIOL 270 and one semester each of calculus, physics, and organic chemistry, taken concurrently with BIOL 456.
+Spring
+- 14 Credits
+CHEM 360
+Principles of Biochemistry
+4 credits
+Analysis of the structure and metabolism of biologically important compounds. This intermediate-level course is designed for students in the medical technology, food science, chemistry education, chemistry and pre-professional health majors. The laboratory teaches basic biochemical techniques.
+Prerequisites:
+CHEM 322. CHEM 324 is strongly recommended.
+BIOL 478
+Food Microbiology and Sanitation
+4 credits
+The role microbes play in production and spoilage of food products, as prepared for mass market. Topics include foodborn pathogens, epidemiology and control, essential principles in sanitation including Hazard Analysis/Critical Control Point and ISO 9000 requirements. Lab included.
+Prerequisites:
+BIOL 105, BIOL 106 and BIOL 270
+Fourth Year
+Fall
+- 14 Credits
+Spring
+- 14 CreditsInitial deposit: N/A
+
+
+Application Fee for Undergraduate: $ 20
+Application Fee for Postgraduate: $ 40
+
+
+Annual Fee for Undergraduate: $ 18,812
+Annual Fee for Postgraduate: $ 14,918
+
+
+English Language Requirements Undergraduate only:
+TOEFL iBT (internet-based test) score of 61 or better
+Pearson Test of English (PTE) score of 47 or better
+IELTS academic test score of 5.5 or better
+
+
+English Language Requirements Postgraduate only:
+Different for every course and given in course content 
+
+
+Entry Requirements Undergraduate only:
+A cumulative high school GPA of 3.0 or higher or A rank in the top 50% of your high school class or An ACT composite score of 21 or higher and a minimum cumulative high school GPA of 2.7. If you do not meet the above admission requirements, you can submit additional information to consider when reviewing your application.
+
+
+Entry Requirements Postgraduate only:
+Applicants must possess the equivalent of a U.S. Bachelor's degree to be considered for graduate programs at Minnesota State Mankato. The degree must be earned at an institution recognized and approved to award the degree. GRE (Graduate Record Examination) is required by some academic programs.
+
+English Language requirements of graduate programs is different for each course. Graduate programs only have IELTS and TOEFL test scores.
+For Graduate Entry Requirements, some requirements like GPA, Score are mentioned on the course page so add them too.

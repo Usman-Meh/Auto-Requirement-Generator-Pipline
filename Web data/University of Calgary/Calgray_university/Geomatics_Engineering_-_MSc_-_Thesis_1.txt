@@ -1,0 +1,196 @@
+Link: https://grad.ucalgary.ca/future-students/explore-programs/geomatics-engineering-msc-thesis
+
+Geomatics Engineering
+Master of Science (MSc)
+Thesis-based program
+Start your application
+Program overview
+Under a department that is meeting a strong demand throughout North America for its graduates, the research-based Geomatics Engineering (MSc Thesis) degree usually takes two years of full-time study beyond a bachelor’s degree. The Department of Geomatics offers worldwide excellence in graduate education and in research, with students learning from faculty members who have earned an international as well as national reputation. Varied and exciting careers in geomatics engineering involve skills ranging from computer modelling and lab experiments to field work, providing a satisfying indoor/outdoor balance in one of the emerging information technologies of the 21st Century.
+Completing this program
+Courses:
+Topics may include physical geodesy, GNSS theory and applications, Earth observation for the environment, geocomputation and more.
+Thesis:
+Students will be required to submit and defend an original theoretical or practical research thesis.
+Professional Development Seminar:
+Students take a professional development course on communication styles, presentation skills and more.
+Specializations
+Positioning, Navigation and Wireless Location
+Geodesy, Remote Sensing and Earth Observation
+Digital Imaging Systems
+GIScience and Land Tenure
+Energy and Environmental Systems (Interdisciplinary)
+Environmental Engineering (Interdisciplinary)
+Outcomes
+Industry, government agencies, space agencies, research institutions and academia related to the following sectors: land and industrial surveying, mapping, land tenure, navigation, location services, aerospace, internet of things, environment and hazards, energy and natural resources, agriculture, biomedical, civil, mining, transportation, robotics, automotive, electronics, computer software.
+A master of science’s degree in geomatics will give you the pre-requisite for a PhD.
+Thesis-based program
+Students are required to prepare a thesis and successfully defend in an open oral defense.
+Courses
+Minimum of four courses with a at least two Geomatics Engineering specific graduate courses. Professional seminars.
+Learn more about program requirements in the Academic Calendar
+Classroom delivery
+Time commitment
+Two years full-time; four years maximum
+Supervisor
+A supervisor is required, and must agree to oversee the student's research before admission will be granted
+Fees and funding
+See the Graduate Calendar for information on
+fees and fee regulations,
+and for information on
+awards and financial assistance
+.
+Virtual Tour
+Explore the University of Calgary (UCalgary) from anywhere. Experience all that UCalgary has to offer for your graduate student journey without physically being on campus. Discover the buildings, student services and available programs all from your preferred device.
+Take the FGS Virtual Tour
+Supervisors
+Learn about faculty available to supervise this degree.
+Please note: additional supervisors may be available.
+Contact the program
+for more information.
+Yang Gao
+Accepting Inquiries
+High-Precision GNSS and GNSS/INS Integration
+Derek Lichti
+Accepting Inquiries
+Terrestrial laser scanning, 3D range imaging, Dual fluoroscopic imaging
+Kyle O'Keefe
+Unavailable
+Global Navigation Satellite Systems (GNSS), Satellite and Ground-based Wireless Location, Ultra-wideband Ranging, Estimation for Navigaton and Wireless Location
+Emmanuel Stefanakis
+Accepting Inquiries
+Ruisheng Wang
+Accepting Inquiries
+LiDAR, 3D
+Xin Wang
+Accepting Inquiries
+GeoAI, Spatial Data Mining, Smart Cities, Location-based Social Networks
+Linlin (Lincoln) Xu
+Seeking Students
+AI and Machine Learning, Earth Observation, Remote Sensing, Geospatial Data Science, Environmental Monitoring
+Hongzhou Yang
+Seeking Students
+High precision navigation , High-definition mapping , Autonomous driving
+Items per page
+10
+All
+Admission Requirements
+GPA
+A minimum of 3.0 GPA on a 4.0 point system, over the past two years of full-time study (a minimum of 10 full-course equivalents or 60 units) of the undergraduate degree.
+Minimum education
+A four year baccalaureate degree, or equivalent from a recognized institution.
+Work samples
+None
+Documents
+A C.V.
+A Statement of Purpose
+Reference letters
+Two
+Test scores
+None
+English language proficiency (ELP)
+An applicant whose primary language is not English may fulfill the English language proficiency requirement in one of the following ways:
+Test of English as a Foreign Language (TOEFL iB
+T including TOEFL iBT Home Edition)
+minimum score of 86 (Internet-based, with no section less than 20).
+International English Language Testing System (IELTS)
+score of 6.5 (with no section less than 6.0).
+Cambridge C1 Advanced or Cambridge C2 Proficiency
+minimum score of 180.
+Pearson Test of English (PTE)
+score of 59 or higher
+Canadian Academic English Language test (CAEL)
+overall score of 70 (no section less than 60).
+Academic Communication Certificate (ACC)
+minimum of B+ in each course.
+Duolingo English Test
+obtaining a minimum score of 125 (with no sub-score below 105).
+*Please contact your program of interest if you have any questions about ELP requirements.
+Deadlines
+For admission on September 1:
+Canadians and permanent residents: Jul. 1 application deadline
+International students: Mar. 1 application deadline
+For admission on January 1:
+Canadians and permanent residents: Nov. 1 application deadline
+International students: Jul. 1 application deadline
+For admission on May 1:
+Canadians and permanent residents: Mar. 1 application deadline
+International students: Nov. 1 application deadline
+For admission on July 1:
+Canadians and permanent residents: May 1 application deadline
+International students: Jan. 1 application deadline
+If you're not a Canadian or permanent resident, or if you have international credentials, make sure to learn about
+international requirements
+Are you ready to apply?
+Application process
+Learn more about this program
+Department of Geomatics Engineering
+ENE 231, 2500 University Drive NW
+Calgary, ABT2N 1N4
+403.220.4979
+Contact the Graduate Program Administrator
+Visit the departmental website
+Schulich School of Engineering
+University of Calgary
+2500 University Drive NW
+Calgary, AB, T2N 1N4
+Visit their website
+Learn more about UCalgary by taking a
+virtual tour
+Related programs
+If you're interested in this program, you might want to explore other UCalgary programs.
+Geomatics Engineering
+Course-based MEng
+PhD
+Biomedical Engineering
+Thesis-based MEng
+Thesis-based MSc
+PhD
+Civil Engineering
+Course-based MEng
+Thesis-based MEng
+Thesis-based MSc
+PhD
+Computational Media Design
+Thesis-based MSc
+PhD
+Computer Science
+Thesis-based MSc
+PhD
+Electrical and Computer Engineering
+Course-based MEng
+Course-based MEng (Software)
+Thesis-based MEng
+Thesis-based MSc
+Thesis-based PhD
+Environmental Design
+Thesis-based MEDes
+PhD
+Geography
+Course-based MGIS
+Thesis-based MA
+Thesis-based MSc
+PhD
+Geoscience
+Thesis-based MSc
+Course-based MSc
+PhD
+Kinesiology
+Course-based MKin
+Thesis-based MSc
+Thesis-based PhD
+Sustainable Energy Development
+Course-based MSc
+Highlights of the Anthropology program
+These stories from those involved in the program show what it's like to be involved yourself.
+Using NASA satellites to predict forest fires
+Quazi Hassan puts geomatics engineering to work making remote parts of Alberta safer
+Read More
+Making the internet of things a universal force
+Steve Liang, an Avenue Magazine's Top 40 under 40, is standardizing connectivity
+Read more
+Tech startup with roots in UCalgary Geomatics Department
+Trusted Positioning Inc., born out of the geomatics department, sold for $36 million
+Read more
+Curious about the University of Calgary?
+Located in the nation's most enterprising city, we are a living, growing and youthful institution that embraces change and opportunity with a can-do attitude.
+Learn More about student life at UCalgary

@@ -1,0 +1,235 @@
+Link: https://cset.mnsu.edu/academic-programs/information-technology/data-science-master-of-science-ms/
+
+College of Science, Engineering & Technology
+Academic Programs
+Master of Science in Information Technology
+Data Science, Master of Science (MS)
+Master of Science in Information Technology Section
+Master of Science in Information Technology
+Information Security and Risk Management, Professional Science Master's (PSM)
+Information Technology, Master of Science (MS)
+Data Science, Master of Science (MS)
+Cyber Risk Analysis, Graduate Certificate
+Database Technology, Graduate Certificate
+Information Technology Faculty & Staff
+Data Science (MS)
+The M.S. in Data Science program provides a strong foundation for developing, implementing, and evaluating data analytics solutions to transform raw data into meaningful and actionable insights. The program builds competencies in data analytics, database systems, big data technologies, and machine learning techniques that are essential to harnessing large structured and unstructured datasets for solving complex problems. Students gain a conceptual understanding of the technical, social, organizational, and ethical challenges in data science projects and deploy and evaluate solutions for mitigating such risks.
+Current Catalog Year
+2024-2025
+Degree
+Master of Science
+Major /                                         Total Credits
+32 / 32
+Locations
+Mankato
+Apply
+Program Requirements
+Program
+                                    Requirements
+Common Core
+Thesis option: 32 credits minimum, Alternative Plan Paper Option: 34 credits minimum, Graduate Internship Option: 36 credits minimum
+CIS 518
+Foundations of Data Science
+4 credits
+This course provides an introduction to data science, discusses opportunities and challenges associated with data science projects, and develops competencies related to data collection, data cleaning, data analysis, and model evaluation. The course focuses on hands-on exercises using data analytics tools.
+Prerequisites:
+CIS 223, CIS 340
+CIS 544
+Data Analytics
+4 credits
+The course explores big data in structured and unstructured data sources. Emphasis is placed on big data strategies, techniques and evaluation methods. Various data analytics are covered. Students experiment with big data through big data analytics, data mining, and data warehousing tools.
+Prerequisites:
+none
+CIS 600
+Research Methods
+3 credits
+Research methodology in general and in computer science. Data and research sources. Analysis of existing research. Preliminary planning and proposals. Conceptualization, design, and interpretation of research. Good reporting. Same as CS 600. Pre-req: An elementary statistics course.
+Prerequisites:
+none
+CIS 631
+Machine Learning
+3 credits
+The design of large-scale, knowledge¿based data mining. Emphasis on concepts and application of machine learning using big data. Examination of knowledge representation techniques and problem¿solving methods used to design knowledge¿based systems. Pre-req: instructor permission required
+Prerequisites:
+CIS 518
+CIS 641
+Big Data Systems
+3 credits
+In this course, students will design and implement distributed big data architecture. The architecture consists integration of homogenous and heterogeneous databases and other structured and unstructured data sources. Students will apply concepts of distributed recovery and optimization, and other related topics.
+Prerequisites:
+none
+Restricted Electives
+Choose 6 Credit(s). A course can satisfy only one requirement (e.g. restrictive elective or unrestricted elective),
+CIS 630
+Advanced Artificial Intelligence Systems
+3 credits
+This course is a continuation of Artificial Intelligence (IT 530). Emphasis is placed on advanced topics and the major areas of current research within the field. Theoretical and practical issues involved with developing large-scale systems are covered. Same as CS 630. Pre-req: IT 530
+Prerequisites:
+CIS 518
+CIS 690
+Statistical Inference Packages
+3 credits
+Statistical package programs used in data collection, transformation, organization, summarization, interpretation and reporting, statistical description and hypothesis testing with statistical inference. Interpreting outputs, Chi-square, correlation, regression, analysis of variance, nonparametrics, and other designs. Accessing and using large files (U.S.Census data, National Health Survey, etc.). Same as CS 690. Pre-req: a statistics course
+Prerequisites:
+CIS 518
+STAT 550
+Regression Analysis
+3 credits
+Simple and multiple regression, correlation, analysis of variance and covariance.
+Prerequisites:
+MATH 354 or STAT 354 or (MATH 455 or MATH 555) or (STAT 455 or STAT 555) with "C" (2.0) or better or consent.
+STAT 659
+Statistical Foundations of Data Science and Big Data Analytics
+3 credits
+This course will cover the basic concepts of big data with an emphasis on the statistical techniques for analyzing structured and unstructured data. Students will learn concepts, techniques and tools that are necessary for working with the various facets of data science practice, including data collection and integration, exploratory data analysis, predictive modeling, descriptive modeling, data product creation, evaluation, and effective communication. The course has applications across many disciplines such as engineering, computer science, statistics, mathematics, economics and management. Prerequisite: MATH 247 and STAT 354 or instructor consent
+Prerequisites:
+STAT 450/550 with "C" (2.0) or higher, or consent.
+STAT 696
+Statistical Computing
+3 credits
+Statistical package programs used in data collection, transformation, organization, summarization, interpretation and reporting, statistical description and hypothesis testing with statistical inference, interpreting outputs, chi-square, correlation, regression, analysis of variance, nonparametrics, and other designs, accessing and using large files (U.S. Census data, National Health Survey, etc.) Same as COMS 696
+Prerequisites:
+STAT 450/550 with "C" (2.0) or higher, or consent.
+Unrestricted Electives
+Take minimum 6 credits from unrestricted electives below. Maximum 4 credits from other 5XX/6XX courses from the CIS or other departments may be used toward unrestricted electives as approved by the Program Director/Graduate Coordinator. Only one course can be used to satisfy only one requirement (e.g. restrictive elective or unrestricted elective etc.) within the M.S. in Data Science degree program.
+CIS 540
+Database Management Systems
+4 credits
+Extensive coverage of SQL, database programming, large scale data modeling, and database enhancement through reverse engineering. This course also covers theoretical concepts of query processing, and optimization, basic understanding of concurrency control and recovery, and database security and integrity in centralized/distributed environments. Team-oriented projects in a heterogeneous client server environment.
+Prerequisites:
+none
+CIS 630
+Advanced Artificial Intelligence Systems
+3 credits
+This course is a continuation of Artificial Intelligence (IT 530). Emphasis is placed on advanced topics and the major areas of current research within the field. Theoretical and practical issues involved with developing large-scale systems are covered. Same as CS 630. Pre-req: IT 530
+Prerequisites:
+CIS 518
+CIS 640
+Advanced Database Systems
+3 credits
+In-depth study of advanced topics such as object-oriented databases, intelligent database systems, parallel databases, database mining and warehousing, distributed database design and query processing, multi-database integration and interoperability, and multilevel secure systems.
+Prerequisites:
+none
+CIS 653
+Reporting Information Security Risks
+3 credits
+Content covered will include the following: analyze audience; define report outline and objectives for target audience (IT, executives, audit & compliance); ethos/pathos/logos concepts; white papers. Data misrepresentations, intentional or unintentional; appropriate use of data visualization tools and dashboards; representing needle in haystack data (low volume, high risk).
+Prerequisites:
+none
+CIS 690
+Statistical Inference Packages
+3 credits
+Statistical package programs used in data collection, transformation, organization, summarization, interpretation and reporting, statistical description and hypothesis testing with statistical inference. Interpreting outputs, Chi-square, correlation, regression, analysis of variance, nonparametrics, and other designs. Accessing and using large files (U.S.Census data, National Health Survey, etc.). Same as CS 690. Pre-req: a statistics course
+Prerequisites:
+CIS 518
+MATH 570
+Numerical Analysis I
+4 credits
+This course provides an introduction to techniques and analysis involved with solving mathematical problems using technology. Topics included are errors in computation, solutions of linear and nonlinear equations, numerical differentiation and integration, and interpolation.
+Prerequisites:
+MATH 122 and MATH 247 with "C" (2.0) or better or consent.
+MBA 612
+Data Analysis and Statistics for Managers
+2 credits
+This course provides an understanding of the role of statistics related to the gathering and creation of information used in business decision making. Data analysis concepts covered include hypotheses testing, ANOVA, multiple regression, time series analysis, and chi-square tests.
+Prerequisites:
+none
+STAT 550
+Regression Analysis
+3 credits
+Simple and multiple regression, correlation, analysis of variance and covariance.
+Prerequisites:
+MATH 354 or STAT 354 or (MATH 455 or MATH 555) or (STAT 455 or STAT 555) with "C" (2.0) or better or consent.
+STAT 551
+Design and Analysis of Experiments
+3 credits
+Randomized complete block design, Latin squares design, Graco- Latin squares design, balanced incomplete block design, factorial design, fractional factorial design, response surface method, fixed effects and random effects models, nested and split plot design.
+Prerequisites:
+MATH 354 or STAT 354 or (MATH 455 or MATH 555) or (STAT 455 or STAT 555) with "C" (2.0) or better or consent.
+STAT 558
+Categorical Data Analysis
+3 credits
+Topics on multivariate analysis for discrete data, including two/higher dimensional tables; models of independence; log linear models; estimation of expected values; model selection; and logistic models, incompleteness and regression. Suitable statistical software, such as MATLAB, R, SAS, etc., is introduced.
+Prerequisites:
+Either MATH/STAT 354 or both STAT 154 and MATH 121 with "C" (2.0) or better, or consent.
+STAT 644
+Bayesian Data Analysis
+3 credits
+Bayesian Statistics is an alternative to Frequentist statistics. Bayesian inference uses probability for both hypotheses and data. In Bayesian statistics, population parameters are considered random variables having probability distributions. The probabilities measure a degree of belief in the parameters. Bayes¿ theorem is used to reformulate the beliefs using observed data. This course introduces the Bayesian approach to statistical inference and describes effective approaches to Bayesian modeling and computation.
+Prerequisites:
+MATH/STAT 455/555 and STAT 450/550, or consent
+STAT 650
+Time Series Analysis and Forecasting
+3 credits
+Most statistical analysis and modeling techniques involve assumptions about the independence of the data. However, many real life data occur in the form of time series where observations are dependent. In this course, we will concentrate on both univariate and multivariate time series analysis and model building strategies with time dependent data. Available software will be used to complete the data analysis projects with a balance between theory and applications.
+Prerequisites:
+MATH/STAT 455/555 and MATH/STAT 450/550, with "C" (2.0) or better, or consent.
+STAT 654
+Statistical Methods in Biostatistics and Survival Analysis
+3 credits
+Statistical tools used to analyze data in biological and medical research. Topics covered are Statistical Theory, Concepts of Statistical Inference, Regression and Correlation Methods, Analysis of Variance, Survival Analysis and Study Designs. Applications to medical problems.
+Prerequisites:
+STAT 450/550 with "C" (2.0) or higher, or consent.
+STAT 659
+Statistical Foundations of Data Science and Big Data Analytics
+3 credits
+This course will cover the basic concepts of big data with an emphasis on the statistical techniques for analyzing structured and unstructured data. Students will learn concepts, techniques and tools that are necessary for working with the various facets of data science practice, including data collection and integration, exploratory data analysis, predictive modeling, descriptive modeling, data product creation, evaluation, and effective communication. The course has applications across many disciplines such as engineering, computer science, statistics, mathematics, economics and management. Prerequisite: MATH 247 and STAT 354 or instructor consent
+Prerequisites:
+STAT 450/550 with "C" (2.0) or higher, or consent.
+STAT 696
+Statistical Computing
+3 credits
+Statistical package programs used in data collection, transformation, organization, summarization, interpretation and reporting, statistical description and hypothesis testing with statistical inference, interpreting outputs, chi-square, correlation, regression, analysis of variance, nonparametrics, and other designs, accessing and using large files (U.S. Census data, National Health Survey, etc.) Same as COMS 696
+Prerequisites:
+STAT 450/550 with "C" (2.0) or higher, or consent.
+Capstone Course
+CIS 699 Thesis (3-6 credits) or CIS 694 Alternative Plan Paper (1-2 credits) or CIS 697 Internship (1–4 credits)
+CIS 694
+Alternate Plan Paper
+1-2 credits
+Preparation of a master's degree alternate plan paper under the direction of the student's graduate advisor. Pre-req: consent
+Prerequisites:
+none
+CIS 697
+Internship
+1-12 credits
+Provides students with opportunity to utilize their training in a real-world business environment working under the guidance and direction of a faculty member. (A maximum of 4 credits apply toward a degree in this department.) Pre: consent Fall, Spring, Summer
+Prerequisites:
+none
+CIS 699
+Thesis
+1-6 credits
+Preparation of a master's degree thesis under the direction of the student's graduate advisor. Pre-req: consent
+Prerequisites:
+none
+Other Graduation Requirements
+The students must complete a minimum of 50% of all graduate credits at the 600-level, excluding thesis or APP or internship credits, and must maintain a grade point average of "B" or above in all coursework. One course can be used to satisfy only one requirement (e.g. core, restrictive elective, capstone or elective etc.) within the M.S. in Data Science degree program.Initial deposit: N/A
+
+
+Application Fee for Undergraduate: $ 20
+Application Fee for Postgraduate: $ 40
+
+
+Annual Fee for Undergraduate: $ 18,812
+Annual Fee for Postgraduate: $ 14,918
+
+
+English Language Requirements Undergraduate only:
+TOEFL iBT (internet-based test) score of 61 or better
+Pearson Test of English (PTE) score of 47 or better
+IELTS academic test score of 5.5 or better
+
+
+English Language Requirements Postgraduate only:
+Different for every course and given in course content 
+
+
+Entry Requirements Undergraduate only:
+A cumulative high school GPA of 3.0 or higher or A rank in the top 50% of your high school class or An ACT composite score of 21 or higher and a minimum cumulative high school GPA of 2.7. If you do not meet the above admission requirements, you can submit additional information to consider when reviewing your application.
+
+
+Entry Requirements Postgraduate only:
+Applicants must possess the equivalent of a U.S. Bachelor's degree to be considered for graduate programs at Minnesota State Mankato. The degree must be earned at an institution recognized and approved to award the degree. GRE (Graduate Record Examination) is required by some academic programs.
+
+English Language requirements of graduate programs is different for each course. Graduate programs only have IELTS and TOEFL test scores.
+For Graduate Entry Requirements, some requirements like GPA, Score are mentioned on the course page so add them too.

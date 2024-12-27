@@ -1,0 +1,77 @@
+Link: https://cset.mnsu.edu/academic-programs/information-technology/database-technology-graduate-certificate/
+
+College of Science, Engineering & Technology
+Academic Programs
+Master of Science in Information Technology
+Database Technology, Graduate Certificate
+Master of Science in Information Technology Section
+Master of Science in Information Technology
+Information Security and Risk Management, Professional Science Master's (PSM)
+Information Technology, Master of Science (MS)
+Data Science, Master of Science (MS)
+Cyber Risk Analysis, Graduate Certificate
+Database Technology, Graduate Certificate
+Information Technology Faculty & Staff
+Database Technology (GC)
+10 credits
+This program provides the basic concepts, skills, and values for pursuing a career in computer and information science, emphasizing design and implementation of sophisticated database systems and related software.
+Current Catalog Year
+2024-2025
+Degree
+Certificate
+Major /                                         Total Credits
+10 / 10
+Locations
+Mankato
+Apply
+Program Requirements
+Program
+                                    Requirements
+Common Core
+CIS 540
+Database Management Systems
+4 credits
+Extensive coverage of SQL, database programming, large scale data modeling, and database enhancement through reverse engineering. This course also covers theoretical concepts of query processing, and optimization, basic understanding of concurrency control and recovery, and database security and integrity in centralized/distributed environments. Team-oriented projects in a heterogeneous client server environment.
+Prerequisites:
+none
+CIS 640
+Advanced Database Systems
+3 credits
+In-depth study of advanced topics such as object-oriented databases, intelligent database systems, parallel databases, database mining and warehousing, distributed database design and query processing, multi-database integration and interoperability, and multilevel secure systems.
+Prerequisites:
+none
+CIS 641
+Big Data Systems
+3 credits
+In this course, students will design and implement distributed big data architecture. The architecture consists integration of homogenous and heterogeneous databases and other structured and unstructured data sources. Students will apply concepts of distributed recovery and optimization, and other related topics.
+Prerequisites:
+noneInitial deposit: N/A
+
+
+Application Fee for Undergraduate: $ 20
+Application Fee for Postgraduate: $ 40
+
+
+Annual Fee for Undergraduate: $ 18,812
+Annual Fee for Postgraduate: $ 14,918
+
+
+English Language Requirements Undergraduate only:
+TOEFL iBT (internet-based test) score of 61 or better
+Pearson Test of English (PTE) score of 47 or better
+IELTS academic test score of 5.5 or better
+
+
+English Language Requirements Postgraduate only:
+Different for every course and given in course content 
+
+
+Entry Requirements Undergraduate only:
+A cumulative high school GPA of 3.0 or higher or A rank in the top 50% of your high school class or An ACT composite score of 21 or higher and a minimum cumulative high school GPA of 2.7. If you do not meet the above admission requirements, you can submit additional information to consider when reviewing your application.
+
+
+Entry Requirements Postgraduate only:
+Applicants must possess the equivalent of a U.S. Bachelor's degree to be considered for graduate programs at Minnesota State Mankato. The degree must be earned at an institution recognized and approved to award the degree. GRE (Graduate Record Examination) is required by some academic programs.
+
+English Language requirements of graduate programs is different for each course. Graduate programs only have IELTS and TOEFL test scores.
+For Graduate Entry Requirements, some requirements like GPA, Score are mentioned on the course page so add them too.

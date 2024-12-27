@@ -1,0 +1,67 @@
+Link: https://unipi.coursecatalogue.cineca.it/corsi/2024/10281
+
+contenuto principale
+link utili
+menu secondario
+Cookie policy
+Usiamo i cookie!
+Utilizziamo cookie di prima e di terza parte per garantire la funzionalità del sito. I cookie di terze parti sono disattivati per default, salvo esplicito consenso da parte dell'utente (button 'Accetta tutti'). ATTENZIONE: la mancata abilitazione dei cookies di terze parti potrebbe non consentire la corretta esecuzione di alcune funzioni o causare altri problemi di funzionamento, come la mancata visualizzazione di contenuti.
+Fammi scegliere
+Accetta tutto
+Accetta solo i necessari
+Preferenze cookie
+Usiamo i cookie!
+Utilizziamo i cookie per consentire il funzionamento del sito e per migliorare la tua esperienza online. Puoi scegliere per ogni categoria se abilitarli o disabilitarli quando vuoi. Per maggiori dettagli relativi ai cookie ed altri dati sensibili, puoi leggere la
+cookie policy
+e la
+privacy policy
+integrale.
+Cookie strettamente necessari
+Cookie strettamente necessari
+Questi cookie sono essenziali per il funzionamento del nostro sito. Senza questi cookie, il sito potrebbe non funzionare correttamente.
+Cookie di performance e analytics
+Cookie di performance e analytics
+Questi cookie consentono al sito di ricordare le scelte che hai eseguito in precedenza
+Nome
+Dominio
+Durata
+Descrizione
+^_ga
+google.com
+2 years
+description ...
+_gid
+google.com
+1 day
+description ...
+Istruzioni per i vari browser:
+Istruzioni per i vari browser:
+Safari
+.
+Nome
+Dominio
+Durata
+Descrizione
+s_.*
+plu.mx
+sessione
+recupero grafico citazioni sociali da plumx
+A_.*
+core.ac.uk
+7 giorni
+recupero pubblicazioni consigliate per il pannello core-recommander
+GS_.*
+gstatic.com
+richiesta http
+visualizza grafico citazioni
+CC_.*
+creativecommons.org
+richiesta http
+visualizza licenza bitstream
+Maggiori informazioni
+Per qualsiasi domanda in relazione alle nostre policy sui cookie e sulle tue scelte, puoi visualizzare l'informativa completa a questo
+url
+.
+Accetta tutti
+Accetta solo i necessari
+Salva impostazioni

@@ -1,0 +1,76 @@
+Link: https://www.fdu.edu/program/ms-computer-engineering/
+
+Skip to content
+Computer Engineering MS
+Home
+/
+Program
+/
+Computer Engineering MS
+Fairleigh Dickinson University’s new Master of Science in Computer Engineering is designed to train and educate students to work as computer engineers who understand the design tradeoff and the interdependency between hardware and software in computers, computer-based systems, computer communications and computer networks. Computer-based systems are widely used in data acquisition, signal processing and conditioning, instrumentation, communications, control, automation and manufacturing. The curriculum provides students with design skills, theoretical concepts and a solid foundation in both hardware and software design in an integrated manner, as well as competency in advanced computer technology. The program emphasizes practical applications of computer engineering.
+Educational Objectives
+Graduates of the Master of Science in Computer Engineering program will demonstrate the following attributes and achievements upon or before graduation:
+An ability to apply advanced knowledge of mathematics, science, and engineering
+An ability to formulate and analyze complex engineering problems, assess trade-offs, and solve problems
+An ability to use numerical analysis techniques, computer-aided analysis and design methods, and modern engineering tools
+Admission requirements
+Admission to M.S. in Computer Engineering program requires:
+A Bachelor of Science degree in electrical engineering, computer engineering or computer science from an accredited university. This should include courses or equivalent experience in the following areas: introductory computer programming, logic circuits, digital interfacing circuits and data structures. These courses can be taken at Fairleigh Dickinson University but will not count toward the 30-credit master’s degree requirement. Students with a Bachelor of Science degree in technology or other areas of science and engineering may be admitted if they complete undergraduate prerequisites as determined by an adviser of the school.
+Submission of an official score report for the Graduate Record Examination (GRE) General Test taken within the last five years. The GRE requirement is waived for applicants who have completed a master’s degree from a regionally accredited college or university in United States.
+Three letters of recommendation.
+Applicants who have not completed all requirements for admission to the degree program may be permitted to enroll in classes for credit on a non-matriculated or non-degree basis.
+Degree Plan
+The number of graduate credits required to attain the Master of Science in Computer Engineering is 30 credits.
+Prerequisite Courses
+(Not included in Graduation Credits)
+CSCI5505
+Introduction to Computer Programming or Equivalent
+CSCI5555
+Data Structures or Equivalent
+ENGR2286
+Digital System Design or Equivalent
+EENG2287
+Microprocessor System Design I or Equivalent
+Core Requirements (12 credits)
+CSCI6603
+Computer Architecture
+CSCI6620
+Software Engineering
+EENG7701
+Logic System Design
+EENG7709
+Embedded System Design
+Elective Courses (18 credits)
+Choose 6 credits from the following
+EENG6610
+Computer Aided Analysis and Design
+EENG6633
+Digital Signaling Processing
+EENG6747
+Digital Communications
+EENG7702
+Microprocessor System Design
+EENG7707
+Neural Networks and Fuzzy Logic Systems
+EENG7737
+Computer Communication Networks **
+Choose 6 credits from the following
+CSCI6623
+Database Systems
+CSCI6638
+Operating Systems
+CSCI6738
+Cybersecurity
+CSCI7645
+Systems Programming
+CSCI7773
+Digital Image Processing
+CSCI7871
+UNIX Shell Programming
+An additional 6 credits of Electrical Engineering or Computer Science courses (6000 level or higher) must be taken.
+Learn more
+Gildart Haase School of Computer Sciences and Engineering
+Admissions
+Apply now
+Visit FDU
+Request Information

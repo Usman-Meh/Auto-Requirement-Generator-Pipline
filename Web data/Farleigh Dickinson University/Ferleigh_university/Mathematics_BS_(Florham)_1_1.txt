@@ -1,0 +1,99 @@
+Link: https://www.fdu.edu/program/bs-mathematics-florham/
+
+Skip to content
+Mathematics BS (Florham)
+Home
+/
+Program
+/
+Mathematics BS (Florham)
+Math majors develop many skills including the ability to formulate and solve problems, logical and critical thinking, numerical computation, and quantitative skills. These skills are crucial in many fields.
+Potential Career Paths:
+Mathematician
+Computer Scientist
+Statistician
+Economist
+Actuary
+Cryptologist
+Biostatistician
+College Professor.
+Program Learning Outcomes
+At the completion of the program students will:
+Have the ability to demonstrate an understanding of differentiation and integration techniques and how to use them in problem solving.
+Have the ability to demonstrate an understanding of concepts and techniques in discrete mathematics, including logic, induction, recursion, graphs and Boolean algebra.
+Have the ability to demonstrate an understanding of linear and Matrix Algebra and how to use them in solving problems which includes: Vector spaces and linear transformations; systems of linear equations, bases, matrix representations of linear transformations, matrix algebra, eigenvalues and eigenvectors, determinants, canonical forms, and inner product spaces.
+Have the ability to demonstrate an understanding of solving problems using probabilistic models.
+Degree Plan
+NOTE: All students are required to complete the General Education Requirements of their campus in fulfillment of their Bachelor degree requirements.
+6 credits from the MAJOR may be applied toward General Education Requirements.
+Required Mathematics (24 credits)
+MATH1203
+Calculus I
+MATH2202
+Calculus II
+MATH2203
+Calculus III
+MATH3318 Differential equations
+MATH2255
+Discrete Structures
+MATH3220
+Linear Algebra
+MATH3225 Abstract Algebra
+MATH3231
+Introductory Analysis
+MATH3232 Multivariable Advanced Calculus
+MATH3303
+Probability and Statistics
+MATH4999
+Mathematics Assessment
+Major Elective Courses (15 – 18 credits)
+At least five courses to be selected from the mathematics offerings (MATH designation) above the level of MATH2255,  or with the permission of the department, from the graduate offerings in mathematics; up to 6 credits from the 2000 (or higher level) offerings in computer science (CSCI designation) may be substituted for mathematics electives.
+NOTE: At least one of the following pairs of courses must be completed:
+Pair I:
+MATH3231
+Introductory Analysis;
+MATH3335
+Complex Variables
+Pair II:
+MATH3318
+Differential Equations;
+MATH3309
+Numerical Analysis
+Pair II:
+MATH3210
+Number Theory;
+MATH3225
+Abstract Algebra
+Pair IV:
+MATH3371
+Modeling and Simulation;
+MATH3318
+Differential Equations
+Pair V:
+MATH2255
+Discrete Structures;
+MATH3306
+Combinatorics
+Pair VI:
+MATH3220
+Linear Algebra;
+MATH3331
+Higher Geometry
+Pair VII:
+MATH3303
+Probability and Statistics;
+MATH3305
+Advanced Probability and Statistics
+NOTE: Three credits in Internship experience may be used to fulfill Major Elective requirements in additional to the 15 credits minimum requirement.
+To fulfill the general education requirements, they are required to take:
+PHYS2003, PHYS2013 and PHYS2004, PHYS2014 General Physics with Calculus I and II.
+Cognate requirements (3 credits)
+CSCI2215
+Introduction to Computer Science
+6 credits from the MINOR may be applied toward General Education Requirements.
+Learn More
+Department of Mathematics and Computer Science
+Admissions
+Apply now
+Visit FDU
+Request Information

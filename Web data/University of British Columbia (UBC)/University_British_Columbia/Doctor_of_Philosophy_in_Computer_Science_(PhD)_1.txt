@@ -1,0 +1,585 @@
+Link: https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/phd-computer-science
+
+Doctor of Philosophy in Computer Science (PhD)
+Graduate School
+»
+Prospective Students
+»
+Graduate Degree Programs
+»
+Doctor of Philosophy in Computer Science (PhD)
+Canadian Immigration Updates
+Review details about the recently announced changes to study and work permits that apply to master’s and doctoral degree students.
+Read more
+Notice: Canadian Immigration Updates
+Go to programs search
+Overview
+PhD students in the Department of Computer Science may focus their research in the following areas:
+Artificial Intelligence:
+computer vision, decision theory/game theory, knowledge representation and reasoning, intelligent user interfaces, machine learning, natural language understanding and generation, robotics and haptics.
+Computer Graphics:
+animation, imaging, modeling, rendering, visualization.
+Data Management and Mining:
+business intelligence, data integration, genomic analysis, text mining, web databases.
+Formal Verification and Analysis of Systems:
+analog, digital and hybrid systems, VLSI, protocols, software.
+Human Centered Technologies:
+human computer interaction (HCI), visual, haptic and multimodal interfaces, computer-supported cooperative work (CSCW), visual analytics.
+Networks, Systems, and Security:
+high performance computing/parallel processing, networking, operating systems and virtualization, security.
+Scientific Computing:
+numerical methods and software, differential equations, linear algebra, optimization.
+Software Engineering and Programming Languages:
+development tools, foundations of computation, middleware, programming languages, software engineering.
+Theory:
+algorithm design and analysis (including empirical), algorithmic game theory, discrete optimization, graph theory, computational geometry
+For specific program requirements, please refer to the departmental program website
+What makes the program unique?
+The UBC Department of Computer Science has many contacts in the computing industry. A strong rapport between the industry and research communities is beneficial to both, especially in cases where the department focuses its research to developing real-world applications.
+I love Vancouver! It's the greatest city in the world. I love the integration of nature into the city; it has all of the mountains, forests, and oceans. In addition, the city is a melting pot of cultures, and that's definitely reflected at UBC. It feels like there's a place for everyone at UBC.
+Michael Yin
+Quick Facts
+Faculty
+Faculty of Science
+Mode of delivery
+In person at UBC Vancouver
+Program Components
+Dissertation
+Academic Unit
+Department of Computer Science
+Specialization
+Computer Science
+Tuition (First Year)
+Domestic: $5,515.71 | International: $9,690.18
+Information Sessions
+Register
+Application Guide
+Download
+Graduate Viewbook
+View
+GradProspect Newsletter
+Subscribe
+Apply Now
+Apply for September 2025
+If you don't have a UBC Campus-Wide Login (CWL) please
+create an account
+first.
+Apply for January 2026
+If you don't have a UBC Campus-Wide Login (CWL) please
+create an account
+first.
+Open All
+Program Enquiries
+Still have questions after reviewing this page thoroughly?
+Contact the program
+Admission Information & Requirements
+1) Check Eligibility
+Minimum Academic Requirements
+The Faculty of Graduate and Postdoctoral Studies establishes the minimum admission requirements common to all applicants, usually a minimum overall average in the B+ range (76% at UBC). The graduate program that you are applying to may have additional requirements. Please review the specific requirements for applicants with credentials from institutions in:
+Canada
+or the
+United States
+International countries other than the United States
+Each program may set higher academic minimum requirements. Please review the
+program website
+carefully to understand the program requirements. Meeting the minimum requirements does not guarantee admission as it is a competitive process.
+English Language Test
+Applicants from a university outside Canada in which English is not the primary language of instruction must provide results of an
+English language proficiency examination
+as part of their application. Tests must have been taken
+within the last 24 months
+at the time of submission of your application.
+Minimum requirements for the two most common English language proficiency tests to apply to this program are listed below:
+TOEFL: Test of English as a Foreign Language - internet-based
+Overall score requirement
+: 100
+Reading
+22
+Writing
+21
+Speaking
+21
+Listening
+22
+IELTS: International English Language Testing System
+Overall score requirement
+: 7.0
+Reading
+6.5
+Writing
+6.5
+Speaking
+6.5
+Listening
+6.5
+Other Test Scores
+Some programs require additional
+test scores
+such as the Graduate Record Examination (GRE) or the Graduate Management Test (GMAT). The requirements for this program are:
+The GRE is not required.
+2) Meet Deadlines
+September 2025 Intake
+Application Open Date
+20 September 2024
+Canadian Applicants
+Application Deadline:
+15 December 2024
+Transcript Deadline:
+16 December 2024
+Referee Deadline:
+06 January 2025
+International Applicants
+Application Deadline:
+15 December 2024
+Transcript Deadline:
+16 December 2024
+Referee Deadline:
+06 January 2025
+January 2026 Intake
+Application Open Date
+20 September 2024
+Canadian Applicants
+Application Deadline:
+15 December 2024
+Transcript Deadline:
+16 December 2024
+Referee Deadline:
+06 January 2025
+International Applicants
+Application Deadline:
+15 December 2024
+Transcript Deadline:
+16 December 2024
+Referee Deadline:
+06 January 2025
+Deadline Explanations
+Application Deadline
+Deadline to submit online application. No changes can be made to the application after submission.
+Transcript Deadline
+Deadline to upload scans of official transcripts through the applicant portal in support of a submitted application. Information for accessing the applicant portal will be provided after submitting an online application for admission.
+Referee Deadline
+Deadline for the referees identified in the application for admission to submit references. See
+Letters of Reference
+for more information.
+3) Prepare Application
+Transcripts
+All applicants have to submit transcripts from all past post-secondary study.
+Document submission requirements
+depend on whether your institution of study is within Canada or outside of Canada.
+Letters of Reference
+A minimum of three
+references
+are required for application to graduate programs at UBC. References should be requested from individuals who are prepared to provide a report on your academic ability and qualifications.
+Statement of Interest
+Many programs require a
+statement of interest
+, sometimes called a "statement of intent", "description of research interests" or something similar.
+Supervision
+Students in research-based programs usually require a faculty member to function as their thesis supervisor. Please follow the instructions provided by each program whether applicants should contact faculty members.
+Instructions regarding thesis supervisor contact for Doctor of Philosophy in Computer Science (PhD)
+Applicants should browse faculty profiles and indicate in their application who they are interested in working with. No commitment from a supervisor prior to applying is necessary, but contacting faculty members is encouraged.
+Citizenship Verification
+Permanent Residents of Canada must provide a clear photocopy of both sides of the Permanent Resident card.
+4) Apply Online
+All applicants must complete an online
+application form
+and pay the
+application fee
+to be considered for admission to UBC.
+Tuition & Financial Support
+Tuition
+Fees
+Canadian Citizen / Permanent Resident / Refugee / Diplomat
+International
+Application Fee
+$116.25
+$168.25
+Tuition *
+Installments per year
+3
+3
+Tuition
+per installment
+$1,838.57
+$3,230.06
+Tuition
+per year
+(plus annual increase, usually 2%-5%)
+$5,515.71
+$9,690.18
+Int. Tuition Award (ITA) per year (
+if eligible
+)
+$3,200.00 (-)
+Other Fees and Costs
+Student Fees
+(yearly)
+$1,116.60 (approx.)
+Costs of living
+Estimate your
+costs of living
+with our interactive tool in order to start developing a financial plan for your graduate studies.
+* Regular, full-time tuition. For on-leave, extension, continuing or part time (if applicable) fees see
+UBC Calendar
+.
+All fees for the year are subject to adjustment and UBC reserves the right to change any fees without notice at any time, including tuition and student fees. Tuition fees are reviewed annually by the UBC Board of Governors. In recent years, tuition increases have been 2% for continuing domestic students and between 2% and 5% for continuing international students. New students may see higher increases in tuition. Admitted students who defer their admission are subject to the potentially higher tuition fees for incoming students effective at the later program start date. In case of a discrepancy between this webpage and the UBC Calendar, the UBC Calendar entry will be held to be correct.
+Financial Support
+Applicants to UBC have access to a variety of funding options, including merit-based (i.e. based on your academic performance) and need-based (i.e. based on your financial situation) opportunities.
+Program Funding Packages
+All full-time PhD students will be provided with a funding package of at least $31,920 for each of the first four years of their PhD program. The funding package consists of any combination of internal or external awards, teaching-related work, research assistantships, and graduate academic assistantships. This support is contingent on full-time registration as a UBC Graduate student, satisfactory performance in assigned teaching and research assistantship duties, and good standing with satisfactory progress in your academic performance. CS students are expected to apply for fellowships or scholarship to which they are eligible.
+Average Funding
+Based on the criteria outlined below,
+82
+students within this program were included in this study because they received funding through UBC in the form of teaching, research, academic assistantships or internal or external awards averaging
+$37,326
+.
+40 students received Teaching Assistantships. Average TA funding based on 40 students was $6,950.
+77 students received Research Assistantships. Average RA funding based on 77 students was $20,513.
+18 students received Academic Assistantships. Average AA funding based on 18 students was $6,167.
+81 students received internal awards. Average internal award funding based on 81 students was $11,015.
+8 students received external awards. Average external award funding based on 8 students was $19,625.
+Study Period: Sep 2022 to Aug 2023 - average funding for full-time PhD students enrolled in three terms per academic year in this program across years 1-4, the period covered by
+UBC's Minimum Funding Guarantee
+. Averages might mask variability in sources and amounts of funding received by individual students. Beyond year 4, funding packages become even more individualized.
+Review methodology
+Scholarships & awards (merit-based funding)
+All applicants are encouraged to review the
+awards listing
+to identify potential opportunities to fund their graduate education. The database lists merit-based scholarships and awards and allows for filtering by various criteria, such as domestic vs. international or degree level.
+Graduate Research Assistantships (GRA)
+Many professors are able to provide Research Assistantships (GRA) from their research grants to support full-time graduate students studying under their supervision. The duties constitute part of the student's graduate degree requirements. A Graduate Research Assistantship is considered a form of fellowship for a period of graduate study and is therefore not covered by a collective agreement. Stipends vary widely, and are dependent on the field of study and the type of research grant from which the assistantship is being funded.
+Graduate Teaching Assistantships (GTA)
+Graduate programs may have Teaching Assistantships available for registered full-time graduate students. Full teaching assistantships involve 12 hours work per week in preparation, lecturing, or laboratory instruction although many graduate programs offer partial TA appointments at less than 12 hours per week. Teaching assistantship rates are set by collective bargaining between the University and the
+Teaching Assistants' Union
+.
+Graduate Academic Assistantships (GAA)
+Academic Assistantships are employment opportunities to perform work that is relevant to the university or to an individual faculty member, but not to support the student’s graduate research and thesis. Wages are considered regular earnings and when paid monthly, include vacation pay.
+Financial aid (need-based funding)
+Canadian and US applicants may qualify for governmental loans to finance their studies. Please review
+eligibility and types of loans
+.
+All students may be able to access private sector or bank loans.
+Foreign government scholarships
+Many foreign governments provide support to their citizens in pursuing education abroad. International applicants should check the various governmental resources in their home country, such as the Department of Education, for available scholarships.
+Working while studying
+The possibility to pursue work to supplement income may depend on the demands the program has on students. It should be carefully weighed if work leads to prolonged program durations or whether work placements can be meaningfully embedded into a program.
+International students enrolled as full-time students with a valid study permit can work
+on campus
+for unlimited hours and work
+off-campus
+for no more than 20 hours a week.
+A good starting point to explore student jobs is the UBC
+Work Learn
+program or a
+Co-Op placement
+.
+Tax credits and RRSP withdrawals
+Students with taxable income in Canada may be able to claim
+federal
+or
+provincial
+tax credits.
+Canadian residents with RRSP accounts may be able to use the
+Lifelong Learning Plan
+(LLP) which allows students to withdraw amounts from their registered retirement savings plan (RRSPs) to finance full-time training or education for themselves or their partner.
+Please review
+Filing taxes in Canada
+on the student services website for more information.
+Cost Estimator
+Applicants have access to the
+cost estimator
+to develop a financial plan that takes into account various income sources and expenses.
+Career Outcomes
+111 students graduated between 2005 and 2013. Of these, career information was obtained for 106 alumni (based on research conducted between Feb-May 2016):
+RI (Research-Intensive) Faculty: typically tenure-track faculty positions (equivalent of the North American Assistant Professor, Associate Professor, and Professor positions) in PhD-granting institutions
+TI (Teaching-Intensive) Faculty: typically full-time faculty positions in colleges or in institutions not granting PhDs, and teaching faculty at PhD-granting institutions
+Term Faculty: faculty in term appointments (e.g. sessional lecturers, visiting assistant professors, etc.)
+Sample Employers in Higher Education
+University of British Columbia (5)
+McGill University (3)
+University of Waterloo (3)
+University of Manitoba (2)
+Swansea University
+Stanford University
+University of Utah
+Ecole Polytechnique Federale de Lausanne (EPFL)
+Swiss Federal Institute of Technology
+University of Saskatchewan
+Sample Employers Outside Higher Education
+Google (12)
+Microsoft (4)
+Amazon (3)
+Intel Corporation (3)
+Disney (2)
+Oracle Labs (2)
+IBM (2)
+Tasktop Technologies (2)
+Tableau (2)
+OriGene Technologies Inc.
+Sample Job Titles Outside Higher Education
+Research Scientist (5)
+Software Engineer (5)
+Senior Software Engineer (4)
+Chief Technology Officer (3)
+Product Manager (3)
+Software Development Engineer (2)
+Senior Data Scientist (2)
+Senior Research Engineer (2)
+Advisory Engineer
+Senior Research Scientist
+PhD Career Outcome Survey
+You may view the full report on career outcomes of UBC PhD graduates on
+outcomes.grad.ubc.ca
+.
+Disclaimer
+These data represent historical employment information and do not guarantee future employment prospects for graduates of this program. They are for informational purposes only. Data were collected through either alumni surveys or internet research.
+Career Options
+Our faculty and students actively interact with industry in numerous fields. Via internships, consulting and the launching of new companies, they contribute to the state-of-the-art in environmental monitoring, energy prediction, software, cloud computing, search engines, social networks, advertising, e-commerce, electronic trading, entertainment games, special effects in movies, robotics, bioinformatics, biomedical engineering, and more.
+Alumni on Success
+Barry Po
+Job Title
+Senior Director, Product &amp; Business Development
+Employer
+NGRAIN
+All Alumni Stories
+Enrolment, Duration & Other Stats
+These statistics show data for the Doctor of Philosophy in Computer Science (PhD). Data are separated for each degree program combination. You may view data for other degree options in the respective program profile.
+ENROLMENT DATA
+2023
+2022
+2021
+2020
+2019
+Applications
+281
+265
+375
+299
+278
+Offers
+31
+40
+41
+45
+26
+New Registrations
+14
+15
+20
+20
+16
+Total Enrolment
+129
+124
+116
+98
+81
+Completion Rates & Times
+This program has a graduation rate of
+63%
+based on 60 students admitted between 2011 - 2014. Based on 28 graduations between 2020 - 2023 the minimum time to completion is 2.73 years and the maximum time is 11.15 years with an average of
+5.74 years
+of study. All calculations exclude leave times.
+Disclaimer
+Admissions data refer to all UBC Vancouver applications, offers, new registrants for each registration year, May to April, e.g. data for 2022 refers to programs starting in 2022 Summer and 2022 Winter session, i.e. May 1, 2022 to April 30, 2023. Data on total enrolment reflects enrolment in Winter Session Term 1 and are based on snapshots taken on November 1 of each registration year. Program completion data are only provided for datasets comprised of more than 4 individuals. Graduation rates exclude students who transfer out of their programs. Rates and times of completion depend on a number of variables (e.g. curriculum requirements, student funding), some of which may have changed in recent years for some programs.
+Upcoming Doctoral Exams
+Tuesday, 19 November 2024 - 1:00pm - 146, ICICS Building, 2366 Main Mall
+Raghav Goyal
+Data-Efficient Learning on Structured Output Data
+Research Supervisors
+Supervision
+Students in research-based programs usually require a faculty member to function as their thesis supervisor. Please follow the instructions provided by each program whether applicants should contact faculty members.
+Instructions regarding thesis supervisor contact for Doctor of Philosophy in Computer Science (PhD)
+Applicants should browse faculty profiles and indicate in their application who they are interested in working with. No commitment from a supervisor prior to applying is necessary, but contacting faculty members is encouraged.
+Advice and insights from UBC Faculty on reaching out to supervisors
+These videos contain some general advice from faculty across UBC on finding and reaching out to a supervisor. They are not program specific.
+View More Advice Videos
+This list shows faculty members with full supervisory privileges who are affiliated with this program. It is not a comprehensive list of all potential supervisors as faculty from other programs or faculty members without full supervisory privileges can request approvals to supervise graduate students in this program.
+Achermann, Reto
+(Computing systems; Computer systems engineering; Systems software; resilient and efficient systems; intersection of operating systems, applied formal methods and hardware models.)
+Beschastnikh, Ivan
+(Computer and information sciences; software engineering; distributed systems; cloud computing; software analysis; Machine Learning)
+Bowman, William
+(Computer and information sciences; Programming languages and software engineering; Programming languages; Compilers; programming languages)
+Carenini, Giuseppe
+(Artificial intelligence, user modeling, decision theory, machine learning, social issues in computing, computational linguistics, information visualization)
+Clune, Jeff
+Conati, Cristina
+(artificial intelligence, human-computer interaction, affective computing, personalized interfaces, intelligent user interfaces, intelligent interface agents, virtual agent, user-adapted interaction, computer-assisted education, educational computer games, computers in education, user-adaptive interaction, Artificial intelligence, adaptive interfaces, cognitive systems, user modelling)
+Condon, Anne
+(Algorithms; Molecular Programming)
+Ding, Jiarui
+(Bioinformatics; Basic medicine and life sciences; Computational Biology; Machine Learning; Probabilistic Deep Learning; single-cell genomics; visualization; Cancer biology; Computational Immunology; Food Allergy; neuroscience)
+Evans, William
+(Computer and information sciences; Algorithms; theoretical computer science; Computer Sciences and Mathematical Tools; computational geometry; graph drawing; program compression)
+Feeley, Michael
+(Distributed systems, operating systems, workstation and pc clusters)
+Friedlander, Michael
+(numerical optimization, numerical linear algebra, scientific computing, Scientific computing)
+Friedman, Joel
+(Computer and information sciences; Algebraic Graph Theory; Combinatorics; Computer Science Theory)
+Garcia, Ronald
+(Programming languages; programming languages)
+Greenstreet, Mark
+(Dynamic systems, formal methods, hybrid systems, differential equations)
+Greif, Chen
+(Numerical computation; Numerical analysis; scientific computing; numerical linear algebra; numerical solution of elliptic partial differential equations)
+Gujarati, Arpan
+(Computer and information sciences; Systems)
+Harvey, Nicholas
+(randomized algorithms, combinatorial optimization, graph sparsification, discrepancy theory and learning theory; algorithmic problems arising in computer networking, including cache analysis, load balancing, data replication, peer-to-peer networks, and network coding.)
+Hoang, Nguyen Phong
+(networking; security & privacy; network security; online privacy; Internet measurement)
+Holmes, Reid
+(Computer and information sciences; computer science; open source software; software comprehension; software development tools; software engineering; software quality; software testing; static analysis)
+Hu, Alan
+(Computer and information sciences; formal methods; formal verification; model checking; nonce to detect automated mining of profiles; post-silicon validation; security; software analysis)
+Hutchinson, Norman
+(Computer and information sciences; Computer Systems; distributed systems; File Systems; Virtualization)
+Kiczales, Gregor
+(MOOCs, Blended Learning, Flexible Learning, University Strategy for Flexible and Blended Learning, Computer Science Education, Programming Languages, Programming languages, aspect-oriented programming, foundations, reflections and meta programming, software design)
+Lakshmanan, Laks
+(data management and data cleaning; data warehousing and OLAP; data and text mining; analytics on big graphs and news; social networks and media; recommender systems)
+Lecuyer, Mathias
+(Machine learning systems; Guarantees of robustness, privacy, and security)
+Lemieux, Caroline
+(Programming languages and software engineering; help developers improve the correctness, security, and performance of software systems; test-input generation; specification mining; program synthesis)
+Pages
+1
+2
+3
+next ›
+last »
+Doctoral Citations
+A
+doctoral citation
+summarizes the nature of the independent research, provides a high-level overview of the study, states the significance of the work and says who will benefit from the findings in clear, non-specialized language, so that members of a lay audience will understand it.
+Citation contains
+Items
+10
+25
+50
+100
+Year
+Citation
+2024
+Using artificial intelligence methods, Dr. Dirks developed machine learning models to unlock the information contained in spectral data. Demonstrated applications include grade estimation in mining and food quality assessment in agriculture.
+2024
+Dr. Su studied 3D computer vision for human digitalization, which converts real-world images and videos into 3D animatable avatars. His methods simplify complicated motion capture pipelines, showing a promising way for 3D avatar creations from everyday devices.
+2024
+Dr. Vining studied how computers operate on geometry and shapes, and how geometric problems can be solved with discrete optimization algorithms. By combining numerical optimization techniques with combinatorial search frameworks, he devised new algorithms that solve challenging problems in simulation, computer graphics, and video games.
+2024
+Dr. Ritschel studied the design of programming tools for end-users without previous coding experience. He investigated block-based programming languages and enriched them with visual features that help end-users write larger, more complex programs. His findings can guide the future development of more expressive end-user friendly programming tools.
+2024
+Dr. Jawahar explored how deep learning models in natural language processing could be more efficient. He introduced new, cutting-edge methods using neural architecture search, improving efficiency and performance tradeoffs in tasks like autocomplete, machine translation, and language modeling.
+2024
+Dr. Xing explored and improved the detection of topic shifts in natural language and multimedia using data-driven approaches. He proposed enhanced topic segmentation models with better coherence analysis strategies, showing potential to benefit other natural language understanding tasks like text summarization and dialogue modeling.
+2024
+Dr. Cang examined emotionally expressive touch behaviour for human-robot interaction. To be truly reactive, devices must address the dynamic nature of emotion. For her dissertation, she developed multi-stage machine learning protocols to train robots to respond to your evolving feelings.
+2024
+Dr. Newman designed tools for running and analyzing complex, electronic auctions, with applications to markets for agricultural trade in developing countries and the sale of wireless spectrum rights. His work provides a blueprint for how economists can use computer simulations to compare auction designs.
+2024
+Dr. Suhail has made significant strides in computer vision by pioneering diverse methodologies that elevate semantic comprehension and geometric reasoning abilities within computer vision systems. His works have received nominations for Best Paper Awards, highlighting the substantial impact of his work in the field.
+2024
+Dr. Banados Schwerter studied the formal requirements for detecting type inconsistencies in programming languages that combine static and dynamic type checking, and a novel reporting technique for these errors. His research will assist the design of new programming languages and help their future programmers to find and fix programming mistakes.
+Pages
+1
+2
+3
+4
+5
+6
+7
+8
+9
+…
+next ›
+last »
+Sample Thesis Submissions
+Discrete optimization problems in geometric mesh processing
+Exploring explicit models for geometric point cloud learning
+Tool coordination in software development workspaces
+Algorithms for geometry partitioning and reshaping
+Why do machine learning optimizers that work, work?
+Privacy, experts, and martingales : an investigation on the use of analytical tools
+Utilizing short-read, long-read and single-cell RNA sequencing for isoform discovery and detection
+AI-powered methods for academic assessment : overcoming scalability challenges in large university classrooms and conference review
+Flexible conditioning in generative models of images and video
+On effective learning for multimodal data
+From devices to data and back again : a tale of computationally modelling affective touch
+Towards alleviating human supervision for document-level relation extraction
+Methods for design of efficient on-device natural language processing architectures
+A formal framework for understanding run-time checking errors in gradually typed languages
+Understanding semantics and geometry of scenes
+Related Programs
+Same specialization
+Master of Science in Computer Science (MSc)
+Same Academic Unit
+Master of Data Science (MDS)
+At the UBC Okanagan Campus
+Doctor of Philosophy in Computer Science (PhD)
+Further Information
+Specialization
+Computer Science
+Computer Science covers Bayesian statistics and applications, bioinformatics, computational intelligence (computational vision, automated reasoning, multi-agent systems, intelligent interfaces, and machine learning), computer communications, databases, distributed and parallel systems, empirical analysis of algorithms, computer graphics, human-computer interaction, hybrid systems, integrated systems design, networks, network security, networking and multimedia, numerical methods and geometry in computer graphics, operating systems, programming languages, robotics, scientific computation, software engineering, visualization, and theoretical aspects of computer science (computational complexity, computational geometry, analysis of complex graphs, and parallel processing).
+UBC Calendar
+https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-graduate-and-postdoctoral-studies/degree-programs/computer-science
+Program Website
+https://www.cs.ubc.ca/students/grad/graduate-programs/phd-program
+Faculty Overview
+Faculty of Science
+Academic Unit
+Department of Computer Science
+Program Identifier
+VGDPHD-FM
+Classification
+Computer and information sciences
+Program Website
+Apply Now
+Apply for September 2025
+If you don't have a UBC Campus-Wide Login (CWL) please
+create an account
+first.
+Apply for January 2026
+If you don't have a UBC Campus-Wide Login (CWL) please
+create an account
+first.
+September 2025 Intake
+Application Open Date
+20 September 2024
+Canadian Applicant Deadline
+15 December 2024
+International Applicant Deadline
+15 December 2024
+January 2026 Intake
+Application Open Date
+20 September 2024
+Canadian Applicant Deadline
+15 December 2024
+International Applicant Deadline
+15 December 2024
+Program Enquiries
+Still have questions after reviewing this page thoroughly?
+Contact the program
+Social Media Channels
+https://www.facebook.com/ubccompsci
+https://twitter.com/UBC_CS/
+https://www.youtube.com/user/UBCCPSC/
+Supervisor Search
+Departments/Programs may update graduate degree program details through the
+Faculty & Staff
+portal. To update contact details for application inquiries, please use this
+form
+.
+Betty Shea
+My experience as a non-degree student was really positive. I loved the way lectures, tutorials, labs, assignments and projects all complemented each other. I found the lectures stimulating and the professors and TAs encouraging. I also loved just being on the UBC campus. I'm surrounded by nature (...
+Geoffrey Woollard
+I applied to UBC in 2020, during the pandemic. It was a close call between working with Marcus Brubaker, who co-founded my former employer Structura Biotechnology, before becoming an Assistant Professor at York University, and working with Khanh Dao Duc at UBC. Khanh introduced me to his...
+Baraa Orabi
+I think three factors had a differentiating effect on this decision:
+
+UBC's unique multidisciplinary environment which is key to my research as a computer scientist and bioinformatician.
+UBC being on the West Coast generally and Vancouver specifically and the amazing weather and nature that comes...
+Curious about life in Vancouver?
+Find out how Vancouver enhances your graduate student experience—from the beautiful mountains and city landscapes, to the arts and culture scene, we have it all. Study-life balance at its best!
+Learn more about life in Vancouver

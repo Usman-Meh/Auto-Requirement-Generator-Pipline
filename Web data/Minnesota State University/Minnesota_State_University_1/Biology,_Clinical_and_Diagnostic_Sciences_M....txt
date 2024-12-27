@@ -1,0 +1,341 @@
+Link: https://cset.mnsu.edu/academic-programs/clinical/biology-bs-clinical-and-diagnostic-sciences-medical-laboratory-sciences/
+
+College of Science, Engineering & Technology
+Academic Programs
+Clinical and Diagnostic Sciences
+Biology, BS Clinical and Diagnostic Sciences Medical Laboratory Sciences
+College of Science, Engineering & Technology Section
+College of Science, Engineering & Technology
+Academic Programs
+Applied Statistics
+Astronomy
+Automotive Engineering Technology
+Integrated Science and Technology
+Biochemistry
+Biology
+Biotechnology
+Chemistry
+Civil Engineering
+Computer Application Development
+Computer Engineering
+Computer Engineering Technology
+Computer Information Technology
+Computer Science
+Construction Management
+Electrical Engineering
+Electronic Engineering Technology
+Environmental Science
+Food Science Technology
+Geology
+Global Solutions in Engineering and Technology
+Health Informatics
+Master of Science in Information Technology
+Integrated Engineering
+Iron Range Engineering
+Management Information Systems
+Manufacturing Engineering Technology
+Mathematics
+Mathematics and Statistics
+Mathematics Teaching
+Mechanical Engineering
+Physics
+Science Teaching (K-12)
+Statistics
+Twin Cities Engineering
+Agricultural Science
+Software Engineering
+Clinical and Diagnostic Sciences
+Biology, BS Clinical and Diagnostic Sciences Medical Laboratory Sciences
+Biology, BS Clinical and Diagnostic Sciences Cytotechnology
+Biology, BS Clinical and Diagnostic Sciences Nuclear Medicine Technology
+Software Engineering
+Dean's Welcome
+Departments
+CSET Advising Center
+CSET Scholarships
+News & Events
+Scholarships
+Partnerships and Centers
+Connect with Us
+Women In STEM
+Engineers Week
+Engineering Machine Design Contest
+Southern Minnesota Regional Science & Engineering Fair
+CSET Photo Gallery
+Clinical and Diagnostic Sciences (BS)
+Medical Laboratory Science
+The medical laboratory science profession involves the analysis of blood, body fluids, tissues, and cells to aid in the diagnosis, treatment, and prevention of disease. A Medical Laboratory Scientist (MLS) is a vital member of the healthcare team with employment opportunities in hospital, clinic, research, and pharmaceutical laboratories.
+Current Catalog Year
+2024-2025
+Degree
+Bachelor of Science
+Major /                                         Total Credits
+72 / 120
+Locations
+Mankato
+Apply
+Program Requirements
+Program
+                                    Requirements
+Required General Education
+BIOL 105
+General Biology I
+4 credits
+Study of biological processes at the suborganismal level including cell chemistry, metabolism, reproduction, genetics, and complex tissue physiology. Laboratory and discussion sessions stress problem solving and experimental design.
+Prerequisites:
+none
+Goal Areas: GE-03
+CHEM 201
+General Chemistry I
+5 credits
+Introduction to the basic principles of chemistry including atomic and molecular structure, bonding, chemical reactions, stoichiometry, thermodynamics and states of matter. Laboratory will reinforce lecture concepts. Prereq: C or higher in MATH 112 or the equivalent; high school chemistry or C or higher in CHEM 104
+Prerequisites:
+"C" (2.0) or higher in MATH 112 or the equivalent; high school chemistry or "C" (2.0) or higher in CHEM 104.
+Goal Areas: GE-02, GE-03
+Choose 4 Credit(s).
+MATH 112
+College Algebra
+4 credits
+Concepts of algebra (real numbers, exponents, polynomials, rational expressions), equations and inequalities, functions and graphs, polynomial and rational functions, exponential and logarithmic functions, systems of equations and inequalities, matrices and determinants, conic sections, sequences and series, probability, and binomial theorem.
+Prerequisites:
+Satisfy Placement Table in this section, or MATH 098 with grade of P.
+Goal Areas: GE-04
+MATH 115
+Precalculus Mathematics
+4 credits
+This course will cover topics of precalculus mathematics. Topics covered will include functions, graphs of functions, exponential and logarithmic functions, conic sections, systems of equations and inequalities, matrices, trigonometric functions, circular functions, vectors and complex numbers, induction, series and probability.
+Prerequisites:
+Satisfy Math Placement Table in this section, or grade of P in MATH 098.
+Goal Areas: GE-04
+MATH 121
+Calculus I
+4 credits
+Limits, continuity, the derivative and applications, transcendental functions, L'Hopital's Rule, and development of the Riemann integral.
+Prerequisites:
+Satisfy Placement Table in this section, MATH 115 or both MATH 112 and MATH 113 with "C" (2.0) or better.
+Goal Areas: GE-04
+Major Common Core
+BIOL 106
+General Biology II
+4 credits
+Study of biological processes at the organismal level including a survey of life forms (viruses, bacteria, protists, fungi, plants, and animals), their evolution, and ecology. Laboratory and discussion sessions stress problem solving and experimental design.
+Prerequisites:
+none
+BIOL 211
+Genetics
+4 credits
+Introduction to genetic analysis. Topics covered will include those of both classical and modern genetics: population genetics, molecular genetics, genetic manipulation of organisms and selection. Central to this course will be the primacy of the trait as the object of genetics and the development/refinement of the concept of the gene. Lab included.Fall, Spring, Summer
+Prerequisites:
+BIOL 105, BIOL 106, and MATH 112
+BIOL 325
+Principles of Human Anatomy
+4 credits
+Systems and regional approach to the structure of the human body. Primary emphasis on gross anatomy supported by 3-dimensional models and animal dissections, with additional emphasis on cell and tissue-level anatomy supported by histological examination. The course is designed for students majoring in biology programs. Lab included.
+Prerequisites:
+BIOL 105
+BIOL 330
+Principles of Human Physiology
+4 credits
+Principles of functions of human cells, organs, and systems with an emphasis on organ/system interactions. This course is designed for students majoring in biology, chemistry, or related sciences, and medically-related areas. Includes a laboratory with a research and medical emphasis.
+Prerequisites:
+BIOL 220, CHEM 104 or CHEM 106 or CHEM 111 or CHEM 201
+CHEM 202
+General Chemistry II
+5 credits
+Continuation of the basic principles of chemistry including properties of solutions, kinetics, acids and bases, equilibria, buffers, precipitation reactions, electron transfer reactions, electrochemistry, entropy and free energy. Laboratory will reinforce lecture concepts.
+Prerequisites:
+"C" (2.0) or higher in CHEM 201
+Emphasis Common Core
+Choose 13 Credit(s).
+BIOL 175
+Orientation to Clinical Laboratory Science
+1 credits
+An introduction to the health care profession with special emphasis on clinical laboratory personnel. Course includes presentations by professionals in some of the major health care fields, especially medical technology. Includes lectures, field observations.
+Prerequisites:
+none
+BIOL 371
+Microbiology
+4 credits
+This course is a comprehensive introduction to the structure, biochemistry, phylogeny, molecular biology, pathobiology, immunology, and ecology of microbes, with an emphasis on bacteria. Lab will include classical and contemporary techniques for the identification and characterization of bacteria.
+Prerequisites:
+BIOL 105, BIOL 106, CHEM 201
+BIOL 474
+Immunology
+4 credits
+Fundamental principles of humoral and cell mediated immunity and the application of these principles. Current experimental work in the different areas of immunology will be discussed. Lab included.
+Prerequisites:
+BIOL 105, BIOL 106, and BIOL 270
+CHEM 322
+Organic Chemistry I
+4 credits
+Introduction to organic nomenclature, structure, bonding, chemical reactivity, organic acid-base reactions, mechanisms and stereochemistry. IR, MS, and NMR spectroscopy will be introduced. The chemistry of alkanes, alkyl halides, alkenes, alkynes, and alcohols will be covered. Laboratory illustrates synthetic techniques and the preparation and reactions of functional groups discussed during lecture.
+Prerequisites:
+CHEM 202, "C" (2.0) or higher in CHEM 202.
+CHEM 360
+Principles of Biochemistry
+4 credits
+Analysis of the structure and metabolism of biologically important compounds. This intermediate-level course is designed for students in the medical technology, food science, chemistry education, chemistry and pre-professional health majors. The laboratory teaches basic biochemical techniques.
+Prerequisites:
+CHEM 322. CHEM 324 is strongly recommended.
+Emphasis Restricted Electives
+Internship credits are determined in consultation with advisor.
+- Choose 32 - 36 Credit(s).
+MEDT 410
+Clinical Hematology I
+1-10 credits
+Theory of blood cell formation; disease states; hemostasis, microscopic examination of blood/bone marrow films; practical experience with instruments and techniques which determine major hematologic and clotting parameters; quality control.
+Prerequisites:
+none
+MEDT 411
+Clinical Immunohematology I
+1-10 credits
+Major blood group systems; principles and procedures for antigen/antibody detection, identification; donor blood collection, preservation, processing; component therapy; transfusion reaction evaluation; Rh immune globulin; quality control.
+Prerequisites:
+none
+MEDT 412
+Clinical Immunology I
+1-10 credits
+Antigen/antibody structure function and interaction; basic principles and procedures of humoral and cellular immunology; performance and clinical correlation of serological testing; quality control.
+Prerequisites:
+none
+MEDT 413
+Clinical Chemistry I
+1-10 credits
+Identification and quantification of specific chemical substances in blood and body fluids by analytical techniques; clinical correlation with disease states; principles of instrumentation; data processing; toxicology; quality control.
+Prerequisites:
+none
+MEDT 414
+Clinical Microbiology I
+1-10 credits
+Theory and techniques of cultivation, isolation and identification of bacteria, fungi, parasites and viruses; determination of sensitivity to antimicrobial agents; clinical correlation to disease states, asepis; environmental monitoring; quality control.
+Prerequisites:
+none
+MEDT 415
+Clinical Microscopy I
+1-10 credits
+Theory of renal function in health and disease; renal function tests including chemical and microscopic examination of urine; analysis of fecal specimens, gastric, spinal fluid and other body fluids; quality control.
+Prerequisites:
+none
+MEDT 416
+Clinical Hematology II
+1-10 credits
+A continuation of Clinical Hematology I
+Prerequisites:
+none
+MEDT 417
+Clinical Immunohematology II
+1-10 credits
+A continuation of Clinical Immunohematology I.
+Prerequisites:
+none
+MEDT 418
+Clinical Chemistry II
+1-10 credits
+A continuation of Clinical Chemistry I.
+Prerequisites:
+none
+MEDT 419
+Clinical Microbiology II
+1-10 credits
+A continuation of Clinical Microbiology I.
+Prerequisites:
+none
+MEDT 420
+Clinical Microscopy II
+1-10 credits
+A continuation of Clinical Microscopy I.
+Prerequisites:
+none
+MEDT 499
+Individual Study
+1-6 credits
+Related topics in medical technology.
+Prerequisites:
+none
+Statistics Requirement
+- Choose 3-4 Credits
+Statistics Requirement
+HLTH 475
+Biostatistics
+3 credits
+Introduction to statistical analysis as applied to the health sciences. Examines concepts and methods of statistical procedures applied to health problems and issues.
+Prerequisites:
+MATH 110, STAT 154, Or any other mathematics course higher than MATH 110.
+STAT 154
+Elementary Statistics
+4 credits
+An introduction to statistical concepts and methods that is applicable to all disciplines. Topics include descriptive measures of data, probability and probability distributions, statistical inference, tests of hypotheses, confidence intervals, correlation, linear regression, and analysis of variance. The use of statistical software will be emphasized. Prereq: ACT Math sub-score of 19 or higher, successful completion of MATH 098 or appropriate placement scores (see Placement Information under Statistics) Fall, Spring, Summer GE-4
+Prerequisites:
+Satisfy Placement Table in this section, or MATH 098 with grade of P.
+Goal Areas: GE-02, GE-04
+CHOOSE 1 CLUSTER
+- Hennepin County Medical Center, Minneapolis, MN
+Hennepin County Medical Center, Minneapolis, MN
+BIOL 380
+Blood Banking/Urinalysis
+3 credits
+Basic understanding of the principles of immunohematology applied to the area of blood blanking including major blood group systems, principles for antigen/antibody detection and identification, donor blood collection, transfusion evaluation, theory of renal function in health and disease, specimen collection, handling, and processing, and components of routine urinalysis.
+Prerequisites:
+none
+BIOL 475
+Medical Microbiology
+4 credits
+This course will cover bacterial, fungal, and viral human pathogens: what diseases they cause, how they cause disease, and how humans defend against and prevent those diseases. In the laboratory the student will isolate and identify pathogenic microorganisms using microbiological, biochemical, and immunological techniques.
+Prerequisites:
+BIOL 270
+St. Luke's Hospital, Cedar Rapids, IA / St. Luke's College, Sioux City, IA / Mercy College of Health Science, Des Moines, IA / Sanford USD Medical Center, Sioux Falls, SD / New York Methodist Hospital, Brooklyn, NY / Mayo Clinic School of Health Sciences, Rochester, MN
+BIOL 475
+Medical Microbiology
+4 credits
+This course will cover bacterial, fungal, and viral human pathogens: what diseases they cause, how they cause disease, and how humans defend against and prevent those diseases. In the laboratory the student will isolate and identify pathogenic microorganisms using microbiological, biochemical, and immunological techniques.
+Prerequisites:
+BIOL 270
+University of Minnesota, Minneapolis, MN and Rochester, MN
+CHEM 324
+Organic Chemistry II
+3 credits
+This course is a continuation Chem 322 and includes organic nomenclature, structure, bonding, chemical reactivity, organic acid-base reactions, and reaction mechanisms; the chemistry of ethers, aromatic and heterocyclic compounds, polyenes, ketones, aldehydes, amines, carboxylic acids and their derivatives, and alpha carbonyl compounds and synthetic transformations is covered.
+Prerequisites:
+CHEM 322 with a "C" (2.0) or higher.
+CHEM 325
+Organic Chemistry II Lab
+1 credits
+Laboratory will highlight common techniques including recrystallization, melting point determination, simple and fractional distillation, extraction, gas and thin layer chromatography, and chemical and spectroscopic qualitative analysis. Single and multi-step syntheses illustrating aromatic and carbonyl chemistry will be performed.
+Prerequisites:
+CHEM 324
+MATH 121
+Calculus I
+4 credits
+Limits, continuity, the derivative and applications, transcendental functions, L'Hopital's Rule, and development of the Riemann integral.
+Prerequisites:
+Satisfy Placement Table in this section, MATH 115 or both MATH 112 and MATH 113 with "C" (2.0) or better.
+Goal Areas: GE-04Initial deposit: N/A
+
+
+Application Fee for Undergraduate: $ 20
+Application Fee for Postgraduate: $ 40
+
+
+Annual Fee for Undergraduate: $ 18,812
+Annual Fee for Postgraduate: $ 14,918
+
+
+English Language Requirements Undergraduate only:
+TOEFL iBT (internet-based test) score of 61 or better
+Pearson Test of English (PTE) score of 47 or better
+IELTS academic test score of 5.5 or better
+
+
+English Language Requirements Postgraduate only:
+Different for every course and given in course content 
+
+
+Entry Requirements Undergraduate only:
+A cumulative high school GPA of 3.0 or higher or A rank in the top 50% of your high school class or An ACT composite score of 21 or higher and a minimum cumulative high school GPA of 2.7. If you do not meet the above admission requirements, you can submit additional information to consider when reviewing your application.
+
+
+Entry Requirements Postgraduate only:
+Applicants must possess the equivalent of a U.S. Bachelor's degree to be considered for graduate programs at Minnesota State Mankato. The degree must be earned at an institution recognized and approved to award the degree. GRE (Graduate Record Examination) is required by some academic programs.
+
+English Language requirements of graduate programs is different for each course. Graduate programs only have IELTS and TOEFL test scores.
+For Graduate Entry Requirements, some requirements like GPA, Score are mentioned on the course page so add them too.

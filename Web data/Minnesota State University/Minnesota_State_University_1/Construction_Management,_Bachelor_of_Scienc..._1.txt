@@ -1,0 +1,306 @@
+Link: https://cset.mnsu.edu/academic-programs/construction-management/construction-management-bachelor-of-science/
+
+College of Science, Engineering & Technology
+Academic Programs
+Construction Management
+Construction Management, Bachelor of Science
+Construction Management Section
+Construction Management
+About the Construction Management Department
+About our Undergraduate Program
+Construction Management Faculty and Staff
+Student Resources
+Construction Management, Bachelor of Science
+Construction Management (BS)
+Current Catalog Year
+2024-2025
+Degree
+Bachelor of Science
+Major /                                         Total Credits
+73 / 120
+Locations
+Mankato
+Accreditation
+ACCE
+American Council for Construction Education
+Apply
+Program Requirements
+Program
+                                    Requirements
+Required General Education
+ECON 201
+Principles of Macroeconomics
+3 credits
+Emphasis on forces influencing employment and inflation. Current problems of the economy are stressed along with tools government has to cope with them.
+Prerequisites:
+none
+Goal Areas: GE-05
+ECON 202
+Principles of Microeconomics
+3 credits
+Examines decision making by the individual firm, the determination of prices and wages, and current problems facing business firms.
+Prerequisites:
+none
+Goal Areas: GE-05
+ECON 207
+Business Statistics
+4 credits
+Basic statistical methods including measures of central tendency and dispersion, probability, probability distributions, sampling, problems of estimation and hypothesis testing in the case of one and two sample meaans and proportions. Chi-Square, one-way analysis of variance, simple regression and correlation analysis, and brief introduction to multiple regression analysis. Use of computer statistical packages required.
+Prerequisites:
+MATH 112 or equivalent
+Goal Areas: GE-02, GE-04
+ENG 101
+Foundations of Writing & Rhetoric
+4 credits
+Students in this course approach writing as a subject of study by investigating how writing works across a variety of contexts.
+Prerequisites:
+none
+Goal Areas: GE-1A
+ENG 271W
+Technical Communication
+4 credits
+Introduction to learning the written and oral communication of technical information. Assignments include writing and presenting proposals, reports, and documentation. Emphasis on use of rhetorical analysis, computer applications, collaborative writing, and usability testing to complete technical communication tasks in the workplace.
+Prerequisites:
+ENG 101
+Goal Areas: GE-02, GE-13
+MATH 115
+Precalculus Mathematics
+4 credits
+This course will cover topics of precalculus mathematics. Topics covered will include functions, graphs of functions, exponential and logarithmic functions, conic sections, systems of equations and inequalities, matrices, trigonometric functions, circular functions, vectors and complex numbers, induction, series and probability.
+Prerequisites:
+Satisfy Math Placement Table in this section, or grade of P in MATH 098.
+Goal Areas: GE-04
+Analytical Science Courses (8 Credits)
+- Choose 3 - 4 Credit(s).
+PHYS 101
+Introductory Physics
+3 credits
+A one semester course which covers the basic principles of physics on a conceptual level and with a minimal amount of math. The course provides an understanding of natural processes and their applications. Topics generally include mechanics, simple machines, atomic structure, heat, light and sound. Lecture and laboratory components.
+Prerequisites:
+none
+Goal Areas: GE-03
+PHYS 211
+Principles of Physics I
+4 credits
+General background in physical concepts for those who do not plan advanced study in physics or engineering. Topics include mechanics, fluids, heat and thermodynamics. Lecture and laboratory.
+Prerequisites:
+Either MATH 112 and MATH 113, or MATH 115
+Goal Areas: GE-02, GE-03
+Choose remaining credits
+- Choose 4 - 5 Credit(s).
+CHEM 201
+General Chemistry I
+5 credits
+Introduction to the basic principles of chemistry including atomic and molecular structure, bonding, chemical reactions, stoichiometry, thermodynamics and states of matter. Laboratory will reinforce lecture concepts. Prereq: C or higher in MATH 112 or the equivalent; high school chemistry or C or higher in CHEM 104
+Prerequisites:
+"C" (2.0) or higher in MATH 112 or the equivalent; high school chemistry or "C" (2.0) or higher in CHEM 104.
+Goal Areas: GE-02, GE-03
+GEOL 100
+Our Geologic Environment
+3-4 credits
+Earthquakes, volcanic eruptions, and flooding are three examples of naturally recurring events on the Earth that ultimately influence all of our lives. This course introduces the physical features and processes of the Earth that control these events. The course has a laboratory component.
+Prerequisites:
+none
+Goal Areas: GE-03, GE-10
+Major Common Core
+ACCT 200
+Financial Accounting
+3 credits
+The accounting process, financial statement preparation, and analysis. Includes the accounting cycle, asset, liability, and equity accounting. Emphasis on the use of accounting data.
+Prerequisites:
+MATH 112 or MATH 115or MATH 121 or MATH 130 or MATH 181
+ACCT 210
+Managerial Accounting
+3 credits
+Preparation and analysis of cost-based management reports: use of cost information to make short-term operating decisions and long-term capital decisions.
+Prerequisites:
+ACCT 200
+BLAW 200
+Legal Environment of Business
+3 credits
+Application of law to business settings; the American court system; alternative dispute resolution; ethics and the social responsibility of business; fundamentals of legal reasoning; sources of law; constitutional, criminal, tort, and contract law; business associations.
+Prerequisites:
+none
+BLAW 476
+Construction and Design Law
+3 credits
+Legal responsibilities of architects, engineers and contractors in dealing with each other, the project's owner, sureties and subcontractors. Special emphasis on performance problems, forms of business association, legal relationships with independent contractors, the AIA contract documents, mechanics liens, AAA Construction Arbitration Rules, dispute avoidance, claims management and collection strategies.
+Prerequisites:
+BLAW 200
+CIS 101
+Introduction to Information Systems
+3 credits
+Introduction to the personal computer as a productivity tool for business majors. Using Microsoft Office suite, students learn to be productive with document processing, spreadsheets, electronic presentations, and databases. Cannot be used toward any major or minor in Computer Information Science.
+Prerequisites:
+none
+CM 108
+Construction Work Experience
+1 credits
+The Construction Experience course is one step toward building a future in the management of projects for the built environment. This course inspires students to explore opportunities within the diverse construction industry under the guidance and approval of the course instructor.
+Prerequisites:
+none
+CM 111
+Introduction to Construction Management
+1 credits
+Overview of academic preparation and career opportunities in the field of Construction Management. Skills needed for estimating, scheduling, project management and field supervision will be previewed with an emphasis on future trends in the industry.
+Prerequisites:
+none
+CM 120
+Construction Graphics
+3 credits
+Emphasis on plan reading, basic sketching and drawing techniques, graphic vocabulary, detail hierarchies, scale, content, notes and specifications, reference conventions, computer applications.
+Prerequisites:
+none
+CM 130
+Construction Documents
+2 credits
+Basic understanding of the plans and specifications for construction projects. Emphasis on interpretation of bidding and contractual documents, conditions of the contract, plans/working drawings; applications of existing and new technology preparing students for the future.
+Prerequisites:
+none
+CM 210
+Construction Materials and Methods I
+3 credits
+Understand how construction affects professional industry and society, present state of the profession and its future. Learn about the various materials used in construction--the composition, properties, standard designations, sizes, gradations, and testing techniques. Understand changes in technology of building construction materials.
+Prerequisites:
+CM 111, CM 120, CM 130, CIS 101
+CM 220
+Construction Materials and Methods II
+3 credits
+Fundamentals of building construction and their applications in construction systems and utilities. Application of the principles of building science to construction sites; relationship between technology and innovations in methods, sustainable building practices and green building requirements.
+Prerequisites:
+CM 210
+CM 222
+Introduction to Statics and Mechanics of Materials
+3 credits
+Course introduces the design theory and applied principles of force equilibrium, stress and strain, shear, bending moments, force diagrams, deformations of beams, and stress/strain analysis.
+Prerequisites:
+PHYS 101, MATH 113 or MATH 115 or MATH 121
+CM 271
+Civil Engineering Measurements
+2 credits
+Basic civil engineering measurements as relates to construction layout, including distances, angles, bearings, elevations, mapping, and positioning.
+Prerequisites:
+MATH 113 or MATH 115 or MATH 121
+CM 297
+Construction Professional Practice
+1 credits
+Principles of professional conduct, ethical codes and best practices are applied to the development of a portfolio and presentation. Students will sit for interviews, set career goals and begin building a professional network.
+Prerequisites:
+CM 108, CM 210
+CM 300
+Construction Safety
+3 credits
+This course examines the principles and practices of construction safety, health and loss control. The emphasis is on creating a construction project safety plan, including hazard recognition, control procedures and management systems for safety.
+Prerequisites:
+CM 210
+CM 310
+Estimating I
+3 credits
+This course covers types of estimates and their uses, the basics of quantity take-off, labor and equipment productivity and basic computer applications.
+Prerequisites:
+MATH 113 or MATH 115 or MATH 121
+CM 330
+Planning and Scheduling
+3 credits
+The course focuses on understanding project planning, scheduling and control models emphasizing the critical path method. It will introduce techniques used in the industry by utilizing commercial software to create a construction project schedule. The class highlights the importance of analyzing project schedules and schedule alternatives.
+Prerequisites:
+CM 220
+CM 340
+Construction Project Management
+3 credits
+This course examines the project management framework, including key terminology, project management context, and project management processes. Topics include project management knowledge areas, life cycles, and organizational designs. Different project delivery methods will be discussed and the roles of project stakeholders will be identified and analyzed.
+Prerequisites:
+CM 220, CM 222, CM 297
+CM 350
+Mechanical and Electrical Systems for Construction
+3 credits
+Design concepts of plumbing, HVAC, and electrical and control systems are analyzed for attributes that affect the design and construction processes and the performance of completed structures.
+Prerequisites:
+CM 220
+CM 380
+Construction Equipment Management
+3 credits
+This course provides understanding of the different building and civil construction equipments functions; analysis of equipment costs, production, methods of equipment selection and safety requirements including heavy equipment. Reading and understanding highway construction plans.
+Prerequisites:
+CM 220, CM 300
+CM 410
+Estimating II
+3 credits
+This course covers types of estimates and their uses, pricing and price databases, labor and equipment productivity, proposal presentations, computer applications in estimating and research in sustainable construction.
+Prerequisites:
+CM 310, CM 330
+CM 450
+Construction Capstone Project
+3 credits
+The course will involve students in a Capstone Project where students integrate the coursework concepts of the core program through research, application and presentation.
+Prerequisites:
+CM 340
+CM 492
+Construction Management Seminar
+3 credits
+A seminar course that involves a critical evaluation of an area in the construction management discipline and/or industry. Topics vary from year to year. Students are usually required to make a presentation to the class.
+Prerequisites:
+Senior Standing or instructor permission
+CM 497
+Internship
+1-12 credits
+Students will complete their Internship experiences
+Prerequisites:
+CM 300, CM 310, CM 330
+MGMT 230
+Principles of Management
+3 credits
+This course examines basic management concepts and principles, their historical development, and their application to modern organizations. Topics covered include planning, organizing, decision making, leadership, control, and organizational change. In addition, the course includes an introduction to business ethics and social responsibility, human resource management, organizational design and organizational behavior.
+Prerequisites:
+none
+MGMT 300
+Introduction to MIS
+3 credits
+This course is designed to introduce students to the Management Information Systems and its application in organizations. The course will present to the students the information systems role to support the various managerial activities, and to help the students identify and evaluate various options in Management Information Systems.
+Prerequisites:
+ISYS 101 or CIS 101
+Minimum of 3 credits required for CM 497
+Major Restricted Electives
+Select one of two classes
+- Choose 3 Credit(s).
+FINA 362
+Business Finance
+3 credits
+An introduction to finance relating to problems, methods, and policies in financing business enterprise.
+Prerequisites:
+ACCT 200
+MRKT 210
+Principles of Marketing
+3 credits
+This course provides a basic understanding of marketing concepts with emphasis on the pricing, promotion, and distribution of need satisfying products and services in domestic and international markets. The format of the course consists of lectures, case discussions, application exercises, projects, exams, and in-class group assignments.
+Prerequisites:
+noneInitial deposit: N/A
+
+
+Application Fee for Undergraduate: $ 20
+Application Fee for Postgraduate: $ 40
+
+
+Annual Fee for Undergraduate: $ 18,812
+Annual Fee for Postgraduate: $ 14,918
+
+
+English Language Requirements Undergraduate only:
+TOEFL iBT (internet-based test) score of 61 or better
+Pearson Test of English (PTE) score of 47 or better
+IELTS academic test score of 5.5 or better
+
+
+English Language Requirements Postgraduate only:
+Different for every course and given in course content 
+
+
+Entry Requirements Undergraduate only:
+A cumulative high school GPA of 3.0 or higher or A rank in the top 50% of your high school class or An ACT composite score of 21 or higher and a minimum cumulative high school GPA of 2.7. If you do not meet the above admission requirements, you can submit additional information to consider when reviewing your application.
+
+
+Entry Requirements Postgraduate only:
+Applicants must possess the equivalent of a U.S. Bachelor's degree to be considered for graduate programs at Minnesota State Mankato. The degree must be earned at an institution recognized and approved to award the degree. GRE (Graduate Record Examination) is required by some academic programs.
+
+English Language requirements of graduate programs is different for each course. Graduate programs only have IELTS and TOEFL test scores.
+For Graduate Entry Requirements, some requirements like GPA, Score are mentioned on the course page so add them too.

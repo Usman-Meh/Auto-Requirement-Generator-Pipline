@@ -1,0 +1,108 @@
+Link: https://cset.mnsu.edu/academic-programs/computer-information-technology/networking-and-information-security-minor/
+
+College of Science, Engineering & Technology
+Academic Programs
+Computer Information Technology
+Networking and Information Security, Minor
+Computer Information Technology Section
+Computer Information Technology
+Computer Information Technology, Bachelor of Science (BS)
+Computer Information Science, Minor
+Computer Technology, Minor
+Database Technologies, Minor
+International Technology, Minor
+Networking and Information Security, Minor
+Software Development, Minor
+Database Technologies, Certificate
+Information Security, Certificate
+Networking Technologies, Certificate
+Software Development, Certificate
+Computer Information Technology Faculty & Staff
+Networking & Information Security Minor
+The Networking and Information Security minor prepares students to apply the concepts of information security and cybersecurity to their chosen major field of study, including advanced courses in information warfare and network security protocols.
+Current Catalog Year
+2024-2025
+Degree
+Minor
+Total Credits
+20
+Locations
+Mankato
+Apply
+Program Requirements
+Program
+                                    Requirements
+Core
+CIS 121
+Introduction to Programming
+4 credits
+This course provides conceptual and logical tools for students planning to major in a computing-based major. Programming in a high-level language such as C++, Python, or Java, and the development of skills in abstraction, problem-solving, and algorithmic thinking are emphasized.
+Prerequisites:
+MATH 112 or MATH 113 or MATH 115 or MATH 121
+CIS 122
+Data Structures
+4 credits
+This course is a continuation of CIS 121. Students develop a basic knowledge of programming skills and object-oriented concepts, and use fundamental data structures such as lists, stacks, queues, and trees.
+Prerequisites:
+CIS 121. Select One Course: MATH 112, MATH 113, MATH 115, MATH 121, or MATH 130
+CIS 350
+Information Security
+4 credits
+Security concepts and mechanisms; security technologies; authentication mechanisms; mandatory and discretionary controls; cryptography and applications; threats; intrusion detection and prevention; regulations; vulnerability assessment; information assurance; forensics; anonymity and privacy issues; disaster recovery planning, legal issues and ethics.
+Prerequisites:
+EE 107 or CIS 121 or an approved substitute.
+CIS 360
+Introduction to Networking
+4 credits
+This course covers basic concepts related to computer networking. Topics addressed will include the OSI model, the Internet model, network management, network protocols and data security. Prerequisite: a 3.0 or higher grade in IT 210 or an approved substitute is required.
+Prerequisites:
+CIS 121. Select 1: MATH 113, MATH 115, MATH 121. Or an approved substitute.
+Restricted Electives
+Choose 4 Credit(s).
+CIS 450
+Information Warfare
+4 credits
+Covers information warfare principles and technologies. Information warfare concepts; protocols, authentication, and encryption; network attack techniques, methodologies, and tools; network defense; malware; Trojan worms, viruses, and malicious code; electronic crimes and digital evidence.
+Prerequisites:
+CIS 350
+CIS 460
+Network and Security Protocols
+4 credits
+Advanced coverage of data communication, networking and security protocols. Topics: data transmission methods, error detection and recovery, flow control, routing, security issues and performance analysis of existing and emerging protocols for secure communication. Fall, Spring
+Prerequisites:
+CIS 360
+CIS 462
+Network, Security, Administration and Programming
+4 credits
+Network and server systems administration. Domain administration; file system management; networked printers; user management; and workstation configuration. Network programming assignments/projects in Layered Software Systems, HTTP Server, UDP (TFTP or DNS), CGI program, IPV6, RPC/SCTP.Variable
+Prerequisites:
+CIS 360Initial deposit: N/A
+
+
+Application Fee for Undergraduate: $ 20
+Application Fee for Postgraduate: $ 40
+
+
+Annual Fee for Undergraduate: $ 18,812
+Annual Fee for Postgraduate: $ 14,918
+
+
+English Language Requirements Undergraduate only:
+TOEFL iBT (internet-based test) score of 61 or better
+Pearson Test of English (PTE) score of 47 or better
+IELTS academic test score of 5.5 or better
+
+
+English Language Requirements Postgraduate only:
+Different for every course and given in course content 
+
+
+Entry Requirements Undergraduate only:
+A cumulative high school GPA of 3.0 or higher or A rank in the top 50% of your high school class or An ACT composite score of 21 or higher and a minimum cumulative high school GPA of 2.7. If you do not meet the above admission requirements, you can submit additional information to consider when reviewing your application.
+
+
+Entry Requirements Postgraduate only:
+Applicants must possess the equivalent of a U.S. Bachelor's degree to be considered for graduate programs at Minnesota State Mankato. The degree must be earned at an institution recognized and approved to award the degree. GRE (Graduate Record Examination) is required by some academic programs.
+
+English Language requirements of graduate programs is different for each course. Graduate programs only have IELTS and TOEFL test scores.
+For Graduate Entry Requirements, some requirements like GPA, Score are mentioned on the course page so add them too.

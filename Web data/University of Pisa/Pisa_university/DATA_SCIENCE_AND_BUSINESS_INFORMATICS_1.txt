@@ -1,0 +1,141 @@
+Link: https://unipi.coursecatalogue.cineca.it/corsi/2024/11357
+
+contenuto principale
+[WDB-LM] DATA SCIENCE AND BUSINESS INFORMATICS
+Laurea Magistrale
+Inglese
+Info
+Piani di studio
+Informazioni generali
+Durata
+2 anni
+Ordinamento
+2022
+stato
+Aperto
+Crediti
+120 CFU
+Lingua
+Inglese
+Classe di laurea
+LM-18 - Classe delle lauree magistrali in Informatica
+Interclasse
+LM Data - Data science
+Accesso
+Libero
+Dipartimento
+DIPARTIMENTO DI INFORMATICA
+Sito web
+https://didattica.di.unipi.it/en/master-programme-in-data-science-and-business-informatics/
+Verifica conoscenze richieste per l'accesso
+No
+Requisiti di accesso
+Conoscenze richieste per l´accesso
+Il Corso di Laurea Magistrale interclasse in Data Science and Business Informatics non è ad accesso programmato. Requisito curriculare generale per l'ammissione è il possesso di una laurea triennale delle classi delle lauree in Scienze e tecnologie informatiche (L-31), in Ingegneria dell'informazione (L-8), in Statistica (L-41), in Scienze dell'economia e della gestione aziendale (L-18), in Scienze economiche (L-33), in Scienze e tecnologie fisiche (L-30), in Scienze matematiche (L-35) e nelle corrispondenti classi di cui al D.M. 509/1999.
+Sono anche ammessi studenti in possesso di una laurea triennale di un'altra classe avendo acquisito almeno 40 CFU complessivi nei seguenti settori INF/01, ING-INF/05, MAT/*, FIS/*, SECS-P/*, SECS-S/*, ING-IND/35. In ogni caso è richiesta una buona conoscenza della lingua Inglese (livello B2 o superiore).
+Nel caso di titoli di studio validi conseguiti all'estero, in particolare nei Paesi della UE, sarà possibile la deroga a tale requisito generale solo con una delibera del Consiglio di Corso di Laurea, sulla base dello specifico percorso formativo del candidato.
+L'adeguatezza della personale preparazione, in particolare sui fondamenti delle scienze e delle tecnologie dell'informazione e della lingua Inglese, viene verificata mediante la valutazione del curriculum formativo e con un eventuale colloquio a cura del Presidente del CdS o di un suo delegato.
+Modalità di ammissione
+Requisito curriculare generale per l'ammissione è il possesso di una laurea triennale delle classi delle lauree in Scienze e tecnologie informatiche (L-31), in Ingegneria dell'informazione (L-8), in Statistica (L-41), in Scienze dell'economia e della gestione aziendale (L-18), in Scienze economiche (L-33), in Scienze e tecnologie fisiche (L-30), in Scienze matematiche (L-35) e nelle corrispondenti classi di cui al D.M. 509/1999.
+Sono anche ammessi studenti in possesso di una laurea triennale di un'altra classe avendo acquisito almeno 40 CFU in uno o più dei seguenti settori INF/01, ING-INF/05, MAT/*, FIS/*, SECS-P/*, SECS-S/*, ING-IND/35. In ogni caso è richiesta una buona conoscenza della lingua Inglese (livello B2 o superiore).
+L'adeguatezza della personale preparazione, in particolare sui fondamenti delle scienze e delle tecnologie dell'informazione e della lingua Inglese, viene verificata mediante la valutazione del curriculum formativo ed un eventuale colloquio a cura del Presidente del CdS o di un suo delegato
+Contatti
+Presidente del Corso di Laurea
+Antonio Frangioni
+Email:
+antonio.frangioni@unipi.it
+Referente didattico
+Rosaria Mongini
+Tel.
+(+39) 050 2212727
+Email:
+rosaria.mongini@unipi.it
+Unità Didattica del Dipartimento di Informatica:
+https://didattica.di.unipi.it/contatti/
+Orario di ricevimento:
+Ufficio: su appuntamento previo contatto e-mail / telefono (+39) 050 2212727/3110/3162. Sportello: dal martedì al giovedì dalle ore 10.00 alle ore 13.30. Per informazioni scrivere a :
+datascience@di.unipi.it
+Valutazioni - Condizione occupazionale - Descrizione del corso
+Valutazione studenti
+Report dei risultati a.a. 23/24
+Valutazione laureandi
+Report Almalaurea
+Condizione occupazionale
+Report Almalaurea
+Caratteristiche della prova finale
+Per il conseguimento della Laurea Magistrale in Data Science and Business Informatics lo studente deve superare una prova finale valutata da una commissione nominata dal Consiglio del Dipartimento di Informatica.
+La prova consiste nella presentazione e discussione dei risultati di una tesi scritta elaborata in modo originale dallo studente sotto la guida di un relatore accademico cui si può aggiungere un relatore esterno se è stata svolta un'attività presso un'azienda o ente esterno.
+Con la tesi finale lo studente acquisisce ulteriori conoscenze nell'area della Data Science e della Business Informatics, utili per l'inserimento nel mondo del lavoro o per proseguire il percorso formativo con un dottorato di ricerca.
+Il Corso di Studio in breve
+Il Corso di Laurea Magistrale in Data Science and Business Informatics è un corso interclasse, tra LM-18 (Informatica) e LM-DATA (Data Science), progettato per rispondere alla crescente domanda di laureati magistrali con una cultura interdisciplinare in grado di comprendere le esigenze delle organizzazioni e di rispondervi attraverso la progettazione, realizzazione ed utilizzo di sistemi di supporto alle decisioni che sfruttino la grande quantità e varietà di dati oggi disponibili. Infatti, le moderne tecniche di analisi dei dati (data warehousing, machine learning, data mining, artificial intelligence, big data analytics, visual analytics, text analytics, …) permettono la costruzione di modelli di fenomeni e sistemi (fisici, sociali, economici, aziendali, logistici, …) sempre più complessi, che possono essere utilizzati al fine di migliorare l'efficacia e la tempestività dei processi decisionali delle organizzazioni sia pubbliche che private.
+I laureati avranno conoscenze specialistiche dei metodi e degli strumenti della Data Science e della Business Intelligence per ideare, pianificare, progettare e gestire applicazioni che forniscono ai decisori i modelli predittivi più adatti per comprendere, scoprire e prevedere fenomeni interessanti e li aiutino a sviluppare tattiche e strategie efficaci, basate su tali informazioni, per accrescere il vantaggio competitivo o il bene pubblico. Ciò richiede, oltre alle conoscenze più prettamente informatiche, una formazione multidisciplinare che comprende elementi di economia e gestione aziendale, metodi di ottimizzazione matematica, metodologie ed applicazioni della statistica, ed altre.
+Sono ammessi studenti in possesso di una laurea triennale in discipline informatiche, economiche o scientifiche o con almeno 40 CFU in queste discipline.
+Il percorso di formazione si articola secondo un curriculum unico, caratterizzato da un'ampia libertà di scelta dello studente per ciò che riguarda gli insegnamenti e da uno spazio molto ampio dedicato all'attività di tesi, prevalentemente svolta sotto forma di attività di progetto formativo all'interno di una scelta molto ampia di organizzazioni e aziende. La classe di laurea non ha quindi alcun impatto sul piano di studi, in quanto nell'impostazione del Corso di Laurea Magistrale i due insiemi di competenze sono inscindibili. Gli studenti devono comunque indicare all'atto dell'iscrizione la classe di iscrizione (LM-18 a meno di esplicita scelta diversa), indicazione che può essere variata fino all'iscrizione al secondo anno inviando all'Unità Didattica del Dipartimento di Informatica il modulo disponibile a:
+https://www.unipi.it/index.php/trasferimenti-e-passaggi/item/8078-cambio-curriculum-classe.
+La scelta è rilevante ai fini dell'accesso agli ordini professionali, in quanto solo i laureati della classe LM-18 possono iscriversi, previo superamento dell'esame professionale di Stato per l'esercizio della professione d'Ingegnere, all'ordine degli Ingegneri Informatici. Per contro, le tabelle ministeriali attualmente abilitano all'insegnamento di matematica e fisica per le superiori (A-27) la classe LM-DATA, ma non la classe LM-18.
+Il corso è insegnato completamente in inglese, fatta salva la possibilità per lo studente che lo desideri di usufruire anche di alcuni corsi in italiano mutuati da altri CdS. Esiste un percorso per l'acquisizione di un doppio titolo con l'Università di Paris Dauphine.
+Gli studenti della LM possono proseguire i loro studi in diverse scuole di dottorato, tra cui quelle dedicate all'Informatica, all'Ingegneria Informatica, o all'Intelligenza Artificiale.
+link utili
+menu secondario
+Cookie policy
+Usiamo i cookie!
+Utilizziamo cookie di prima e di terza parte per garantire la funzionalità del sito. I cookie di terze parti sono disattivati per default, salvo esplicito consenso da parte dell'utente (button 'Accetta tutti'). ATTENZIONE: la mancata abilitazione dei cookies di terze parti potrebbe non consentire la corretta esecuzione di alcune funzioni o causare altri problemi di funzionamento, come la mancata visualizzazione di contenuti.
+Fammi scegliere
+Accetta tutto
+Accetta solo i necessari
+Preferenze cookie
+Usiamo i cookie!
+Utilizziamo i cookie per consentire il funzionamento del sito e per migliorare la tua esperienza online. Puoi scegliere per ogni categoria se abilitarli o disabilitarli quando vuoi. Per maggiori dettagli relativi ai cookie ed altri dati sensibili, puoi leggere la
+cookie policy
+e la
+privacy policy
+integrale.
+Cookie strettamente necessari
+Cookie strettamente necessari
+Questi cookie sono essenziali per il funzionamento del nostro sito. Senza questi cookie, il sito potrebbe non funzionare correttamente.
+Cookie di performance e analytics
+Cookie di performance e analytics
+Questi cookie consentono al sito di ricordare le scelte che hai eseguito in precedenza
+Nome
+Dominio
+Durata
+Descrizione
+^_ga
+google.com
+2 years
+description ...
+_gid
+google.com
+1 day
+description ...
+Istruzioni per i vari browser:
+Istruzioni per i vari browser:
+Safari
+.
+Nome
+Dominio
+Durata
+Descrizione
+s_.*
+plu.mx
+sessione
+recupero grafico citazioni sociali da plumx
+A_.*
+core.ac.uk
+7 giorni
+recupero pubblicazioni consigliate per il pannello core-recommander
+GS_.*
+gstatic.com
+richiesta http
+visualizza grafico citazioni
+CC_.*
+creativecommons.org
+richiesta http
+visualizza licenza bitstream
+Maggiori informazioni
+Per qualsiasi domanda in relazione alle nostre policy sui cookie e sulle tue scelte, puoi visualizzare l'informativa completa a questo
+url
+.
+Accetta tutti
+Accetta solo i necessari
+Salva impostazioni

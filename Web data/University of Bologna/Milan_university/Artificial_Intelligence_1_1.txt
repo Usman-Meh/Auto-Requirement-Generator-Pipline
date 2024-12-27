@@ -1,0 +1,105 @@
+Link: https://www.unibo.it/en/study/second-cycle-degree/programme/2024/9063
+
+You are here:
+Home
+>
+Study
+>
+Second Cycle Degree
+>
+Degree programme
+Laurea Magistrale (Second cycle degree/Two year Master - 120 ECTS) in
+Artificial Intelligence
+A.Y. 2024/2025
+|
+Cod. 9063
+Place of teaching
+Campus Bologna
+Language
+English
+Degree Programme Class
+LM-18 - Computer science
+LM-32 - Computer systems engineering
+Type of access
+Open access with assessment of personal competencies
+International Programmes
+Delivered entirely in English
+Why choose this programme
+What you will study
+Professional profiles
+Experiences abroad
+Why choose this programme
+You will acquire increasingly important multidisciplinary skills and knowledge for the world of work.
+You will acquire the skills needed to drive innovation in a variety of sectors.
+You will acquire the foundations for a career in science and technology research at public institutions or hi-tech companies.
+You will acquire a modern degree that is in high demand on the global labour market.
+You will acquire the skills to build smart systems that can entertain, innovate, help, and have a positive impact in society
+Professional profiles
+Artificial Intelligence Specialist
+rolein a work context:
+An Artificial Intelligence specialist is aprofessional who combines excellent general computer skills with specificskills in the field of artificial intelligence and deals with the design,development, integration, engineering and maintenance of particularly complexand innovative computer systems in all contexts in which artificialintelligence is used. In particular, students will be able to work on implementing:
+- expert systems;
+- planning and optimisation systems;
+- Machine Learning systems;
+- Decision Support Systems;
+- Computer Vision systems;
+- Natural Language Processing systems;
+- industrial automation systems.
+in several fields of application including:
+- Industry 4.0;
+- Transport;
+- Medicine;
+- Smart cities;
+- Home automation;
+- Security;
+- Fun and leisure.
+These professionals will be able to findthe following positions:
+- artificial intelligence researchspecialist;
+- machine learning research specialist;
+- teacher trainer in the field of AI;
+- analyst, designer, project supervisor,software engineer for application projects in the field of AI;
+- AI business specialist;
+- consultant;
+- ICT Innovation Manager.
+skills associated to the profile:
+To perform the functions described above,artificial intelligence specialists are required to use skills that involve:
+- identifying, formulating and solvingcomplex problems that require artificial intelligence approaches in variousfields of application, including interdisciplinary ones;
+- applying the main symbolic calculationtechniques used in IA, the main knowledge representation and managementtechniques, the main and most recent programming languages and environments,the main algorithmic techniques for IA and combinatorial optimisationtechniques for designing and implementing artificial intelligence systems;
+- applying the main subsymboliccalculation, data mining, machine learning and deep learning techniques, aswell as
+the main existing libraries in these fieldsfor designing and implementing artificial intelligence systems;
+- applying the main computer vision andnatural language processing techniques;
+- evaluating the impact of ethical andlegal aspects related to data management and to autonomous decision-makingsystems;
+- use of basic knowledge relating to thecognitive aspects of smart systems.
+This role also requires adequatecompetencies such as transversal self-learning and continuous updating skills,communication and relational skills, organisational and management skills, andplanning skills, in accordance with the assigned level of autonomy andresponsibility, with the organisational and working methods adopted and withthe main interlocutors (colleagues, other professionals and public and/orprivate clients).
+careeropportunities:
+Typically, artificial intelligencespecialists are employed by:
+- companies and public bodies for high-techIT tasks;
+- public or private research institutes;
+- research and development departments inlarge private companies or in public bodies;
+- universities and schools;
+- consulting firms;
+- startup companies;
+- freelance engineer, after passing thestate exam according to current legislation.
+Access to further study
+It gives access to third cycle studies (Dottorato di ricerca/Scuole di specializzazione) and master courses of second degree.
+What you will study
+Course structure diagrams for students enrolled a.y. 2024-25
+Experiences abroad
+As part of its foreign experiences, the programme offers the opportunity to carry out internships abroad at international organisations and to participate in exchange programmes. These experiences allow direct contact with international concerns, enriching your understanding of global dynamics and providing a real advantage in the international labour market.
+When you can attend the degree programme
+29
+Nov
+2024
+Open Day
+COMPUTER SCIENCE AND ENGINEERING AREA | Presentation of the International Master’s degree programmes
+Are you interested in this programme?
+For more details
+Degree programme website
+Contacts
+How to enrol
+Receive programme updates
+E-mail
+Send
+I have read the
+privacy policy
+and I consent to the processing of my personal data

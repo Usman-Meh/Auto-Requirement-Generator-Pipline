@@ -1,0 +1,283 @@
+Link: https://www.fdu.edu/program/bs-information-technology/
+
+Skip to content
+Information Technology BS (Metro)
+Home
+/
+Program
+/
+Information Technology BS (Metro)
+The Gildart Haase School of Computer Sciences and Engineering offers a Bachelor of Science (B.S.) in Information Technology (IT) program that provides students with the comprehensive knowledge, skills and training needed to pursue careers as IT professionals in one of the most dynamic areas of modern technology.
+Program Claims
+Emphasizes the practical applications of information technology.
+The IT core courses emphasize user needs based system design, networking, and cybersecurity.
+The mathematics, science and programming courses provide students with a strong analytical and scientific foundation.
+Liberal arts courses prepare students to become global citizens.
+Oral and written communication skills are emphasized throughout the curriculum.
+Students can avail themselves of a cooperative education experience.
+Specialization in Web Development Technology and/or Network and System Administration and/or Security and Forensics is available.
+The BS in Information Technology degree program with a concentration in Security and Forensics fully meets the NSA and DHS CAE-CDE requirements.
+Concentrations
+The BS in Information Technology degree program allows students sufficient flexibility to concentrate in
+Web Development Technology
+and/or
+Network and System Administration
+and/or
+Security and Forensics
+or a second discipline of interest (a minor).
+The National Security Agency (NSA) and the Department of Homeland Security (DHS) have designated Fairleigh Dickinson University as a National Center of Academic Excellence in Cyber Defense Education (CAE-CDE) through the academic year 2020. The B.S. in Information Technology degree program with a concentration in
+Security and Forensics
+fully meets the CAE-CDE requirements. Students completing this concentration will help the information technology majors learn the use of cyber-defense techniques and tools in the systems, networks, and database administration tasks. It has the further strength of learning computer forensics from courses offered by the School of Criminal Justice, Political Science, and International Studies.
+Degree Plan
+1st Semester (14 credits)
+CSCI1105
+Survey of Computers & Computer Software
+WRIT1002
+Composition I:  Rhetoric & Inquiry
+INFO1101
+Computer Concepts & Technology
+MATH1105
+College Algebra
+UNIV1001
+Transitioning to University Life
+2nd Semester (14 credits)
+WRIT1003
+Composition II:  Research & Argument
+INFO1201
+Information Technology
+MATH1107
+Pre-calculus
+UNIV1002
+Preparing for Professional Life
+CGD1177
+Introduction to Digital Media
+3rd Semester (16 credits)
+EGTG2210
+Technical Communication
+INFO2101
+Computer Programming for Information Technologies I
+INFO2105
+Internet & Web Applications
+Laboratory Science Elective
+UNIV2001
+Cross-cultural Perspectives
+4th Semester (16 credits)
+ENGR2286
+Digital Systems Design
+INFO2102
+Computer Programming for Information Technologies II
+INFO2106
+Web Site Design and Management
+Laboratory Science Elective
+UNIV2002
+Global Issues
+5th Semester (15 credits)
+CSCI2234
+Data Structures and Algorithms
+ENGR3000
+Modern Tech: Principles Applications and Impact
+MATH2337
+Applied Statistics I
+INFO3201
+Human Computer Interface
+Minor or Concentration Course or IT elective (3 credits)
+6th Semester (15 credits)
+CSCI3268
+Database Systems
+INFO3205
+Digital Media Publishing
+INFO4278
+Operating systems or Minor or Concentration Course or IT elective
+CSCI3274
+Linux Systems Administration
+UNIV2002
+Global Issues
+7th Semester (15 credits)
+EGTG4269
+Management & Engineering Economics
+INFO4101
+Data Communication & Computer Networks I
+MATH2255
+Discrete Structures
+Minor or Concentration Course or IT elective OR
+INFO4844
+Programming for the Internet (3 credits)
+Minor or concentration course or IT elective (3 credits)
+8th Semester (15 credits)
+INFO4205
+Capstone Project
+INFO4410
+Foundations of Cybersecurity
+Minor or Concentration Course or IT elective
+Minor or Concentration Course or IT elective
+INFO4201
+IT Needs, Assessment Mgmt
+Information Technology Elective
+Six credits must be selected from the Information Technology approved list of Technical Electives, which can be obtained from the School of Computer Sciences and Engineering. The courses must be approved by an academic advisor. Students can elect to participate in a cooperative educational experience and earn up to six credits.
+Information Technology Concentrations
+Students can select one of the two concentration areas—Web Development Technology or Network and System Administration. Web Development Technology requires students to take
+INFO4844
+: Programming for the Internet in their 7th semester and Network and System Administration requires students to enroll in
+INFO4278
+: Operating Systems in their 6th semester.
+Minor or Concentration
+Students must either concentrate in a particular area of information technology or undertake a minor other than information technology. Any concentration area or minor undertaken by the students must be approved first by an adviser. A minimum of 15 credits (from various department approved lists of courses) is required for an area of concentration or a minor.
+Science Electives
+Students are required to complete one full-year laboratory science sequence totaling eight (8) credits from the following courses:
+PHYS2101
+,
+PHYS2102
+General Physics I & II and
+PHYS2201
+,
+PHYS2202
+Physics Laboratory I & II
+CHEM1201
+,
+CHEM1202
+General Chemistry I & II and
+CHEM1203
+,
+CHEM1204
+General Chemistry Laboratory I & II
+BIOL1221
+,
+BIOL1222
+Biological Diversity Lecture & Lab and
+BIOL1233
+&
+BIOL1234
+Molecules, Cells, & Genes Lecture & Lab
+Security & Forensics Concentration
+Required Concentration Courses (15 credits)
+CRIM2218
+Computer Technologies and Cyber Crime
+CRIM3327
+File System Forensic Analysis and Investigation
+CRIM4010
+Computer Forensic, Software and Hardware Applications
+CSCI2235
+Survey of Computing Security
+CSCI3783
+Information Security
+Web Development Technology Concentration
+Required IT Elective Course (3 credits)
+INFO4844
+Programming for the Internet
+Network & System Administration Concentration
+Required IT Elective Course (3 credits)
+INFO4278
+Operating systems
+Special Information
+The U.S. Bureau of Labor Statistics (BLS) projects an employment growth of higher than average 11 – 28 percent from 2016 to 2026.
+The Metropolitan Campus computer labs offer over 250 state-of- the art Internet-connected computing platforms with multiple operating systems (Windows, Linux, VMWare, etc.) for student use.
+Software packages for programming, multimedia applications, website design, database management, big data analytics, computer gaming, networking, and security are installed on the lab computers.
+Servers running Netlab+ allow students practice lab exercises virtually preparing for the CompTIA A+, Network+, Security+, Linux+ and other certifications.
+All requisite routers, switches, firewalls, servers, wireless access points, etc. and software pertaining to a CISCO Academy are available.
+Credit-card sized Beaglebone Black and Raspberry-PI computers are available for embedded systems programming and IoT development.
+Specialized workstations for digital forensics are available for forensic analysis.
+A Cybersecurity and Digital Forensics lab is under development.
+MSDN Academic Alliance program provides access to Microsoft software at no cost.
+Students pursuing the BSIT degree program with the Concentration in Security and Forensics are eligible to apply for the prestigious Department of Defense (DoD) Cyber Scholarship Program (CySP).
+The program is undergoing national accreditation by the Computing Accreditation Commission (CAC-ABET).
+Professional Accreditation
+The B.S. in Information Technology program is accredited by the Computing Accreditation Commission of ABET,
+www.abet.org
+.
+Educational Objectives
+The BS in Information Technology program will produce graduates who:
+Enter, advance, and lead in the profession of information technology, management information systems, business administration, or other related fields.
+Continue their education by obtaining professional certificates or advanced degrees in information technology, management information systems, business administration, or other related fields.
+Continue to conduct themselves as both responsible professionals and global citizens, who are aware of ethical issues and societal needs and problems.
+Student Outcomes
+The BS in Information Technology program has adopted the Student Outcomes of the Computing Accreditation Commission (CAC) of ABET as its own learning outcomes, which define the attributes, skills, and knowledge that the graduates are expected to possess upon or before graduation. Each Information Technology graduate will demonstrate the following attributes and achievements as required by the CAC of ABET by the time of graduation:
+Analyze a complex computing problem and to apply principles of computing and other relevant disciplines to identify solutions.
+Design, implement, and evaluate a computing-based solution to meet a given set of computing requirements in the context of the program’s discipline.
+Communicate effectively in a variety of professional contexts.
+Recognize professional responsibilities and make informed judgments in computing practice based on legal and ethical principles.
+Function effectively as a member or leader of a team engaged in activities appropriate to the program’s discipline.
+Use systemic approaches to select, develop, apply, integrate, and administer secure computing technologies to accomplish user goals. [IT]
+Career Opportunities
+Information technology is credited with being a major factor in increased productivity and the driving force behind the new global economy. The U.S. Bureau of Labor Statistics (BLS) reports that computer support specialists held 565,700 jobs in 2008; computer network, systems and database administrators, 961,200 jobs. BLS also projects an employment growth of 14 percent for the former job category and 30 percent for the latter one from 2008 to 2018.
+The two growth rates are higher than the average rate for all occupations. Other IT and computer-related jobs are expected to grow at a faster rate as well. The great demand for IT professionals, not only in the New York and New Jersey areas but throughout the country and the world, ensures graduates of strong employment opportunities following completion of the program.
+Program Enrollment and Degree Data:
+The official fall term enrollment figures (head count) of the BS in Information Technology program for the last five academic years and the number of degrees conferred during each of those years.
+Academic Year
+Enrollment Year
+Total
+Degrees Awarded
+1st
+2nd
+3rd
+4th
+2018 -2019
+FT
+14
+11
+7
+5
+37
+Not yet available
+PT
+2
+1
+2
+2
+7
+2017 -2018
+FT
+9
+8
+12
+5
+34
+11
+PT
+1
+1
+2
+2016 -2017
+FT
+5
+12
+5
+9
+31
+10
+PT
+1
+1
+2
+2015 -2016
+FT
+9
+12
+8
+5
+34
+10
+PT
+1
+1
+2
+4
+2014-2015
+FT
+11
+9
+3
+6
+29
+8
+PT
+1
+1
+2
+FT- full time,
+PT- part time
+Learn more
+Gildart Haase School of Computer Sciences and Engineering
+Admissions
+Apply now
+Visit FDU
+Request Information

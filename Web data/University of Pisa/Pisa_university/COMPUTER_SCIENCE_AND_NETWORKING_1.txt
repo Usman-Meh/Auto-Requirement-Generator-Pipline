@@ -1,0 +1,142 @@
+Link: https://unipi.coursecatalogue.cineca.it/corsi/2024/10434
+
+contenuto principale
+[WTW-LM] INFORMATICA E NETWORKING
+Laurea Magistrale
+Inglese
+Info
+Piani di studio
+Informazioni generali
+Durata
+2 anni
+Ordinamento
+2012
+stato
+Aperto
+Crediti
+120 CFU
+Lingua
+Inglese
+Classe di laurea
+LM-18 - Classe delle lauree magistrali in Informatica
+Accesso
+Libero
+Dipartimento
+DIPARTIMENTO DI INFORMATICA
+Sito web
+http://www.di.unipi.it/it/didattica/wtw-lm
+Verifica conoscenze richieste per l'accesso
+No
+Requisiti di accesso
+Conoscenze richieste per l´accesso
+Possono essere ammessi solo gli studenti in possesso di lauree di primo livello nelle classi di Informatica (classe 26 e classe L-31) e Ingegneria dell'Informazione (classe 9 e classe L-8), oppure di altro titolo di studio simile conseguito all'estero e giudicato equipollente durante il processo di ammissione.
+I candidati in possesso dei requisiti curriculari sono sottoposti alla verifica della personale preparazione, secondo le modalità descritte nel Regolamento Didattico.
+E' richiesta altresì la conoscenza della lingua inglese (lingua in cui sono erogati gli insegnamenti del corso di laurea) pari al livello B2 o superiore, secondo il Quadro comune europeo di riferimento per la conoscenza delle lingue.
+Modalità di ammissione
+Per essere ammessi i candidati devono essere in possesso di una Laurea di I livello rilasciata da un Ateneo Italiano, con un curriculum studiorum comprensivo dei seguenti requisiti curriculari minimi:
+-12 CFU complessivi in uno o più dei seguenti settori scientifico-disciplinari: MAT/01, MAT/02, MAT/03, MAT/04, MAT/05, MAT/06, MAT/07, MAT/08, MAT/09, FIS/01, FIS/02, FIS/03;
+-60 CFU complessivi in uno o più dei seguenti settori scientifico-disciplinari INF/01, ING-INF/03, ING-INF/05.
+Vengono considerati ammissibili anche candidati che abbiano conseguito il titolo all'estero, previa verifica del titolo di studio da parte della commissione che sovrintende alle attività di ammissione, purché il percorso formativo preveda il completamento di almeno tre anni di corso di studio in Informatica, Ingegneria dell'Informazione o corsi analoghi (Bachelor in Computer Science, Computer Engineering, Telecommunications, Communication Networks, Information Technology, etc.).
+L'ammissione di candidati con titolo estero conseguito in un Paese NON UE avviene in ogni caso sotto condizione della verifica della legittimità del titolo posseduto, dichiarata ufficialmente dalle competenti Rappresentanze diplomatiche italiane.
+I candidati in possesso dei requisiti curriculari sono sottoposti alla verifica della personale preparazione, che avverrà tramite un colloquio. Tale verifica accerterà il possesso di conoscenze fondamentali di ambito informatico, matematico e fisico, di conoscenze di base di telecomunicazioni, e della conoscenza della lingua inglese di livello B2 o superiore. Maggiori dettagli sulla procedura di verifica sono recuperabili sul sito web del corso di studio.
+Sono ammessi alla verifica della personale preparazione anche candidati non ancora in possesso del titolo di studio ma che lo conseguiranno entro e non oltre un limite temporale stabilito annualmente dal Consiglio di Corso di Studi, generalmente anteriore alla data di inizio delle lezioni per i candidati non EU ed entro la fine dell'anno solare per i candidati EU.
+Contatti
+Presidente del Corso di Laurea
+Stefano Giordano
+Email:
+stefano.giordano@unipi.it
+Referente didattico
+Rosaria Mongini
+Tel.
+(+39) 050 2212727
+Email:
+rosaria.mongini@unipi.it
+Unità Didattica del Dipartimento di Informatica:
+https://didattica.di.unipi.it/contatti/
+Orario di ricevimento:
+Ufficio: su appuntamento previo contatto e-mail / telefono (+39) 050 2212727/3110/3162. Sportello: dal martedì al giovedì dalle ore 10.00 alle ore 13.30. Per informazioni scrivere a :
+mcsn@di.unipi.it
+Valutazioni - Condizione occupazionale - Descrizione del corso
+Valutazione studenti
+Report dei risultati a.a. 23/24
+Valutazione laureandi
+Report Almalaurea
+Condizione occupazionale
+Report Almalaurea
+Caratteristiche della prova finale
+La prova finale per il conseguimento della Laurea Magistrale in Computer Science and Networking, valutata da una commissione nominata dalle strutture didattiche, consiste nella presentazione e discussione dei risultati di una tesi che rivesta caratteristiche di originalità, redatta sotto la guida di un relatore accademico, docente del Corso di Laurea Magistrale, e di un eventuale relatore esterno nel caso di attività svolta presso un'azienda o ente esterno. La valutazione della prova finale sarà basata sulla qualità del lavoro svolto e sulla capacità di lavoro autonomo, di sintesi e di comunicazione del candidato.
+Il Corso di Studio in breve
+Il Corso di Laurea Magistrale in Informatica e Networking (Computer Science and Networking) è stato progettato per rispondere alla crescente domanda di una figura professionale che richiede laureati magistrali
+• in grado di padroneggiare, in modo integrato, tanto le metodologie, gli strumenti e le tecnologie relative ai sistemi di calcolo distribuiti e paralleli ad elevate prestazioni quanto quelle di networking nella progettazione e realizzazione di infrastrutture hardware/software innovative
+• in grado di intervenire efficacemente nella progettazione, realizzazione e gestione di tali infrastrutture (anche con riferimento agli aspetti di automazione nella gestione).
+• capace di analizzare i requisiti e di procedere, mediante soluzioni basate su modelli, emulatori o tecniche measurement based, alla progettazione e alla resa operativa di nuovi servizi distribuiti in svariati settori dell'industria, commercio, ricerca, pubblica amministrazione, assistenza sociale e al cittadino.
+Questa figura professionale, di cui si riconosce la necessità sia in ambito nazionale che a livello internazionale, è una figura 'full stack' in grado di coprire tutti i livelli in cui si sviluppa l'architettura di una piattaforma per l'erogazione di nuovi servizi per la quale processing, storage e comunicazione si integrano mediante i nuovi paradigmi HPC con le nuove modalità cross-layer. Le recenti innovazioni tecnologiche quali Software Defined Networking, Network Function Virtualization, Intent based Networking, che hanno permesso di realizzare nuovi paradigmi dove calcolo, storage e trasmissione dell'informazione sono sempre più integrate e complesse e orchestrabili con approcci di automazione e intelligenza distribuita rendono ancora più necessaria questa figura in un vasto insieme di aree applicative che comprendono settori di punta dell'attuale panorama della 'digital transformation' nel mondo della ricerca, dell'industria e dei servizi, Industria 4.0, sistemi cyber-fisici, smart cities, gestione di emergenze e disastri, gestione delle fonti energetiche e molte altre ancora. A questo scopo, i laureati possiederanno profonde conoscenze informatiche e di comunicazioni riguardo a:
+• sistemi distribuiti, piattaforme abilitanti, architetture a servizi, sistemi ad alte prestazioni, pervasive & mobile computing;
+• architettura, impiantistica, gestione energetica, safety del data center e nuovi approcci devops;
+• reti di accesso e per diversi livelli di copertura geografica, trasmissione e tecnologie wireless e ottiche anche seguendo i nuovi approcci softwarizzati, virtualizzati e disaggregati;
+• modelli e strumenti di programmazione e sviluppo applicazioni, di analisi, misura, progettazione e valutazione di sistemi e applicazioni includendo gli aspetti relativi al consumo energetico.
+Questo corso di laurea ha una caratterizzazione e organizzazione di tipo internazionale, basata su corsi tenuti in lingua inglese, allo scopo di attrarre anche studenti da varie parti del mondo. Gli studenti avranno la possibilità di accedere a laboratori avanzati di architettura, programmazione, telecomunicazione in configurazioni complesse centralizzate, parallele e distribuite anche facendo riferimento a attività di laboratorio e sviluppate presso il Data Center d'Ateneo.
+link utili
+menu secondario
+Cookie policy
+Usiamo i cookie!
+Utilizziamo cookie di prima e di terza parte per garantire la funzionalità del sito. I cookie di terze parti sono disattivati per default, salvo esplicito consenso da parte dell'utente (button 'Accetta tutti'). ATTENZIONE: la mancata abilitazione dei cookies di terze parti potrebbe non consentire la corretta esecuzione di alcune funzioni o causare altri problemi di funzionamento, come la mancata visualizzazione di contenuti.
+Fammi scegliere
+Accetta tutto
+Accetta solo i necessari
+Preferenze cookie
+Usiamo i cookie!
+Utilizziamo i cookie per consentire il funzionamento del sito e per migliorare la tua esperienza online. Puoi scegliere per ogni categoria se abilitarli o disabilitarli quando vuoi. Per maggiori dettagli relativi ai cookie ed altri dati sensibili, puoi leggere la
+cookie policy
+e la
+privacy policy
+integrale.
+Cookie strettamente necessari
+Cookie strettamente necessari
+Questi cookie sono essenziali per il funzionamento del nostro sito. Senza questi cookie, il sito potrebbe non funzionare correttamente.
+Cookie di performance e analytics
+Cookie di performance e analytics
+Questi cookie consentono al sito di ricordare le scelte che hai eseguito in precedenza
+Nome
+Dominio
+Durata
+Descrizione
+^_ga
+google.com
+2 years
+description ...
+_gid
+google.com
+1 day
+description ...
+Istruzioni per i vari browser:
+Istruzioni per i vari browser:
+Safari
+.
+Nome
+Dominio
+Durata
+Descrizione
+s_.*
+plu.mx
+sessione
+recupero grafico citazioni sociali da plumx
+A_.*
+core.ac.uk
+7 giorni
+recupero pubblicazioni consigliate per il pannello core-recommander
+GS_.*
+gstatic.com
+richiesta http
+visualizza grafico citazioni
+CC_.*
+creativecommons.org
+richiesta http
+visualizza licenza bitstream
+Maggiori informazioni
+Per qualsiasi domanda in relazione alle nostre policy sui cookie e sulle tue scelte, puoi visualizzare l'informativa completa a questo
+url
+.
+Accetta tutti
+Accetta solo i necessari
+Salva impostazioni

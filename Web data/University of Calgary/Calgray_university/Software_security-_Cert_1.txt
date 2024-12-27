@@ -1,0 +1,105 @@
+Link: https://grad.ucalgary.ca/future-students/explore-programs/software-security-cert
+
+Software Security
+Certificate
+Course-based program
+Program overview
+Please note: applications for this program are not currently being accepted.
+Smart devices are everywhere, and as the Internet of Things (IoT) grows, so do the risks associated with software vulnerabilities. The Graduate Certificate in Software Security prepares IT professionals to provide security solutions for software systems, applications, mobile devices and the growing number of smart devices that are part of the IoT.
+Learn theory and practice while gaining hands-on experience in developing secure products, applying threat modelling, and assessing security. Professionals and recent computer science graduates who complete this program will also gain skills in analyzing and communicating threats and solutions while considering the legal and ethical dimensions of software security.
+Completing this program
+Courses:
+Students will three take courses: system and application security, software security, mobile and smart devices; and choose one course from topics including governance and risk management, policies and standards, incident management and forensics.
+Outcomes
+Technology sector, business start-ups, computer science research, business analysis, security, IT, loss prevention, employment, advancement, career change, software development, product development.
+A course-based certificate in Software Security is usually considered a final degree
+Course-based program
+Four courses
+Learn more about program requirements in the Academic Calendar
+Classroom delivery
+Time commitment
+4, 8, 10 or 12 months, depending on the schedule set per cohort. The maximum time allowed is three years.
+Supervisor
+No supervisor is required
+Fees and funding
+See the Graduate Calendar for information on
+fees and fee regulations,
+and for information on
+awards and financial assistance
+.
+Virtual Tour
+Explore the University of Calgary (UCalgary) from anywhere. Experience all that UCalgary has to offer for your graduate student journey without physically being on campus. Discover the buildings, student services and available programs all from your preferred device.
+Take the FGS Virtual Tour
+Admission requirements
+GPA
+A minimum of 3.0 GPA on a 4.0 point system, over the past two years of full-time study (a minimum of 10 full-course equivalents or 60 units) of the undergraduate degree.
+Minimum education
+A four year baccalaureate degree, or equivalent from a recognized institution in Computer Science. If the baccalaureate is not in Computer Science, the candidate must have successfully completed an undergraduate course in each of the following areas: computer programming with understanding of execution environments, or algorithms and data structures, either operating systems or computer networks.
+Work samples
+None
+Documents
+None
+Reference letters
+Two letters of recommendation
+Test scores
+None
+Alternate routes to admission
+Individuals who do not meet formal academic requirements but who have significant life achievement may be considered for admission to this program. The candidate must provide the Information Security Program Director with evidence demonstrating the potential to successfully undertake this certificate program. Such candidates may also be required to participate in an in-person interview with the Program Director and be required to take additional courses to meet completion requirements.
+Students who successfully complete one of the post-baccalaureate certificate programs, and who then apply to the other post-baccalaureate certificate program within 5 years of completing the first certificate, will not be required to submit reference letters or transcripts.
+English language proficiency (ELP)
+An applicant whose primary language is not English may fulfill the English language proficiency requirement in one of the following ways:
+Test of English as a Foreign Language (TOEFL iB
+T including TOEFL iBT Home Edition)
+minimum score of 86 (Internet-based, with no section less than 20).
+International English Language Testing System (IELTS)
+score of 6.5 (with no section less than 6.0).
+Cambridge C1 Advanced or Cambridge C2 Proficiency
+minimum score of 180.
+Pearson Test of English (PTE)
+score of 59 or higher
+Canadian Academic English Language test (CAEL)
+overall score of 70 (no section less than 60).
+Academic Communication Certificate (ACC)
+minimum of B+ in each course.
+Duolingo English Test
+obtaining a minimum score of 125 (with no sub-score below 105).
+*Please contact your program of interest if you have any questions about ELP requirements.
+Deadlines
+Fall Admission
+November 1:
+Application start
+March 26:
+Deadline for International applicants
+July 12:
+Deadline for Canadian/Permanent Residents
+If you're not a Canadian or permanent resident, or if you have international credentials, make sure to learn about
+international requirements
+Are you ready to apply?
+Application process
+Learn more about this program
+Information Security Graduate Certificate Program
+Graduate Science Centre
+SA 229, 2500 University Drive NW
+Calgary, AB T2N 1N4
+403.220.7495
+Contact the Graduate Program Administrator
+Visit the program website
+Faculty of Science
+University of Calgary
+2500 University Drive NW
+Calgary, AB, T2N 1N4
+Visit the Faculty of Science website
+Learn more about UCalgary by taking a
+virtual tour
+Related programs
+If you're interested in this program, you might want to explore other UCalgary programs.
+Computer Science
+Thesis-based MSc
+PhD
+Data Privacy
+Certificate
+Network Security
+Certificate
+Curious about the University of Calgary?
+Located in the nation's most enterprising city, we are a living, growing and youthful institution that embraces change and opportunity with a can-do attitude.
+Learn more about student life at UCalgary

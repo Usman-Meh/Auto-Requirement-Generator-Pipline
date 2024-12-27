@@ -1,0 +1,196 @@
+Link: https://www.unibo.it/en/study/second-cycle-degree/programme/2024/8854
+
+You are here:
+Home
+>
+Study
+>
+Second Cycle Degree
+>
+Degree programme
+Laurea Magistrale (Second cycle degree/Two year Master - 120 ECTS) in
+Quantitative Finance
+A.Y. 2024/2025
+|
+Cod. 8854
+Place of teaching
+Campus Bologna
+Language
+English
+Degree Programme Class
+LM-16 - Finance
+Type of access
+Open access with assessment of personal competencies
+International Programmes
+Delivered entirely in English, Double/Multiple degree
+KAROL ADAMIECKI UNIWERSITET EKONOMICZNY W KATOWICACH
+,
+ECOLE NATIONALE SUPERIEURE D' INFORMATIQUE POUR L'INDUSTRIE ET L'ENTERPRISE
+,
+UNIVERSITY OF APPLIED SCIENCES DI VIENNA
+,
+LUDWIG-MAXIMILIANS-UNIVERSITAT MUNCHEN
+,
+UNIVERSITÉ D’EVRY-VAL-D’ESSONNE
+,
+UNIVERSITE PARIS SACLAY
+Why choose this programme
+What you will study
+Professional profiles
+Experiences abroad
+Why choose this programme
+Acquisition of advanced quantitative skills and knowledge aimed at financial market analysis.
+Specialised training on topics of your choice, having in mind a professional figure who specialises in specific areas of expertise.
+Competitive advantage on the international market thanks to a double-qualification programme.
+Networking with the world of work through numerous events dedicated to job placements and available internship opportunities.
+Training will always be in line with market demands thanks to the careful internal and external monitoring of the programmes offered.
+Professional profiles
+Financial engineering specialist
+function in a professional context:
+This professional figure plays a technical role, developing and assessing financial instruments.
+The main functions are to:
+a. Design both plain (shares, bonds) and complex products (derivatives and structured products), for both
+personal and collective investment (fund management);
+b. Break down the products in the replicating portfolio and evaluate them at  fair value, also taking into account
+the degree of product liquidity (e.g. Over-the-Counter products);
+c. Assess the impact of different structuring choices (using for example exotic products) on product value;
+d. Apply financial engineering concepts to evaluate financial statement entries (applying for example real option techniques).
+These functions may be performed directly, or as the coordinator of a working group, either in-house as consultant or regulator.
+competencies associated to the function:
+The specific skills of a quantitative finance specialist include principally:
+1) In-depth knowledge of the concept of mathematical and statistical probability to calibrate market data
+and assess financial products;
+2) Study of mathematical techniques to analyse uncertain variables and random processes;
+3) Ability to use numerical calculation to apply mathematics and statistics to
+financial engineering problems;
+4) Knowledge of computer tools for concrete application of knowledge to actual data.
+In addition to this knowledge and self-learning and lifelong learning skills, graduates will possess
+the following transversal skills:
+1)            Knowledge of the institutional aspects of financial products, markets and interested parties;
+2)            The ability to communicate the results of complex analyses using a clear, simple language;
+3)            The ability to transfer knowledge within a working group and tackle new knowledge and problems.
+career opportunities:
+- Financial and insurance intermediaries
+- Consulting and auditing firms
+- Research centres
+- Supervisory and regulatory authorities
+- University (PhD)
+Risk manager
+function in a professional context:
+This professional figure plays a technical role, developing financial risk management strategies and measures.
+The main functions are to:
+a. Break down both traditional and modern financial products (structured products and derivatives) into exposures to
+a set of risk factors (risk mapping);
+b. Develop and apply risk measuring techniques and report to the the decision makers in the organisation, including
+financial intermediaries (as a whole or as a business unit), non-financial companies and retail customers;
+c. Design static and dynamic risk hedging strategies and techniques to measure the hedge effectiveness in order to orient choices;
+d. Design simulation techniques and stress test analyses of risk management systems under extreme conditions.
+These functions may be performed directly, or as the coordinator of a working group, either in-house or as consultant or regulator.
+competencies associated to the function:
+The specific skills of a risk manager include principally:
+1) In-depth knowledge of the working of markets and of products in terms of organisation
+and operations in order to be able to assess potential misfunctionality;
+2) In-depth knowledge of the principles of mathematical finance, particularly concerning the breakdown of
+products into their elementary components (replicating portfolio), in order  to identify risk factors;
+3) Knowledge of mathematical, statistical and econometric tools and the concept of probability, to estimate the distribution of risk factors and profits and losses;
+4) Knowledge of database architecture for storing and searching information to retrieve data on
+portfolio securities to be analysed and the corresponding market data for the evaluation of risk.
+In addition to this knowledge and self-learning and lifelong learning skills, graduates will possess
+the following transversal skills:
+1) The ability to organise the learning process in order to tackle new problems, which represents the typical working condition of the risk manager;
+2) The ability to organise a working group, assigning tasks and problems for both routine risk measurement and in order to solve new problems under tight deadlines;
+3) The ability to simply and clearly communicate risk factors and their relevance, along with the possible hedging alternatives available to the user, to audiences of both a top managers and retail clients.
+career opportunities:
+- Financial and insurance intermediaries
+- Consulting and auditing firms
+- Supervisory authorities
+- Non financial companies with financial management activity
+- University (PhD)
+Asset manager
+function in a professional context:
+This professional figure plays the role of a technical specialist dealing mainly with investment strategies for individual investors and fund managers.
+The main functions are to:
+a. Design quantitative strategies to choose investments, both as passive managers
+and as active portfolio managers using both stock-picking and market-timing techniques;
+b. Use the most common Bayesian techniques to merge different sources of information, from historical to implied and to that provided by analysts;
+c. Design products with capital or return guarantees and develop the relative asset-liability management (ALM) techniques;
+d. Design dynamic long-term portfolio management techniques, in order to manage pension funds and life insurance policies;
+e. Design exchange risk hedging techniques and generally the use of derivatives to improve passive replication
+of an index or the risk-return features of a long-only portfolio.
+These functions may be performed directly, or as the coordinator of a working group, either in-house or as consultant or regulator.
+competencies associated to the function:
+The specific skills of an asset manager include principally:
+1) In-depth knowledge of investment products and their use for
+the implementation of strategies;
+2) Knowledge of econometric and statistical techniques, particularly Bayesian techniques for merging information from different sources;
+3) Knowledge of the principles of macro and micro economics, and how to use them to develop investment ideas;
+4) Knowledge of statistical and econometric software used to produce forecasts and analyses of the general economy, industrial sectors and firms.
+In addition to this knowledge and lifelong learning skills, graduates will possess appropriate transversal skills
+concerning:
+1) The ability to organise individual tasks and working groups to analyse scenarios for developing investment ideas (views) and represent them hierarchically in terms of probability;
+2) The ability to clearly and simply explain investment ideas and how these are transformed into the
+recommended financial position;
+3) The ability to gather information on economic crises and the exposure of the portfolio to several risk factors.
+4) In-depth knowledge of the investment products available on the market and their correct use.
+career opportunities:
+- Asset management companies (SGR - Società di Gestione del Risparmio)
+- Banks and insurance companies
+- Independent consulting services
+- Supervisory authorities
+- Private equity companies
+- Family offices
+- University (PhD)
+Insurance specialist
+function in a professional context:
+This professional figure plays a technical role, dealing mainly with the management and evaluation of insurance risks and products.
+The main functions are to:
+a. Design products for risk transfer for both individual and collective clients and assess the prospects of loss from a probability point of view;
+b. Assess life insurance policies, break down financial and actuarial risk factors and draw up hedging strategies (for example using longevity bonds);
+c. Study and apply statistical models to forecast changes  in expected lifetime and risks
+linked to life portfolios (longevity risk);
+d. Study insurance techniques for catastrophic events and related risk management and hedginf strategies both through the purchase of market protection (cat options) and re-insurance from other insurance brokers.
+These functions may be performed directly, or as the coordinator of a working group, in the role of either consultant or regulator.
+competencies associated to the function:
+The specific skills of an insurance specialist include principally:
+1) In-depth knowledge of the concept of mathematical and statistical probability, particularly focusing on Lévy and other distribution processes to analyse financial and insurance risk factors;
+2) Knowledge of the principles ruling the structuring process and the evaluation of financial and insurance products;
+3) Knowledge of the insurance and financial risk transfer markets and products (re-insurance and
+securitisation);
+4) Knowledge of computer tools and methods for the numerical analysis applied to
+product evaluation.
+In addition to this knowledge and self-learning and lifelong learning skills, graduates will possess
+the following transversal skills:
+1) Knowledge of European and international insurance regulations;
+2) The ability to interact in a research and development group, breaking down the analysis into its elementary components and managing its coordinated development (for example, linking financial and insurance risks, or integrating the structuring, evaluation and re-insurance processes);
+3) The ability to simply and clearly propose and discuss the structure of insurance products, analytically illustrating risk transfer and management strategies.
+career opportunities:
+- Insurance companies and financial intermediaries
+- Pension fund and life insurance policy management companies
+- Consulting firms
+- Supervisory authorities
+- University (PhD)
+The career opportunities also include the possibility to register with the association of actuaries, upon passing the relative
+state exams.
+Access to further study
+It gives access to third cycle studies (Dottorato di ricerca/Scuole di specializzazione) and master universitario di secondo livello.
+What you will study
+Course structure diagrams for students enrolled in the a.y. 2024-25
+Experiences abroad
+Enjoy a range of international opportunities to become more competitive in the labour market: you can do internships with important stakeholders in the financial sector and participate in intensive programmes with foreign partners and double degree programmes in Germany, Austria, France and Poland.
+When you can attend the degree programme
+26
+Nov
+2024
+Open Day
+STATISTICS AREA | Presentation of the International Master's degree programmes
+Are you interested in this programme?
+For more details
+Degree programme website
+Contacts
+How to enrol
+Receive programme updates
+E-mail
+Send
+I have read the
+privacy policy
+and I consent to the processing of my personal data

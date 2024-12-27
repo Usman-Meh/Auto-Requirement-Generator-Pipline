@@ -1,0 +1,198 @@
+Link: https://www.fdu.edu/program/bs-computer-science-metro/
+
+Skip to content
+Computer Science BS (Metro)
+Home
+/
+Program
+/
+Computer Science BS (Metro)
+Computer software applications are ubiquitous, benefiting people’s daily lives — from home to school to workplace. The Bachelor of Science (BS) in computer science program prepares graduates for entrance into the high-demand profession of computer science or graduate study. The program graduates work in industry as computer professionals, holding various titles, including computer or data scientist, software developer, apps or web developer, systems or information security analyst, network architect, and system or database administrator.
+The program is offered by the Lee Gildart and Oswald Haase School of Computer Sciences and Engineering (GHSCSE) at the Metropolitan Campus, Teaneck, New Jersey. The BS in computer science program is accredited by the Computing Accreditation Commission of
+ABET
+. This accreditation applies only to the BS in computer science program offered by the GHSCSE at the Metropolitan Campus, Teaneck, New Jersey.
+The computer science discipline focuses on the analysis and development of software systems, and computer science students are trained to program, develop software and solve problems logically, optimally and creatively. These skills are invaluable to any employer and in any field. Since all industries use software, they employ computer science graduates in various capacities and roles. Common job titles include computer, data or research and development scientist; software developer or engineer; apps or web developer; systems or information security analyst; network architect; system or database administrator; and chief information security officer.
+The demand for computer professionals far exceeds supply. As such, computer professionals account for many high-paying jobs. The computer science profession is consistently ranked among the very top earners. It has ample and diverse career opportunities, excellent average starting salary, outstanding median long-term salary, robust job growth and great career fulfillment. The demand for computer professionals will further increase as the $1-trillion Infrastructure Investment and Jobs Act, which includes funds for expanding the nation’s broadband networks, is implemented over the next eight years.
+The BS in computer science curriculum provides students a varied and balanced educational experience through an appropriate combination of theoretical concepts and practical applications. Students are exposed to a broad range of fundamental concepts in such areas as software engineering, computer organization, database systems, management information systems and operating systems, as well as to a wide variety of computer applications. The core curriculum of required courses are supplemented by contemporary courses in three in-demand fields through three concentrations:
+Big Data Analytics,
+Cybersecurity and Information Assurance
+Game and Mobile Application Development
+Students select one of the three concentrations for specialization based on their interests and goals. The computer laboratory experience is fully integrated with coursework. Students work in many state-of-the-art laboratories, including the computer networking lab, the cyber defense lab, the apps development lab and the robotics lab. GHSCSE is a member of the Cisco Networking Academy.
+Students completing the BS in computer science program with a concentration in cybersecurity and information assurance are eligible to receive a Certificate of Completion of a National Security Agency (NSA) and Department of Homeland Security (DHS)-designated CAE-CDE program of study from FDU’s Center for Cybersecurity and Information Assurance (CCIA). CAE-CDE denotes the Center for Academic Excellence for Cyber Defense Education.
+The program requires the successful completion of at least 120 credits of coursework. Graduates of the program are prepared to work well in virtually all computing environments in various industries. They are familiar with a spectrum of fundamental principles and proficient in the use of modern tools and technology, and they have been trained to approach problems with creativity.
+Students in the BS in computer science program can also pursue one of the three accelerated combined five-year BS and master of science (MS) degree programs, thereby saving time and money and expanding their career opportunities. The three accelerated programs are as follows:
+BS in computer science/ MS in computer science combined degree program
+BS in computer science/MS in cybersecurity and information assurance combined degree program
+BS in computer science/MS in management information system combined degree program
+Professional Accreditation
+The B.S. in Computer Science program is accredited by the Computing Accreditation Commission of ABET,
+https://www.abet.org
+.
+Educational Objectives
+The program will produce graduates who:
+Utilize a varied and balanced educational experience with an appropriate combination of theoretical knowledge and practical skills that enable entrance into and advancement in the profession of computer science.
+Build on educational knowledge and experience to continue formal education and obtain advanced degrees in the fields of computer science, management information systems, business administration, or computer engineering.
+Continue to develop as responsible professionals and global citizens who are mindful of ethical issues, societal needs, and problems inherent in the computing field.
+Student Outcomes
+The B.S. in Computer Science program has adopted the Student Outcomes of the Computing Accreditation Commission (CAC) of ABET as its own learning outcomes, which define the attributes, skills, and knowledge that graduates are expected to possess upon or before graduation. Each computer science graduate will have the ability to:
+Analyze a complex computing problem and apply principles of computing and other relevant disciplines to identify solutions.
+Design, implement, and evaluate a computing-based solution to meet a given set of computing requirements in the context of the program’s discipline.
+Communicate effectively in a variety of professional contexts.
+Recognize professional responsibilities and make informed judgments in computing practice based on legal and ethical principles.
+Function effectively as a member or leader of a team engaged in activities appropriate to the program’s discipline.
+Apply computer science theory and software development fundamentals to produce computing-based solutions. [CS]
+Degree Plan
+Computer Science Requirements, 42 credits
+CSCI1201
+Computer Programming I
+CSCI1202
+Computer Programming II
+CSCI2215
+Introduction to Computer Science
+CSCI2234
+Data Structures and Algorithms
+CSCI 2235
+Survey of Computing Security
+CSCI2247
+Assembly Language Programming
+CSCI3249
+Computer Organization
+CSCI3251
+Design of Software Systems
+CSCI3260
+Mathematical Foundations of Computer Science
+CSCI3268
+Database Systems
+CSCI3278
+Operating Systems
+CSCI3240
+Computer Networks
+CSCI4384
+Prep for Comp Sci Senior Project
+CSCI4386
+Computer Science Senior Project
+ENGR2286
+Digital System Design
+Mathematics Requirements, 17 credits
+MATH1201
+Calculus I
+MATH2202
+Calculus II
+MATH2255
+Discrete Structures
+MATH3220
+Linear Algebra
+MATH3237
+Probability and Statistics I
+Science Requirements, 8 credits
+PHYS2201
+Physics Laboratory I
+PHYS2203
+University Physics I
+PHYS2202
+Physics Laboratory II
+PHYS2204
+University Physics II
+Liberal Arts/Humanities/Social Science Requirements, 26 credits
+WRIT1002
+Composition I:  Rhetoric & Inquiry
+WRIT1003
+Composition II:  Research & Argument
+ENGR2210
+Technical Communications
+ENGR4210
+Managerial & Eng’g Economic Analysis
+ENGR3000
+Modern Technologies: Principles, Applications, and Impacts
+UNIV1001
+Transitioning to University Life, 1 credit
+UNIV1002
+Preparing for Professional Life, 1 credit
+UNIV2001
+Cross-cultural Perspectives
+UNIV2002
+Global Issues
+Humanities Elective: Three credits of any course that has the prefix ENGL (except developmental ENGL), HIST, HUMN, LANG, PHIL, or RELI, or the following ART courses:
+ART1103
+,
+ART1107
+,
+ART1108
+,
+ART1120
+,
+ART1131
+,
+ART1133
+,
+ART1135
+,
+ART1136
+,
+ART1137
+,
+ART2137
+, and
+ART2238
+.
+Electives, 12 credits
+Free Elective (3 credits)
+Technical Elective (9 credits)
+Concentration Requirements, 15 credits
+Students must complete any one of three concentration areas:
+Cybersecurity and Information Assurance, Big Data Analytics, and Game and Mobile Application Development
+. Each concentration requires the successful completion of five courses (15 credits). Students completing the BS in Computer Science with a concentration in the Cybersecurity and Information Assurance concentration are eligible to receive a Certificate of Completion of an NSA & DHS designated CAE-CDE program of study from FDU’s Center for Cybersecurity and Information Assurance (CCIA). Students pursuing a concentration in Game and Mobile Application Development are recommended to take
+two
+computer animation courses from the School of Art and Media Studies as a Free Elective and a Technical Elective in the B.S. Computer Science curriculum.
+Cybersecurity and Information Assurance
+CSCI3274
+Linux System Administration (3 credits)
+CSCI3345
+Firewalls and Intrusion Detection Systems (3 credits)
+CSCI3410
+Foundations of Cybersecurity (3 credits)
+CSCI3420
+Cryptography (3 credits)
+CSCI3783
+Information Security (3 credits
+Cybersecurity and Information Assurance Student Outcomes
+The B.S. Computer Science graduates with a concentration in cybersecurity and information assurance will additionally have the ability to:
+Apply security principles and practices to maintain operations in the presence of risks and threats. [CY]
+Assess vulnerabilities of components, connections, and systems for data protection, privacy, and threat mitigation.
+Big Data Analytics
+CSCI3331
+Advanced Database
+CSCI3318
+Cloud Computing
+CSCI3387
+Machine Learning
+CSCI3461
+Data Mining and Applications
+CSCI3485
+Big Data Analytics
+Big Data Analytics Student Outcomes
+The B.S. Computer Science graduates with a concentration in big data analytics will additionally have the ability to:
+Analyze data analytics algorithms and Big Data analytics frameworks.
+Apply data and Big Data analytics methods to projects and products.
+Game and Mobile Application Development
+CSCI3314
+Mobile Application Development (3 credits)
+CSCI3317
+Computer Game Programming (3 credits)
+CSCI3444
+Programming for the Internet (3 credits)
+CSCI3385
+Artificial Intelligence (3 credits)
+CSCI3387
+Machine Learning (3 credits)
+Game and Mobile Application Development Student Outcomes
+The B.S. Computer Science graduates with a concentration in game & mobile application development will additionally have the ability to:
+Apply multimedia data processing algorithms
+Develop applications on different platforms
+Accreditation
+Learn more
+Gildart Haase School of Computer Sciences and Engineering
+Admissions
+Apply now
+Visit FDU
+Request Information

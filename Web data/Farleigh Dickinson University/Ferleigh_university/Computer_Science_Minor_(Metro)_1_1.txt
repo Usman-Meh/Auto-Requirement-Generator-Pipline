@@ -1,0 +1,44 @@
+Link: https://www.fdu.edu/program/computer-science-minor/
+
+Skip to content
+Computer Science Minor (Metro)
+Home
+/
+Program
+/
+Computer Science Minor (Metro)
+(for non-computer science majors)
+The minor in Computer Science consists of 15 credits and is available to qualified students. This minor provides students with a foundation in computer science that complements their majors and enhances their employment opportunities and career options. The problem-solving and critical-thinking skills acquired through this minor are essential skills needed to be successful in life and in the workplace. The courses for Computer Science minor:
+Required Courses (9 Credits)
+CSCI1201
+Computer Programming I
+CSCI2215
+Introduction to Computer Science
+CSCI3268
+Database Systems
+Elective Courses (6 Credits)
+With the approval of the Director of GHSCSE or their designee, students may take other higher-level CSCI courses as electives. Students intending to pursue an MS in Computer Science or an MS in Management Information Systems must see an advisor for the proper selection of electives.
+Two courses must be chosen from the following:
+CSCI1202
+Computer Programming II
+CSCI2234
+Data Structures and Algorithms
+CSCI2247
+Assembly Language Programming
+CSCI3240
+Computer Networks
+CSCI3249
+Computer Organization
+CSCI3278
+Operating Systems
+ENGR2286
+Digital System Design
+MATH2255
+Discrete Structures
+To take any course in the minor, a student must meet all the prerequisites for that course.
+Learn More
+Gildart Haase School of Computer Sciences and Engineering
+Admissions
+Apply now
+Visit FDU
+Request Information

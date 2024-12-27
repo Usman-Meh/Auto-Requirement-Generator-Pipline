@@ -1,0 +1,428 @@
+Link: https://cset.mnsu.edu/academic-programs/Chemistry/chemistry-acs-approved-bs/
+
+College of Science, Engineering & Technology
+Academic Programs
+Chemistry
+Chemistry, ACS Approved Bachelor of Science (BS)
+Chemistry Section
+Chemistry
+Chemistry, ACS Approved Bachelor of Science (BS)
+Chemistry, Bachelor of Arts (BA)
+Chemistry, Minor
+Chemistry Faculty and Staff
+Chemistry - ACS Approved (BS)
+The Bachelor of Science (BS) chemistry curriculum is recognized by the American Chemical Society (ACS). This curriculum meets ACS standards for depth and rigor of study in the various sub-disciplines of chemistry. Students graduating with a Chemistry BS have numerous career options available. Our alumni work as chemists in many small companies throughout the region as well as in Fortune 500 companies and municipality/government positions. Many graduates pursue post-baccalaureate programs including chemistry, medicine, pharmacy and law.
+Current Catalog Year
+2024-2025
+Degree
+Bachelor of Science
+Major /                                         Total Credits
+66 / 120
+Locations
+Mankato
+Apply
+Program Requirements
+Degree Plan
+Transfer Pathways
+Program
+                                    Requirements
+Required General Education
+MATH 121
+Calculus I
+4 credits
+Limits, continuity, the derivative and applications, transcendental functions, L'Hopital's Rule, and development of the Riemann integral.
+Prerequisites:
+Satisfy Placement Table in this section, MATH 115 or both MATH 112 and MATH 113 with "C" (2.0) or better.
+Goal Areas: GE-04
+PHYS 211
+Principles of Physics I
+4 credits
+General background in physical concepts for those who do not plan advanced study in physics or engineering. Topics include mechanics, fluids, heat and thermodynamics. Lecture and laboratory.
+Prerequisites:
+Either MATH 112 and MATH 113, or MATH 115
+Goal Areas: GE-02, GE-03
+Major Common Core
+CHEM 201
+General Chemistry I
+5 credits
+Introduction to the basic principles of chemistry including atomic and molecular structure, bonding, chemical reactions, stoichiometry, thermodynamics and states of matter. Laboratory will reinforce lecture concepts. Prereq: C or higher in MATH 112 or the equivalent; high school chemistry or C or higher in CHEM 104
+Prerequisites:
+"C" (2.0) or higher in MATH 112 or the equivalent; high school chemistry or "C" (2.0) or higher in CHEM 104.
+Goal Areas: GE-02, GE-03
+CHEM 202
+General Chemistry II
+5 credits
+Continuation of the basic principles of chemistry including properties of solutions, kinetics, acids and bases, equilibria, buffers, precipitation reactions, electron transfer reactions, electrochemistry, entropy and free energy. Laboratory will reinforce lecture concepts.
+Prerequisites:
+"C" (2.0) or higher in CHEM 201
+CHEM 281
+Biochemistry and Chemistry Professional Foundations
+1 credits
+The course will cover aspects of the ethical conduct of research, chemical safety, and preparation for a profession related to chemistry or biochemistry.
+Prerequisites:
+CHEM 322
+CHEM 305
+Analytical Chemistry
+4 credits
+Introduction to the principles of chemical analysis, with emphasis on classical methods of analysis. Lectures will stress the theory of chemical measurements and sample handling. Laboratory exercises will provide students with opportunities to explore calibration methods, method development, and established procedures for volumetric and gravimetric analyses. Basic atomic spectroscopy is also presented.
+Prerequisites:
+"C" (2.0) or higher in CHEM 202
+CHEM 322
+Organic Chemistry I
+4 credits
+Introduction to organic nomenclature, structure, bonding, chemical reactivity, organic acid-base reactions, mechanisms and stereochemistry. IR, MS, and NMR spectroscopy will be introduced. The chemistry of alkanes, alkyl halides, alkenes, alkynes, and alcohols will be covered. Laboratory illustrates synthetic techniques and the preparation and reactions of functional groups discussed during lecture.
+Prerequisites:
+CHEM 202, "C" (2.0) or higher in CHEM 202.
+CHEM 324
+Organic Chemistry II
+3 credits
+This course is a continuation Chem 322 and includes organic nomenclature, structure, bonding, chemical reactivity, organic acid-base reactions, and reaction mechanisms; the chemistry of ethers, aromatic and heterocyclic compounds, polyenes, ketones, aldehydes, amines, carboxylic acids and their derivatives, and alpha carbonyl compounds and synthetic transformations is covered.
+Prerequisites:
+CHEM 322 with a "C" (2.0) or higher.
+CHEM 325
+Organic Chemistry II Lab
+1 credits
+Laboratory will highlight common techniques including recrystallization, melting point determination, simple and fractional distillation, extraction, gas and thin layer chromatography, and chemical and spectroscopic qualitative analysis. Single and multi-step syntheses illustrating aromatic and carbonyl chemistry will be performed.
+Prerequisites:
+CHEM 324
+CHEM 445
+Physical Chemistry I
+4 credits
+Detailed treatment of thermodynamics and chemical kinetics. Topics include equations of state, laws of thermodynamics, phase and reaction equilibrium, reaction kinetics, and thermodynamic properties of polymers, solutions, and of biochemical and electrochemical processes. C (2.0) or higher in all prerequisites.
+Prerequisites:
+MATH 121, PHYS 211, CHEM 305
+CHEM 446
+Physical Chemistry II
+3 credits
+Detailed treatment of quantum mechanics, spectroscopy, and statistical thermodynamics. Topics include the foundations of quantum mechanics, application of quantum mechanics to atomic and molecular structure, foundations of spectroscopic techniques, photophysics and photochemistry, statistical thermodynamics, and molecular aspects of reaction kinetics. "C" (2.0) or higher in all prerequisites.
+Prerequisites:
+MATH 122, PHYS 212, CHEM 445
+CHEM 450
+Physical Chemistry Laboratory I
+1 credits
+Laboratory to accompany CHEM 445. An advanced treatment of measurement theory and data analysis precedes a series of thermodynamic and kinetic experiments designed to complement topics treated in lecture to help students' independence and sophistication in planning, performing, and reporting experimental work.
+Prerequisites:
+CHEM 445
+CHEM 451
+Physical Chemistry Laboratory II
+1 credits
+Laboratory to accompany CHEM 446. Experiments and computational projects in quantum mechanics, spectroscopy, and statistical mechanics. The experiments and projects will continue to work toward the goal of increasing the students' independence and sophistication. Prereq: C (2.0) or better in CHEM 445; pre or coreq: CHEM 446
+Prerequisites:
+CHEM 445
+CHEM 481W
+Inquiry and Writing in Biochemistry and Chemistry
+3 credits
+In this course, students will develop discipline-specific skills in critical reading and evaluation of the primary and secondary literature, including the use of libraries and databases to identify reliable sources. Work will culminate in a literature review that synthesizes the current state of research in synthetic polymers, biological macromolecules, supramolecular aggregates and/or meso/nanoscale materials with consideration toward future directions. Throughout the course, students will participate in peer review, revision of written work, learn key ethical considerations of writing, develop better writing mechanics and understand different conventions of scientific writing all while increasing their familiarity in the topics above.
+Prerequisites:
+ENG 101, CHEM 324
+CHEM 489
+Senior Capstone
+1 credits
+Capstone course for majors in Chemistry, Biochemistry, and Chemistry Teaching. During this course, students will present their mentored undergraduate research projects OR present a literature review synthesized from primary literature articles. Forums for presentation include an oral presentation and poster presentation.
+Prerequisites:
+CHEM 445 or CHEM 465
+MATH 122
+Calculus II
+4 credits
+Techniques of integration, applications of integration, improper integrals, numerical integration, the calculus of parametric curves, and infinite series and sequences.
+Prerequisites:
+MATH 121 with "C" (2.0) or better or consent
+PHYS 212
+Principles of Physics II
+4 credits
+Includes waves and sound, electricity and magnetism, light and optics, and topics in modern physics. Lecture and laboratory.
+Prerequisites:
+PHYS 211
+Biochemistry Foundation
+- Choose 3 - 4 Credit(s). Chose 1 course
+CHEM 360
+Principles of Biochemistry
+4 credits
+Analysis of the structure and metabolism of biologically important compounds. This intermediate-level course is designed for students in the medical technology, food science, chemistry education, chemistry and pre-professional health majors. The laboratory teaches basic biochemical techniques.
+Prerequisites:
+CHEM 322. CHEM 324 is strongly recommended.
+CHEM 460
+Biochemistry I
+3 credits
+Detailed analysis of the structures, properties, and functions of proteins, carbohydrates, and lipids; introduction to carbohydrate metabolism; theory for the purification and analysis of proteins. Concurrent enrollment in CHEM 465 is recommended.
+Prerequisites:
+BIOL 106, CHEM 324. BIOL 106 or permission "C" (2.0) or higher in all prerequisites.
+Inorganic Foundation
+- Choose 3 Credit(s). Choose 1 course
+CHEM 316
+Descriptive Inorganic Main Group Chemistry
+3 credits
+This course is designed to survey descriptive main group chemistry and augment General Chemistry's introduction to solid state and nuclear chemistry.
+Prerequisites:
+"C" (2.0) or higher in CHEM 202
+CHEM 317
+Transition Metal Chemistry
+3 credits
+This course is designed to address transition metal chemistry, introduce bonding theory, nomenclature, reactivity and mechanisms for transition metal compounds. It will also address and use examples from bioinorganic chemistry and catalysis.
+Prerequisites:
+"C" (2.0) or higher in CHEM 202
+Major Restricted Electives
+Math electives
+- Choose 4 Credit(s). Choose 1 of the following courses.
+MATH 223
+Calculus III
+4 credits
+Surfaces, vector-valued functions, partial differentiation, multiple integration, and vector calculus.
+Prerequisites:
+MATH 122 with "C" (2.0) or better, or consent
+MATH 247
+Linear Algebra I
+4 credits
+Matrices, determinants, systems of linear equations, vector spaces, linear transformations, and characteristic value problems.
+Prerequisites:
+MATH 122 with "C" (2.0) or better or consent
+MATH 321
+Ordinary Differential Equations
+4 credits
+This course presents the theory, computations, and applications of first and second order differential equations and two-dimensional systems.
+Prerequisites:
+MATH 122 with "C" (2.0) or better or consent
+Major Unrestricted Electives
+Choose 12 credits and at least 3 different courses from the 300-400-level CHEM courses other than CHEM 479. No CHEM courses can be double-counted in the degree.
+Degree Plan
+First Year
+Fall
+- 15 Credits
+MATH 121
+Calculus I
+4 credits
+Limits, continuity, the derivative and applications, transcendental functions, L'Hopital's Rule, and development of the Riemann integral.
+Prerequisites:
+Satisfy Placement Table in this section, MATH 115 or both MATH 112 and MATH 113 with "C" (2.0) or better.
+Goal Areas: GE-04
+CHEM 201
+General Chemistry I
+5 credits
+Introduction to the basic principles of chemistry including atomic and molecular structure, bonding, chemical reactions, stoichiometry, thermodynamics and states of matter. Laboratory will reinforce lecture concepts. Prereq: C or higher in MATH 112 or the equivalent; high school chemistry or C or higher in CHEM 104
+Prerequisites:
+"C" (2.0) or higher in MATH 112 or the equivalent; high school chemistry or "C" (2.0) or higher in CHEM 104.
+Goal Areas: GE-02, GE-03
+Spring
+- 16 Credits
+MATH 122
+Calculus II
+4 credits
+Techniques of integration, applications of integration, improper integrals, numerical integration, the calculus of parametric curves, and infinite series and sequences.
+Prerequisites:
+MATH 121 with "C" (2.0) or better or consent
+CHEM 202
+General Chemistry II
+5 credits
+Continuation of the basic principles of chemistry including properties of solutions, kinetics, acids and bases, equilibria, buffers, precipitation reactions, electron transfer reactions, electrochemistry, entropy and free energy. Laboratory will reinforce lecture concepts.
+Prerequisites:
+"C" (2.0) or higher in CHEM 201
+Second Year
+Fall
+- 15 Credits
+PHYS 211
+Principles of Physics I
+4 credits
+General background in physical concepts for those who do not plan advanced study in physics or engineering. Topics include mechanics, fluids, heat and thermodynamics. Lecture and laboratory.
+Prerequisites:
+Either MATH 112 and MATH 113, or MATH 115
+Goal Areas: GE-02, GE-03
+CHEM 305
+Analytical Chemistry
+4 credits
+Introduction to the principles of chemical analysis, with emphasis on classical methods of analysis. Lectures will stress the theory of chemical measurements and sample handling. Laboratory exercises will provide students with opportunities to explore calibration methods, method development, and established procedures for volumetric and gravimetric analyses. Basic atomic spectroscopy is also presented.
+Prerequisites:
+"C" (2.0) or higher in CHEM 202
+CHEM 322
+Organic Chemistry I
+4 credits
+Introduction to organic nomenclature, structure, bonding, chemical reactivity, organic acid-base reactions, mechanisms and stereochemistry. IR, MS, and NMR spectroscopy will be introduced. The chemistry of alkanes, alkyl halides, alkenes, alkynes, and alcohols will be covered. Laboratory illustrates synthetic techniques and the preparation and reactions of functional groups discussed during lecture.
+Prerequisites:
+CHEM 202, "C" (2.0) or higher in CHEM 202.
+Spring
+- 15 Credits
+PHYS 212
+Principles of Physics II
+4 credits
+Includes waves and sound, electricity and magnetism, light and optics, and topics in modern physics. Lecture and laboratory.
+Prerequisites:
+PHYS 211
+CHEM 281
+Biochemistry and Chemistry Professional Foundations
+1 credits
+The course will cover aspects of the ethical conduct of research, chemical safety, and preparation for a profession related to chemistry or biochemistry.
+Prerequisites:
+CHEM 322
+CHEM 324
+Organic Chemistry II
+3 credits
+This course is a continuation Chem 322 and includes organic nomenclature, structure, bonding, chemical reactivity, organic acid-base reactions, and reaction mechanisms; the chemistry of ethers, aromatic and heterocyclic compounds, polyenes, ketones, aldehydes, amines, carboxylic acids and their derivatives, and alpha carbonyl compounds and synthetic transformations is covered.
+Prerequisites:
+CHEM 322 with a "C" (2.0) or higher.
+CHEM 325
+Organic Chemistry II Lab
+1 credits
+Laboratory will highlight common techniques including recrystallization, melting point determination, simple and fractional distillation, extraction, gas and thin layer chromatography, and chemical and spectroscopic qualitative analysis. Single and multi-step syntheses illustrating aromatic and carbonyl chemistry will be performed.
+Prerequisites:
+CHEM 324
+Third Year
+Fall
+- 15 Credits
+CHEM 445
+Physical Chemistry I
+4 credits
+Detailed treatment of thermodynamics and chemical kinetics. Topics include equations of state, laws of thermodynamics, phase and reaction equilibrium, reaction kinetics, and thermodynamic properties of polymers, solutions, and of biochemical and electrochemical processes. C (2.0) or higher in all prerequisites.
+Prerequisites:
+MATH 121, PHYS 211, CHEM 305
+CHEM 450
+Physical Chemistry Laboratory I
+1 credits
+Laboratory to accompany CHEM 445. An advanced treatment of measurement theory and data analysis precedes a series of thermodynamic and kinetic experiments designed to complement topics treated in lecture to help students' independence and sophistication in planning, performing, and reporting experimental work.
+Prerequisites:
+CHEM 445
+CHEM 481W
+Inquiry and Writing in Biochemistry and Chemistry
+3 credits
+In this course, students will develop discipline-specific skills in critical reading and evaluation of the primary and secondary literature, including the use of libraries and databases to identify reliable sources. Work will culminate in a literature review that synthesizes the current state of research in synthetic polymers, biological macromolecules, supramolecular aggregates and/or meso/nanoscale materials with consideration toward future directions. Throughout the course, students will participate in peer review, revision of written work, learn key ethical considerations of writing, develop better writing mechanics and understand different conventions of scientific writing all while increasing their familiarity in the topics above.
+Prerequisites:
+ENG 101, CHEM 324
+Spring
+- 15 Credits
+CHEM 360
+Principles of Biochemistry
+4 credits
+Analysis of the structure and metabolism of biologically important compounds. This intermediate-level course is designed for students in the medical technology, food science, chemistry education, chemistry and pre-professional health majors. The laboratory teaches basic biochemical techniques.
+Prerequisites:
+CHEM 322. CHEM 324 is strongly recommended.
+CHEM 446
+Physical Chemistry II
+3 credits
+Detailed treatment of quantum mechanics, spectroscopy, and statistical thermodynamics. Topics include the foundations of quantum mechanics, application of quantum mechanics to atomic and molecular structure, foundations of spectroscopic techniques, photophysics and photochemistry, statistical thermodynamics, and molecular aspects of reaction kinetics. "C" (2.0) or higher in all prerequisites.
+Prerequisites:
+MATH 122, PHYS 212, CHEM 445
+CHEM 451
+Physical Chemistry Laboratory II
+1 credits
+Laboratory to accompany CHEM 446. Experiments and computational projects in quantum mechanics, spectroscopy, and statistical mechanics. The experiments and projects will continue to work toward the goal of increasing the students' independence and sophistication. Prereq: C (2.0) or better in CHEM 445; pre or coreq: CHEM 446
+Prerequisites:
+CHEM 445
+Fourth Year
+Fall
+- 14 Credits
+CHEM 316
+Descriptive Inorganic Main Group Chemistry
+3 credits
+This course is designed to survey descriptive main group chemistry and augment General Chemistry's introduction to solid state and nuclear chemistry.
+Prerequisites:
+"C" (2.0) or higher in CHEM 202
+Spring
+- 15 Credits
+CHEM 489
+Senior Capstone
+1 credits
+Capstone course for majors in Chemistry, Biochemistry, and Chemistry Teaching. During this course, students will present their mentored undergraduate research projects OR present a literature review synthesized from primary literature articles. Forums for presentation include an oral presentation and poster presentation.
+Prerequisites:
+CHEM 445 or CHEM 465
+Transfer Pathways
+A Transfer Pathway is a partnership between the Minnesota community colleges and Minnesota State University, Mankato. The Pathway suggests a plan for students with a specific associate degree to complete the last two years for a designated bachelor’s degree.
+Students who are transferring to Minnesota State Mankato from a Minnesota community college should meet with an advisor in your college advising office to ensure the Pathway is an appropriate option for completing your degree.
+More information on Transfer Pathways is available at
+https://mnsu.edu/pathways/about/
+Third Year
+Fall
+- 15 Credits
+CHEM 305
+Analytical Chemistry
+4 credits
+Introduction to the principles of chemical analysis, with emphasis on classical methods of analysis. Lectures will stress the theory of chemical measurements and sample handling. Laboratory exercises will provide students with opportunities to explore calibration methods, method development, and established procedures for volumetric and gravimetric analyses. Basic atomic spectroscopy is also presented.
+Prerequisites:
+"C" (2.0) or higher in CHEM 202
+MATH 321
+Ordinary Differential Equations
+4 credits
+This course presents the theory, computations, and applications of first and second order differential equations and two-dimensional systems.
+Prerequisites:
+MATH 122 with "C" (2.0) or better or consent
+CHEM 481W
+Inquiry and Writing in Biochemistry and Chemistry
+3 credits
+In this course, students will develop discipline-specific skills in critical reading and evaluation of the primary and secondary literature, including the use of libraries and databases to identify reliable sources. Work will culminate in a literature review that synthesizes the current state of research in synthetic polymers, biological macromolecules, supramolecular aggregates and/or meso/nanoscale materials with consideration toward future directions. Throughout the course, students will participate in peer review, revision of written work, learn key ethical considerations of writing, develop better writing mechanics and understand different conventions of scientific writing all while increasing their familiarity in the topics above.
+Prerequisites:
+ENG 101, CHEM 324
+Spring
+- 13 Credits
+CHEM 281
+Biochemistry and Chemistry Professional Foundations
+1 credits
+The course will cover aspects of the ethical conduct of research, chemical safety, and preparation for a profession related to chemistry or biochemistry.
+Prerequisites:
+CHEM 322
+CHEM 360
+Principles of Biochemistry
+4 credits
+Analysis of the structure and metabolism of biologically important compounds. This intermediate-level course is designed for students in the medical technology, food science, chemistry education, chemistry and pre-professional health majors. The laboratory teaches basic biochemical techniques.
+Prerequisites:
+CHEM 322. CHEM 324 is strongly recommended.
+Fourth Year
+Fall
+- 16 Credits
+CHEM 445
+Physical Chemistry I
+4 credits
+Detailed treatment of thermodynamics and chemical kinetics. Topics include equations of state, laws of thermodynamics, phase and reaction equilibrium, reaction kinetics, and thermodynamic properties of polymers, solutions, and of biochemical and electrochemical processes. C (2.0) or higher in all prerequisites.
+Prerequisites:
+MATH 121, PHYS 211, CHEM 305
+CHEM 450
+Physical Chemistry Laboratory I
+1 credits
+Laboratory to accompany CHEM 445. An advanced treatment of measurement theory and data analysis precedes a series of thermodynamic and kinetic experiments designed to complement topics treated in lecture to help students' independence and sophistication in planning, performing, and reporting experimental work.
+Prerequisites:
+CHEM 445
+Spring
+- 16 Credits
+CHEM 446
+Physical Chemistry II
+3 credits
+Detailed treatment of quantum mechanics, spectroscopy, and statistical thermodynamics. Topics include the foundations of quantum mechanics, application of quantum mechanics to atomic and molecular structure, foundations of spectroscopic techniques, photophysics and photochemistry, statistical thermodynamics, and molecular aspects of reaction kinetics. "C" (2.0) or higher in all prerequisites.
+Prerequisites:
+MATH 122, PHYS 212, CHEM 445
+CHEM 451
+Physical Chemistry Laboratory II
+1 credits
+Laboratory to accompany CHEM 446. Experiments and computational projects in quantum mechanics, spectroscopy, and statistical mechanics. The experiments and projects will continue to work toward the goal of increasing the students' independence and sophistication. Prereq: C (2.0) or better in CHEM 445; pre or coreq: CHEM 446
+Prerequisites:
+CHEM 445
+CHEM 489
+Senior Capstone
+1 credits
+Capstone course for majors in Chemistry, Biochemistry, and Chemistry Teaching. During this course, students will present their mentored undergraduate research projects OR present a literature review synthesized from primary literature articles. Forums for presentation include an oral presentation and poster presentation.
+Prerequisites:
+CHEM 445 or CHEM 465Initial deposit: N/A
+
+
+Application Fee for Undergraduate: $ 20
+Application Fee for Postgraduate: $ 40
+
+
+Annual Fee for Undergraduate: $ 18,812
+Annual Fee for Postgraduate: $ 14,918
+
+
+English Language Requirements Undergraduate only:
+TOEFL iBT (internet-based test) score of 61 or better
+Pearson Test of English (PTE) score of 47 or better
+IELTS academic test score of 5.5 or better
+
+
+English Language Requirements Postgraduate only:
+Different for every course and given in course content 
+
+
+Entry Requirements Undergraduate only:
+A cumulative high school GPA of 3.0 or higher or A rank in the top 50% of your high school class or An ACT composite score of 21 or higher and a minimum cumulative high school GPA of 2.7. If you do not meet the above admission requirements, you can submit additional information to consider when reviewing your application.
+
+
+Entry Requirements Postgraduate only:
+Applicants must possess the equivalent of a U.S. Bachelor's degree to be considered for graduate programs at Minnesota State Mankato. The degree must be earned at an institution recognized and approved to award the degree. GRE (Graduate Record Examination) is required by some academic programs.
+
+English Language requirements of graduate programs is different for each course. Graduate programs only have IELTS and TOEFL test scores.
+For Graduate Entry Requirements, some requirements like GPA, Score are mentioned on the course page so add them too.

@@ -1,0 +1,356 @@
+Link: https://www.mnsu.edu/academics/academic-catalog/all-active-catalogs/2019-2020-academic-catalog/graduate/modeling-and-simulation/modeling-and-simulation-gc/
+
+Home
+Academics
+Academic Catalog
+All Active Catalogs
+2019-2020 Academic Catalog
+Graduate
+Modeling and Simulation
+Modeling and Simulation GC
+Modeling and Simulation (GC)
+You are viewing the
+2019-2020
+catalog.
+VIEW CURRENT CATALOG
+Catalog Year
+2019-2020
+Degree
+Certificate
+Total Credits
+12
+Locations
+Mankato
+Apply
+Program Requirements
+Program Requirements
+Common Core
+MDSM 601
+Introduction to Modeling and Simulation
+4 credits
+Survey of core concepts and methods of modeling and simulation.  This course includes a broad array of computer laboratory based exercises, and a student-designed project by the end of the course.
+Prerequisites:
+none
+MDSM 691
+Seminar in Modeling and Simulation
+1 credits
+Seminar course in which students present and defend the modeling and simulation work undertaken in the required discipline-based capstone/individual study course.
+Prerequisites:
+none
+Research/Methods Course(s)
+MDSM 602
+Data-Driven Modeling & Big Data Analysis
+4 credits
+Survey of core concepts, methods, and applications of data-driven modeling and big data analysis. Each topic is designed as a weekly module and the course includes a broad array of computer laboratory based exercises, real world problems based case studies, and a student-designed term project.
+Prerequisites:
+none
+Restricted Electives
+Choose 5  Credit(s). Two courses, one of at least 3 credits and one of at least 2 credits.
+AET 648
+Advanced High Performance Engineering
+1-3 credits
+A continuation of AET 638.
+Prerequisites:
+none
+ECON 562
+Econometrics
+3 credits
+The study of methods and techniques for building econometric models with the goal of forecasting and measurement of the economic relationships by integrating economic theory and statistics in it.
+Prerequisites:
+none
+ECON 563
+Applied Econometrics of Financial Markets
+3 credits
+This course is designed to cover basic tools in time series analysis and to equip students with quantitative skills to analyze the financial market.  Pre-req: ECON 207 or with permission by the instructor.
+Prerequisites:
+none
+EE 600
+Design Methods
+3 credits
+Application of EE computer modeling and simulation tools. Design of experiments, Taguchi methods, automated data acquisition, and analysis methods.
+Prerequisites:
+none
+EE 601
+Linear Systems Analysis
+3 credits
+This course covers the analysis of continuous and discrete multivariate systems, linear models of stochastic and non-stochastic systems, and analog and digital sampled data systems. Issues examined include controllability, stability, observability, tensor properties, signal spectra, state equations, optimization, and computer simulation. A variety of case studies of advanced systems also examined.
+Prerequisites:
+none
+EE 603
+Non-Linear System Analysis
+3 credits
+This course covers the analysis of non-linear continuous and discrete systems and devices. Topics covered include non-linear circuit analysis, non-linear stochastic and non-stochastic system models, limit cycles, oscillators, stability, non-linear wave functions. Computer simulation will be utilized in conjunction with selected case studies in advanced non-linear systems.
+Prerequisites:
+none
+EE 651
+Biomedical Engineering I
+3 credits
+Mathematical modeling of living systems. Entropy and information. Thermodynamic constraints. Feedback and feedforward mechanisms in metabolic processes. Metabolic heat generation and loss. Energy flow in living systems. Atomic and molecular bonds in biological systems. Engineering analysis of the cardiovascular, renal, immune, endocrine and nervous systems; analysis of specific disease states.
+Prerequisites:
+none
+GEOG 539
+Transportation Modeling & GIS
+4 credits
+Four major sets of ideas will be covered:  (1) Introduction to Spatial Organization, (2) Network Analysis, (3) Allocation Methods, and (4) Urban Transportation.  The emphasis is on these approaches to understanding the geography of transport by description, explanation, and normative or optimal methods.
+Prerequisites:
+none
+GEOG 571
+Digital Field Mapping with GPS
+4 credits
+This course will cover basic strategies for conducting field surveys and gathering from the real world data appropriate to mapping the earth's surface. Emphasis will be upon simple but reliable techniques, ranging from compass-and-pacing to global positioning systems (GPS).
+Prerequisites:
+none
+GEOG 573
+Intermediate GIS
+4 credits
+Comprehensive examination of GIS for manipulation and analysis of spatially-referenced data, including data structure and organization, input and output problems, data management, and strategies for analytical work.
+Prerequisites:
+none
+GEOG 574
+Introduction to Remote Sensing
+4 credits
+This is an introductory course on theories and techniques of remote sensing. Focus will be placed on providing students with a general overview of the application of remote sensing to practical problems, and hands-on experiencee for image processing and analysis.
+Prerequisites:
+none
+GEOG 575
+Applied Remote Sensing & GIS
+4 credits
+This course provides students the opportunity to develop further knowledge of remote sensing. Emphasis will be placed on introducing advanced theories and techniques for digital image processing and helping students obtain independent research skills using remote sensing data.
+Prerequisites:
+none
+GEOG 576
+Spatial Statistics
+3 credits
+Descriptive statistics, probability, hypothesis testing, introduction to non-parametric statistics, correlation, introduction to regression analysis, spatial statistics and principles of data representation in graphs, tables and statistical results.
+Prerequisites:
+none
+GEOG 577
+Topics in Techniques
+1-3 credits
+This offering will include a variety of selected technical topics in geography, including (but not limited to) manual cartographic drafting and negative scribing, photomechanical techniques in production cartography, aerial photo interpretation, and advanced coverage of digital analysis of satellite-derived remote sensor data and global positioning systems.
+Prerequisites:
+none
+GEOG 578
+Spatial Analysis with GIS
+3 credits
+Survey of theoretical frameworks for spatial analysis and geographic quantitative methods. Includes basic and advanced spatial analysis principles and methods for studying and examining spatial patterns. Designed to equip students with the knowledge and skills necessary for carrying our research projects that demand spatial point pattern analysis and analysis of areal units.
+Prerequisites:
+none
+GEOG 579
+GIS Practicum
+1-4 credits
+This offering will include supervised project work in raster-based and/or vector-based GIS, using problems and data drawn from local or regional agencies or other professional-level organizations with whom the Geography Department maintains a relationship. Students must have completed one of the prerequisite courses, or professional-level experience.
+Prerequisites:
+none
+GEOG 580
+Seminar
+1-4 credits
+Topics vary in physical, cultural, economic, political, and historical geography, as well as environmental conservation and geographic techniques.
+Prerequisites:
+none
+GEOG 670
+Issues in Geographic Techniques
+1-4 credits
+Discussion and analysis of contemporary issues in the field of Geographic Techniques. Designed to allow in-depth focus on current problems/issues that geographers will encounter in their professional practice. Topics vary according to instructor.
+Prerequisites:
+none
+HLTH 575
+Biostatistics
+3 credits
+Introduction to statistical analysis as applied to the health sciences. Examines concepts and methods of statistical procedures applied to health problems and issues.
+Prerequisites:
+none
+IT 544
+Data Analytics
+4 credits
+The course explores big data in structured and unstructured data sources. Emphasis is placed on big data strategies, techniques and evaluation methods. Various data analytics are covered. Students experiment with big data through big data analytics, data mining, and data warehousing tools.
+Prerequisites:
+none
+IT 582
+Human Computer Interaction
+4 credits
+This course discusses concepts and techniques for design, development and evaluation of user interfaces. Students will learn the principles of interaction design, interaction styles, user-centered design, usability evaluation, input/output devices, design and analysis of controlled experiments and principles of perception and cognition used in building efficient and effective interfaces. Group project work.
+Prerequisites:
+none
+MATH 522
+Partial Differential Equations
+4 credits
+This course presents the theory, computations, and applications of partial differential equations and Fourier series.
+Prerequisites:
+none
+MATH 525
+Mathematical Modeling
+4 credits
+This course presents topics from mathematical analysis of both discrete and continuous models taken from problems in the natural sciences, economics, and resource management.
+Prerequisites:
+none
+MATH 570
+Numerical Analysis I
+4 credits
+This course provides an introduction to techniques and analysis involved with solving mathematical problems using technology. Topics included are errors in computation, solutions of linear and nonlinear equations, numerical differentiation and integration, and interpolation.
+Prerequisites:
+none
+MATH 571
+Numerical Analysis II
+4 credits
+This course is a continuation of MATH 470. Topics included are the algebraic eigenvalue problem, least-squares approximation, solutions of systems of nonlinear equations, and numerical solutions of ordinary differential equations.
+Prerequisites:
+none
+MATH 590
+Workshop
+1-4 credits
+A short course devoted to a specific mathematical topic. May be repeated for credit on each new topic.
+Prerequisites:
+none
+MATH 620
+Applied Mathematics
+3 credits
+Applications of discrete and continuous mathematics to deterministic problems in the natural sciences, computer science, engineering, and economics. Applied problems will be developed within the mathematical framework of dimensional analysis, asymptotic analysis, perturbation theory, stability, and bifurcation.
+Prerequisites:
+none
+MATH 621
+Topics in Applied Mathematics
+3 credits
+Can be used for any graduate level applied mathematics course not offered as a regular course. Distinct offerings may be repeated for credit.
+Prerequisites:
+none
+MATH 628
+Numerical Optimization
+3 credits
+Optimal conditions for constrained and unconstrained optimization problems, and a comprehensive description of the most powerful, state-of-the-art, techniques for solving continuous optimization problems.  Large-scale optimization techniques are emphasized in the course.
+Prerequisites:
+MATH 517 and MATH 547
+MATH 672
+Numerical Analysis of Differential Equations
+3 credits
+This course is an in-depth study of solving ordinary differential equations and partial differential equations numerically. Runge-Kutta methods and general multi-step methods are developed for ordinary differential equations. Finite Difference Method and Finite Element methods are developed for partial differential equations. Error control and step size changing for both stiff and non-stiff equations are analyzed.
+Prerequisites:
+none
+MATH 674
+Computations in Linear Algebra
+3 credits
+This course is an in-depth study of solving algebraic eigenvalue problems, least-square problems, direct and iterative methods for solving linear systems, and their applications.
+Prerequisites:
+none
+MATH 680
+Topics in Mathematics
+1-4 credits
+A graduate course in an area of mathematics not regularly offered. May be repeated for credit on each new topic.
+Prerequisites:
+none
+MATH 695
+Workshop
+1-4 credits
+A short course devoted to a specific mathematical topic. May be repeated for credit on each new topic.
+Prerequisites:
+none
+ME 550
+Finite Element Method
+3 credits
+Energy method and residual approaches, 2D and 3D problems, in stress anaylsis, application to steady and transient heat flow, hydrodynamics, creeping flow, solution methods.
+Prerequisites:
+none
+ME 601
+Advanced Computational Methods in Engineering
+3 credits
+Numerical methods for solving linear systems of equations, solution of non-linear equations, data interpolation, numerical differentiation, numerical integration, numerical solution of ordinary and partial differential equations.
+Prerequisites:
+none
+ME 602
+Advanced CAE
+3 credits
+Investigation, review, and application of emerging computer aided tools for engineering. Advanced FEA; optimization.
+Prerequisites:
+none
+ME 603
+Computational Fluid Mechanics and Heat Transfer
+3 credits
+Numerical methods (finite difference, finite volume, finite element) used for solving partial differential and integral equations of the type commonly occuring in fluid mechanics and heat transfer. Numerical solutions for selected problems in fluid mechanics and heat transfer. Use of CFD software.
+Prerequisites:
+none
+Capstone Course
+Co-Requisite
+- Choose 2  Credit(s). Student may alternatively enlist in any capstone course in the discipline of student's choice with permission of instructor of MDSM 691
+EE 695
+Research
+1-5 credits
+Thesis research.
+Prerequisites:
+none
+EE 699
+Thesis/Design Option
+1-4 credits
+Thesis preparation.
+Prerequisites:
+none
+GEOG 694
+Alternate Plan Paper
+1-2 credits
+Student culminating experience in lieu of a thesis.
+Prerequisites:
+none
+GEOG 699
+Thesis
+1-6 credits
+A culminating project related to basic or applied research
+Prerequisites:
+none
+IT 694
+Alternate Plan Paper
+1-2 credits
+Preparation of a master's degree alternate plan paper under the direction of the student's graduate advisor.  Pre-req: consent
+Prerequisites:
+none
+MATH 699
+Thesis
+1-4 credits
+Research under the supervision of the student's advisor leading to a thesis.
+Prerequisites:
+none
+ME 699
+Thesis
+1-4 credits
+.
+Prerequisites:
+none
+NURS 699
+Thesis
+1-4 credits
+Course provides students with the opportunity to focus on a research problem that is related to their area of nursing practice. Students work with a nursing faculty advisor (committee chairperson) in developing the thesis proposal, writing the thesis, and preparing to disseminate the results of the study. With the advisor's approval, the thesis is submitted for oral defense as part of the requirements for the MSN degree.
+Prerequisites:
+none
+URBS 667
+Urban Studies Studio
+3 credits
+An advanced learning experience working in small group settings on applied projects and problem solving. The team project produced in the studio meets graduate student's capstone project requirements.
+Prerequisites:
+noneInitial deposit: N/A
+
+
+Application Fee for Undergraduate: $ 20
+Application Fee for Postgraduate: $ 40
+
+
+Annual Fee for Undergraduate: $ 18,812
+Annual Fee for Postgraduate: $ 14,918
+
+
+English Language Requirements Undergraduate only:
+TOEFL iBT (internet-based test) score of 61 or better
+Pearson Test of English (PTE) score of 47 or better
+IELTS academic test score of 5.5 or better
+
+
+English Language Requirements Postgraduate only:
+Different for every course and given in course content 
+
+
+Entry Requirements Undergraduate only:
+A cumulative high school GPA of 3.0 or higher or A rank in the top 50% of your high school class or An ACT composite score of 21 or higher and a minimum cumulative high school GPA of 2.7. If you do not meet the above admission requirements, you can submit additional information to consider when reviewing your application.
+
+
+Entry Requirements Postgraduate only:
+Applicants must possess the equivalent of a U.S. Bachelor's degree to be considered for graduate programs at Minnesota State Mankato. The degree must be earned at an institution recognized and approved to award the degree. GRE (Graduate Record Examination) is required by some academic programs.
+
+English Language requirements of graduate programs is different for each course. Graduate programs only have IELTS and TOEFL test scores.
+For Graduate Entry Requirements, some requirements like GPA, Score are mentioned on the course page so add them too.

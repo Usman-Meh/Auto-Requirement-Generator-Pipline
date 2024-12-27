@@ -1,0 +1,244 @@
+Link: https://you.ubc.ca/ubc_programs/computer-engineering/
+
+Computer Engineering
+at UBC's
+Vancouver Campus
+Summary
+Program info
+Your future
+Requirements
+Visit program website
+In Computer Engineering you’ll learn how to develop, design, and test software, computer networks, and protocols. Every automated device has a software or hardware engineer helping to create it – whether it is the systems that control our phones, cars, planes, or robots.
+This program is also offered at UBC's
+Okanagan Campus
+Find out more
+Visit program website
+Program information
+Send details
+Campus:
+Vancouver
+Faculty:
+Faculty of Applied Science (Engineering)
+Degree:
+Bachelor of Applied Science (Engineering)
+Length
+4 yrs
+Co-op
+Yes
+You can combine your studies with full-time, paid work at top local and international organizations.
+Honours
+No
+You can study intense specialization in a single field.
+Electrical and Computer Engineering (ECE) consists of three eight-month academic sessions either following first-year Engineering or following a transfer program from first-year Science. The second year is common to both Electrical Engineering and Computer Engineering. In the second year, two educational streams are offered: the project integrated program (on a trial basis), which integrates principles of electrical and computer engineering with project work, and the traditional integrated learning method. Some undergraduate curriculum changes will emphasize laboratory work and engineering design, without detracting from the program’s strong analytical base. You can select an option in Software Engineering, as well as a Minor in Honours Mathematics.
+Campus features
+The challenging undergraduate program in Electrical Engineering and Computer Engineering attracts some of the university’s best students. Each year, several of our students win scholarship awards. Our student design teams regularly win prizes in regional, national, and international design competitions.
+Send details
+Sample courses
+Year 1
+Year 2
+Year 3
+Year 4
+APSC 100 - Introduction to Engineering I
+An introduction to the engineering profession including: roles and responsibilities of the engineer, the engineering disciplines, sustainability, an introduction to the engineering design process, introduction and application of the relevant foundational scientific principles, prototyping, engineering graphics, technical communication, and engineering ethics.
+CHEM 154 - Chemistry for Engineering
+Chemical bonding, properties of matter. Chemical thermodynamics with applications to phase equilibria, aqueous equilibria and electrochemistry. Processes at surfaces.
+MATH 100 - Differential Calculus with Applications to Physical Sciences and Engineering
+Derivatives of elementary functions. Applications and modeling: graphing, optimization. Consult the Faculty of Science Credit Exclusion List: www.students.ubc.ca/calendar/index.cfm?tree=12,215,410,414.
+PHYS 157 - Introductory Physics for Engineers I
+Heat, thermodynamics, oscillations, waves, and sound.
+PHYS 170 - Mechanics I
+Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics:  Newton's second law, friction, impulse, momentum, work and energy.
+CPEN 211 - Introduction to Microcomputers
+Boolean algebra; combinational and sequential circuits; organization and operation of microcomputers, memory addressing modes, representation of information, instruction sets, machine and assembly language programming, systems programs, I/O structures, I/O interfacing and I/O programming, introduction to digital system design using microcomputers.
+CPEN 281 - Technical Communication
+Written and oral communication in engineering. Technical description, report preparation, business correspondence, and oral presentation of technical material. Restricted to students in second year of Electrical and Computer Engineering programs.
+ELEC 201 - Circuit Analysis I
+The fundamentals of analysis of lumped linear time-invariant circuits; network theorems; operational amplifiers; first order circuits; DC analysis of diodes, BJT, and FET circuits.
+MATH 220 - Mathematical Proof
+Sets and functions; induction; cardinality;  properties of the real numbers; sequences, series, and limits. Logic, structure, style, and clarity of proofs emphasized throughout.
+EECE 320 - Discrete Structures and Algorithms
+Discrete structures, such as trees and graphs, and their properties; introduction to algorithms and algorithmic complexity. Proof of correctness; design techniques such as greedy algorithms and dynamic programming.
+EECE 362 - Communications Systems and Networks
+Transceiver architectures; link budget analysis; elements of analog and digital communications methods; packet switched networks; multiple access; Internet architecture and protocols.
+CPEN 311 - Digital Systems Design
+Advanced combinational and sequential electronic system design. Hardware specification, modeling, and simulation using hardware description languages (HDLs) and CAD tools. Design with programmable logic including FPGA's. Applications include complex state machines, microcontrollers, arithmetic circuits, and interface units.
+CPEN 331 - Operating Systems
+Operating systems, their design and their implementation. Process concurrency, synchronization, communication and scheduling. Device drivers, memory management, virtual memory, file systems, networking and security.
+ELEC 221 - Signals and Systems
+Complex numbers, LTI systems, convolution sum, discrete-time Fourier series and transforms, z-transform, sampling, introduction to filtering and modulation, feedback systems, stability.
+APSC 450 - Professional Engineering Practice
+Legislation affecting the practice of engineering; ethical principles and responsibilities. Management of engineering enterprises; labour relations, safety and environmental legislation. Restricted to engineering undergraduate students in the final year of their program.
+CPEN 481 - Economic Analysis of Engineering Projects
+Time-money relationships; economic analysis of alternatives including the effects of interest rates, inflation, depreciation, taxation and uncertainty; cost estimation and budgeting; financial analysis of engineering operations.
+CPEN 491 - Computer Engineering Capstone Design Project
+Design, analysis, and implementation of solutions in response to a real world computer engineering problem, provided by industry, research laboratories, or other suitable entities.  Includes coverage of topics such as project management.
+Your future
+You career opportunities will vary widely across a range of fields including computer systems and design, multimedia applications, embedded and autonomous systems, mobile computing, industrial instrumentation, data analytics, cybersecurity, healthcare, banking, and others.
+Careers in Computer Engineering
+Related programs
+Program requirements
+Canadian high schools
+International high schools
+International baccalaureate
+- Select Location -
+Basic requirements (if your province is not selected)
+Alberta
+British Columbia
+Manitoba
+New Brunswick
+Newfoundland & Labrador
+Northwest Territories
+Nova Scotia
+Nunavut
+Ontario
+Prince Edward Island
+Quebec
+Saskatchewan
+Yukon
+- Select Location -
+Basic requirements (if your country is not listed)
+Argentina
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belize
+Bermuda
+Bolivia
+Botswana
+Brazil
+British Virgin Islands
+Brunei
+Cameroon - British
+Cameroon - French
+Cayman Islands
+Chile
+China
+Colombia
+Costa Rica
+Czech Republic
+Denmark
+Dominica
+Ecuador
+Egypt – 11 Years of Education
+Egypt – 12 Years of Education
+El Salvador
+Ethiopia
+Finland
+France (French Baccalaureate)
+Germany
+Ghana
+Gibraltar
+Greece
+Grenada
+Guatemala
+Guyana
+Honduras
+Hong Kong
+India
+Indonesia
+Iran
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kuwait
+Lebanon
+Lesotho
+Liberia
+Macao
+Malawi
+Malaysia
+Mauritius
+Mexico
+Mongolia
+Montserrat
+Morocco
+Namibia
+Netherlands
+New Zealand
+Nigeria
+Norway
+Oman
+Pakistan
+Panama
+Peru
+Philippines
+Poland
+Qatar
+Russia
+Rwanda
+Saint Kitts and Nevis
+Saint Lucia
+Saint Vincent and the Grenadines
+Saudi Arabia
+Scotland
+Seychelles
+Sierra Leone
+Singapore
+South Africa
+South Korea
+Spain
+Sri Lanka
+Sweden
+Switzerland
+Syria
+Taiwan
+Tanzania
+Thailand
+The Gambia
+Trinidad and Tobago
+Tunisia
+Turkey
+Turks and Caicos Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom (British-patterned education)
+United States (American curriculum)
+Venezuela
+Vietnam
+Zambia
+Zimbabwe
+English-language requirements
+English is the language of instruction at UBC. All prospective students must demonstrate English-language competency prior to admission. There are numerous ways to meet the
+English Language Admission Standard
+.
+General admission requirements
+IB Diploma Programme
+Completed IB Diploma, including at least three Higher Level courses.
+IB Certificate Courses
+IB Certificate courses (Standard and Higher Level) may be used in an admissions average if you are graduating from a recognized high school curriculum that can be used as your basis of admission.
+IB Math Applications and Interpretations SL, or IB Math Studies, do not satisfy the math requirement for admission to UBC’s science-based programs, the Faculty of Management, the UBC Sauder School of Business, or the Vancouver School of Economics.
+Degree-specific requirements:
+Applied Science (Engineering)
+IB Math Analysis and Approaches SL
+or
+HL,
+or
+IB Math Applications and Interpretations HL. (IB Math Applications and Interpretations SL, or IB Math Studies, are not acceptable.)
+IB Chemistry
+IB Physics
+Academically strong candidates missing either IB Chemistry or IB Physics may be evaluated on a case-by-case basis
+Related courses
+The following
+subject categories
+are particularly relevant for this degree. Consider taking courses in these areas in your junior year and senior year.
+Language Arts
+Mathematics and Computation
+Sciences
+Visit program website
+You’ll find these pages helpful
+Deep dive into UBC programs and get a taste of campus life on Snapchat
+Read admissions blog post
+Meet Dr. Bridson, a UBC professor whose fluid-simulation software was used in the film Life of Pi
+Read full story
+Ready to choose your degree?
+Apply to UBC

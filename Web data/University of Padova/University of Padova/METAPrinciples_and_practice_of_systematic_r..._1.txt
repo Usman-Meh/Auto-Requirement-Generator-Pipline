@@ -1,0 +1,151 @@
+Link: https://uel.unipd.it/en/masters/meta-principles-and-practice-of-systematic-reviews-and-meta-analysis-in-the-biomedical-field/
+
+Skip to content
+Second level university master
+META
+Principles and practice of systematic reviews and meta-analysis in the biomedical field
+Home
+>
+Master e corsi
+>
+Second level university master
+>
+META - Principles and practice of systematic reviews and meta-analysis in the biomedical field
+Home
+>
+Master e corsi
+>
+Second level university master
+>
+META - Principles and practice of systematic reviews and meta-analysis in the biomedical field
+The Master joins the second extraordinary pre-enrolment term from the 4th to the 25th November 2024, 12.30 pm.
+The
+Master in Principles and Practice of Systemic Reviews and Meta-Analysis in the Biomedical Field,
+prepares professionals working, or intending to work, in the biomedical field, to design, conduct and analyse a systemic review for
+evidence-based healthcare
+questions, according to a methodological and processing reproducibility factor.
+This Level-2 Master is provided online, on-demand, to allow students to follow the lessons at their most convenient time.
+Educational content
+The
+Master in Principles and Practice of Systemic Reviews and Meta-Analysis in the Biomedical Field
+comprises 5 modules. Since
+fact synthesis
+is playing an increasingly important role in research, clinical practice and healthcare policy decisions, an essential condition to implement the results deriving from a systemic review and subsequent meta-analysis is their
+reproducibility
+. Therefore, this course covers classic systemic
+review methodology
+topics, supported by
+innovative
+text mining and machine learning
+applications
+. Meta-analysis is treated by giving ample space to the applicational aspects, from basic methods to multilevel, multivaried models and to network meta-analysis. The R software will be used.
+The
+quality
+of the empiric evidence is classified through ethical principles of quantification, and real work evidence constructs.
+Reproducibility
+is dealt with by following its taxonomy, from technical reproducibility, to methodological and scientific aspects.
+Literate programming
+is covered in
+R Markdown
+and through application examples.
+Course target and career opportunities
+The
+Master in Principles and Practice of Systemic Reviews and Meta-Analysis in the Biomedical Field
+is mainly addressed to graduates in medical, biological, pharmacological, mathematics and statistics sciences. The Master identifies the ideal candidates to guide in the
+implementation of solid and reproducible systemic reviews
+in professionals already working, or intending to work, in the biomedical field.
+The Master will provide students with application competences of growing relevance, for all medical practice and research sectors, and its purpose is training professionals with broad systemic review planning, conduction and analysis skills. The knowledge acquired during the Master are relevant for the further
+specialization
+of healthcare professionals already working, and to
+define
+technical-quantitative profiles to work in the healthcare sector, in biomedical research and in CROs.
+Course program
+The
+Master in Principles and Practice of Systemic Reviews and Meta-Analysis in the Biomedical Field
+will include 5 modules, available online and on-demand, as specialized below:
+Module 1 – SYSTEMIC REVIEW METHODOLOGY
+This module will convey the methods and tools to generate a systemic review, from drafting and registering the protocol, to reporting and critical evaluation.
+Module 2 – TEXT-MINING AND MACHINE LEARNING IN SYSTEMIC REVIEWS
+Using of text mining tools and machine learning algorithms to conduct systemic reviews is becoming an increasingly popular approach to optimize human and financial resources, and the time required to complete such reviews. This module shows the most promising approaches in literature, compared to screening de novo and review updates and extensions, with application of open-source tools in R.
+Module 3 – META-ANALYSIS METHODOLOGY 1
+This module provides an introduction to the terms and methodological concepts involved in this fact synthesis approach. The crucial points covered by this module are effect measurements, meta-analysis introduction, and management of the heterogeneity component between different studies. It also shows practical examples and applications.
+Module 4 – META-ANALYSIS METHODOLOGY 2
+This module covers advanced meta-analysis method aspects. The topics covered include multi-varied/multi-level meta-analysis models, Bayesian meta-analysis and meta-analysis, Frequentists and Bayesian Networks. It also shows practical examples and applications.
+Module 5 – REPRODUCIBILITY OF RESEARCH
+This module covers a mix of topics connected to reproducibility from a quantitative and processing standpoint – such as selective interference and literate programming – and from an epidemiology and philosophy of science point of view.
+General ranking of merit
+The general ranking of merit will be published on the Italian page of this Master according to the timing provided in the Call.
+Information
+Thematic area:
+Health, environment and territory
+End of classes:
+31/10/2025
+Mandatory attendance:
+70%
+Minimum available spots:
+5
+Maximum available spots:
+120
+First instalment:
+€
+									2.022,50
+Second instalment:
+€
+									1.000,00
+Selection process notice
+I titoli di accesso saranno specificati nell'avviso di selezione 24/25
+FAQ
+How will the distance learning course be structured?
+Every module comprises 4 weeks of asynchronous lessons, with a week of pause between the following module. Interaction between students and professors will be frequent, and facilitated through Moodle Forum. R is the reference software, with a simplified interface for the topics that allow it. Video lessons will be held between November and May, with periodical homework to attest the knowledge acquired. Homework is also provided on-demand. The project work before the final discussion will be drafted between June and July, even on cases promoted by students, in agreement with the tutor. The project work will also be presented online, on the Zoom platform.
+Will there be any forms of facilitation?
+Students with disabilities between 66% and 100%, or certification pursuant to Law no. 104, will be exempted from paying the enrolment fee, and will be only required to pay the pre-enrolment fee, the insurance fee, and stamp
+PA and top grades: PA employees enrolling in our Master, will enjoy a €330 reduction on the second registration
+University staff with an open-ended employment contract may enrol in the course. The enrolment fee for University Technical-Administrative Staff is equal to the minimum enrolment fee, as established by Article 24, p. 1 of the University Regulation for Master Courses, Post-Graduate and Higher Education Courses of the University of Padua, and is equal to 20% of the fee. If the staff with open-ended labour contract possesses the requirements to enrol in the Course, once the Master is over, they will obtain the related Title or Diploma, or, if they do not possess the selection requirements, they may attend as Auditors and obtain an Attendance Certificate.
+The enrolment fee for Auditors is 50% of the Master’s regular fee.
+What are the minimum attendance requirements?
+Even though the course is online, attendance is mandatory. However, since the video-lessons are pre-recorded, and they can be watched 24/7, it will be very easy to stay in-course. The Academic Office and professors are willing to cater to any student with heavy commitments or intense work schedules.
+Will there be an internship?
+No, there won’t be an internship.
+There will be a final project work that can be completed also on the student’s workplace analysis and data. The topic will be agreed with the course’s professors.
+Classes start:
+02/12/2024
+Duration:
+One-year
+Venue:
+Padua
+Language:
+Italian
+ECTS:
+60
+Teaching method:
+Distance learning
+Total enrolment fee:
+€
+							3.022,50
+Pre-enrolment deadline:
+25/11/2024
+Management
+Prof. Ileana Baldi
+Administrative Office
+Contact Person:
+Unit of Biostatistics, Epidemiology and Public Health
+Phone:
+3312601668
+Email:
+segreteria.master@ubep.unipd.it
+Teaching method:
+ECTS:
+In-person lessons:
+H
+Month and year:
+Fee:
+€
+Close
+© 2024 UEL. All rights reserved.
+Privacy policy
+-
+Cookie Policy
+-
+Cookies settings
+Page load link
+Go to Top

@@ -1,0 +1,47 @@
+Link: https://www.fdu.edu/program/computer-science-k-12-minor/
+
+Skip to content
+Computer Science K-12 Teacher Certification Minor
+Home
+/
+Program
+/
+Computer Science K-12 Teacher Certification Minor
+The 15-credit computer science K–12 teacher certification minor prepares QUEST students to teach computer science in grades K–12 and to add a computer science certification as a second endorsement.
+The minor is offered by the department of mathematics and computer science, Maxwell Becton College of Arts and Sciences, at the Florham Campus, Madison, New Jersey.
+Requirements
+Required Courses (12 credits)
+CSCI1145
+Computer Science Fundamentals
+CSCI1204
+Computer Programming Using C#
+CSCI2104
+Computer Programming Using Python
+CSCI2244
+Computational Thinking
+Elective (3 credits)
+Choose one from the following courses:
+CSCI1109
+Computer Ethics
+CSCI2100
+Mobile App Development
+CSCI2205
+Introduction to Computer Science I
+CSCI3294
+Data Analysis and Visualization
+CSCI3388
+Introduction to Game Development
+CSCI3389
+Introduction to Human-Computer Interaction
+CSCI3392
+Introduction to Unreal Game Programming
+For Information
+Dr. Marek Slaby
+mslaby@fdu.edu
+973-443-8680
+Learn More
+Department of Mathematics and Computer Science
+Admissions
+Apply now
+Visit FDU
+Request Information

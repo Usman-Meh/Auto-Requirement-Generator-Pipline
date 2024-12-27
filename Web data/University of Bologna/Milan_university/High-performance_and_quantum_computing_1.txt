@@ -1,0 +1,121 @@
+Link: https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/professional-master/2024-2025-1/high-performance-and-quantum-computing-1
+
+You are here:
+Home
+>
+Study
+>
+PhDs and Professional Masters programmes, Specialisations and advanced training
+>
+Professional Master's programmes
+>
+2024-2025
+>
+High-performance and quantum computing
+Professional Master programme in
+High-performance and quantum computing - 6162
+Call for applications
+Professional Master website
+Details
+Characteristics
+Admission requirements
+Teaching
+Contacts
+Code
+6162
+Academic Year
+2024-2025
+Subject area
+Sciences and technology
+Campus
+Bologna
+Level
+Second
+Director
+Prof. Marco Baldi
+Duration
+Annual
+Teaching methods
+Conventional
+Language
+English
+Cost
+4.700,00 €
+Instalments
+First instalment: Euro 2500,00 (to be paid before 10/01/2025). Second instalment: Euro  2.200,00  (to be paid by 31/03/2025).
+Application deadline
+Nov 19, 2024 (Postponed)
+Enrolment start and end
+From December, 10th 2024 until January 10th 2025
+Main Department
+Department of Physics and Astronomy "Augusto Righi" - DIFA
+Professional Profile
+The Alma Mater Studiorum University of Bologna, in accordance with the Decree 22 October 2004, n. 270 of the Ministry of Education, University and Research, opens for the academic year 2024-2025 the 2nd level Master in “High-Performance and Quantum Computing”.
+The Master is promoted by the Physics and Astronomy Department — DIFA, and in collaboration with Fondazione Alma Mater.
+The Master aims at developing a professional profile that — building upon the knowledge acquired at the undergraduate level in university courses of the STEM area —may have the necessary skills to be competitive in the job market related to frontier research and applications in the fields of advanced technologies, management of big data and complex systems, through the use of state-of-the -art computational methods and technologies, both at the national and international level. Specific examples of such job profiles may include companies offering high-performance computing services, agencies for the modelling and the forecasts in the context of geophysical, environmental and climate studies, industries developing new materials, companies and start-ups in the rapidly growing field of computational and quantum computing technologies. More specifically, the Master will prepare: Experts in modelling and numerical methods for complex systems; Experts in high-performance and large-scale computing; Experts on quantum methods and algorithms on different platforms.
+The professional profiles developed by this Master will be able to take an active role in the rapidly growing field of IT and data sharing technologies that led to a revolution in the use of computational resources and that involves all sectors of society, ranging from academic research to applied research promoted by public and private companies. Methods and algorithms for High-Performance computing have become of fundamental importance in all strategic sectors as e.g. the study of climate evolution and of new energy resources, the discovery of new molecules for pharmaceutical applications or of new materials for industrial applications, the optimisation of production processes, of logistics or of financial strategies.
+The master has the following goals:
+1)	provide knowledge on the modelling of complex systems and on the computational techniques available for their analysis, also including quantum computing methods;
+2)	develop specific competence on programming strategies for high-performance computing and for the use of large-scale computational infrastructures;
+3)	train the participants on a wide range of practical applications in the context of scientific research and industrial applications;
+offer a wide range of internships at private companies as well as research institutes and laboratories in the public and private sectors.
+Note
+Thanks to contributions of Istituto Nazionale di Astrofisica/Istituto di Radioastronomia (INAF-IRA), Istituto Nazionale di Astrofisica/Osservatorio di Astrofisica e Scienza dello Spazio (INAF-OAS) e CINECA, the following reductions are allowed:
+1° ranked in the merit list: exemption from the II instalment;
+Ranked 2 and 3: II installment of € 1,200.00 (two thousand two hundred)
+No. 1 places for students in excess of the maximum number are provided, subject to passing the selection. Such students will be exempted from paying tuition fees, net of any fixed costs and of the selection procedure participation fee.
+For more information, please see Art. 1 of the Call for Applications.
+Participation is open to auditors, up to 20% of enrolled students, in accordance with the Call for Applications.
+Those who wish to attend as auditors must inform directly the Professional Master’s Programme secretariat and will be notified of the acceptance of their request, as well as of the deadline and methods for registration and payment of the attendance fee. The attendance fee for auditors is € 2.500,00 (to be paid in a single instalment upon registration). Auditors do not sit the final exam, have no attendance obligation, are not required to do an internship or prepare project work, do not earn CFUs and are not awarded the Professional Master’s qualification in High-Performance and Quantum Computing. The Secretariat will issue a certificate of attendance stating the number of hours completed by each auditor.
+Number of participants
+Min: 8
+                        Max: 25
+International Professional Master's programme
+Yes
+Admission qualifications
+Biology LM-6, Physics LM-17, Computer Science LM-18, Aerospace Engineering LM-20, Biomedical Engineering LM-21, Chemical Engineering LM-22, Automation Engineerings LM-25, Security Engineering LM-26, Telecommunications Engineering LM-27, Electrical Engineering LM-28, Electronic Engineering LM-29, Energy and Nuclear Engineering LM-30, Computer Engineering LM-32, Mechanical Engineering LM-33, Mathematics LM-40, Mathematical-physical Modeling for Engineering LM-44, Materials Science and Engineering LM-53, Chemical Sciences LM-54, Astrophysics and Cosmology LM-58, Computer Security LM-66, Industrial Chemistry LM-71, Geophysical Sciences LM-79
+Other Master Degrees, especially for candidates with international careers or already employed in public or private enterprises, may be considered based on the CV and specific profiles of the candidate.
+Linguistic skills
+English knowledge certified at the level B2 QCER.
+In the absence of such certification, the English knowledge will be checked during the motivational interview.
+Other requirements
+Familiarity with at least some programming language that will be verified through the analysis of the CV and the motivational interview.
+Place of teaching
+Bologna
+The following teaching methods are foreseen: in presence, in blended mode (synchronous both in presence and remotely) and e-learning (asynchronous).
+Beginning of the lectures: January 20th 2025.
+Lectures schedule: about 20 hours/week in the period January 20th 2025 — June 27th 2025, from Mondays through Fridays
+Study plan
+Courses
+Big Data Paradigms and Technologies (ING-INF/05, 16 ore) // Paolo Bellavista, Daniele Cesini, Luca Foschini
+Numerical Techniques for System Modelling (GEO/12, FIS/06, 16 ore) // Enrico Baglione, Paolo Oddo
+Computational Fluid Dynamics (FIS/05, FIS/06, 24 ore) // Federico Marinacci, Francesco Calura, Carlo Cintolesi
+Methods and algorithms for many-body global problems (FIS/05, 16 ore) // Marco Baldi, Alessandro Casalino
+Introduction to discriminative AI methods (FIS/01, ING-INF/05, 24 ore) // Daniele Bonacorsi, Tommaso Diotalevi, Luca Clissa, Andrea Galassi
+Introduction to generative AI methods (MAT/07, FIS/07, INF/01, 16 ore) // Mirko Degli Esposti, Daniel Remondini, Andrea Asperti
+Introduction to Quantum Computing (FIS/02, INF/01, 24 ore) // Elisa Ercolessi, Ugo Dal Lago, Marco Chiani, Lorenzo Valentini
+Introduction to High-Performance Computing (INF/01, 24 ore) // Gianluigi Zavattaro, Alessandro Casalino, Alessandro Romeo
+Variational Quantum algorithms and Quantum Machine Learning (CHIM/02, MAT/07, 24 ore) // Ivan Rivalta, Giacomo De Palma, Filippo Orazi, Francesco Calcagno
+Fundamentals of Computing (INF/01, ING-INF/05, 16 ore) // Gianluigi Zavattaro, Andrea Bartolini
+Accelerated Computing (INF/01, 16 ore) // Moreno Marzolla, Claudio Gheller
+Materials Modelling and Design (FIS/03, 16 ore) // Maria Clelia Righi, Paolo Restuccia
+Quantum SDKs (MAT/07, 16 ore) // Davide Pastorello, Gabriella Bettonte, Simone Gasperini
+Climate Change Modelling (FIS/06, 16 ore) //  Paolo Ruggieri
+Practical Applications for Fluid Dynamics (FIS/06, FIS/05, 16 ore) // Carlo Cintolesi, Federico Marinacci, Francesco Calura
+Other activities
+Thematic seminars given by other UniBo professors and by national and international experts as a follow-up of the topics presented in the courses.
+Scientific direction: prof. Marco Baldi.
+SSD: FIS/05, CFU: 2
+Internship
+575 hours of internship corresponding to 23 CFU to be spent at the premises of public and private partners of the Master, including companies active in the IT business.
+The internship allows to directly apply the knowledge and the skills acquired during the courses through the development of a practical project.
+The internship should be held in presence at the premises of the hosting institutions.
+For students that are also registered for a PhD project or for workers, the internship may be replaced by a project work developed within their own working environment after approval of the Master’s Director.
+master.hpqc@unibo.it
+Attachments
+Annex 2_ Attachment to the call for applications
+[.pdf
+         285 KB]
+Titles form
+[.docx
+         12 KB]

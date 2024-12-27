@@ -1,0 +1,112 @@
+Link: https://cset.mnsu.edu/academic-programs/statistics/statistics-minor/
+
+College of Science, Engineering & Technology
+Academic Programs
+Statistics
+Statistics, Minor
+Statistics Section
+Statistics
+Statistics, Bachelor of Science (BS)
+Statistics Actuarial Track, Bachelor of Science (BS)
+Statistics, Minor
+Statistics Faculty and Staff
+Statistics Minor
+Current Catalog Year
+2024-2025
+Degree
+Minor
+Total Credits
+21
+Locations
+Mankato
+Apply
+Program Requirements
+Program
+                                    Requirements
+Core
+MATH 121
+Calculus I
+4 credits
+Limits, continuity, the derivative and applications, transcendental functions, L'Hopital's Rule, and development of the Riemann integral.
+Prerequisites:
+Satisfy Placement Table in this section, MATH 115 or both MATH 112 and MATH 113 with "C" (2.0) or better.
+Goal Areas: GE-04
+MATH 122
+Calculus II
+4 credits
+Techniques of integration, applications of integration, improper integrals, numerical integration, the calculus of parametric curves, and infinite series and sequences.
+Prerequisites:
+MATH 121 with "C" (2.0) or better or consent
+STAT 354
+Concepts of Probability & Statistics
+4 credits
+A calculus based introduction to probability and statistics. Topics include probability, random variables, probability distributions (discrete and continuous), joint probability distributions (discrete and continuous), statistical inference (both estimation and hypothesis testing), confidence intervals for distribution of parameters and their functions, sample size determinations, analysis of variance, regression, and correlation. This course meets the needs of the practitioner and the person who plans further study in statistics. Same as MATH 354. Prereq: MATH 122 with C or better or consent Fall, Spring, Summer
+Prerequisites:
+MATH 122 with C or better or consent
+STAT 450
+Regression Analysis
+3 credits
+Simple and multiple linear regression, model adequacy checking and validation, identification of outliers, leverage and influence, polynomial regression, variable selection and model building strategies, nonlinear regression, and generalized linear regression.
+Prerequisites:
+MATH 354 / STAT 354 or STAT 455 with "C" (2.0) or better or consent
+STAT 451
+Design and Analysis of Experiments
+3 credits
+Randomized complete block design, Latin squares design, Graco- Latin squares design, balanced incomplete block design, factorial design, fractional factorial design, response surface method, fixed effects and random effects models, nested and split plot design.
+Prerequisites:
+MATH 354 / STAT 354 or STAT 455 with "C" (2.0) or better or consent
+Restricted Electives
+Choose 3 - 4 Credit(s).
+STAT 455
+Theory of Statistics I
+4 credits
+A mathematical approach to statistics with derivation of theoretical results and of basic techniques used in applications. Includes probability, continuous probability distributions, multivariate distributions, functions of random variables, central limit theorem and statistical inference. Same as MATH 455. Prereq: MATH 223 with C or better or consent
+Prerequisites:
+MATH 223 with "C" (2.0) or better or consent
+STAT 457
+Sample Survey, Design and Analysis
+3 credits
+Sampling distributions: means and variances. Bias, robustness and efficiency. Random sampling, systematic sampling methods including stratified random sampling, cluster sampling and two-stage sampling, ratio, regression, and population size estimation. Suitable statistical software is introduced, for example, MATLAB, R, SAS, etc.
+Prerequisites:
+Either MATH/STAT 354 or both MATH 121 adn STAT 154 with "C" (2.0) or better, or consent.
+STAT 458
+Categorical Data Analysis
+3 credits
+Forms of multivariate analysis for discrete data, two dimensional tables, models of independence, log linear models, estimation of expected values, model selection, higher dimensional tables, logistic models and incompleteness. Logistic regression. Suitable statistical software is introduced, for example, MATLAB, R, SAS etc.
+Prerequisites:
+Either MATH/STAT 354 or both MATH 121 and STAT 154 with "C" (2.0) or better, or consent.
+STAT 459
+Nonparametric Methods
+3 credits
+Derivation and usage of nonparametric statistical methods in univariate, bivariate, and multivariate data. Applications in count, score, and rank data, analysis of variance for ranked data. Nonparametric regression estimation. Suitable statistical software is introduced, for example, MATLAB, R, SAS, etc.
+Prerequisites:
+Either MATH/STAT 354 or both STAT 154 and MATH 121 with "C" (2.0) or better, or consent.Initial deposit: N/A
+
+
+Application Fee for Undergraduate: $ 20
+Application Fee for Postgraduate: $ 40
+
+
+Annual Fee for Undergraduate: $ 18,812
+Annual Fee for Postgraduate: $ 14,918
+
+
+English Language Requirements Undergraduate only:
+TOEFL iBT (internet-based test) score of 61 or better
+Pearson Test of English (PTE) score of 47 or better
+IELTS academic test score of 5.5 or better
+
+
+English Language Requirements Postgraduate only:
+Different for every course and given in course content 
+
+
+Entry Requirements Undergraduate only:
+A cumulative high school GPA of 3.0 or higher or A rank in the top 50% of your high school class or An ACT composite score of 21 or higher and a minimum cumulative high school GPA of 2.7. If you do not meet the above admission requirements, you can submit additional information to consider when reviewing your application.
+
+
+Entry Requirements Postgraduate only:
+Applicants must possess the equivalent of a U.S. Bachelor's degree to be considered for graduate programs at Minnesota State Mankato. The degree must be earned at an institution recognized and approved to award the degree. GRE (Graduate Record Examination) is required by some academic programs.
+
+English Language requirements of graduate programs is different for each course. Graduate programs only have IELTS and TOEFL test scores.
+For Graduate Entry Requirements, some requirements like GPA, Score are mentioned on the course page so add them too.

@@ -1,0 +1,283 @@
+Link: https://cset.mnsu.edu/academic-programs/management-information-systems/management-information-systems-bachelor-of-science-bs/
+
+College of Science, Engineering & Technology
+Academic Programs
+Management Information Systems
+Management Information Systems, Bachelor of Science (BS)
+Management Information Systems Section
+Management Information Systems
+Management Information Systems, Bachelor of Science (BS)
+Management Information Systems Faculty & Staff
+Management Information Systems (BS)
+The Management Information Systems BS provides students with in-depth knowledge of information technology concepts and applications, and prepares them to create innovative solutions for real-world problems. Students gain the ability to integrate IT infrastructure, software, and management skills to solve problems in a variety of IT areas, including an understanding of basic business concepts to assist them in career paths where they are interfacing with and developing solutions for business professionals.
+Current Catalog Year
+2024-2025
+Degree
+Bachelor of Science
+Major /                                         Total Credits
+73 / 120
+Locations
+Mankato
+Apply
+Program Requirements
+Program
+                                    Requirements
+Required General Education
+CIS 202W
+Computers in Society
+4 credits
+Students prepare written summaries and oral presentations related to the complex social and ethical issues associated with computers. Through thoughtful questions, informative readings, and the analysis of opposing viewpoints, participants gain insight into the complexity of technology-related issues in a world without clearly defined borders.
+Prerequisites:
+none
+Goal Areas: GE-09
+COMM 100
+Fundamentals of Communication
+3 credits
+A course designed to improve students' understanding in communication, including the areas of interpersonal, nonverbal, listening, small group and public speaking.
+Prerequisites:
+none
+Goal Areas: GE-1B
+COMM 102
+Public Speaking
+3 credits
+A course in communication principles to develop skills in the analysis and presentation of speeches.
+Prerequisites:
+none
+Goal Areas: GE-1B
+ENG 101
+Foundations of Writing & Rhetoric
+4 credits
+Students in this course approach writing as a subject of study by investigating how writing works across a variety of contexts.
+Prerequisites:
+none
+Goal Areas: GE-1A
+MATH 121
+Calculus I
+4 credits
+Limits, continuity, the derivative and applications, transcendental functions, L'Hopital's Rule, and development of the Riemann integral.
+Prerequisites:
+Satisfy Placement Table in this section, MATH 115 or both MATH 112 and MATH 113 with "C" (2.0) or better.
+Goal Areas: GE-04
+PHIL 224W
+Business Ethics
+3 credits
+Introduction to ethical theories and concepts and their application to specific cases in the world of business.V
+Prerequisites:
+none
+Goal Areas: GE-06, GE-09
+Major Common Core
+ACCT 200
+Financial Accounting
+3 credits
+The accounting process, financial statement preparation, and analysis. Includes the accounting cycle, asset, liability, and equity accounting. Emphasis on the use of accounting data.
+Prerequisites:
+MATH 112 or MATH 115or MATH 121 or MATH 130 or MATH 181
+CIS 121
+Introduction to Programming
+4 credits
+This course provides conceptual and logical tools for students planning to major in a computing-based major. Programming in a high-level language such as C++, Python, or Java, and the development of skills in abstraction, problem-solving, and algorithmic thinking are emphasized.
+Prerequisites:
+MATH 112 or MATH 113 or MATH 115 or MATH 121
+CIS 122
+Data Structures
+4 credits
+This course is a continuation of CIS 121. Students develop a basic knowledge of programming skills and object-oriented concepts, and use fundamental data structures such as lists, stacks, queues, and trees.
+Prerequisites:
+CIS 121. Select One Course: MATH 112, MATH 113, MATH 115, MATH 121, or MATH 130
+CIS 223
+Algorithms
+4 credits
+This course builds on CS 122 (Data Structures) with coverage of advanced data structures and associated algorithms, including trees, graphs, hashing, searching, priority queues, and memory management. Formal proof techniques, the analysis of best, worst, and expected cases, and the development of efficient algorithms are emphasized. Use of effect-free programming, first-class functions, and higher-order operations such as map, reduce, and filter are explored.
+Prerequisites:
+MATH 121 and CS 111 or CIS 122 or IT 214
+CIS 311
+Business Application Programming
+4 credits
+Business application development using a non-object oriented programming language. Emphasis on principles of application programming such as control breaks, read a record/write a line, driver, shared sub-routines, pass by reference, and sub-programming. File concepts emphasized include index-sequential file handling, CRUD, heap files, sorting, transaction, and master files. Programming concepts include input-processing-output definitions, understanding requirements, structure charts, program documentation, and programming standards. Large group project is completed during semester.
+Prerequisites:
+CIS 122
+CIS 340
+Introduction to Database Systems
+4 credits
+Introduction to database systems, entity relationship models, relational algebra, database design, data modeling, normalization, and conversion of business rules into relational model. Introduction to basic SQL including subqueries, joins, functions, sequences, triggers, views, and stored procedures.
+Prerequisites:
+CIS 121 or an approved substitute.
+CIS 350
+Information Security
+4 credits
+Security concepts and mechanisms; security technologies; authentication mechanisms; mandatory and discretionary controls; cryptography and applications; threats; intrusion detection and prevention; regulations; vulnerability assessment; information assurance; forensics; anonymity and privacy issues; disaster recovery planning, legal issues and ethics.
+Prerequisites:
+EE 107 or CIS 121 or an approved substitute.
+CIS 380
+Systems Analysis and Design
+4 credits
+This course explores both structured as well as object oriented systems analysis and design. Use of upper and lower CASE tools are employed in the analysis, design and implementation of a team oriented term project.
+Prerequisites:
+CIS 340. Select One Course: CIS 122 or CIS 123
+CIS 440
+Database Management Systems
+4 credits
+Extensive coverage of SQL, database programming, large scale data modeling, and database enhancement through reverse engineering. This course also covers theoretical concepts of query processing, and optimization, basic understanding of concurrency control and recovery, and database security and integrity in centralized/distributed environments. Team-oriented projects in a heterogeneous client server environment.
+Prerequisites:
+CIS 340, CIS 380
+CIS 497
+Internship
+1-12 credits
+Provides students with opportunity to utilize their training in a real-world business environment working under the guidance and direction of a faculty member. (At most 4 hours toward a major in this department). Fall, Spring, Summer Prereq: Permanent admission to IT and consent.
+Prerequisites:
+none
+ECON 207
+Business Statistics
+4 credits
+Basic statistical methods including measures of central tendency and dispersion, probability, probability distributions, sampling, problems of estimation and hypothesis testing in the case of one and two sample meaans and proportions. Chi-Square, one-way analysis of variance, simple regression and correlation analysis, and brief introduction to multiple regression analysis. Use of computer statistical packages required.
+Prerequisites:
+MATH 112 or equivalent
+Goal Areas: GE-02, GE-04
+ENG 271W
+Technical Communication
+4 credits
+Introduction to learning the written and oral communication of technical information. Assignments include writing and presenting proposals, reports, and documentation. Emphasis on use of rhetorical analysis, computer applications, collaborative writing, and usability testing to complete technical communication tasks in the workplace.
+Prerequisites:
+ENG 101
+Goal Areas: GE-02, GE-13
+Three credits of CIS 497 are required for the major. Additional credits will be used to satisfy overall degree requirements.
+Major Restricted Electives
+Students must complete the requirements for ONE of the two clusters.
+Cluster 1: Integrated Business Experience (IBE) - 15 credits
+IBE Curriculum
+- Choose 12 Credit(s). Three credits of CIS 499 must be taken concurrently with the IBE practicum to count towards this cluster. The four IBE courses are taken together in a single semester. Work with the College of Business Advising Center to register for the IBE curriculum.
+CIS 499
+Individual Study
+1-4 credits
+Problems on an individual basis.
+Prerequisites:
+none
+FINA 362
+Business Finance
+3 credits
+An introduction to finance relating to problems, methods, and policies in financing business enterprise.
+Prerequisites:
+ACCT 200
+MGMT 230
+Principles of Management
+3 credits
+This course examines basic management concepts and principles, their historical development, and their application to modern organizations. Topics covered include planning, organizing, decision making, leadership, control, and organizational change. In addition, the course includes an introduction to business ethics and social responsibility, human resource management, organizational design and organizational behavior.
+Prerequisites:
+none
+MRKT 210
+Principles of Marketing
+3 credits
+This course provides a basic understanding of marketing concepts with emphasis on the pricing, promotion, and distribution of need satisfying products and services in domestic and international markets. The format of the course consists of lectures, case discussions, application exercises, projects, exams, and in-class group assignments.
+Prerequisites:
+none
+Cluster 1 Electives
+- Choose 3 Credit(s).
+ACCT 210
+Managerial Accounting
+3 credits
+Preparation and analysis of cost-based management reports: use of cost information to make short-term operating decisions and long-term capital decisions.
+Prerequisites:
+ACCT 200
+BLAW 471
+Technology and Intellectual Property Law
+3 credits
+This class examines major intellectual property legal issues particularly as they apply to business, technology, innovation and digital media. Topics covered include patents, trademarks, copyrights, trade secrets, intellectual property crime, free speech, the internet and social media, innovation and other emerging issues.
+Prerequisites:
+none
+MGMT 346
+Operations Management for the Supply Chain
+3 credits
+This course engages students in the study of the operations management function in manufacturing and service organizations. Students learn how to apply the basic analytical models to operation decisions involving topics such as scheduling, production technology, inventory management, quality assurance, just-in-time production, and others.
+Prerequisites:
+ECON 207
+MGMT 473
+Enterprise Resource Planning (ERP)
+3 credits
+This course covers ERP software in general and how it helps integrate information used by an organization's many different functions and departments into a unified computing system. How to use an ERP system to improve the business functions of an organization by streamlining its operations will also be covered. Students will learn how to document business processes using different tools including EPC charts. In addition, the course also covers managerial issues associated with an ERP project and how to manage those issues.
+Prerequisites:
+MGMT 300
+Cluster 2: General Business - 15 credits
+Business Core
+- Choose 9 Credit(s).
+FINA 362
+Business Finance
+3 credits
+An introduction to finance relating to problems, methods, and policies in financing business enterprise.
+Prerequisites:
+ACCT 200
+MGMT 230
+Principles of Management
+3 credits
+This course examines basic management concepts and principles, their historical development, and their application to modern organizations. Topics covered include planning, organizing, decision making, leadership, control, and organizational change. In addition, the course includes an introduction to business ethics and social responsibility, human resource management, organizational design and organizational behavior.
+Prerequisites:
+none
+MRKT 210
+Principles of Marketing
+3 credits
+This course provides a basic understanding of marketing concepts with emphasis on the pricing, promotion, and distribution of need satisfying products and services in domestic and international markets. The format of the course consists of lectures, case discussions, application exercises, projects, exams, and in-class group assignments.
+Prerequisites:
+none
+Cluster 2 Electives
+- Choose 6 Credit(s).
+ACCT 210
+Managerial Accounting
+3 credits
+Preparation and analysis of cost-based management reports: use of cost information to make short-term operating decisions and long-term capital decisions.
+Prerequisites:
+ACCT 200
+BLAW 471
+Technology and Intellectual Property Law
+3 credits
+This class examines major intellectual property legal issues particularly as they apply to business, technology, innovation and digital media. Topics covered include patents, trademarks, copyrights, trade secrets, intellectual property crime, free speech, the internet and social media, innovation and other emerging issues.
+Prerequisites:
+none
+MGMT 346
+Operations Management for the Supply Chain
+3 credits
+This course engages students in the study of the operations management function in manufacturing and service organizations. Students learn how to apply the basic analytical models to operation decisions involving topics such as scheduling, production technology, inventory management, quality assurance, just-in-time production, and others.
+Prerequisites:
+ECON 207
+MGMT 473
+Enterprise Resource Planning (ERP)
+3 credits
+This course covers ERP software in general and how it helps integrate information used by an organization's many different functions and departments into a unified computing system. How to use an ERP system to improve the business functions of an organization by streamlining its operations will also be covered. Students will learn how to document business processes using different tools including EPC charts. In addition, the course also covers managerial issues associated with an ERP project and how to manage those issues.
+Prerequisites:
+MGMT 300
+Major Unrestricted Electives
+Choose 12 Credit(s).
+ENG 469
+Project Management in Technical Communication
+4 credits
+This course is designed to introduce students to technical project management. This introduction is achieved through participation in a simulated project management experience. Assignments include standard documentation associated with project management and reflective writing. Fall, Spring
+Prerequisites:
+ENG 271W
+Or any upper-division course(s) between CIS 300 - CIS 496 not already used in the Major Common Core or in the selected cluster. At least 8 credits must be at the 400 level.Initial deposit: N/A
+
+
+Application Fee for Undergraduate: $ 20
+Application Fee for Postgraduate: $ 40
+
+
+Annual Fee for Undergraduate: $ 18,812
+Annual Fee for Postgraduate: $ 14,918
+
+
+English Language Requirements Undergraduate only:
+TOEFL iBT (internet-based test) score of 61 or better
+Pearson Test of English (PTE) score of 47 or better
+IELTS academic test score of 5.5 or better
+
+
+English Language Requirements Postgraduate only:
+Different for every course and given in course content 
+
+
+Entry Requirements Undergraduate only:
+A cumulative high school GPA of 3.0 or higher or A rank in the top 50% of your high school class or An ACT composite score of 21 or higher and a minimum cumulative high school GPA of 2.7. If you do not meet the above admission requirements, you can submit additional information to consider when reviewing your application.
+
+
+Entry Requirements Postgraduate only:
+Applicants must possess the equivalent of a U.S. Bachelor's degree to be considered for graduate programs at Minnesota State Mankato. The degree must be earned at an institution recognized and approved to award the degree. GRE (Graduate Record Examination) is required by some academic programs.
+
+English Language requirements of graduate programs is different for each course. Graduate programs only have IELTS and TOEFL test scores.
+For Graduate Entry Requirements, some requirements like GPA, Score are mentioned on the course page so add them too.

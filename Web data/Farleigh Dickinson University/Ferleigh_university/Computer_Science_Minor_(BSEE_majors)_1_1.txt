@@ -1,0 +1,40 @@
+Link: https://www.fdu.edu/program/computer-science-minor-only-bsee-bsee-combined-majors/
+
+Skip to content
+Computer Science Minor (BSEE majors)
+Home
+/
+Program
+/
+Computer Science Minor (BSEE majors)
+For BSEE-MSEE majors, students will need to consult with their academic advisor. Student may be allowed to take the graduate-level version of a computer science class.
+This minor in Computer Science consists of 15 credits and is available to qualified students. This minor provides students with a basic foundation in computer science that complements their majors and enhances their employment opportunities and career options. The problem solving and critical-thinking skills acquired through this minor are essential skills needed to be successful in life and in the workplace. The courses for a minor in computer science:
+Required Courses (9 Credits)
+ENGR1204 Programming Languages
+[BSEE degree requirements]
+CSCI2232 Data Structures  or
+CSCI3278 Operating Systems
+[BSEE Technical Elective ]
+CSCI3268 Database Systems
+[BSEE Technical Elective ]
+Two courses must be chosen from the following:
+ENGR3200 Advanced Engineering Programming
+[BSEE degree requirements]
+CSCI2232 Data Structures
+[BSEE Technical Elective ]
+EENG2287 Microprocessor System Design I
+[BSEE degree requirements]
+CSCI3240 Computer Networks
+CSCI3249 Computer Organization
+CSCI3278 Operating Systems
+ENGR2286 Digital System Design
+[BSEE degree requirements]
+MATH2255 Discrete Structures
+BSEE students should check with their academic advisor regarding technical electives for the BSEE degree program. Out of the three required technical electives, students will be required to take at least two EENG technical electives.
+To take any course in the minor, a student must meet all the prerequisites for that course.
+Learn more
+Gildart Haase School of Computer Sciences and Engineering
+Admissions
+Apply now
+Visit FDU
+Request Information

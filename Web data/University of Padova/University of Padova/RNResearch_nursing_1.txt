@@ -1,0 +1,213 @@
+Link: https://uel.unipd.it/en/masters/rn-research-nursing/
+
+Skip to content
+First level university master
+RN
+Research nursing
+Home
+>
+Master e corsi
+>
+First level university master
+>
+RN - Research nursing
+Home
+>
+Master e corsi
+>
+First level university master
+>
+RN - Research nursing
+The Master joins the second extraordinary pre-enrolment term from the 4th to the 25th November 2024, 12.30 pm
+The
+Master in Research Nursing
+prepares the new professional figures in the healthcare sector, called
+clinical research nurses
+or
+study nurse
+, who carry out clinical research activities in a clinical setting, by focusing on caring for the patients enrolled in experimental protocols.
+In this sector, more than others, the activities of a
+research nurse
+are carried out in close relationship with several professionals: doctors, medical research coordinators, data managers, biologists, pharmacists, clinical monitors (Clinical Research Associate CRA) and contract-based research organizations (Clinical Research Organization CRO).
+The Master offers a
+remote learning experience
+that, through the use of multimedia and interactive tools, provides students with the theoretical and practical tools required for a modern and correct training on how to conduct a clinical trial.
+Educational content
+The
+Master in Research Nursing
+explores the basics of clinical research;
+provides an overview on study plans in this sector;
+makes students independent in developing and managing a clinical study, from design to practice, explains the role of a research nurse, and ends with a module on data analysis and clinical epidemiology.
+The course is provided only online, on-demand, through video-lessons available 24/7 through the Moodle platform.
+No workshops and/or internships are included in this Master; there will be however a Project Work at the end of the course, presented by the students online, on the Zoom platform.
+Course target and career opportunities
+The
+Master in Research Nursing
+is addressed to nurses, and provides the theoretical and practical tools required for a modern and correct training on how to conduct a clinical trial, by analysing the ethical principles behind this method, the national regulation on its conduction, and any operational and management aspects. The figures thus formed can find a position as
+data manager, study or research nurse
+,
+in hospital, healthcare, pharmaceutical, CRO and research sectors.
+After completing the Master, students will be able to help
+draft a research protocol in several fields;
+work according to
+Good Clinical Practice (GCP)
+principles and to current regulations;
+coordinate a clinical trial
+as relevant, according to protocols; observe all safety provisions and participants’ rights; manage data correctly and check their quality; coordinate the operational aspects of
+profit and non-profit trials.
+The Master forms professional figures who can support the clinical study coordinator and the data manager, research nurses for hospitals, university hospitals, university clinics, IRCCS, local units, private healthcare facilities, pharmaceutical companies and CRO.
+Course program
+The
+Master
+in Research Nursing
+provides training on:
+Module 1 –
+MANAGING AND ANALYSING DATA AND CLINICAL EPIDEMIOLOGY
+Statistics applied to medical research. Confounding factors and their balancing, measurement and quality of data, descriptive statistics, statistical interference, multivaried analysis, study reports, result interpretation, data analysis software, standard operating procedures, wearable devices, compliance, adherence and patient engagement.
+Module 2 –
+MEDICAL RESEARCH: BASIC
+Clinical and research question: quantitative and qualitative research,
+mixed methods
+; nursing research (
+case reports and case series
+, clinical trials);
+patient reported outcomes
+(quality of life and PCOR);
+efficacy vs effectiveness (real world data)
+; randomization and sampling methods; data measurement and quality; governing bodies, independent and non-profit research.
+Module 3 –
+STUDY PLANS IN CLINICAL RESEARCH
+Intervening vs observing; observational studies vs interventional studies; SWOT analysis in clinical trial design; observational and descriptive studies; transversal and cohort analytical studies; control case studies; interventional studies; clinical surveys with DM; drug clinical trials, cross-over studies, washout screening, follow-up and post-trial care; drug developmental phases and related intervention studies.
+Module 4 –
+CLINICAL TRIAL PROCESS: FROM DESIGN TO PRACTICE
+Bioethical horizon in clinical research, introduction to bioethics,
+critical assessment
+of ethical research aspects, how a clinical trial protocol is created,
+key points
+of design and planning, objective definition, variability and sampling,
+drop out
+, appropriateness of measures,
+endpoints biomarkers
+, surrogated
+endpoints
+, composite
+endpoints,
+validation, general protocol structure,
+standard item – SPIRIT
+, administrative and scientific information, revision process and authorization signatures, background and rationale, safety, clinical trial documents, Section 8 ICH GCP, electronic
+trial master file
+, investigator site file, study registration, clinicaltrials.gov, regulatory activities, ethical committee, regulator process for an interventional and an observational trial, European and national regulations, regional and corporate rules, guidelines, AIFA, GDPR, clinical research team definition.
+Module 5 –
+NURSING SUPPORT IN CLINICAL TRIALS – ROLE OF A RESEARCH NURSE
+The
+Clinical Research Nurse
+(CRN): from clinical practice to clinical trials, how to identify the role of a CNR: the
+clinical trial nurse questionnaire
+(CTQN), role of the CNR in the informed consent process; role of the CNR in managing trial study materials: drugs (IMP or NIMP), medical devices, biological samples, study diaries; role of the CNR in implementing a clinical study.
+More info
+To get to know the Directors and professors and for more useful info on the
+First-level short specialisation degree
+in Research Nursing
+:
+Research Nursing | Department of Cardiothoracic-Vascular | University of Padua (unipd.it)
+Alignment module
+Before the beginning of the Master’s course, there will be a “zero” – alignment module. The module was designed to allow all students to rapidly gain the basic knowledge required for the educational activities.
+The contents include: clinical question and research question; quantitative and qualitative research; mixed methods; nursing research; clinical study plans; observational and interventional studies.
+Optional modules
+After completing all mandatory activities, students have the option – before achieving their diploma – to follow two additional optional modules. The first module is an introduction to
+REDCap
+– a web-based and very user-friendly system to draw and use data and survey collection sheets. The second module concerning the
+ICH Good Clinical Practice
+guidelines, with the option of receiving the related training certification at the end of the course, and after passing the evaluation test.
+General ranking of merit
+The general ranking of merit will be published on the Italian page of this Master according to the timing provided in the Call.
+A RELIABLE EDUCATIONAL NETWORK TO ENSURE AN EFFICIENT AND COMPLETE PROJECT WORK OPPORTUNITY
+The project work will be completed by taking into account the preferences and best on-field learning perspective for students, with the option of activating additional tutors who will collaborate with the faculty (to be assessed).
+EXPERIENCE AND COMPETENCE IN EDUCATION, AI APPLICATIONS AND CLINICAL RESEARCH
+The competences and experiences of the Biostatistics, Epidemiology, and Public Health Unit in the organization of online Master courses, in AI applications and in clinical research – one of the crown jewels of the University of Padua – become excellent learning opportunities in this Master. The know-how is made available to students in a concrete manner, ensuring its application in project works and in the theory to practice transfer.
+A few examples:
+Monitoring Patients Reported Outcomes after Valve Replacement Using Wearable Devices: Insights on Feasibility and Capability Study DOI: 10.3390/ijerph18137171
+Usability and Accuracy of a Smartwatch for the Assessment of Physical Activity in the Elderly Population DOI: 10.2196/20966
+Knowledge assessment among subjects with chronic venous leg ulcer in outpatient setting: Translation and adaptation of a tool to identify subjects at risk of poor understanding DOI: 10.1111/wrr.13107
+Use of Machine Learning Techniques for Case-Detection of VZV Using Routinely Collected Textual Ambulatory Records DOI: 10.2196/14330
+Paediatric Injury Surveillance From Uncoded ED Admission Records in Italy: Machine Learning-Based Text-Mining Approach DOI: 10.2196/44467
+PROFESSORS REPRESENTING MULTIPLE STAKEHOLDERS WITH PROVEN EXPERIENCE IN THE CLINICAL TRIAL FIELD
+The Master’s faculty includes a multidisciplinary and multiprofessional team, with broad experience in planning and managing clinical research processes, professionals involved in many clinical research projects in different sectors, clinical research coordinators, research nurses, executives and scholars.
+Information
+Thematic area:
+Health, environment and territory
+End of classes:
+31/10/2025
+Mandatory attendance:
+70%
+Minimum available spots:
+5
+Maximum available spots:
+200
+First instalment:
+€
+									2.022,50
+Second instalment:
+€
+									1.000,00
+Selection process notice
+I titoli di accesso saranno specificati nell'avviso di selezione 24/25
+FAQ
+What are the minimum attendance requirements?
+Even though the course is online, attendance is mandatory. A maximum absence threshold of 30% is allowed. However, since the video-lessons are pre-recorded, and they can be watched 24/7, it will be very easy to stay in-course. The Academic Office and professors are willing to cater to any student with heavy commitments or intense work schedules.
+Will there be any forms of facilitation?
+Students with disabilities between 66% and 100%, or certification pursuant to Law no. 104, will be exempted from paying the enrolment fee, and will be only required to pay the pre-enrolment fee, the insurance fee, and stamp
+PA and top grades: PA employees enrolling in our Master, will enjoy a €330 reduction on the second registration instalment. Moreover, the PA Department will award 50% of the enrolment fee paid by the student. For further information, refer to the Protocol pages, on the PA Department institutional website:
+https://www.funzionepubblica.gov.it/formazione/pa-110-e-lode
+https://presidenza.governo.it/AmministrazioneTrasparente/Sovvenzioni/CriteriModalita/DFP/PA110eLode/DcrCD_20230808_criteriPA110.pdf
+University staff with an open-ended employment contract may enrol in the course. The enrolment fee for University Technical-Administrative Staff is equal to the minimum enrolment fee, as established by Article 24, p. 1 of the University Regulation for Master Courses, Post-Graduate and Higher Education Courses of the University of Padua, and is equal to 20% of the fee. If the staff with open-ended labour contract possesses the requirements to enrol in the Course, once the Master is over, they will obtain the related Title or Diploma, or, if they do not possess the selection requirements, they may attend as Auditors and obtain an Attendance Certificate.
+What are the admission requirements? Will there be an admission test?
+No, there will be no admission test. Evaluation is based on the titles.
+Will there be an internship/apprenticeship?
+There will be no stages/traineeship, as they are deemed to be irreconcilable with the profile of the Master’s attendees. However, students will have the chance to confront themselves with scientific queries and actual databases, as suggested by the Master’s Direction during the lectures and the project work.
+There will be a final project work that can be completed also on the student’s workplace analysis and data. The topic will be agreed with the course’s professors.
+The Project Work replaces the internship/apprenticeship.
+Will there be any educational material to support individual study?
+Apart from providing video lessons, the professors will provide, through the Moodle platform, texts, scientific publications, lecture notes, and other material, to explore the topics presented and to support individual study. Moreover, students have access to all the resources online and at the “Vincenzo Pinali” Medicine Library.
+Classes start:
+02/12/2024
+Duration:
+One-year
+Venue:
+Padua
+Language:
+Italian
+ECTS:
+60
+Teaching method:
+Distance learning
+Total enrolment fee:
+€
+							3.022,50
+Pre-enrolment deadline:
+25/11/2024
+Management
+Prof.ssa Cristina Canova
+Administrative Office
+Contact Person:
+Unità di Biostatistica, Epidemiologia e Sanità Pubblica
+Phone:
+3312601668
+Email:
+segreteria.master@ubep.unipd.it
+Teaching method:
+ECTS:
+In-person lessons:
+H
+Month and year:
+Fee:
+€
+Close
+© 2024 UEL. All rights reserved.
+Privacy policy
+-
+Cookie Policy
+-
+Cookies settings
+Page load link
+Go to Top

@@ -1,0 +1,114 @@
+Link: https://cset.mnsu.edu/academic-programs/computer-information-technology/computer-information-science-minor/
+
+College of Science, Engineering & Technology
+Academic Programs
+Computer Information Technology
+Computer Information Science, Minor
+Computer Information Technology Section
+Computer Information Technology
+Computer Information Technology, Bachelor of Science (BS)
+Computer Information Science, Minor
+Computer Technology, Minor
+Database Technologies, Minor
+International Technology, Minor
+Networking and Information Security, Minor
+Software Development, Minor
+Database Technologies, Certificate
+Information Security, Certificate
+Networking Technologies, Certificate
+Software Development, Certificate
+Computer Information Technology Faculty & Staff
+Computer & Information Science Minor
+The Computer & Information Sciences minor provides students with a broad background in the use of computer information technology, with a wide range of electives so that students can choose the skills and knowledge appropriate to their future careers.
+Current Catalog Year
+2024-2025
+Degree
+Minor
+Total Credits
+20
+Locations
+Mankato
+Apply
+Program Requirements
+Program
+                                    Requirements
+Core
+CIS 121
+Introduction to Programming
+4 credits
+This course provides conceptual and logical tools for students planning to major in a computing-based major. Programming in a high-level language such as C++, Python, or Java, and the development of skills in abstraction, problem-solving, and algorithmic thinking are emphasized.
+Prerequisites:
+MATH 112 or MATH 113 or MATH 115 or MATH 121
+CIS 122
+Data Structures
+4 credits
+This course is a continuation of CIS 121. Students develop a basic knowledge of programming skills and object-oriented concepts, and use fundamental data structures such as lists, stacks, queues, and trees.
+Prerequisites:
+CIS 121. Select One Course: MATH 112, MATH 113, MATH 115, MATH 121, or MATH 130
+Restricted Electives
+Choose 12 Credit(s).
+CIS 223
+Algorithms
+4 credits
+This course builds on CS 122 (Data Structures) with coverage of advanced data structures and associated algorithms, including trees, graphs, hashing, searching, priority queues, and memory management. Formal proof techniques, the analysis of best, worst, and expected cases, and the development of efficient algorithms are emphasized. Use of effect-free programming, first-class functions, and higher-order operations such as map, reduce, and filter are explored.
+Prerequisites:
+MATH 121 and CS 111 or CIS 122 or IT 214
+CIS 224
+Computer Architecture
+4 credits
+This course presents historical and current concepts and implementations of computer organization. Topics include instruction set design, digital storage, performance metrics, processor datapath and control, pipelining, memory hierarchy, busses and I/O interfacing, and parallel processors.
+Prerequisites:
+CS 111 or CIS 122or IT 214
+CIS 340
+Introduction to Database Systems
+4 credits
+Introduction to database systems, entity relationship models, relational algebra, database design, data modeling, normalization, and conversion of business rules into relational model. Introduction to basic SQL including subqueries, joins, functions, sequences, triggers, views, and stored procedures.
+Prerequisites:
+CIS 121 or an approved substitute.
+CIS 360
+Introduction to Networking
+4 credits
+This course covers basic concepts related to computer networking. Topics addressed will include the OSI model, the Internet model, network management, network protocols and data security. Prerequisite: a 3.0 or higher grade in IT 210 or an approved substitute is required.
+Prerequisites:
+CIS 121. Select 1: MATH 113, MATH 115, MATH 121. Or an approved substitute.
+CIS 380
+Systems Analysis and Design
+4 credits
+This course explores both structured as well as object oriented systems analysis and design. Use of upper and lower CASE tools are employed in the analysis, design and implementation of a team oriented term project.
+Prerequisites:
+CIS 340. Select One Course: CIS 122 or CIS 123
+CIS 483
+Web Application Design and Development
+4 credits
+HTTP Protocol; Web-markup languages; Client-side, Server-side programming; Web services; Web servers; Emerging technologies; Security; Standards & Bodies; Web interface design techniques; User-centered design; Visual development environments and development tools; Interface design effectiveness. Fall, Spring
+Prerequisites:
+CIS 380Initial deposit: N/A
+
+
+Application Fee for Undergraduate: $ 20
+Application Fee for Postgraduate: $ 40
+
+
+Annual Fee for Undergraduate: $ 18,812
+Annual Fee for Postgraduate: $ 14,918
+
+
+English Language Requirements Undergraduate only:
+TOEFL iBT (internet-based test) score of 61 or better
+Pearson Test of English (PTE) score of 47 or better
+IELTS academic test score of 5.5 or better
+
+
+English Language Requirements Postgraduate only:
+Different for every course and given in course content 
+
+
+Entry Requirements Undergraduate only:
+A cumulative high school GPA of 3.0 or higher or A rank in the top 50% of your high school class or An ACT composite score of 21 or higher and a minimum cumulative high school GPA of 2.7. If you do not meet the above admission requirements, you can submit additional information to consider when reviewing your application.
+
+
+Entry Requirements Postgraduate only:
+Applicants must possess the equivalent of a U.S. Bachelor's degree to be considered for graduate programs at Minnesota State Mankato. The degree must be earned at an institution recognized and approved to award the degree. GRE (Graduate Record Examination) is required by some academic programs.
+
+English Language requirements of graduate programs is different for each course. Graduate programs only have IELTS and TOEFL test scores.
+For Graduate Entry Requirements, some requirements like GPA, Score are mentioned on the course page so add them too.

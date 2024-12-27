@@ -1,0 +1,349 @@
+Link: https://cset.mnsu.edu/academic-programs/mathematics/mathematics-bachelor-of-arts-ba/
+
+College of Science, Engineering & Technology
+Academic Programs
+Mathematics
+Mathematics, Bachelor of Arts (BA)
+Mathematics Section
+Mathematics
+Mathematics, Bachelor of Arts (BA)
+Mathematics, Bachelor of Science (BS)
+Actuarial Science, Minor
+Mathematics, Minor
+Mathematics Faculty and Staff
+Mathematics (BA)
+Current Catalog Year
+2024-2025
+Degree
+Bachelor of Arts
+Major /                                         Total Credits
+49 / 120
+Locations
+Mankato
+Apply
+Program Requirements
+Degree Plan
+Program
+                                    Requirements
+Required General Education
+MATH 121
+Calculus I
+4 credits
+Limits, continuity, the derivative and applications, transcendental functions, L'Hopital's Rule, and development of the Riemann integral.
+Prerequisites:
+Satisfy Placement Table in this section, MATH 115 or both MATH 112 and MATH 113 with "C" (2.0) or better.
+Goal Areas: GE-04
+MATH 290
+Foundations of Mathematics
+4 credits
+Logic, proof techniques, set theory, relations, functions, cardinality, operations, and an introduction to mathematical structures and number theory.
+Prerequisites:
+MATH 122 with "C" (2.0) or better or consent.
+Goal Areas: GE-02
+Major Common Core
+MATH 122
+Calculus II
+4 credits
+Techniques of integration, applications of integration, improper integrals, numerical integration, the calculus of parametric curves, and infinite series and sequences.
+Prerequisites:
+MATH 121 with "C" (2.0) or better or consent
+MATH 170
+Introduction to Mathematical Software Programming
+3 credits
+Students will learn the rudiments of algorithmic processes such as iteration and recursion and implement simple mathematical algorithms in a commonly used mathematical software package. Applications may include graphing, equation solving, numerical approximation, recurrence relations, and generation of mathematical objects such as sets, lists, permutations and trees.
+Prerequisites:
+MATH 121
+MATH 223
+Calculus III
+4 credits
+Surfaces, vector-valued functions, partial differentiation, multiple integration, and vector calculus.
+Prerequisites:
+MATH 122 with "C" (2.0) or better, or consent
+MATH 247
+Linear Algebra I
+4 credits
+Matrices, determinants, systems of linear equations, vector spaces, linear transformations, and characteristic value problems.
+Prerequisites:
+MATH 122 with "C" (2.0) or better or consent
+MATH 316
+Intermediate Analysis
+3 credits
+Limits, sequences, continuity, and differentiation of a real valued function of a real variable.
+Prerequisites:
+MATH 223 and MATH 290 with "C" (2.0) or better or consent
+MATH 345
+Abstract Algebra I
+4 credits
+An introduction to the theory of groups and rings; including polynomial rings, homomorphisms, isomorphisms, and concepts of normal subgroups, ideals, quotient groups, and quotient rings.
+Prerequisites:
+MATH 290 with "C" (2.0) or better or consent
+MATH 375
+Introduction to Discrete Mathematics
+4 credits
+MATH 375 Introduction to Discrete Mathematics (4 credits)An introduction to the concepts fundamental to the analysis of algorithms and their realization. Topics will include combinatorics, generating functions, recurrence relations, graph theory, and networks.
+Prerequisites:
+MATH 247 and MATH 290 with grade of "C" (2.0) or higher.
+MATH 492W
+Mathematics Capstone Experience
+3 credits
+This course is designed to allow undergraduate students an opportunity to integrate their undergraduate mathematics experiences by engaging each student in working on a problem in applied or theoretical mathematics. In doing so, students will see connections between the various topics found in the undergraduate mathematics curriculum. Content will vary by semester. An important component of this course will be the preparation and presentation of a research paper describing the student's progress toward a solution of the problem under consideration. Problems will arise from the course content and materials as presented by the instructor. Because of the breadth of mathematical topics needed for successful completion of the course, students need to have senior standing.
+Prerequisites:
+Two of the following: MATH 316, MATH 321, MATH 345, MATH 375 and senior standing (or permission of the instructor). Course can also be taken independent study with permission of a cooperating faculty member.
+Note: MATH 492 can substitute for MATH 492W
+Major Unrestricted Electives
+Choose 12 Credit(s). * Note: At least seven (7) credits must be at the 400 level
+MATH 321
+Ordinary Differential Equations
+4 credits
+This course presents the theory, computations, and applications of first and second order differential equations and two-dimensional systems.
+Prerequisites:
+MATH 122 with "C" (2.0) or better or consent
+MATH 332
+College Geometry
+4 credits
+This course covers several geometric systems including Euclidean, non-Euclidean, transformational and projective. Other topics studied are topological properties and the relationship between coordinate and synthetic geometry.
+Prerequisites:
+MATH 290 with "C" (2.0) or better or consent
+MATH 354
+Concepts of Probability & Statistics
+4 credits
+A calculus based introduction to probability and statistics. Topics include probability, random variables, probability distributions (discrete and continuous), joint probability distributions (discrete and continuous), statistical inference (both estimation and hypothesis testing), confidence intervals for distribution of parameters and their functions, sample size determinations, analysis of variance, regression, and correlation. This course meets the needs of the practitioner and the person who plans further study in statistics. Same as MATH 354. Fall, Spring, Summer
+Prerequisites:
+MATH 122 with "C" (2.0) or better or consent
+MATH 402
+Introduction to Topology
+4 credits
+An introduction to topological spaces and their fundamental properties such as compactness, connectedness, separation properties and countability properties. Continuous functions between topological spaces and common examples of topological spaces are also discussed.
+Prerequisites:
+MATH 290 with grade of "C" (2.0) or higher.
+MATH 411
+Introduction to Complex Variables
+4 credits
+Algebra and geometry of complex numbers, analytic functions, power series, Cauchy's theorem and residue theorem.
+Prerequisites:
+MATH 223 and MATH 290 with "C" (2.0) or better or consent
+MATH 417
+Real Analysis I
+4 credits
+The topology of Euclidean spaces, compact and connectedness, properties of continuous functions, differentiation, basic theory of Riemann-Stieltjes integration and the fundamental theorem of Calculus.
+Prerequisites:
+MATH 223 and MATH 290 with "C" (2.0) or better or consent
+MATH 418
+Real Analysis II
+3 credits
+A continuation of Math 417. The course may include topics from metric spaces, Riemann-Stieltjes integration, differentiation in Euclidean space, sequences and series of functions, approximation theorems, implicit and inverse function theorems, equicontinuity, and mapping theorems.
+Prerequisites:
+MATH 417 with "C" (2.0) or better or consent
+MATH 422
+Partial Differential Equations
+4 credits
+This course presents the theory, computations, and applications of partial differential equations and Fourier series.
+Prerequisites:
+MATH 223 and MATH 321 with "C" (2.0) or better or consent
+MATH 425
+Mathematical Modeling
+4 credits
+This course presents topics from mathematical analysis of both discrete and continuous models taken from problems in the natural sciences, economics and resource management.
+Prerequisites:
+MATH 223 and MATH 247 with "C" (2.0) or better or consent
+MATH 428
+Linear Optimization Methods
+4 credits
+Simplex method and its variants, duality, sensitivity analysis, interior-point methods, quadratic programming and linear complementarity problems. Applications such as classification problems and game theory with linear optimization software.
+Prerequisites:
+MATH 122, MATH 247
+MATH 435
+Modern Geometry
+4 credits
+Geometry of spaces including Euclidean and non-Euclidean and applications of contemporary geometry.
+Prerequisites:
+MATH 247 and MATH 290 with grade of "C" (2.0) or higher or consent.
+MATH 442
+Theory of Numbers
+4 credits
+Euclidean algorithm, primes, composites, number theoretic functions, congruencies, Diophantine equations, Euler and Fermat theorems, algebraic number fields.
+Prerequisites:
+MATH 345 with "C" (2.0) or better or consent
+MATH 446
+Abstract Algebra II
+4 credits
+A continuation of MATH 345. The course will include topics from groups, rings, and fields.
+Prerequisites:
+MATH 345 with "C" (2.0) or better or consent
+MATH 447
+Linear Algebra II
+3 credits
+An in-depth study of linear operators and their related spaces, dimension, rank, matrix representation of linear operators, special matrices, determinants, eigenvectors and eigenvalues.
+Prerequisites:
+MATH 345 with "C" (2.0) or better or consent
+MATH 455
+Theory of Statistics I
+4 credits
+A mathematical approach to statistics with derivation of theoretical results and of basic techniques used in applications. Includes probability, continuous probability distributions, multivariate distributions, functions of random variables, central limit theorem and statistical inference. Same as STAT 455.
+Prerequisites:
+MATH 223 with "C" (2.0) or better or consent
+MATH 456
+Theory of Statistics II
+4 credits
+A mathematical approach to statistics with derivation of theoretical results and of basic techniques used in applications, including sufficient statistics, additional statistical inference, theory of statistical tests, inferences about normal models and nonparametric methods. Same as STAT 456.
+Prerequisites:
+MATH 455 / STAT 455 with "C" (2.0) or better or consent
+MATH 460
+Actuarial Applications in Probability
+3 credits
+This course applies probabilistic methods to problems encountered in actuarial science that prepares students for the Society of Actuaries Exam P/1.
+Prerequisites:
+(MATH 354, STATS 354, MATH 455 or STAT 455) and MATH 223
+MATH 461
+Mathematical Theory of Interest
+4 credits
+This course covers all the topics in the mathematical theory of interest of the Society of Actuaries Exam FM/2. Topics include time value of money, measurement of interest, annuities certain, arithmetic and geometric annuities, amortization schedules and sinking fund, bonds and other securities, yield rates, and interest rate immunization.
+Prerequisites:
+MATH 122 with C (2.0) or better or consent.
+MATH 470
+Numerical Analysis I
+4 credits
+This course provides an introduction to techniques and analysis involved with solving mathematical problems using technology. Topics included are errors in computation, solutions of linear and nonlinear equations, numerical differentiation and integration, and interpolation.
+Prerequisites:
+MATH 122, MATH 247 with "C" (2.0) or better or consent
+MATH 471
+Numerical Analysis II
+4 credits
+This course is a continuation of MATH 470. Topics included are the algebraic eigenvalue problem, least squares approximation, solutions of systems of nonlinear equations, numerical solutions of ordinary differential equations.
+Prerequisites:
+MATH 470 and MATH 223 with "C" (2.0) or better or consent
+MATH 475
+Advanced Mathematical Software Programming
+4 credits
+Students will learn fundamental concepts of computer programming and write software to implement a variety of mathematical algorithms, manipulate large amounts of data, test conjectures, and make abstract mathematical concepts concrete. Programming concepts include input versus output, data structures, local and global variables, switch state- ments, iteration, recursion, halting conditions, modularity, debugging, and algorithm analysis. Programming projects may vary with instructor, but could include topics from enumerative combinatorics, graph theory, group theory, linear algebra, and number theory.
+Prerequisites:
+Math 345 and Math 375 with a "C" (2.0) or better, and senior standing or consent.
+MATH 480
+History of Mathematics
+3 credits
+The development of selected topics from before the Hellenistic time period to the late twentieth century. Familiarity with the content of HIST 180 is beneficial.
+Prerequisites:
+MATH 345 with "C" (2.0) or better or consent
+* Note: STAT 354, STAT 455 and STAT 456 can substitute for MATH 354, MATH 455 and MATH 456, respectively.
+Other Graduation Requirements
+Choose 8 credit(s): take one series Language
+Minor
+Yes. Any.
+Degree Plan
+First Year
+Fall
+- 14 Credits
+MATH 121
+Calculus I
+4 credits
+Limits, continuity, the derivative and applications, transcendental functions, L'Hopital's Rule, and development of the Riemann integral.
+Prerequisites:
+Satisfy Placement Table in this section, MATH 115 or both MATH 112 and MATH 113 with "C" (2.0) or better.
+Goal Areas: GE-04
+Spring
+- 16 Credits
+MATH 122
+Calculus II
+4 credits
+Techniques of integration, applications of integration, improper integrals, numerical integration, the calculus of parametric curves, and infinite series and sequences.
+Prerequisites:
+MATH 121 with "C" (2.0) or better or consent
+MATH 170
+Introduction to Mathematical Software Programming
+3 credits
+Students will learn the rudiments of algorithmic processes such as iteration and recursion and implement simple mathematical algorithms in a commonly used mathematical software package. Applications may include graphing, equation solving, numerical approximation, recurrence relations, and generation of mathematical objects such as sets, lists, permutations and trees.
+Prerequisites:
+MATH 121
+Second Year
+Fall
+- 15 Credits
+MATH 223
+Calculus III
+4 credits
+Surfaces, vector-valued functions, partial differentiation, multiple integration, and vector calculus.
+Prerequisites:
+MATH 122 with "C" (2.0) or better, or consent
+MATH 290
+Foundations of Mathematics
+4 credits
+Logic, proof techniques, set theory, relations, functions, cardinality, operations, and an introduction to mathematical structures and number theory.
+Prerequisites:
+MATH 122 with "C" (2.0) or better or consent.
+Goal Areas: GE-02
+Spring
+- 15 Credits
+MATH 247
+Linear Algebra I
+4 credits
+Matrices, determinants, systems of linear equations, vector spaces, linear transformations, and characteristic value problems.
+Prerequisites:
+MATH 122 with "C" (2.0) or better or consent
+MATH 321
+Ordinary Differential Equations
+4 credits
+This course presents the theory, computations, and applications of first and second order differential equations and two-dimensional systems.
+Prerequisites:
+MATH 122 with "C" (2.0) or better or consent
+Third Year
+Fall
+- 14 Credits
+MATH 345
+Abstract Algebra I
+4 credits
+An introduction to the theory of groups and rings; including polynomial rings, homomorphisms, isomorphisms, and concepts of normal subgroups, ideals, quotient groups, and quotient rings.
+Prerequisites:
+MATH 290 with "C" (2.0) or better or consent
+MATH 375
+Introduction to Discrete Mathematics
+4 credits
+MATH 375 Introduction to Discrete Mathematics (4 credits)An introduction to the concepts fundamental to the analysis of algorithms and their realization. Topics will include combinatorics, generating functions, recurrence relations, graph theory, and networks.
+Prerequisites:
+MATH 247 and MATH 290 with grade of "C" (2.0) or higher.
+Spring
+- 16 Credits
+MATH 316
+Intermediate Analysis
+3 credits
+Limits, sequences, continuity, and differentiation of a real valued function of a real variable.
+Prerequisites:
+MATH 223 and MATH 290 with "C" (2.0) or better or consent
+Fourth Year
+Fall
+- 16 Credits
+MATH 492W
+Mathematics Capstone Experience
+3 credits
+This course is designed to allow undergraduate students an opportunity to integrate their undergraduate mathematics experiences by engaging each student in working on a problem in applied or theoretical mathematics. In doing so, students will see connections between the various topics found in the undergraduate mathematics curriculum. Content will vary by semester. An important component of this course will be the preparation and presentation of a research paper describing the student's progress toward a solution of the problem under consideration. Problems will arise from the course content and materials as presented by the instructor. Because of the breadth of mathematical topics needed for successful completion of the course, students need to have senior standing.
+Prerequisites:
+Two of the following: MATH 316, MATH 321, MATH 345, MATH 375 and senior standing (or permission of the instructor). Course can also be taken independent study with permission of a cooperating faculty member.
+Spring
+- 14 CreditsInitial deposit: N/A
+
+
+Application Fee for Undergraduate: $ 20
+Application Fee for Postgraduate: $ 40
+
+
+Annual Fee for Undergraduate: $ 18,812
+Annual Fee for Postgraduate: $ 14,918
+
+
+English Language Requirements Undergraduate only:
+TOEFL iBT (internet-based test) score of 61 or better
+Pearson Test of English (PTE) score of 47 or better
+IELTS academic test score of 5.5 or better
+
+
+English Language Requirements Postgraduate only:
+Different for every course and given in course content 
+
+
+Entry Requirements Undergraduate only:
+A cumulative high school GPA of 3.0 or higher or A rank in the top 50% of your high school class or An ACT composite score of 21 or higher and a minimum cumulative high school GPA of 2.7. If you do not meet the above admission requirements, you can submit additional information to consider when reviewing your application.
+
+
+Entry Requirements Postgraduate only:
+Applicants must possess the equivalent of a U.S. Bachelor's degree to be considered for graduate programs at Minnesota State Mankato. The degree must be earned at an institution recognized and approved to award the degree. GRE (Graduate Record Examination) is required by some academic programs.
+
+English Language requirements of graduate programs is different for each course. Graduate programs only have IELTS and TOEFL test scores.
+For Graduate Entry Requirements, some requirements like GPA, Score are mentioned on the course page so add them too.

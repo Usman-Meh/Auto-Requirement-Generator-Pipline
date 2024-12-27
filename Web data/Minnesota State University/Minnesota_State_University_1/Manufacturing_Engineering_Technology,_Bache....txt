@@ -1,0 +1,273 @@
+Link: https://cset.mnsu.edu/academic-programs/manufacturing-engineering-technology/manufacturing-engineering-technology-bachelor-of-science-bs/
+
+College of Science, Engineering & Technology
+Academic Programs
+Manufacturing Engineering Technology
+Manufacturing Engineering Technology, Bachelor of Science (BS)
+Manufacturing Engineering Technology Section
+Manufacturing Engineering Technology
+Manufacturing Engineering Technology, Bachelor of Science (BS)
+Manufacturing Engineering Technology, Minor
+Manufacturing Engineering Technology, Master of Science (MS)
+Engineering Management, Professional Science Master's (PSM)
+Project Management, Graduate Certificate
+Quality Management Systems, Graduate Certificate
+Manufacturing Engineering Technology Faculty & Staff
+Manufacturing Engineering Technology (BS)
+Manufacturing involves plans, materials, personnel, and equipment which are transformed in some way that adds value. Students acquire leadership and managerial skills necessary to enter careers in process and systems design, manufacturing operations, maintenance, technical sales or service functions. The curriculum concentrates on the study of individual subsystems and their overall optimization of cost, quality, speed, and flexibility goals for the success of a manufacturing enterprise.
+Current Catalog Year
+2024-2025
+Degree
+Bachelor of Science
+Major /                                         Total Credits
+73 / 128
+Locations
+Mankato
+Accreditation
+Engineering Technology Accreditation Commission of ABET
+Accredited by the Engineering Technology Accreditation Commission of ABET, http://www.abet.org
+Apply
+Program Requirements
+Program
+                                    Requirements
+Required General Education
+ECON 202
+Principles of Microeconomics
+3 credits
+Examines decision making by the individual firm, the determination of prices and wages, and current problems facing business firms.
+Prerequisites:
+none
+Goal Areas: GE-05
+ENG 271W
+Technical Communication
+4 credits
+Introduction to learning the written and oral communication of technical information. Assignments include writing and presenting proposals, reports, and documentation. Emphasis on use of rhetorical analysis, computer applications, collaborative writing, and usability testing to complete technical communication tasks in the workplace.
+Prerequisites:
+ENG 101
+Goal Areas: GE-02, GE-13
+Prerequisites to the Major
+CHEM 104
+Introduction to Chemistry
+3 credits
+This course is an introduction to general chemistry. It is a non-laboratory class designed to prepare students for CHEM 201 or to be utilized as a general education course. This course will address more mathematical relationships than CHEM 106. Credit will not be given to students who have previously taken a chemistry course at or above Chem 111 and received a passing grade.
+Prerequisites:
+none
+Goal Areas: GE-03
+EET 113
+DC Circuits
+3 credits
+A study of DC electrical circuits, Kirchhoff's laws, series and parallel circuits, inductors, capacitors, circuit response to RL, RC and RLC circuits. Thevenin's equivalent circuit theorem, and other network analysis theorems. Use of dependent sources in DC circuits. MATH 112 or 115 may be taken concurrently.
+Prerequisites:
+MATH 112 or MATH 115
+ENG 101
+Foundations of Writing & Rhetoric
+4 credits
+Students in this course approach writing as a subject of study by investigating how writing works across a variety of contexts.
+Prerequisites:
+none
+Goal Areas: GE-1A
+MATH 121
+Calculus I
+4 credits
+Limits, continuity, the derivative and applications, transcendental functions, L'Hopital's Rule, and development of the Riemann integral.
+Prerequisites:
+Satisfy Placement Table in this section, MATH 115 or both MATH 112 and MATH 113 with "C" (2.0) or better.
+Goal Areas: GE-04
+MET 104
+Introduction to Manufacturing Engineering Technology
+1 credits
+An overview of careers, technology and requirements for individuals interested in Manufacturing Engineering Technology. Hands-on experience is gained in a variety of new technologies. Careers in engineering and technology are examined along with professional organizations and ethics. The course is intended as a first step toward a career in manufacturing.
+Prerequisites:
+none
+MET 142
+Introduction to Parametric Modeling
+3 credits
+The course covers a process of developing and analyzing solid parametric models for mechanical applications. Course includes solving technical design problems based on real-world applications as well as creating technical documentation: working and assembly drawings.
+Prerequisites:
+none
+MET 275
+Manufacturing Processes I
+4 credits
+Fundamentals of machine technology and metallurgy. Students learn to perform machining on a lathe, mill, and drill press, and also assemble the products. Basics of heat treatment, welding and machining are discussed. Extra lab time is required.
+Prerequisites:
+CHEM 104 and MET 142
+PHYS 211
+Principles of Physics I
+4 credits
+General background in physical concepts for those who do not plan advanced study in physics or engineering. Topics include mechanics, fluids, heat and thermodynamics. Lecture and laboratory.
+Prerequisites:
+Either MATH 112 and MATH 113, or MATH 115
+Goal Areas: GE-02, GE-03
+STAT 154
+Elementary Statistics
+4 credits
+An introduction to statistical concepts and methods that is applicable to all disciplines. Topics include descriptive measures of data, probability and probability distributions, statistical inference, tests of hypotheses, confidence intervals, correlation, linear regression, and analysis of variance. The use of statistical software will be emphasized. Prereq: ACT Math sub-score of 19 or higher, successful completion of MATH 098 or appropriate placement scores (see Placement Information under Statistics) Fall, Spring, Summer GE-4
+Prerequisites:
+Satisfy Placement Table in this section, or MATH 098 with grade of P.
+Goal Areas: GE-02, GE-04
+CMST
+- Choose 3 Credit(s).
+COMM 100
+Fundamentals of Communication
+3 credits
+A course designed to improve students' understanding in communication, including the areas of interpersonal, nonverbal, listening, small group and public speaking.
+Prerequisites:
+none
+Goal Areas: GE-1B
+COMM 102
+Public Speaking
+3 credits
+A course in communication principles to develop skills in the analysis and presentation of speeches.
+Prerequisites:
+none
+Goal Areas: GE-1B
+Major Common Core
+AET 334
+Fluid Power
+3 credits
+Course provides a fundamental understanding of the physical principles of fluid power, along with a practical working knowledge of the components utilized in designing, installing, operating, and maintaining hydraulic and pneumatic power systems.
+Prerequisites:
+MATH 121, PHYS 211
+MATH 122
+Calculus II
+4 credits
+Techniques of integration, applications of integration, improper integrals, numerical integration, the calculus of parametric curves, and infinite series and sequences.
+Prerequisites:
+MATH 121 with "C" (2.0) or better or consent
+MET 323
+Statics
+3 credits
+This course covers principles of statics, force equilibrium, analysis of structures, friction, centroid, centers of gravity, and moment of inertia.
+Prerequisites:
+PHYS 211 and MATH 121
+MET 324
+Strength of Materials and Dynamics
+4 credits
+This course covers stress and strain, torsion, bending of beams, shearing stresses in beams, compound stresses, principal stresses, deflections of beams, columns, connections, and pressure vessels. Topics also include kinematics and kinetics of rigid bodies, work, energy, and power.
+Prerequisites:
+MET 323
+MET 341
+Advanced Parametric Modeling
+3 credits
+The course emphasizes the use of parametric modeling in design, analysis and manufacturing. Topics include component design, assembly, mechanism, animation, EFX and rapid prototyping using computer technology.
+Prerequisites:
+MET 142
+MET 347
+Manufacturing Automation
+4 credits
+CNC programming, computer-aided manufacturing (CAM), flexible automations, machining centers, robotics, programmable logic controllers, tooling systems. Extra lab time is required.
+Prerequisites:
+EET 113, MET 275, MET 341
+MET 375
+Manufacturing Processes II
+4 credits
+Advanced manufacturing processes including casting, forging, sheet metal forming, and powder metals are discussed. Topics also include materials treatment, preparation, and design for manufacture. Extra lab time is required.
+Prerequisites:
+MET 275
+MET 386
+Metrology for Engineering Technologist
+3 credits
+Quality and its continuous improvement is supported by metrology, statistical process control, and geometric dimensioning and tolerancing. This course presents these topics and their integration into operations.
+Prerequisites:
+MATH 121, MET 341, STAT 154. Admission to AET/MET major.
+MET 407
+Manufacturing Resource Planning and Control
+3 credits
+Strategic plant resource management for global manufacturing. Approaches examine and practice continuous improvements to the value stream related to design integration, production scheduling, staffing, facilities planning, and material flow.
+Prerequisites:
+none
+MET 423
+Ergonomics & Work Measurement
+3 credits
+Investigates work design in automated and manual operations. Measurement, and development of design-based solutions for reduction of environmental stresses to the human body through worker-machine systems analysis are applied. Regulatory, legal, and ethical issues are reviewed in the context of global manufacturing applications.
+Prerequisites:
+STAT 154
+MET 424
+Industrial Safety
+2 credits
+Techniques of developing safety practices in an industrial environment. Topics include OSHA, current legislation, cost analysis, personal protection, employee selection, psychological aspects, product safety, hazard materials and catastrophe control.
+Prerequisites:
+none
+MET 425
+Project and Value Management
+3 credits
+Planning, management, and economic justification of projects are supported by computer tools for scheduling, staffing, and economic analysis.
+Prerequisites:
+STAT 154
+MET 426
+Logistics and Transportation
+3 credits
+Fundamentals of logistics and supply chain management: control of materials, WIP, finished goods, costs of logistics. Theory and step-by-step procedures are used to analyze logistic systems, material handling, packaging, and transportation, including global logistics.
+Prerequisites:
+STAT 154
+MET 427
+Quality Management Systems
+3 credits
+This course is focused on quality assurance systems, management philosophies, methodology, function and impact of quality systems in manufacturing operations. Development and application of statistical process control tools.
+Prerequisites:
+STAT 154
+MET 428
+Lean Manufacturing
+3 credits
+Basics of Lean Manufacturing in industry, with emphasis on application of concepts. Students will learn the principles of Lean Manufacturing and how they can benefit a business.
+Prerequisites:
+none
+MET 448
+Computer Integrated Manufacturing
+3 credits
+This course covers the following topics: manufacturing systems integration techniques, Computer-Aided Design/Computer-Aided Manufacturing (CAD/CAM), Computer-Aided Process Planning (CAPP), Direct Numerical Control (DNC), Flexible Machining Systems (FMS), Automated Storage and Retrieval Systems (ASRS), Automated Guided Vehicles (AGV) and Robotics.
+Prerequisites:
+MET 347, PHYS 212
+MET 455
+Project and Value Management II
+3 credits
+This course covers replacement analysis, depreciation, income taxes, break even & risk analysis and capital budgeting during the life cycle of an engineering project. Advanced concepts in project management such as resource planning and project closure are also taught.
+Prerequisites:
+MET 425
+MET 488W
+Senior Design Project I
+2 credits
+An examination of manufacturing design and research. Students refine their design proposal and begin their senior design projects. This course also prepares the student for MET 489W, Senior Design Project II, where the design proposal, design project, and final report are completed. This course should be taken in the fall semester of the senior year.
+Prerequisites:
+ENG 271W, MET 275, MET 425, 10 AET or MET 300/400 level credits
+MET 489W
+Senior Design Project II
+2 credits
+Completion of the capstone design project; a continuation of MET 488W.
+Prerequisites:
+MET 488W, Permission Required
+PHYS 212
+Principles of Physics II
+4 credits
+Includes waves and sound, electricity and magnetism, light and optics, and topics in modern physics. Lecture and laboratory.
+Prerequisites:
+PHYS 211Initial deposit: N/A
+
+
+Application Fee for Undergraduate: $ 20
+Application Fee for Postgraduate: $ 40
+
+
+Annual Fee for Undergraduate: $ 18,812
+Annual Fee for Postgraduate: $ 14,918
+
+
+English Language Requirements Undergraduate only:
+TOEFL iBT (internet-based test) score of 61 or better
+Pearson Test of English (PTE) score of 47 or better
+IELTS academic test score of 5.5 or better
+
+
+English Language Requirements Postgraduate only:
+Different for every course and given in course content 
+
+
+Entry Requirements Undergraduate only:
+A cumulative high school GPA of 3.0 or higher or A rank in the top 50% of your high school class or An ACT composite score of 21 or higher and a minimum cumulative high school GPA of 2.7. If you do not meet the above admission requirements, you can submit additional information to consider when reviewing your application.
+
+
+Entry Requirements Postgraduate only:
+Applicants must possess the equivalent of a U.S. Bachelor's degree to be considered for graduate programs at Minnesota State Mankato. The degree must be earned at an institution recognized and approved to award the degree. GRE (Graduate Record Examination) is required by some academic programs.
+
+English Language requirements of graduate programs is different for each course. Graduate programs only have IELTS and TOEFL test scores.
+For Graduate Entry Requirements, some requirements like GPA, Score are mentioned on the course page so add them too.

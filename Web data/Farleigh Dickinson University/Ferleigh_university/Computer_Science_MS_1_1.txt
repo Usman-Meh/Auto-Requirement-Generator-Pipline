@@ -1,0 +1,54 @@
+Link: https://www.fdu.edu/program/ms-computer-science-2/
+
+Skip to content
+Computer Science MS
+Home
+/
+Program
+/
+Computer Science MS
+The graduate program in computer science prepares students for the direct pursuit of productive careers in industry and for continued graduate study. The program’s orientation is toward educating professionals to become leaders in various areas of computer science ranging from software engineering to computer design, and from systems analysis to the management of information systems.
+Educational Objectives
+Graduates of the M.S. Computer Science program will demonstrate the following attributes and achievements before or upon graduation:
+An ability to gain and apply the knowledge of Computer Science theory to analyze problems, assess the trade-offs, and develop creative solutions
+An ability to work effectively in teams and communicate with diverse audiences
+Understanding of the computing-related ethical and societal issues in their impact on individuals, organizations, and communities
+An ability to develop professionally and innovate with the deployment of computing technology.
+Admission Requirements
+Graduation from an accredited college or university with a satisfactory academic record.
+Submission of an official score report for the Graduate Record Examination (GRE) General Test taken within the last five years. The GRE may be waived if the applicant enrolls initially as a non-matriculating student and completes 9 graduate credits in computer science with a minimum Grade Point Ratio (GPR) of 3.00 and no grade below C, or is a Fairleigh Dickinson University computer science graduate and has an undergraduate GPR of 3.00 or is a non-Fairleigh Dickinson University computer science graduate and has an undergraduate GPR of 3.50. This GRE waiver policy is only applicable to applicants who graduated from a regionally accredited college or university in the United States.
+The GRE requirement is waived for applicants who have completed a master’s degree from a regionally accredited college or university in the United States.
+Three letters of recommendation.
+Applicants who have not completed all requirements for admission to the degree program may be permitted to enroll in classes for credit on a non-matriculated or non-degree basis.
+M.S. in Computer Science is offered full-time at the Metropolitan Campus and part-time at the Florham Campus.
+Degree Plan
+Prerequisites: (NOT INCLUDED IN GRADUATION CREDITS)
+The prerequisite courses for the M.S. in Computer Science are:
+CSCI5505
+Introduction to Computer Programming
+CSCI5525
+Introduction to Computer Science
+CSCI5555
+Data Structures
+CSCI5565
+Assembly Language
+Computer Science Core Courses (All Required)
+The required core courses for the M.S. in Computer Science are:
+CSCI6603
+Computer Architecture
+CSCI6620
+Software Engineering
+CSCI6623
+Database Systems
+CSCI6638
+Operating Systems (Pre-Req- CSCI6603)
+CSCI7645
+Systems Programming (Pre-Req-CSCI6638)
+Elective Courses (15 Credits)
+CSCI elective courses range from CSCI6617-8891. Up to six credits may be taken in non-CSCI prefixed courses in electrical engineering (6000 level or above). Please consult an academic advisor for additional details regarding electives or consult FDU Graduate Bulletin. Students have the option of registering for a 3-credit internship after completing 18 graduate credits. The internship will count as a one-course elective.
+Learn more
+Gildart Haase School of Computer Sciences and Engineering
+Admissions
+Apply now
+Visit FDU
+Request Information

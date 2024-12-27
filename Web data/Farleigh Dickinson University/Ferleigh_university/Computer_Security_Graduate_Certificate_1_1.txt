@@ -1,0 +1,38 @@
+Link: https://www.fdu.edu/program/graduate-certificate-computer-security-and-forensic-administration/
+
+Skip to content
+Computer Security Graduate Certificate
+Home
+/
+Program
+/
+Computer Security Graduate Certificate
+Objective:
+To provide expertise in hardening computer systems, as well as in establishing information security policies and business continuation planning in organizations.
+Prerequisites
+Admission to the certificate program requires a baccalaureate degree from a regionally accredited college or university with a satisfactory academic record.
+Curriculum
+18 credits are to be taken from the following courses:
+CSCI5525
+Introduction to Computer Science
+CSCI6731
+Computer Networks
+CSCI6869
+Network Security
+CSCI6873
+Firewalls and Intrusion Detection Systems
+CSCI7741
+Disaster Recovery
+CSCI7783
+Information Security
+Prerequisites
+Students must satisfy the prerequisites of the courses that they will take.
+Tuition
+Special tuition rate is available at 33 1/3% off the regular tuition rate for eligible students.
+Academic Credits
+Courses with number 6000 or higher completed through this certificate program can be credited toward the M.S. Computer Science program. Other courses may be substituted with prior approval of the Academic Advisor.
+Learn more
+Gildart Haase School of Computer Sciences and Engineering
+Admissions
+More Information
+Apply now

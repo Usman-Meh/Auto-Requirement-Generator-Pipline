@@ -1,0 +1,133 @@
+Link: https://www.fdu.edu/program/ba-mathematics-florham/
+
+Skip to content
+Mathematics BA (Florham)
+Home
+/
+Program
+/
+Mathematics BA (Florham)
+Math majors develop many skills including the ability to formulate and solve problems, logical and critical thinking, numerical computation, and quantitative skills. These skills are crucial in many fields. Career opportunities include working as a Mathematician, Computer Scientist, Statistician, Economist, Actuary, Cryptologist, Biostatistician, and College Professor.
+Program Learning Outcomes
+At the completion of the program students will:
+Have the ability to demonstrate an understanding of differentiation and integration techniques and how to use them in problem solving.
+Have the ability to demonstrate an understanding of concepts and techniques in discrete mathematics, including logic, induction, recursion, graphs and Boolean algebra.
+Have the ability to demonstrate an understanding of linear and Matrix Algebra and how to use them in solving problems which includes: Vector spaces and linear transformations; systems of linear equations, bases, matrix representations of linear transformations, matrix algebra, eigenvalues and eigenvectors, determinants, canonical forms, and inner product spaces.
+Have the ability to demonstrate an understanding of solving problems using probabilistic models.
+Degree Plan
+NOTE: All students are required to complete the General Education Requirements of their campus in fulfillment of their Bachelor degree requirements.
+6 credits from the MAJOR may be applied toward General Education Requirements.
+Required Mathematics (24 credits)
+MATH1203
+Calculus I
+MATH2202
+Calculus II
+MATH2203
+Calculus III
+MATH2255
+Discrete Structures
+MATH3220
+Linear Algebra
+MATH3231
+Introductory Analysis
+(or)
+MATH3225 Abstract Algebra
+(and)
+MATH3303
+Probability and Statistics
+MATH4999
+Mathematics Assessment
+Major Elective Courses (15 – 18 credits)
+At least five courses to be selected from the mathematics offerings (MATH designation) above the level of MATH2255,  or with the permission of the department, from the graduate offerings in mathematics; up to 6 credits from the 2000 (or higher level) offerings in computer science (CSCI designation) may be substituted for mathematics electives.
+NOTE: Three credits in Internship experience may be used to fulfill Major Elective requirements in addition to the 15 credits minimum requirement.
+Cognate requirements (3 credits)
+CSCI2215
+Introduction to Computer Science
+6 credits from the MINOR may be applied toward General Education Requirements.
+Concentrations
+The department offers three concentrations within the B.A. in Mathematics: Computer Science, Actuarial Science, and Financial Mathematics.
+Actuarial Science
+Actuarial Science is the discipline that assesses risk in insurance, finance as well as other industries using mathematical and statistical methods. The concentration prepares students by building a strong foundation in mathematics, statistics, and other areas of relevance to insurance and consulting industries.
+Students planning to major in mathematics with a concentration in actuarial science should complete all requirements for the BA degree in mathematics with the selection of the following courses as electives in the major:
+MATH3309
+Numerical Analysis: Analysis
+MATH Elective  (at least 2255 or above)
+(or)
+MATH4498 Internship
+To fulfill the general education requirements, they are required to take:
+ECON2001
+Introduction to Microeconomics
+ECON2102
+Introduction to Macroeconomics
+Cognate requirements (12 credits)
+CSCI2215
+Introduction to Computer Science
+ACCT2021
+Accounting Principles I
+FIN3250
+Principles of Financial Analysis
+FIN3310
+Intermediate Financial Analysis
+The above requirements will assist students in preparing for actuarial exams 1 and 2, which are jointly administered by the Society of Actuaries and the Casualty Actuarial Society.
+Independent study courses are also available to further develop the fundamental mathematical/statistical concepts applicable to insurance problems. Specifically, the student may
+Study Mathematics of Finance to strengthen their preparation for exam 2 and/or
+Study Life Contingencies and Loss Models to begin preparation for exam 3.
+Computer Science
+Students should complete all requirements for the BA degree in mathematics with the selection of the following courses:
+Required CS courses
+CSCI2215
+Introduction to Computer Science I
+CSCI2216
+Introduction to Computer Science II
+CSCI2233
+Data Structures and Algorithms
+Major Elective courses (15 credits)
+Cognate courses (8 credits)
+PHYS 2203/2201 General Physics with Calculus I and PHYS 2204/2202 General Physics with Calculus II.
+Financial Mathematics
+Financial Mathematics sometimes called Computational Finance or Financial Engineering is a relatively new area of mathematics that provides the necessary theory and tools for financial analysts who are also known in the financial industry as quants. Financial analysts work for financial institutions, pension funds, and insurance companies. They advise businesses and individuals on making investment decisions. They assess the performance of stocks, bonds, and other types of investments.
+Students planning to major in mathematics with a concentration in financial mathematics should complete all requirements for the BA degree in mathematics with the selection of the following courses as electives in the major:
+MATH3309
+Numerical Analysis
+MATH3307
+Mathematics of Finance
+MATH4007
+Financial Math II
+To fulfill the general education requirements, they are required to take:
+ECON2001
+Introduction to Microeconomics
+ECON2102
+Introduction to Macroeconomics
+Additional cognate requirements include:
+CSCI2215
+Introduction to Computer Science I
+ACCT2021
+Introductory Accounting Principles
+ACCT2022
+Introductory Managerial Accounting
+FIN3250
+Principles of Financial Analysis
+FIN3310
+Intermediate Financial Analysis
+FIN4343
+Securities and Investments
+FIN4405
+Analytical Methods in Finance
+QUEST Options Available
+BA in Mathematics/MAT, Elementary Ed Concentration
+BA in Mathematics/MAT, Secondary Ed Concentration
+BA in Mathematics/MAT, Elementary Ed, and Special Ed Concentration
+BA in Mathematics /MAT, Preschool Special Ed Certification
+BA in Mathematics /MAT, Secondary Ed, and ESL
+Career Opportunities
+According to The Bureau of Labor Statistics employment of financial analysts is expected to grow 23 percent from 2010 to 2020, faster than the average for all occupations. A growing range of financial products and increasing complexity of investment portfolios are expected to lead to strong employment growth. Additionally, newly emerging markets in developing regions are providing new investment opportunities, which in turn require expertise in geographic regions where those markets are located.
+Contact Information
+Laila Khreisat
+973-443-8680
+khreisat@fdu.edu
+Learn More
+Department of Mathematics and Computer Science
+Admissions
+Apply now
+Visit FDU
+Request Information

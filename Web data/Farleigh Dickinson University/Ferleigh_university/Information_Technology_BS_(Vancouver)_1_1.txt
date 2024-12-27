@@ -1,0 +1,165 @@
+Link: https://www.fdu.edu/program/bs-information-technology-vancouver/
+
+Skip to content
+Information Technology BS (Vancouver)
+Home
+/
+Program
+/
+Information Technology BS (Vancouver)
+Program Highlights
+Students in this program receive a dual degree: major in Information Technology and minor in Business Administration.
+The program serves as an ideal launch pad for a management career in any technology-oriented company that is heavily dependent upon Information Technology.
+Courses from different fields of engineering are included: Computer Hardware, Software Programming, Web Design, Database Design, Networking Analysis, Digital Design, and Cyber Security.
+Courses have embedded content for industry certifications like CompTIA A+, CompTIA Network+ and CompTIA Security+.
+Program Objectives
+The main objective of the B.S. in Information Technology is to produce graduates who:
+Enter into and advance in the profession of information technology, management information systems, business administration, or other related fields.
+Continue their education by obtaining professional certificates or advanced degrees in information technology, management information systems, business administration, or other related fields.
+Continue to conduct themselves as both responsible professionals and global citizens, who are aware of ethical issues and societal needs and problems.
+The program objectives define the skills, knowledge, and attributes that graduates are expected to possess three to four years following graduation, and they fulfill the needs of our several University constituencies, including alumni, students, the Industrial Advisory Committee, the faculty, and employers. These objectives are consistent with the mission of Fairleigh Dickinson University “to educate and prepare students as world citizens through global education.”
+Student Outcomes
+The B.S. in Information Technology program has adopted the Student Outcomes of the Computing Accreditation Commission (CAC) of ABET as its own learning outcomes, which define the attributes, skills, and knowledge that the graduates are expected to possess upon or before graduation. Each Information Technology graduate will demonstrate the following attributes and achievements as required by the CAC of ABET by the time of graduation:
+Analyze a complex computing problem and to apply principles of computing and other relevant disciplines to identify solutions.
+Design, implement, and evaluate a computing- based solution to meet a given set of computing requirements in the context of the program’s discipline.
+Communicate effectively in a variety of professional contexts.
+Recognize professional responsibilities and make informed judgments in computing practice based on legal and ethical principles.
+Function effectively as a member or leader of a team engaged in activities appropriate to the program’s discipline.
+Use systemic approaches to select, develop, apply, integrate, and administer secure computing technologies to accomplish user goals.
+Career Paths
+Graduates of Fairleigh Dickinson University’s B.S. in Information Technology program are qualified IT professionals who are prepared for careers in a wide-range of IT-related areas, as follows:
+Computer networking
+Network and systems administration
+Website development and management
+Digital media design
+Management information systems (MIS)
+Database management
+Software development
+Skills Acquired
+Software skills: JAVA language through courses like INFO2101 and INFO2102.
+Database design skills: ORACLE DBMS through the course CSCI3268.
+Digital design skills: VHDL language through the course ENGR2286.
+Web programming skills: XHTML, .NET, .ASP, .PHP through the course INFO4844.
+Web site design skills: Adobe Illustrator, Dreamweaver, InDesign, Photoshop through the courses CGD1177, INFO2105, INFO2106 and INFO3205.
+Tools skills: Eclipse through the course INFO2101 and INFO2102.
+Post Graduation Work Permit (PGWP) eligibility: Yes
+For international students, if you submit your
+study permit application on or after November 1, 2024, you must also meet the new requirements that apply to your situation to be eligible to apply for a PGWP.
+If you graduate from a university bachelor’s degree, master’s degree or doctoral degree program:
+Field of study requirement: All fields of study are eligible. There is no additional field of study requirement.
+As a university, graduates from all current FDU Vancouver programs, including the Bachelor of Science in Information Technology, are eligible to apply for PGWP.  There is no field of study requirement.
+Immigration, Refugees and Citizenship Canada regulations regarding PGWP are subject to change.  Please visit
+the IRCC website
+for latest details.
+BSIT Graduation Requirements
+Students in Bachelor of science in Information Technology program must complete a minimum of 122 credit hours of course work. The credit work is distributed as:
+IT Core Requirements — 60 credits
+Mathematics and Programming Requirements — 15 credits
+General Education Requirements — 17 credits
+Minor or Concentrations or Electives — 18 credits
+Science Requirements — 12 credits
+Curriculum
+Mathematics, Science, and Programming Requirements: 27 credits
+MATH 2337
+Applied Statistics
+MATH 2255
+Discrete Structures
+EGTG 2201
+Applied Calculus
+INFO 2101
+Computer Programming I for IT
+INFO 2102
+Computer Programming II for IT
+ENVR 1101
+Physical Geology (Lec)
+ENVR 1102
+Physical Geology (Lab)
+BIOL 1105
+The Human Environment (Lec)
+BIOL 1115
+The Human Environment (Lab)
+PHYS 2101
+General Physics 1 (Lec)
+PHYS 2201
+General Physics 1 (Lab)
+Liberal Arts Requirements: 17 credits
+WRIT 1002
+Comp I: Rhetoric and Inquiry
+WRIT 1003
+Comp II: Research and Argument
+EGTG 2210
+Technical Communication
+UNIV 1001
+Transitioning to University Life (1 credit)
+UNIV 1002
+Preparing for Professional Life (1 credit)
+UNIV 2001
+Cross Cultural Perspectives
+UNIV 2002
+Global Issues
+IT Core Requirements: 60 credits
+* By completing the IT core requirements, students automatically fulfill the requirements for the Network & System Administration concentration (CSCI4274, INFO2101, INFO4101, INFO4201, INFO4410, INFO4278) and the Web Development Technology concentration (CGD1177, INFO2105, INFO2106, INFO3201, INFO3205, INFO4844).
+CGD 1177
+Introduction to Digital Media
+INFO 1101
+Computer Concepts & Technology
+INFO 2105
+Internet & Web Applications
+INFO 2106
+Web Site Design & Management
+INFO 3201
+Human Computer Interface
+INFO 3205
+Digital media Publishing
+INFO 4101
+Data Communication & Computer Networks I
+INFO 4102
+Data Communication & Computer Networks II
+INFO 4201
+Info tech Needs & Assessment Management
+INFO 4205
+IT Capstone Project
+INFO 4278
+Operating Systems
+INFO 4410
+Foundations of Cybersecurity
+INFO 4497
+Internship in Information Technology
+INFO 4844
+Programming for the Internet
+CSCI 2234
+Data Structures and Algorithms
+CSCI 3268
+Database Systems
+CSCI 3274
+Linux System Administration
+ENGR 2286
+Digital System Design
+ENGR 3000
+Modern Tech: Principle, Application & Impact
+ENGR 4210
+Management & Engineering Economics
+Business Minor Requirements: 18 credits
+ACCT 2021
+Introduction to Financial Accounting
+ECON 2001
+Introduction to Microeconomics
+MKTG 2120
+Principles of Marketing
+MGMT 2600
+Organizational Behavior
+FIN 3250
+Principles of Financial Analysis
+LAW 2276
+Business and the Law
+BSIT Completion Requirements
+FACULTY PROFILES
+BSIT FACULTY
+Contact Information
+Dr. Vasudevan Janarthanan, Associate Professor of Information Technology
+V_janart@fdu.edu
+BSIT Admission Requirements
+English Proficiency
+Apply Now
+Tuition and Fees
+Request Info

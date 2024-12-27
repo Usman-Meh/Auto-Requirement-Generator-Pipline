@@ -1,0 +1,102 @@
+Link: https://cset.mnsu.edu/academic-programs/computer-information-technology/database-technologies-minor/
+
+College of Science, Engineering & Technology
+Academic Programs
+Computer Information Technology
+Database Technologies, Minor
+Computer Information Technology Section
+Computer Information Technology
+Computer Information Technology, Bachelor of Science (BS)
+Computer Information Science, Minor
+Computer Technology, Minor
+Database Technologies, Minor
+International Technology, Minor
+Networking and Information Security, Minor
+Software Development, Minor
+Database Technologies, Certificate
+Information Security, Certificate
+Networking Technologies, Certificate
+Software Development, Certificate
+Computer Information Technology Faculty & Staff
+Database Technologies Minor
+This minor prepares students to design, apply, and use database technologies in any field, starting from an introduction to programming and progressing to advanced courses in big data, database security, and query processing.
+Current Catalog Year
+2024-2025
+Degree
+Minor
+Total Credits
+20
+Locations
+Mankato
+Apply
+Program Requirements
+Program
+                                    Requirements
+Core
+CIS 121
+Introduction to Programming
+4 credits
+This course provides conceptual and logical tools for students planning to major in a computing-based major. Programming in a high-level language such as C++, Python, or Java, and the development of skills in abstraction, problem-solving, and algorithmic thinking are emphasized.
+Prerequisites:
+MATH 112 or MATH 113 or MATH 115 or MATH 121
+CIS 122
+Data Structures
+4 credits
+This course is a continuation of CIS 121. Students develop a basic knowledge of programming skills and object-oriented concepts, and use fundamental data structures such as lists, stacks, queues, and trees.
+Prerequisites:
+CIS 121. Select One Course: MATH 112, MATH 113, MATH 115, MATH 121, or MATH 130
+CIS 340
+Introduction to Database Systems
+4 credits
+Introduction to database systems, entity relationship models, relational algebra, database design, data modeling, normalization, and conversion of business rules into relational model. Introduction to basic SQL including subqueries, joins, functions, sequences, triggers, views, and stored procedures.
+Prerequisites:
+CIS 121 or an approved substitute.
+Restricted Electives
+Choose 8 Credit(s).
+CIS 440
+Database Management Systems
+4 credits
+Extensive coverage of SQL, database programming, large scale data modeling, and database enhancement through reverse engineering. This course also covers theoretical concepts of query processing, and optimization, basic understanding of concurrency control and recovery, and database security and integrity in centralized/distributed environments. Team-oriented projects in a heterogeneous client server environment.
+Prerequisites:
+CIS 340, CIS 380
+CIS 442
+Database Security, Auditing and Disaster Recovery
+4 credits
+This course covers science and study of methods of protecting data and designing disaster recovery strategy. Secure database design, data integrity, secure architectures, secure transaction processing, information flow controls, inference controls, and auditing. Security models for relational and object-oriented databases.Variable
+Prerequisites:
+CIS 350, CIS 440
+CIS 444
+Data Analytics
+4 credits
+The course explores big data in structured and unstructured data sources. Emphasis is placed on big data strategies, techniques and evaluation methods. Various data analytics are covered. Students experiment with big data through big data analytics, data mining, and data warehousing tools.Does the proposal require a modify Program proposal?No
+Prerequisites:
+CIS 440Initial deposit: N/A
+
+
+Application Fee for Undergraduate: $ 20
+Application Fee for Postgraduate: $ 40
+
+
+Annual Fee for Undergraduate: $ 18,812
+Annual Fee for Postgraduate: $ 14,918
+
+
+English Language Requirements Undergraduate only:
+TOEFL iBT (internet-based test) score of 61 or better
+Pearson Test of English (PTE) score of 47 or better
+IELTS academic test score of 5.5 or better
+
+
+English Language Requirements Postgraduate only:
+Different for every course and given in course content 
+
+
+Entry Requirements Undergraduate only:
+A cumulative high school GPA of 3.0 or higher or A rank in the top 50% of your high school class or An ACT composite score of 21 or higher and a minimum cumulative high school GPA of 2.7. If you do not meet the above admission requirements, you can submit additional information to consider when reviewing your application.
+
+
+Entry Requirements Postgraduate only:
+Applicants must possess the equivalent of a U.S. Bachelor's degree to be considered for graduate programs at Minnesota State Mankato. The degree must be earned at an institution recognized and approved to award the degree. GRE (Graduate Record Examination) is required by some academic programs.
+
+English Language requirements of graduate programs is different for each course. Graduate programs only have IELTS and TOEFL test scores.
+For Graduate Entry Requirements, some requirements like GPA, Score are mentioned on the course page so add them too.

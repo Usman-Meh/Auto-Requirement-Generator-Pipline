@@ -1,0 +1,256 @@
+Link: https://you.ubc.ca/ubc_programs/electrical-engineering-vancouver/
+
+Electrical Engineering
+at UBC's
+Vancouver Campus
+Summary
+Program info
+Your future
+Requirements
+Visit program website
+Electrical engineers impact myriad aspects of our lives. They make essential medical equipment, design wireless communications networks, and invent new ways to generate and conserve energy. Learn essential skills in electronics, circuit analysis, and electromagnetics, and after your first year, customize your program by taking specialized courses in nanotechnology, biomedical engineering, or renewable energy.
+This program is also offered at UBC's
+Okanagan Campus
+Find out more
+Visit program website
+Program information
+Send details
+Campus:
+Vancouver
+Faculty:
+Faculty of Applied Science (Engineering)
+Degree:
+Bachelor of Applied Science (Engineering)
+Length
+4 yrs
+Co-op
+Yes
+You can combine your studies with full-time, paid work at top local and international organizations.
+Honours
+No
+You can study intense specialization in a single field.
+Electrical Engineering consists of three eight-month academic sessions either following first year Engineering or following a transfer program from first year Science. The second year is common to both Electrical Engineering and Computer Engineering. Some undergraduate curriculum changes will emphasize laboratory work and engineering design, without detracting from the program’s strong analytical base. You can select one of the following options: Biomedical Engineering, Nanotechnology & Microsystems, or Electrical Energy Systems,  as well as a Minor in Honours Mathematics.
+Specializations
+Biomedical Engineering Option
+Campus features
+The challenging Electrical Engineering and Computer Engineering undergraduate program attracts some of the university’s best students. Each year, several of these students win scholarship awards. Our student design teams regularly win prizes in regional, national, and international design competitions.
+Send details
+Sample courses
+Year 1
+Year 2
+Year 3
+Year 4
+APSC 100 - Introduction to Engineering I
+An introduction to the engineering profession including: roles and responsibilities of the engineer, the engineering disciplines, sustainability, an introduction to the engineering design process, introduction and application of the relevant foundational scientific principles, prototyping, engineering graphics, technical communication, and engineering ethics.
+CHEM 154 - Chemistry for Engineering
+Chemical bonding, properties of matter. Chemical thermodynamics with applications to phase equilibria, aqueous equilibria and electrochemistry. Processes at surfaces.
+MATH 100 - Differential Calculus with Applications to Physical Sciences and Engineering
+Derivatives of elementary functions. Applications and modeling: graphing, optimization. Consult the Faculty of Science Credit Exclusion List: www.students.ubc.ca/calendar/index.cfm?tree=12,215,410,414.
+PHYS 157 - Introductory Physics for Engineers I
+Heat, thermodynamics, oscillations, waves, and sound.
+PHYS 170 - Mechanics I
+Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics:  Newton's second law, friction, impulse, momentum, work and energy.
+CPEN 211 - Introduction to Microcomputers
+Boolean algebra; combinational and sequential circuits; organization and operation of microcomputers, memory addressing modes, representation of information, instruction sets, machine and assembly language programming, systems programs, I/O structures, I/O interfacing and I/O programming, introduction to digital system design using microcomputers.
+ELEC 201 - Circuit Analysis I
+The fundamentals of analysis of lumped linear time-invariant circuits; network theorems; operational amplifiers; first order circuits; DC analysis of diodes, BJT, and FET circuits.
+ELEC 281 - Technical Communication
+Written and oral communication in engineering. Technical description, report preparation, business correspondence, and oral presentation of technical material. Restricted to students in second year of Electrical and Computer Engineering programs.
+MATH 253 - Multivariable Calculus
+Partial and directional derivatives; maxima and minima; Lagrange multipliers and second derivative test; multiple integrals and applications.
+MATH 256 - Differential equations
+Linear ordinary differential equations, Laplace transforms, Fourier series and separation of variables for linear partial differential equations. Tutorial session focuses on examples from chemical and biological engineering. Consult the Faculty of Science Credit Exclusion List: www.students.ubc.ca/calendar/index.cfmtree=12,215,410,414.
+CPEN 311 - Digital Systems Design
+Advanced combinational and sequential electronic system design. Hardware specification, modeling, and simulation using hardware description languages (HDLs) and CAD tools. Design with programmable logic including FPGA's. Applications include complex state machines, microcontrollers, arithmetic circuits, and interface units.
+ELEC 311 - Electromagnetic Fields and Waves
+Waves and propagation; Maxwell's equations; applications including transmission lines; impedance matching and Smith charts; reflection and refraction; waveguides and antennas.
+ELEC 321 - Stochastic Signals and Systems
+Stochastic behaviour of signals and systems; discrete and continuous probability; random processes; modeling and identification of linear time-invariant systems; binary hypothesis testing and decision making.
+ELEC 342 - Electro-Mechanical Energy Conversion and Transmission
+Three phase power; transformers and harmonics; magnetic materials and circuits, electromechanical energy conversion; DC machines; rotating magnetic field, AC induction and synchronous machines; variable frequency operation, brushless DC machines; stepper and single-phase motors. Credit will only be given for one of EECE 373, ELEC 342, and EECE 374.
+ELEC 391 - Electrical Engineering Design Studio II
+Introduction to project management.  Problem definition.  Design principles and practices.  Implementation techniques including circuit design, software design, solid modeling, PCBs, assembling, and packaging.  Testing and evaluation.  Effective presentations.
+APSC 450 - Professional Engineering Practice
+Legislation affecting the practice of engineering; ethical principles and responsibilities. Management of engineering enterprises; labour relations, safety and environmental legislation. Restricted to engineering undergraduate students in the final year of their program.
+ELEC 481 - Economic Analysis of Engineering Projects
+Time-money relationships; economic analysis of alternatives including the effects of interest rates, inflation, depreciation, taxation and uncertainty; cost estimation and budgeting; financial analysis of engineering operations.
+ELEC 491 - Electrical Engineering Capstone Design Project
+Design, analysis, and implementation of solutions in response to a real world electrical engineering problem, provided by industry, research laboratories, or other suitable entities.  Includes coverage of topics such as project management.
+ELEC 442 - Introduction to Robotics
+Common manipulator configurations, actuator and sensor technology. Efficient representations and computational methods for real-time microprocessor-based implementation of robot control algorithms. Robot control methods, network equivalents, impedance control. Introduction to teleoperation implementation aspects.
+ELEC 463 - Micro/Nanofabrication and Instrumentation Laboratory
+Microfabrication methods and nanofabrication techniques. Imaging and characterization of micro and nanostructures. Restricted to students admitted to the Nanotechnology and Microsystems Option in Electrical Engineering.
+Your future
+Your career opportunities will vary widely across a range of fields including biomedicine, hardware design, automotive power, electronics, power systems design, autonomous robots, communications and network technology, and software design, and others.
+Careers in Electrical Engineering
+UBC stories
+Before Annelies graduated, she was already well on her way to reaching her goal of being an entrepreneur and an engineer. She'd already founded Kaizen Biomedical, developed a product called MobiChill, and worked with Engineers Without Borders.
+Annelies Tjebbes, Electrical Engineering
+Read the full story
+Related programs
+Program requirements
+Canadian high schools
+International high schools
+International baccalaureate
+- Select Location -
+Basic requirements (if your province is not selected)
+Alberta
+British Columbia
+Manitoba
+New Brunswick
+Newfoundland & Labrador
+Northwest Territories
+Nova Scotia
+Nunavut
+Ontario
+Prince Edward Island
+Quebec
+Saskatchewan
+Yukon
+- Select Location -
+Basic requirements (if your country is not listed)
+Argentina
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belize
+Bermuda
+Bolivia
+Botswana
+Brazil
+British Virgin Islands
+Brunei
+Cameroon - British
+Cameroon - French
+Cayman Islands
+Chile
+China
+Colombia
+Costa Rica
+Czech Republic
+Denmark
+Dominica
+Ecuador
+Egypt – 11 Years of Education
+Egypt – 12 Years of Education
+El Salvador
+Ethiopia
+Finland
+France (French Baccalaureate)
+Germany
+Ghana
+Gibraltar
+Greece
+Grenada
+Guatemala
+Guyana
+Honduras
+Hong Kong
+India
+Indonesia
+Iran
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kuwait
+Lebanon
+Lesotho
+Liberia
+Macao
+Malawi
+Malaysia
+Mauritius
+Mexico
+Mongolia
+Montserrat
+Morocco
+Namibia
+Netherlands
+New Zealand
+Nigeria
+Norway
+Oman
+Pakistan
+Panama
+Peru
+Philippines
+Poland
+Qatar
+Russia
+Rwanda
+Saint Kitts and Nevis
+Saint Lucia
+Saint Vincent and the Grenadines
+Saudi Arabia
+Scotland
+Seychelles
+Sierra Leone
+Singapore
+South Africa
+South Korea
+Spain
+Sri Lanka
+Sweden
+Switzerland
+Syria
+Taiwan
+Tanzania
+Thailand
+The Gambia
+Trinidad and Tobago
+Tunisia
+Turkey
+Turks and Caicos Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom (British-patterned education)
+United States (American curriculum)
+Venezuela
+Vietnam
+Zambia
+Zimbabwe
+English-language requirements
+English is the language of instruction at UBC. All prospective students must demonstrate English-language competency prior to admission. There are numerous ways to meet the
+English Language Admission Standard
+.
+General admission requirements
+IB Diploma Programme
+Completed IB Diploma, including at least three Higher Level courses.
+IB Certificate Courses
+IB Certificate courses (Standard and Higher Level) may be used in an admissions average if you are graduating from a recognized high school curriculum that can be used as your basis of admission.
+IB Math Applications and Interpretations SL, or IB Math Studies, do not satisfy the math requirement for admission to UBC’s science-based programs, the Faculty of Management, the UBC Sauder School of Business, or the Vancouver School of Economics.
+Degree-specific requirements:
+Applied Science (Engineering)
+IB Math Analysis and Approaches SL
+or
+HL,
+or
+IB Math Applications and Interpretations HL. (IB Math Applications and Interpretations SL, or IB Math Studies, are not acceptable.)
+IB Chemistry
+IB Physics
+Academically strong candidates missing either IB Chemistry or IB Physics may be evaluated on a case-by-case basis
+Related courses
+The following
+subject categories
+are particularly relevant for this degree. Consider taking courses in these areas in your junior year and senior year.
+Language Arts
+Mathematics and Computation
+Sciences
+Visit program website
+You’ll find these pages helpful
+10 things you never knew about UBC
+Read admissions blog post
+Meet Milind, an Electrical Engineering student who went from UBC undergrad to PhD candidate at Cambridge
+Read full story
+Ready to choose your degree?
+Apply to UBC

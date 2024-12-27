@@ -1,0 +1,234 @@
+Link: https://uel.unipd.it/en/masters/mtds-data-science-data-management/
+
+Skip to content
+First level university master
+MTDS
+Data Science & Data Management
+Home
+>
+Master e corsi
+>
+First level university master
+>
+MTDS - Data Science & Data Management
+Home
+>
+Master e corsi
+>
+First level university master
+>
+MTDS - Data Science & Data Management
+The Master joins the second extraordinary pre-enrolment term from the 4th to the 25th November 2024, 12.30 pm.
+The
+First-Level Short Specialisation Degree
+in Data Science & Data Management
+provides training on the methods and tools to use text data – strategically important in the current historical phase. In this view, their collection, analysis, assessment and management represent the competences to define which and what type of knowledge should be extrapolated from text data, so as to operate in the different corporate-organizational, healthcare, political-economic, economic-political, legal, community and public policy sectors.
+The goal of the Master is to
+build a Data Scientist & Data Analyst profile
+, capable of analysing the different human needs (historically and narratively speaking), anticipating future scenarios, defining strategies, innovating and supporting decision-making processes, monitoring and assessing project effectiveness.
+Educational content
+The
+First-Level Short Specialisation Degree
+in Data Science & Data Management
+provides training on theoretical language models; maths-statistical fundamentals for data science; data management; data management and analysis systems; machine learning & IA; big data analytics; data visualization & curation.
+The course provides three kinds of contents:
+Knowledge on:
+theoretical-methodological references to language studies;
+data science models and tools;
+data analysis & data management.
+Applicative competences to:
+data analysis for target detection and need anticipation, future scenario anticipation, strategy definition, innovation, decision-making processes;
+applications in corporate-organizational, healthcare, political-economic and economic-political, legal, community, and public policy sectors;
+M.A.D.I.T. method and statistical-experimental analysis plan construction methods;
+mastering of statistical-maths fundamentals;
+machine learning & IA, big data analytics, data visualization, data curation, data management.
+Independent judgement to promote:
+analysis of critical aspects concerning data privacy, data protection and data ethics;
+social and ethical liability management;
+data management error analysis and anticipations;
+innovation.
+Course target and career opportunities
+The
+First-Level Short Specialisation Degree
+in Data Science & Data Management
+is addressed to graduates with a Bachelor’s Degree in Economics, Engineering, Computer Sciences, Statistics, Mathematics, Psychology, Biology, Sociological Sciences, Communication, Philosophy, Government and Public Policy Sciences, European and Global Studies, Local Development, Law and Technology, Linguistics, Social Services (only for those with a Master’s Degree).
+After concluding the
+First-Level Short Specialisation Degree
+, future Data Scientists & Data Analysts can
+work for public and private institutions
+with a large quantity of text data, such as government agencies, universities, research institutions, medium-large corporate research centres, mass media, PA institutions and bodies, European planning institutions, banks and foundations, insurance companies, trade and sales chains (large scale distribution trade), consultancy firms.
+The
+First-Level Short Specialisation Degree
+prepares Data Scientists and Data Analysts
+in several application fields
+: marketing, corporate-organizational, political-economic and economic-political, healthcare public policies, legal and communitarian.
+Course program
+The
+First-Level Short Specialisation Degree
+in Data Science & Data Management
+provides in-depth training on the following modules:
+Module 1 –
+Knowledge-based and data-driven analysis
+Formalization of language interactions
+Language analysis theories and models
+Epistemological foundations behind the reference scientific paradigm for the generation of observational data, and reflections on the available approaches (behaviourism, innatism, interactionism, neural network, NLP, linguistics, DPA, etc.)
+Module 2 – Data privacy, data protection and data ethics
+Role profile and competences of a Data Scientist and Data Analyst
+Knowledge on ethical questions, privacy law and data protection references, and Data Scientist/Data Analyst role and competences
+Module 3 – Text data analysis methods
+Promotion of competences to use the M.A.D.I.T. Method, to design with specific analysis goals, and to use a statistical-experimental method to build rigorous and effective analysis plans
+Module 4 – Advanced Statistics for Data Science &amp; Machine Learning
+– Databases (data collection, data quality, NoSQL vs SQL databases, DBSM and DWH J);
+– Data management and analysis systems:
+– Big Data Analytics &amp; Real Time Big Data Processing;
+– Development of knowledge/skills related to AI and Machine Learning;
+– Development of knowledge/skills in the use of the underlying mathematical-statistical foundations o Data Science and data management and analysis systems (Python, Orange, Tableau, Google Analytics).
+Module 5 – Data Visualization, Data Curation & Data Management Technology
+Knowledge of the main tools for representation and visualization effective use of textual data and to raise awareness of the main tools supporting the Data
+Curation.
+Module 6 – Dialogic Data Business Management
+Development of knowledge related to dialogic business process management and communication models management of textual data.
+Module 7 – Dialogic Data Strategy & Decision Making and error analysis to generate innovation and change
+Development of skills in using textual data to define strategies and take action decision and to develop error analysis skills to bring about innovation
+Module 8 – Applications in Data Intelligence and Marketing
+Social media applications
+Legal administration applications
+Healthcare system applications
+Community applications
+Sustainability applications
+Workshops to develop project/analysis plans/consideration on text data use in relation to specific analysis goals
+COURSE’S PECULIARITIES
+The
+First-Level Short Specialisation Degree
+’s peculiarities include:
+integration between
+computer science, statistics, and language use observations, including dialogic
+applications of knowledge and competences to several fields
+: in corporate-organizational, healthcare, political-economic and economic-political, legal, community, and public policy
+promoting the increase
+of an
+effective, efficient and rigorous management
+of text data generation, thanks to the interaction between the disciplines mentioned above, which allow changing the way we recognize and analyse text data, and therefore to intervene with respect to multiple critical issues found today in analysis (extrapolating knowledge from a large quantity of data; not knowing which data to select; not knowing how to use data for specific goals, etc.)
+Future Data Scientists & Data Analysts can develop broad competences in the observation and gathering of text data, and in the implementation of IT and statistical tools to analyse them.
+Admission and teaching mode
+The
+First-Level Short Specialisation Degree
+in Data Science & Data Management
+includes in-person (mainly) and remote
+lessons
+, and promotes the interaction between professors and students, through lectures, individual
+practice
+and workshops on multiple application cases. The course includes a mandatory 250-hour
+traineeship
+/project work and a final exam. A mandatory
+attendance
+of 70% of the total hours (300) is required.
+General ranking of merit
+The general ranking of merit for the academic year 2024/25 will be published on the Italian page of this
+First-Level Short Specialisation Degree
+according to the timing provided in the Call.
+Single course
+Theoretical-epistemological fundamentals: Formalization of language interactions
+The purpose of this module is to help students master the scientific formalization of human interactions occurring through the use of language, and how the cognitive process of Dialogic Sciences allows having textual data.
+Role profile and competences of a Data Scientist and Data Analyst
+The purpose of this module is outlining the roles, competences and interactions between Data Scientist and Data Analyst. It will focus on the goals of those two professional profiles, their competences, and how they interact to manage the data generation process.
+M.A.D.I.T. methodology for text data analysis
+The purpose of this module is mastering the M.A.D.I.T. methodology to create projects based on specific text data analysis goals (e.g. descriptive analysis of target needs, anticipation of future needs and scenarios, definition of strategies, decision-making processes, innovation, etc.).
+Methodology to build a statistical-experimental analysis plan on text data
+The purpose of this module is mastering a statistical-experimental method to create rigorous and effective analysis plans (hypothesis development, strategic data collection, processing of considerations and new demands, suitable choice of statistical instruments, etc.).
+Advanced statistics for data science
+The purpose of this class is developing knowledge and use competences on maths/statistical fundamentals behind Data Science (differential and integral calculus, linear algebra, probability theory, data distribution and analysis models, hypothesis verification, regression analysis, etc.).
+Data management and analysis data
+The purpose of this module is developing knowledge and competences in using the most common data management and analysis systems, with focus on their features (R, Python, PowerBI, Tableau, Google Analytics, SAS etc.).
+Machine Learning, AI and Data Science Algorithms
+The purpose of this module is developing knowledge and skills on the AI (state of the art and data/information processing; techniques, tools and systems based on the AI) and Machine Learning (algorithms, model selection, deep learning etc.) so that students are able to analyse data and extract knowledge from them.
+Big Data Analytics & Real Time Big Data Processing
+The purpose of this module is offering state-of-the-art knowledge on Big Data Analytics & Real Time Big Data Processing, and to promote reflections on the biggest issues and strategies linked to the extraction of knowledge, before a large quantity of data.
+Data Management - Text data generation process management
+The purpose of this module is developing knowledge based on business process management and data management models (data collection, data quality, database NoSQL vs SQL, DBSM and DWH J) and develop competences in text data generation analysis.
+Data Management - Error analysis to generate innovation and change
+The purpose of this module is to develop knowledge and competences in analysing errors in the text data generation process, and on how to use it to make changes, innovation and new strategies in intervention contexts.
+Data Management: Data Strategy & Decision Making
+The purpose of this module is to summarise the notions learned in the other lessons, to increase the competence in using text data for specific tasks, including strategy definition and decision-making processes, starting from the text data collected.
+Applications in the Data Intelligence and Marketing fields - Customer text analysis
+Workshops to develop projects/analysis plans/considerations on the use of Customers’ texts, based on specific analysis objectives (e.g. need analysis, anticipation of future needs and scenarios, strategy definition, innovation, decision-making process, etc.).
+Social media applications - Persuasiveness text analysis and community emergency management
+Workshops to develop projects/analysis plans/considerations on the use of ‘persuasive’ texts and texts during community emergencies based on specific analysis objectives (e.g. need analysis, anticipation of future needs and scenarios, strategy definition, innovation, decision-making process, etc.
+Legal administration applications - Controversies and dispute management text analysis
+Workshops to develop projects/analysis plans/considerations on the use of ‘controversy’ and ‘dispute’ text analysis, based on specific analysis objectives (e.g. need analysis, anticipation of future needs and scenarios, strategy definition, innovation, decision-making process, etc.
+Healthcare system applications - Health configuration text analysis
+Workshops to develop projects/analysis plans/considerations on the use of ‘Health’ promotion texts, based on specific analysis objectives (e.g. need analysis, anticipation of future needs and scenarios, strategy definition, innovation, decision-making process, etc.
+Information
+Thematic area:
+Scientific innovation
+End of classes:
+29/10/2025
+Mandatory attendance:
+70%
+Minimum available spots:
+6
+Maximum available spots:
+100
+First instalment:
+€
+									3.322,50
+Second instalment:
+€
+									2.200,00
+Selection process notice
+Find the admission titles in the selection notice 24/25.
+FAQ
+Will there be a traineeship/stage?
+Yes, there will be a 250-hour traineeship to observe and develop text data analysis skills in relevant institutions.
+Will there be any forms of facilitation?
+The
+First-Level Short Specialisation Degree
+does not provide any forms of facilitation. You can check whether you have the requirements to request a scholarship to the University of Padua.
+Can I follow the course online?
+The Course include part of the lessons in person, and part of them online. For specific needs, refer to the course’s Director.
+Will the coursehelp me find a job?
+The
+First-Level Short Specialisation Degree
+collaborates with a network of enterprises and professionals and helps students to interface with the institutions they would like to work for.
+Classes start:
+25/11/2024
+Duration:
+One-year
+Venue:
+Padua
+Language:
+Italian
+ECTS:
+60
+Teaching method:
+In-person
+Total enrolment fee:
+€
+							5.521,50
+Pre-enrolment deadline:
+25/11/2024
+Management
+Prof. Gian Piero Turchi
+Administrative Office
+Contact Person:
+Gian Piero Turchi
+Phone:
+049 8276633
+Email:
+gianpiero.turchi@unipd.it
+Teaching method:
+ECTS:
+In-person lessons:
+H
+Month and year:
+Fee:
+€
+Close
+© 2024 UEL. All rights reserved.
+Privacy policy
+-
+Cookie Policy
+-
+Cookies settings
+Page load link
+Go to Top

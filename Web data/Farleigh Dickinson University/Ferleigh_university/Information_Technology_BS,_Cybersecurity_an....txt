@@ -1,0 +1,271 @@
+Link: https://www.fdu.edu/program/bs-it-ms-csia/
+
+Skip to content
+Information Technology BS, Cybersecurity and Information Assurance MS 4 Plus 1 Degree
+Home
+/
+Program
+/
+Information Technology BS, Cybersecurity and Information Assurance MS 4 Plus 1 Degree
+The Lee Gildart and Oswald Haase School of Computer Sciences and Engineering (GHSCSE) offers a 4 Plus 1 program that allows qualified students to obtain a Bachelor of Science (B.S.) in information technology (IT)
+and a
+with a pathway to the Master of Science (M.S.) in Cybersecurity and Information Assurance. This 4 Plus 1 program is offered by GHSCSE at the Metropolitan Campus, Teaneck, New Jersey. In particular, three graduate courses:
+CSCI6638
+Operating Systems (3 credits),
+CSCI6731
+Computer Networks and
+CSCI6738
+Cybersecurity, when successfully completed under the 4 Plus 1 program, can be credited toward both the B.S. and M.S. degrees.
+Students must have achieved a cumulative grade point ratio (CGPR) of at least 2.75. A minimum of 120 credits is required for the B.S. in information technology. In addition, for degree completion, the B.S. in information technology degree requires a minimum CGPR of 2.00, while the M.S. in computer engineering degree requires a minimum CGPR of 2.75.
+Professional Accreditation and Other Designation
+The B.S. in information technology program is accredited by the
+Computing Accreditation Commission of ABET
+(
+https://www.abet.org
+). This accreditation applies only to the B.S. in information technology program offered by the GHSCSE at the Metropolitan Campus, Teaneck, New Jersey.
+Students completing the B.S. in information technology program with a concentration in security and forensics are eligible to receive a Certificate of Completion of a National Security Agency (NSA) and Department of Homeland Security (DHS)-designated CAE-CDE program of study from FDU’s Center for Cybersecurity and Information Assurance (CCIA). CAE-CDE denotes the Center for Academic Excellence for Cyber Defense Education.
+Cooperative Education Option
+Students in the B.S. in information technology program have the option to undertake a cooperative education experience and earn a total of 6 academic credits toward their technical electives.
+Degree Plan
+The total degree requirement for the combined degree program is 120 credits. The course distribution is provided below.
+1st Semester (14 credits)
+CSCI1105
+Survey of Computers and Computer Software (3 credits)
+INFO1101
+Computer Concepts and Technology (3 credits)
+MATH1105
+College Algebra (4 credits)
+UNIV1001
+Transitioning to University Life (1 credit)
+WRIT1002
+Composition I: Rhetoric and Inquiry (3 credits)
+2nd Semester (14 credits)
+CGD1177
+Introduction to Digital Media (3 credits)
+INFO1201
+Information Technology (3 credits)
+MATH1107
+Precalculus (4 credits)
+UNIV1002
+Preparing for Professional Life (1 credit)
+WRIT1003
+Composition II: Research and Argument (3 credits)
+3rd Semester (16 credits)
+EGTG2210
+Technical Communications (3 credits)
+INFO2101
+Computer Programming for Information Technologists I (3 credits)
+INFO2105
+Internet and Web Applications (3 credits)
+UNIV2001
+Cross Cultural Perspectives (3 credits)
+First course of the Laboratory Science Sequence Elective (4 credits)
+Students are required to complete one full-year laboratory science sequence totaling 8 credits. They select the first course of the sequence from the following courses:
+BIOL1221
+Biological Diversity Lecture (3 credits) and
+BIOL1222
+Biological Diversity Lab (1 credit)
+or
+CHEM1201
+General Chemistry I Lecture (3 credits) and
+CHEM1203
+General Chemistry Laboratory (1 credit)
+or
+PHYS2101
+General Physics I Lecture (3 credits) and
+PHYS2201
+Physics I Laboratory (1 credit)
+4th Semester (16 credits)
+CSCI2235
+Survey of Computing Security (3 credits)
+EGTG2286
+Digital System Design (3 credits)
+INFO2102
+Computer Programming for Information Technologists II (3 credits)
+INFO2106
+Website Design and Management (3 credits)
+Second course of the Laboratory Science Sequence Elective (4 credits)
+Select the second course of the sequence in the same science discipline from the following courses:
+BIOL1233
+Molecules, Cells and Genes Lecture (3 credits) and
+BIOL1234
+Lab: Molecules, Cells and Genes (1 credit)
+or
+CHEM1202
+General Chemistry II Lecture (3 credits) and
+CHEM1204
+Lab: General Chemistry II (1 credit)
+or
+PHYS2102
+General Physics II Lecture (3 credits) and
+PHYS2202
+Physics II Laboratory (1 credit)
+5th Semester (15 credits)
+CSCI2234
+Data Structures and Algorithms (3 credits)
+CSCI2247
+Assembly Language Programming (3 credits)
+ENGR3000
+Modern Technologies: Principles, Applications and Impacts (3 credits)
+MATH2337
+Applied Statistics I (3 credits)
+Concentration or Minor or IT Elective Course (3 credits)
+6th Semester (15 credits)
+CSCI3268
+Database Systems (3 credits)
+CSCI3274
+Linux System Administration (3 credits)
+CSCI6638
+Operating Systems (3 credits)
+INFO3205
+Digital Media Publishing (3 credits)
+UNIV2002
+Global Issues (3 credits)
+7th Semester (15 credits)
+CSCI6731
+Computer Networks (3 credits)
+EGTG4269
+Management and Engineering Economics (3 credits)
+INFO3201
+Human Computer interface (3 credits)
+INFO4844
+Programming for the Internet or
+Concentration or Minor or IT Elective Course (3 credits)
+MATH2255
+Discrete Structures (3 credits)
+8th Semester (15 credits)
+CSCI6738
+Cybersecurity (3 credits)
+INFO4201
+Information Technology Needs Assessment and Management (3 credits)
+INFO4205
+Information Technology Capstone Project (3 credits)
+Concentration or Minor or IT Elective Courses (6 credits)
+Concentration or Minor or IT Elective Requirements (12 credits)
+The program offers three in-demand concentration areas:
+network and system administration
+,
+security and forensics
+and
+web-development technology
+. Each concentration is 15 credits. The program also offers a
+minor in computer forensics
+. The courses for the three concentrations and the minor are listed below.
+Network and System Administration Concentration
+CSCI3274
+Linux System Administration (3 credits)
+CSCI6638
+Operating Systems (3 credits)
+CSCI6731
+Computer Networks (3 credits)
+CSCI6738
+Cybersecurity (3 credits)
+INFO2101
+Computer Programming for Information Technologists I (3 credits)
+Security and Forensics Concentration
+CRIM2218
+Computer Technologies and Cyber Crime (3 credits)
+CRIM3327
+File System Forensic Analysis and Investigation (3 credits)
+CRIM4010
+Computer Forensic, Software and Hardware Applications (3 credits)
+CSCI3783
+Information Security (3 credits)
+CSCI6638
+Operating Systems (3 credits)
+Web-development Technology Concentration
+CGD1177
+Introduction to Digital Media (3 credits)
+INFO2105
+Internet and Web Applications (3 credits)
+INFO2106
+Website Design and Management (3 credits)
+INFO3201
+Human Computer Interface (3 credits)
+INFO4844
+Programming for the Internet (3 credits)
+Computer Forensics Minor for Information Technology BS, Cybersecurity MS students
+Required Courses (12 credits)
+CRIM2218
+Computer Technologies and Cyber Crime (3 credits)
+CRIM3327
+File System Forensic Analysis and Investigation (3 credits)
+INFO1101
+Computer Concepts and Technology (3 credits)
+CSCI6731
+Computer Networks
+Elective Course (3 credits)
+CRIM4010
+Computer Forensic, Software and Hardware Applications (3 credits)
+or
+CSCI6738
+Cybersecurity (3 credits)
+All five required courses in the network and system administration are already included in the IT core requirements, so students automatically fulfill this concentration. Four out of the five courses in the web-development technology concentration are also included in the IT core requirements, so students just need to take
+INFO4844
+Programming for the Internet (3 credits) to complete this concentration. Moreover, one of the five required courses in the security and forensics concentration is also part of the IT core requirements, so students must take the remaining four courses if they want to complete this concentration.
+The 15-credit minor in computer forensics consists of 12 credits of four required courses and a 3-credit elective to be selected between two courses. Two of the required courses and one of the two elective courses are already included in the IT core requirements. Thus, IT majors only need to take the two remaining required courses,
+CRIM2218
+Computer Technologies and Cyber Crime (3 credits) and
+CRIM3327
+File System Forensic Analysis and Investigation (3 credits) in order to pursue the minor in computer forensics.
+Students can do one of the following to complete the remaining four courses (12 credits):
+Take the remaining four courses in the security and forensics concentration to complete this concentration and the minor in computer forensics.
+Take
+INFO4844
+Programming for the Internet to fulfill the web-development technology concentration and either
+Three 3-credit IT electives or
+CRIM2218
+Computer Technologies and Cyber Crime and
+CRIM3327
+File System Forensic Analysis and Investigation, the two remaining required courses — completing the minor in computer forensics — and one 3-credit IT elective course.
+Take
+CRIM2218
+Computer Technologies and Cyber Crime and
+CRIM3327
+File System Forensic Analysis and Investigation — completing the minor in computer forensics — and two 3-credit IT elective courses.
+Take four 3-credit IT electives.
+Students must obtain prior approval from the GHSCSE academic adviser for any course selection. The required courses in the three concentrations are listed above. To take any course in the concentration, a student must meet all the prerequisites for that course. They must complete 15 credits of the required courses in the concentration to be eligible for a certificate in that area.
+Information Technology Electives
+A list of recommended IT electives is provided below. Prerequisites for any courses selected must be met.
+COMM2215
+Photoshop for Advertisement and Illustration (3 credits)
+COMM2648
+,
+COMM2649
+Basic Video Editing Lecture and Laboratory (3 credits)
+CSCI3314
+Mobile Application Development (3 credits)
+CSCI3317
+Computer Game Programming (3 credits)
+CSCI3331
+Advanced Database (3 credits)
+CSCI3345
+Firewalls and Intrusion Detection Systems (3 credits)
+CSCI3380
+UNIX Shell Programming (3 credits)
+CSCI3420
+Cryptography (3 credits)
+CSCI3461
+Data Mining and Applications
+CSCI3485
+Big Data Analytics (3 credits)
+CSCI4380
+Systems Development with Java (3 credits)
+EGTE3288
+Microprocessor System Design II (3 credits)
+For Information
+Alfredo Tan, Director, Lee Gildart and Oswald Haase School of Computer Sciences and Engineering
+Professor of Electrical Engineering and Gregory Olsen Endowed Chair
+tan@fdu.edu
+201-692-2324
+Program Coordinator
+Kalyan Mondal, Director of Center for Cybersecurity and Information Assurance, Coordinator of B.S. in Information Technology Program, Lee Gildart and Oswald Haase School of Computer Sciences and Engineering
+Professor of Electrical Engineering
+mondal@fdu.edu
+201-692-2123
+Learn more
+Gildart Haase School of Computer Sciences and Engineering
+Admissions
+Apply now
+Visit FDU
+Request Information

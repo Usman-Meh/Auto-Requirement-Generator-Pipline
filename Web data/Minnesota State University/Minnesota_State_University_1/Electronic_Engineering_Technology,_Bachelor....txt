@@ -1,0 +1,480 @@
+Link: https://cset.mnsu.edu/academic-programs/electrical-engineering-technology/electrical-engineering-technology/
+
+College of Science, Engineering & Technology
+Academic Programs
+Electronic Engineering Technology
+Electronic Engineering Technology, Bachelor of Science (BS)
+Electronic Engineering Technology Section
+Electronic Engineering Technology
+Electronic Engineering Technology, Bachelor of Science (BS)
+Electronic Engineering Technology Pathway
+Electronic Engineering Technology, Minor
+Renewable Energy, Certificate
+Electrical Engineering Technology Faculty & Staff
+Electronic Engineering Technology (BS)
+Current Catalog Year
+2024-2025
+Degree
+Bachelor of Science
+Major /                                         Total Credits
+100 / 128
+Locations
+Mankato
+Accreditation
+ABET
+Accreditation Board for Engineering and Technology
+Apply
+Program Requirements
+Degree Plan
+Program
+                                    Requirements
+Required General Education
+Students in this degree program must complete 21 additional general education course credit hours to meet university general education and diverse cultures requirements.
+COMM 102
+Public Speaking
+3 credits
+A course in communication principles to develop skills in the analysis and presentation of speeches.
+Prerequisites:
+none
+Goal Areas: GE-1B
+ENG 101
+Foundations of Writing & Rhetoric
+4 credits
+Students in this course approach writing as a subject of study by investigating how writing works across a variety of contexts.
+Prerequisites:
+none
+Goal Areas: GE-1A
+Prerequisites to the Major
+EE 105
+Introduction to Electrical and Computer Engineering and Technology
+1 credits
+To prepare students for engineering and technology education and profession through interactions with upper-class students, graduate students and practitioners from academia and industry; to prepare students for a career in electrical and computer engineering and technology.
+Prerequisites:
+none
+EE 107
+Intro to Electrical and Computer Engineering Through Software Development
+3 credits
+his course presents algorithmic approaches to problem solving and computer program design using the C language. Students will explore Boolean expressions, implement programs using control structures, modular code and file input/output, and interface with external hardware using robots and sensors.
+Prerequisites:
+none
+EE 234
+Microprocessor Engineering I
+3 credits
+A course that teaches how to write computer assembly language programs, make subroutine calls, perform I/O operations, handle interrupts and resets, interface with a wide variety of peripheral chips to meet the requirements of applications.
+Prerequisites:
+EE 107 or EET 142
+EE 235
+Microprocessor Engineering Laboratory I
+1 credits
+Use of development boards and assembly language programming to handle interrupts, interface with parallel I/O ports, memory, and timers. Experiments will involve signal and frequency measurements, data conversions, and interface design. EE 234 must be completed before taking this course or taken concurrently. If you would like to take it concurrently, please contact the instructor for permission.
+Prerequisites:
+EE 234
+EET 113
+DC Circuits
+3 credits
+A study of DC electrical circuits, Kirchhoff's laws, series and parallel circuits, inductors, capacitors, circuit response to RL, RC and RLC circuits. Thevenin's equivalent circuit theorem, and other network analysis theorems. Use of dependent sources in DC circuits. MATH 112 or 115 may be taken concurrently.
+Prerequisites:
+MATH 112 or MATH 115
+EET 114
+AC Circuits
+3 credits
+A study of AC circuits, power, phasors, series and parallel AC networks, and network analysis theorems. Ohm's Laws and Kirchhoff's Laws for AC circuits. Use of dependent sources in AC circuits. MATH 113 or 115 must be taken concurrently.
+Prerequisites:
+MATH 113 or MATH 115 may be taken concurrently.
+EET 141
+Integrated Computer Technology I
+4 credits
+This course covers digital circuit and logic needed for electronic and computer engineering technology. Covers binary arithmetic, timing anlaysis, TTL, CMOS, logic gates, Boolean algebra, multiplexer, counter, adder, comparator, logic simulation, flip-flops, registers, and use of digital test equipment. Students design and build a complex architecture from small-scale logic components. Coreq: EET 113 Fall
+Prerequisites:
+none
+EET 143
+Integrated Computer Technology III
+4 credits
+Sequential cuircuits, logic timing, clock distribution, counter, LED display, shift register, transceiver, 555 timer, 555 oscillator, D/A converter, RAM, ROM, mass memory, synchronous logic, asynchronous logic, microprocessor-interfacing, testability, and simulation.
+Prerequisites:
+EE 107, EET 142
+EET 221
+Electronic CAD
+3 credits
+Drafting principles involving use of computer electronic CAD software in laying out block diagrams, schematic diagrams, production drawings, graphical presentation of data, and printed circuit board layout and construction.
+Prerequisites:
+EET 113
+EET 222
+Electronics I
+4 credits
+An introduction to semiconductor theory and circuits: includes characteristics curves, biasing techniques and small signal analysis of FETs and MOSFETs, feedback concept, BJT and FETs frequency response. Prereq: EET 114 or concurrent
+Prerequisites:
+EET 113
+EET 223
+Electronics II
+4 credits
+An introduction to differential amplifier, linear and nonlinear operational amplifiers, power amplifiers, linear digital ICs, oscillators, power supplies, D/A, A/D conversion, four layered devices and their applications.
+Prerequisites:
+MATH 121, PHYS 211, EET 222
+MATH 115
+Precalculus Mathematics
+4 credits
+This course will cover topics of precalculus mathematics. Topics covered will include functions, graphs of functions, exponential and logarithmic functions, conic sections, systems of equations and inequalities, matrices, trigonometric functions, circular functions, vectors and complex numbers, induction, series and probability.
+Prerequisites:
+Satisfy Math Placement Table in this section, or grade of P in MATH 098.
+Goal Areas: GE-04
+MATH 121
+Calculus I
+4 credits
+Limits, continuity, the derivative and applications, transcendental functions, L'Hopital's Rule, and development of the Riemann integral.
+Prerequisites:
+Satisfy Placement Table in this section, MATH 115 or both MATH 112 and MATH 113 with "C" (2.0) or better.
+Goal Areas: GE-04
+MATH 127
+Calculus II for Engineering Technology: Integration
+2 credits
+A continuation of the study of calculus from MATH 121 including transcendental functions, L'Hopital's rule, techniques of integration, and vectors in two and three dimensions. Content is intended for students enrolled in any engineering technology program. Credit for both MATH 127 and MATH 122 is not allowed.
+Prerequisites:
+MATH 121 with "C" (2.0) or better or consent
+PHYS 211
+Principles of Physics I
+4 credits
+General background in physical concepts for those who do not plan advanced study in physics or engineering. Topics include mechanics, fluids, heat and thermodynamics. Lecture and laboratory.
+Prerequisites:
+Either MATH 112 and MATH 113, or MATH 115
+Goal Areas: GE-02, GE-03
+PHYS 212
+Principles of Physics II
+4 credits
+Includes waves and sound, electricity and magnetism, light and optics, and topics in modern physics. Lecture and laboratory.
+Prerequisites:
+PHYS 211
+Major Common Core
+Three (3) credits of EET 497 may be used to satisfy common core requirements.
+CHEM 104
+Introduction to Chemistry
+3 credits
+This course is an introduction to general chemistry. It is a non-laboratory class designed to prepare students for CHEM 201 or to be utilized as a general education course. This course will address more mathematical relationships than CHEM 106. Credit will not be given to students who have previously taken a chemistry course at or above Chem 111 and received a passing grade.
+Prerequisites:
+none
+Goal Areas: GE-03
+EET 340
+Programmable Hardware Technology
+4 credits
+Create working programmable hardware using FPGA, GAL and other logic technology. Use industry standard tools such as Verilog, Xilinx, Orcad and Multisim along with development kits and extension boards to implement programmable systems. Interface LED displays, switches and I.O devices with programmable logic to create processing systems. Evolution of programming logic and analog circuits.
+Prerequisites:
+EE 234 and EE 235 or EET 254
+EET 341
+Electronic Shop Practices
+2 credits
+An introduction to tools, equipment, materials, and techniques used in fabrication of electronic projects and printed circuit boards.
+Prerequisites:
+EET 221
+EET 355
+Electrical Power Systems
+4 credits
+Electrical power and magnetic circuit concepts, transformers, generators and motors (DC, synchronous, induction), special purpose motors, power-electronic motor drivers, prime movers/alternatives, generation, transmission/distribution, system stability/protection.
+Prerequisites:
+EET 114, MATH 127, PHYS 212
+EET 384
+Microprocessors II
+4 credits
+A study of a high performance microprocessor architecture. Applications of a microprocessor for monitoring and controlling systems will be studied. Optimal utilization of a microprocessors resources will be stressed. PC programming in assembly and a high level language.
+Prerequisites:
+none
+EET 452
+Operational Amplifier Applications
+3 credits
+Operational amplifier circuits utilized in filters, sensors, comparators, voltage regulators, device testing, measurement systems, multipliers, phase-locked loops, and A/D converters. Differential amplifier basics. Linear integrated circuit processing.
+Prerequisites:
+MATH 127, EET 223
+EET 456
+Analog Communications
+4 credits
+Communications principles and systems. Practical engineering aspects involved in modulation-demodulation, receivers, transmitters and filters. Also included are radiation and antennas, guided waves, microwaves and microwave systems. Course must be taken concurrently with STAT 221.
+Prerequisites:
+EET 223
+EET 461
+Industrial Automation I
+4 credits
+Automation components and subsystems involving sensors, transistors, logic, amplifiers, software, microprocessors, PLC's, actuators, encoders, stages, motors, controllers and drives. Students design, simulate, build, test and document automation systems for Capstone projects.
+Prerequisites:
+EET 223, EET 384
+EET 462
+Industrial Automation II
+4 credits
+Continues building skills in automation components and subsystems involving sensors, transistors, logic, amplifiers, software, microprocessors, PLC's, actuators, encoders, stages, motors, controllers and drives. Students design, simulate, build, test and document automation systems for Capstone projects.
+Prerequisites:
+EET 461
+EET 497
+Internship
+1-6 credits
+Should be taken at end of junior year. Permission required. Pre: 40 hrs EET credits or written permission from program coordinator.
+Prerequisites:
+none
+MET 427
+Quality Management Systems
+3 credits
+This course is focused on quality assurance systems, management philosophies, methodology, function and impact of quality systems in manufacturing operations. Development and application of statistical process control tools.
+Prerequisites:
+STAT 154
+Major Restricted Electives
+(choose a minimum of 5 credits from 300-level and 400-level courses with advisor's approval)
+Major Unrestricted Electives
+(choose one of the following)
+STAT 154
+Elementary Statistics
+4 credits
+An introduction to statistical concepts and methods that is applicable to all disciplines. Topics include descriptive measures of data, probability and probability distributions, statistical inference, tests of hypotheses, confidence intervals, correlation, linear regression, and analysis of variance. The use of statistical software will be emphasized. Prereq: ACT Math sub-score of 19 or higher, successful completion of MATH 098 or appropriate placement scores (see Placement Information under Statistics) Fall, Spring, Summer GE-4
+Prerequisites:
+Satisfy Placement Table in this section, or MATH 098 with grade of P.
+Goal Areas: GE-02, GE-04
+STAT 221
+Applied Probability and Statistics for Engineers
+3 credits
+An introduction to statistics with emphasis on the applied probability models used in Science and Engineering. Topics covered include samples, probability, probability distributions, estimation, one and two samples hypotheses tests, correlation, simple and multiple linear regressions.
+Prerequisites:
+MATH 112 with grade of "C" (2.0) or better
+STAT 354
+Concepts of Probability & Statistics
+4 credits
+A calculus based introduction to probability and statistics. Topics include probability, random variables, probability distributions (discrete and continuous), joint probability distributions (discrete and continuous), statistical inference (both estimation and hypothesis testing), confidence intervals for distribution of parameters and their functions, sample size determinations, analysis of variance, regression, and correlation. This course meets the needs of the practitioner and the person who plans further study in statistics. Same as MATH 354. Prereq: MATH 122 with C or better or consent Fall, Spring, Summer
+Prerequisites:
+MATH 122 with C or better or consent
+Other Graduation Requirements
+EE 450
+Engineering Economics
+3 credits
+Overview of accounting and finance and their interactions with engineering. Lectures include the development and analysis of financial statements, time value of money, decision making tools, cost of capital, depreciation, project anaysis and payback, replacement analysis, and other engineering decision making tools.
+Prerequisites:
+Advanced standing in the program
+Degree Plan
+First Year
+Fall
+- 16 Credits
+ENG 101
+Foundations of Writing & Rhetoric
+4 credits
+Students in this course approach writing as a subject of study by investigating how writing works across a variety of contexts.
+Prerequisites:
+none
+Goal Areas: GE-1A
+EE 105
+Introduction to Electrical and Computer Engineering and Technology
+1 credits
+To prepare students for engineering and technology education and profession through interactions with upper-class students, graduate students and practitioners from academia and industry; to prepare students for a career in electrical and computer engineering and technology.
+Prerequisites:
+none
+EET 113
+DC Circuits
+3 credits
+A study of DC electrical circuits, Kirchhoff's laws, series and parallel circuits, inductors, capacitors, circuit response to RL, RC and RLC circuits. Thevenin's equivalent circuit theorem, and other network analysis theorems. Use of dependent sources in DC circuits. MATH 112 or 115 may be taken concurrently.
+Prerequisites:
+MATH 112 or MATH 115
+MATH 115
+Precalculus Mathematics
+4 credits
+This course will cover topics of precalculus mathematics. Topics covered will include functions, graphs of functions, exponential and logarithmic functions, conic sections, systems of equations and inequalities, matrices, trigonometric functions, circular functions, vectors and complex numbers, induction, series and probability.
+Prerequisites:
+Satisfy Math Placement Table in this section, or grade of P in MATH 098.
+Goal Areas: GE-04
+EET 141
+Integrated Computer Technology I
+4 credits
+This course covers digital circuit and logic needed for electronic and computer engineering technology. Covers binary arithmetic, timing anlaysis, TTL, CMOS, logic gates, Boolean algebra, multiplexer, counter, adder, comparator, logic simulation, flip-flops, registers, and use of digital test equipment. Students design and build a complex architecture from small-scale logic components. Coreq: EET 113 Fall
+Prerequisites:
+none
+Spring
+- 16 Credits
+EE 107
+Intro to Electrical and Computer Engineering Through Software Development
+3 credits
+his course presents algorithmic approaches to problem solving and computer program design using the C language. Students will explore Boolean expressions, implement programs using control structures, modular code and file input/output, and interface with external hardware using robots and sensors.
+Prerequisites:
+none
+EET 114
+AC Circuits
+3 credits
+A study of AC circuits, power, phasors, series and parallel AC networks, and network analysis theorems. Ohm's Laws and Kirchhoff's Laws for AC circuits. Use of dependent sources in AC circuits. MATH 113 or 115 must be taken concurrently.
+Prerequisites:
+MATH 113 or MATH 115 may be taken concurrently.
+MATH 121
+Calculus I
+4 credits
+Limits, continuity, the derivative and applications, transcendental functions, L'Hopital's Rule, and development of the Riemann integral.
+Prerequisites:
+Satisfy Placement Table in this section, MATH 115 or both MATH 112 and MATH 113 with "C" (2.0) or better.
+Goal Areas: GE-04
+Second Year
+Fall
+- 17 Credits
+MATH 127
+Calculus II for Engineering Technology: Integration
+2 credits
+A continuation of the study of calculus from MATH 121 including transcendental functions, L'Hopital's rule, techniques of integration, and vectors in two and three dimensions. Content is intended for students enrolled in any engineering technology program. Credit for both MATH 127 and MATH 122 is not allowed.
+Prerequisites:
+MATH 121 with "C" (2.0) or better or consent
+EET 143
+Integrated Computer Technology III
+4 credits
+Sequential cuircuits, logic timing, clock distribution, counter, LED display, shift register, transceiver, 555 timer, 555 oscillator, D/A converter, RAM, ROM, mass memory, synchronous logic, asynchronous logic, microprocessor-interfacing, testability, and simulation.
+Prerequisites:
+EE 107, EET 142
+PHYS 211
+Principles of Physics I
+4 credits
+General background in physical concepts for those who do not plan advanced study in physics or engineering. Topics include mechanics, fluids, heat and thermodynamics. Lecture and laboratory.
+Prerequisites:
+Either MATH 112 and MATH 113, or MATH 115
+Goal Areas: GE-02, GE-03
+EET 221
+Electronic CAD
+3 credits
+Drafting principles involving use of computer electronic CAD software in laying out block diagrams, schematic diagrams, production drawings, graphical presentation of data, and printed circuit board layout and construction.
+Prerequisites:
+EET 113
+EET 222
+Electronics I
+4 credits
+An introduction to semiconductor theory and circuits: includes characteristics curves, biasing techniques and small signal analysis of FETs and MOSFETs, feedback concept, BJT and FETs frequency response. Prereq: EET 114 or concurrent
+Prerequisites:
+EET 113
+Spring
+- 17 Credits
+PHYS 212
+Principles of Physics II
+4 credits
+Includes waves and sound, electricity and magnetism, light and optics, and topics in modern physics. Lecture and laboratory.
+Prerequisites:
+PHYS 211
+EET 223
+Electronics II
+4 credits
+An introduction to differential amplifier, linear and nonlinear operational amplifiers, power amplifiers, linear digital ICs, oscillators, power supplies, D/A, A/D conversion, four layered devices and their applications.
+Prerequisites:
+MATH 121, PHYS 211, EET 222
+EE 234
+Microprocessor Engineering I
+3 credits
+A course that teaches how to write computer assembly language programs, make subroutine calls, perform I/O operations, handle interrupts and resets, interface with a wide variety of peripheral chips to meet the requirements of applications.
+Prerequisites:
+EE 107 or EET 142
+EE 235
+Microprocessor Engineering Laboratory I
+1 credits
+Use of development boards and assembly language programming to handle interrupts, interface with parallel I/O ports, memory, and timers. Experiments will involve signal and frequency measurements, data conversions, and interface design. EE 234 must be completed before taking this course or taken concurrently. If you would like to take it concurrently, please contact the instructor for permission.
+Prerequisites:
+EE 234
+EET 341
+Electronic Shop Practices
+2 credits
+An introduction to tools, equipment, materials, and techniques used in fabrication of electronic projects and printed circuit boards.
+Prerequisites:
+EET 221
+Third Year
+Fall
+- 17 Credits
+CHEM 104
+Introduction to Chemistry
+3 credits
+This course is an introduction to general chemistry. It is a non-laboratory class designed to prepare students for CHEM 201 or to be utilized as a general education course. This course will address more mathematical relationships than CHEM 106. Credit will not be given to students who have previously taken a chemistry course at or above Chem 111 and received a passing grade.
+Prerequisites:
+none
+Goal Areas: GE-03
+EET 355
+Electrical Power Systems
+4 credits
+Electrical power and magnetic circuit concepts, transformers, generators and motors (DC, synchronous, induction), special purpose motors, power-electronic motor drivers, prime movers/alternatives, generation, transmission/distribution, system stability/protection.
+Prerequisites:
+EET 114, MATH 127, PHYS 212
+EET 384
+Microprocessors II
+4 credits
+A study of a high performance microprocessor architecture. Applications of a microprocessor for monitoring and controlling systems will be studied. Optimal utilization of a microprocessors resources will be stressed. PC programming in assembly and a high level language.
+Prerequisites:
+none
+EET 452
+Operational Amplifier Applications
+3 credits
+Operational amplifier circuits utilized in filters, sensors, comparators, voltage regulators, device testing, measurement systems, multipliers, phase-locked loops, and A/D converters. Differential amplifier basics. Linear integrated circuit processing.
+Prerequisites:
+MATH 127, EET 223
+Spring
+- 17 Credits
+STAT 221
+Applied Probability and Statistics for Engineers
+3 credits
+An introduction to statistics with emphasis on the applied probability models used in Science and Engineering. Topics covered include samples, probability, probability distributions, estimation, one and two samples hypotheses tests, correlation, simple and multiple linear regressions.
+Prerequisites:
+MATH 112 with grade of "C" (2.0) or better
+EET 340
+Programmable Hardware Technology
+4 credits
+Create working programmable hardware using FPGA, GAL and other logic technology. Use industry standard tools such as Verilog, Xilinx, Orcad and Multisim along with development kits and extension boards to implement programmable systems. Interface LED displays, switches and I.O devices with programmable logic to create processing systems. Evolution of programming logic and analog circuits.
+Prerequisites:
+EE 234 and EE 235 or EET 254
+EET 456
+Analog Communications
+4 credits
+Communications principles and systems. Practical engineering aspects involved in modulation-demodulation, receivers, transmitters and filters. Also included are radiation and antennas, guided waves, microwaves and microwave systems. Course must be taken concurrently with STAT 221.
+Prerequisites:
+EET 223
+Fourth Year
+Fall
+- 15 Credits
+MET 427
+Quality Management Systems
+3 credits
+This course is focused on quality assurance systems, management philosophies, methodology, function and impact of quality systems in manufacturing operations. Development and application of statistical process control tools.
+Prerequisites:
+STAT 154
+EE 450
+Engineering Economics
+3 credits
+Overview of accounting and finance and their interactions with engineering. Lectures include the development and analysis of financial statements, time value of money, decision making tools, cost of capital, depreciation, project anaysis and payback, replacement analysis, and other engineering decision making tools.
+Prerequisites:
+Advanced standing in the program
+EET 461
+Industrial Automation I
+4 credits
+Automation components and subsystems involving sensors, transistors, logic, amplifiers, software, microprocessors, PLC's, actuators, encoders, stages, motors, controllers and drives. Students design, simulate, build, test and document automation systems for Capstone projects.
+Prerequisites:
+EET 223, EET 384
+Spring
+- 13 Credits
+EET 462
+Industrial Automation II
+4 credits
+Continues building skills in automation components and subsystems involving sensors, transistors, logic, amplifiers, software, microprocessors, PLC's, actuators, encoders, stages, motors, controllers and drives. Students design, simulate, build, test and document automation systems for Capstone projects.
+Prerequisites:
+EET 461
+EET 497
+Internship
+3 credits
+Should be taken at end of junior year. Permission required. Pre: 40 hrs EET credits or written permission from program coordinator.
+Prerequisites:
+noneInitial deposit: N/A
+
+
+Application Fee for Undergraduate: $ 20
+Application Fee for Postgraduate: $ 40
+
+
+Annual Fee for Undergraduate: $ 18,812
+Annual Fee for Postgraduate: $ 14,918
+
+
+English Language Requirements Undergraduate only:
+TOEFL iBT (internet-based test) score of 61 or better
+Pearson Test of English (PTE) score of 47 or better
+IELTS academic test score of 5.5 or better
+
+
+English Language Requirements Postgraduate only:
+Different for every course and given in course content 
+
+
+Entry Requirements Undergraduate only:
+A cumulative high school GPA of 3.0 or higher or A rank in the top 50% of your high school class or An ACT composite score of 21 or higher and a minimum cumulative high school GPA of 2.7. If you do not meet the above admission requirements, you can submit additional information to consider when reviewing your application.
+
+
+Entry Requirements Postgraduate only:
+Applicants must possess the equivalent of a U.S. Bachelor's degree to be considered for graduate programs at Minnesota State Mankato. The degree must be earned at an institution recognized and approved to award the degree. GRE (Graduate Record Examination) is required by some academic programs.
+
+English Language requirements of graduate programs is different for each course. Graduate programs only have IELTS and TOEFL test scores.
+For Graduate Entry Requirements, some requirements like GPA, Score are mentioned on the course page so add them too.

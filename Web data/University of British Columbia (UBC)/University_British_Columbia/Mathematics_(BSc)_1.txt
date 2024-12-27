@@ -1,0 +1,266 @@
+Link: https://you.ubc.ca/ubc_programs/mathematics-vancouver-bsc/
+
+Mathematics (BSc)
+at UBC's
+Vancouver Campus
+Summary
+Program info
+Your future
+Requirements
+Visit program website
+Mathematics is more than just numbers and rules for calculating with them – it's a powerful tool for solving practical problems and a highly creative field of study, combining logic and precision with intuition and imagination.
+This program is also offered at UBC's
+Okanagan Campus
+Find out more
+Visit program website
+Program information
+Send details
+Campus:
+Vancouver
+Faculty:
+Faculty of Science
+Degree:
+Bachelor of Science
+Length
+4 yrs
+Co-op
+Yes
+You can combine your studies with full-time, paid work at top local and international organizations.
+Honours
+Yes
+You can study intense specialization in a single field.
+Mathematics is a powerful tool for solving practical problems and a highly creative field of study, combining logic and precision with intuition and imagination. It is more than just numbers and rules for calculating with them. The basic goal of mathematics is to reveal and explain patterns – whether the pattern appears as electrical impulses in an animal’s nervous system, as fluctuations in stock market prices, or as fine detail of an abstract geometric figure. The ability to simplify complex situations through abstraction and systematic reasoning is a great asset. Mathematics is applied as an essential tool in many different fields including business, finance, industry, government, education, and social sciences.
+The broad application of Mathematics is reflected in the variety of programs the department offers. It is possible to obtain a BSc, BA of BASc in Mathematics, with several possibilities for combined degrees with other subjects. The BSc in Mathematics allows students to concentrate in Applied Mathematics, Pure Mathematics, or Statistics. Students interested in becoming actuaries can prepare for the Society of Actuaries’ exams through careful course selection. A Combined Major in Computer Sciences and Mathematics is also available, as is the option to study Mathematics with another science subject as a Combined Honours degree. The Honours degrees are geared towards students intended to enter graduate studies in Mathematics.
+Campus features
+The Living Mathematics Project hosted at UBC is working to apply recent advances in computer programming languages and the technology of the World Wide Web to construct a new medium for the communication of Mathematics. UBC also consistently ranks highly in the prestigious undergraduate Putnam Mathematics Competition, which all students are encouraged to participate in.
+The Department of Mathematics is associated with many institutes, such as the Pacific Institute for the Mathematical Sciences (PIMS), the Institute of Applied Mathematics, and MITACS. The Mathematics Library, Math Club, Mathematics Undergraduate Computer Lab, and Mathematics Learning Centre are resources for available to undergraduate students in their mathematical studies.
+Send details
+Sample courses
+Year 1
+Year 2
+Year 3
+Year 4
+MATH 100 - Differential Calculus with Applications to Physical Sciences and Engineering
+Derivatives of elementary functions. Applications and modeling: graphing, optimization. Consult the Faculty of Science Credit Exclusion List: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414.
+MATH 101 - Integral Calculus with Applications to Physical Sciences and Engineering
+The definite integral, integration techniques, applications, modeling, infinite series.
+CPSC 110 - Computation, Programs, and Programming
+Fundamental program and computation structures. Introductory programming skills. Computation as a tool for information processing, simulation and modeling, and interacting with the world.
+PHYS 107 - Enriched Physics 1
+Classical mechanics including conservation laws, angular momentum of rigid bodies and simple harmonic motion, wave phenomena, with an introduction to special relativity, quantum mechanics, nuclear physics, statistical mechanics and solid state physics. Please consult the Faculty of Science credit exclusion lists: http://www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414
+MATH 200 - Calculus III
+Analytic geometry in 2 and 3 dimensions, partial and directional derivatives, chain rule, maxima and minima, second derivative test, Lagrange multipliers, multiple integrals with applications.
+MATH 215 - Elementary Differential Equations I
+First-order equations; linear equations; linear systems; Laplace transforms; numerical methods; trajectory analysis of plane nonlinear systems. Applications of these topics will be emphasized.
+MATH 220 - Mathematical Proof
+Sets and functions; induction; cardinality;  properties of the real numbers; sequences, series, and limits. Logic, structure, style, and clarity of proofs emphasized throughout.
+MATH 221 - Matrix Algebra
+Systems of linear equations, operations on matrices, determinants, eigenvalues and eigenvectors, diagonalization of symmetric matrices.
+CPSC 210 - Software Construction
+Design, development, and analysis of robust software components. Topics such as software design, computational models, data structures, debugging, and testing.
+CPSC 317 - Internet Computing
+Computer networking, basic communication protocols, network infrastructure and routing.  Common application-level protocols and principles associated with developing distributed applications.
+MATH 345 - Applied Nonlinear Dynamics and Chaos
+Phase plane methods, bifurcation and stability theory, limit-cycle behavior and chaos for nonlinear differential equations with applications to the sciences.  Assignments involve the use of computers.
+MATH 322 - Introduction to Group Theory
+Groups, cosets, homomorphisms, group actions, p-groups, Sylow theorems, composition series, finitely generated Abelian groups.
+STAT 302 - Introduction to Probability
+Basic notions of probability, random variables, expectation and conditional expectation, limit theorems. (Consult the Credit Exclusion list within the Faculty of Science section in the Calendar.)
+CPSC 402 - Numerical Linear Algebra
+Investigation of the practical techniques of computational linear algebra. Orthogonal transformations and their application to the solution of linear equations, the eigenproblem, and linear least squares. Complete solution of the symmetric eigenproblem, including bisection and the QR method. Refinements of these techniques for sparse matrices.
+CPSC 417 - Computer Networking
+Network protocols and architecture including internetworking, the Internet, layered communication protocols, routing, flow and congestion control, network performance, wired and wireless data communication.
+STAT 443 - Time Series and Forecasting
+Trend and seasonality, autocorrelation, stationarity, stochastic models, exponential smoothing, Holt-Winters methods, Box-Jenkins approach, frequency domain analysis.
+MATH 437 - Number Theory
+Divisibility, congruences, Diophantine equations, arithmetic functions, quadratic reciprocity, advanced topics.
+MATH 443 - Graph Theory
+Introductory course in mostly non-algorithmic topics including: planarity and Kuratowski's theorem, graph colouring, graph minors, random graphs, cycles in graphs, Ramsey theory, extremal graph theory. Proofs emphasized. Intended for Honours students.
+Follow this program
+Follow on Twitter
+View larger image
+Mathematics Building
+Life at UBC's Vancouver campus
+The historic Mathematics Building is located in the heart of UBC’s Vancouver campus. The Department of Mathematics has a prize-winning faculty who are at the top of their specialist fields.
+Find out more
+Your future
+A BSc in Mathematics equips you with the ability to solve complicated problems through analytical reasoning. Critical thinking and computational modelling are emphasized in the discipline, as is logical and flexible thinking. These are skills that are highly valued by employers in many fields. Business and IT sectors are eager to employ mathematics graduates in the software industry, actuarial field, investment, and banking.
+An undergraduate degree in Mathematics can also be a stepping stone into an education program.
+The Department of Mathematics has actuarial advisors to help you structure your Mathematics degree in preparation for taking the Society of Actuaries exam.
+Program graduates
+Research engineer, Google
+Math teacher, North Vancouver School District
+Software engineer, Apple Inc.
+Servicing analyst, BMO Corporate Finance Division
+Associate in valuation services, Deloitte
+Quantitative developer, RBC Global Asset Management
+Biomedical engineering technologist, Lions Gate Hospital
+Related programs
+Program requirements
+Canadian high schools
+International high schools
+International baccalaureate
+- Select Location -
+Basic requirements (if your province is not selected)
+Alberta
+British Columbia
+Manitoba
+New Brunswick
+Newfoundland & Labrador
+Northwest Territories
+Nova Scotia
+Nunavut
+Ontario
+Prince Edward Island
+Quebec
+Saskatchewan
+Yukon
+- Select Location -
+Basic requirements (if your country is not listed)
+Argentina
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belize
+Bermuda
+Bolivia
+Botswana
+Brazil
+British Virgin Islands
+Brunei
+Cameroon - British
+Cameroon - French
+Cayman Islands
+Chile
+China
+Colombia
+Costa Rica
+Czech Republic
+Denmark
+Dominica
+Ecuador
+Egypt – 11 Years of Education
+Egypt – 12 Years of Education
+El Salvador
+Ethiopia
+Finland
+France (French Baccalaureate)
+Germany
+Ghana
+Gibraltar
+Greece
+Grenada
+Guatemala
+Guyana
+Honduras
+Hong Kong
+India
+Indonesia
+Iran
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kuwait
+Lebanon
+Lesotho
+Liberia
+Macao
+Malawi
+Malaysia
+Mauritius
+Mexico
+Mongolia
+Montserrat
+Morocco
+Namibia
+Netherlands
+New Zealand
+Nigeria
+Norway
+Oman
+Pakistan
+Panama
+Peru
+Philippines
+Poland
+Qatar
+Russia
+Rwanda
+Saint Kitts and Nevis
+Saint Lucia
+Saint Vincent and the Grenadines
+Saudi Arabia
+Scotland
+Seychelles
+Sierra Leone
+Singapore
+South Africa
+South Korea
+Spain
+Sri Lanka
+Sweden
+Switzerland
+Syria
+Taiwan
+Tanzania
+Thailand
+The Gambia
+Trinidad and Tobago
+Tunisia
+Turkey
+Turks and Caicos Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom (British-patterned education)
+United States (American curriculum)
+Venezuela
+Vietnam
+Zambia
+Zimbabwe
+English-language requirements
+English is the language of instruction at UBC. All prospective students must demonstrate English-language competency prior to admission. There are numerous ways to meet the
+English Language Admission Standard
+.
+General admission requirements
+IB Diploma Programme
+Completed IB Diploma, including at least three Higher Level courses.
+IB Certificate Courses
+IB Certificate courses (Standard and Higher Level) may be used in an admissions average if you are graduating from a recognized high school curriculum that can be used as your basis of admission.
+IB Math Applications and Interpretations SL, or IB Math Studies, do not satisfy the math requirement for admission to UBC’s science-based programs, the Faculty of Management, the UBC Sauder School of Business, or the Vancouver School of Economics.
+Degree-specific requirements:
+Science
+IB Math Analysis and Approaches SL
+or
+HL,
+or
+IB Math Applications and Interpretations HL (IB Math Applications and Interpretations SL, or IB Math Studies, are not acceptable)
+One of IB Biology, IB Chemistry, or IB Physics
+Grade 11 or equivalent Chemistry, and
+Grade 11 or equivalent Physics (may be waived with grades of 5 in IB Chemistry and in your IB Mathematics course)
+Note: Grade 11 Chemistry and Physics requirements listed are only relevant to students who are
+not
+completing the equivalent IB Diploma Chemistry and/or Physics courses.
+For students studying outside of Canada, some examples of courses that may be accepted as Grade 11 equivalents are junior-level courses for American students, and IGCSE and O Level for those following British-patterned curricula.
+Related courses
+The following
+subject categories
+are particularly relevant for this degree. Consider taking courses in these areas in your junior year and senior year.
+Language Arts
+Mathematics and Computation
+Sciences
+Visit program website
+You’ll find these pages helpful
+Meet Ronnie, a UBC student with a bright future in Mathematics and Computer Science
+Read full story
+Ready to choose your degree?
+Apply to UBC

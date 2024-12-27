@@ -1,0 +1,191 @@
+Link: https://unipi.coursecatalogue.cineca.it/corsi/2024/11290
+
+contenuto principale
+[WTC-LM] TECNOLOGIA E PRODUZIONE DELLA CARTA E DEL CARTONE
+Laurea Magistrale
+Inglese
+Info
+Piani di studio
+Informazioni generali
+Durata
+2 anni
+Ordinamento
+2020
+stato
+Aperto
+Crediti
+120 CFU
+Lingua
+Inglese
+Classe di laurea
+LM-33 - Classe delle lauree magistrali in Ingegneria meccanica
+Accesso
+Libero
+Dipartimento
+DIPARTIMENTO DI INGEGNERIA CIVILE E INDUSTRIALE
+Sito web
+https://epc-masterdegree.it/
+Verifica conoscenze richieste per l'accesso
+No
+Requisiti di accesso
+Conoscenze richieste per l´accesso
+Per l'ammissione al Corso di Laurea Magistrale in Tecnologia e produzione della carta e del cartone occorre essere in possesso della laurea di durata triennale, ovvero di altro titolo di studio conseguito all'estero, riconosciuto idoneo. Inoltre occorre essere in possesso dei seguenti requisiti curricolari:
+- Matematica, informatica e statistica: INF/01, ING-INF/05, MAT/02, MAT/03, MAT/05, MAT/06, MAT/07, MAT/08, MAT/09, SECS-S/02 - CFU minimi: 30
+- Fisica e chimica: CHIM/03, CHIM/07, FIS/01, FIS/03- CFU minimi: 18
+- Ingegneria chimica ING-IND/21, ING-IND/22, ING-IND 24- ING-IND/27 - CFU minimi: 6
+- Ingegneria elettrica ING-IND/31, ING-IND/32, ING-IND/33 - CFU minimi: 6
+- Ingegneria meccanica ING-IND/08, ING-IND/09, ING-IND/10, ING-IND/12, ING-IND/13, ING-IND/14, ING-IND/15, ING-IND/16 CFU minimi: 6
+È inoltre richiesto il possesso della conoscenza della lingua inglese di livello non inferiore al B2 del Quadro Comune Europeo di riferimento per le lingue. Tale conoscenza è soggetta a verifica, dalla quale potranno essere dispensati i candidati in possesso di certificazione idonea. Si rimanda al regolamento didattico del CdS per la descrizione dettagliata delle modalità di verifica della personale preparazione dello studente.
+Modalità di ammissione
+Per l'ammissione al Corso di Laurea Magistrale in Tecnologia e produzione della carta e del cartone occorre essere in possesso della laurea di durata triennale, ovvero di altro titolo di studio conseguito all'estero, riconosciuto idoneo. Il candidato deve presentare domanda con allegati almeno il certificato di laurea, o equivalente, e i programmi degli esami sostenuti. In base ai criteri di seguito illustrati vengono stabiliti il possesso dei requisiti curriculari e l'adeguatezza della personale preparazione dello studente per l'accesso al CdLM in Tecnologia e produzione della carta e del cartone, Classe LM-33 Ingegneria Meccanica, ai sensi dell'Art. 6, Comma 2 del D.M. 270/2004.
+L'ammissione al CdLM in Tecnologia e produzione della carta e del cartone, Classe LM-33 Ingegneria Meccanica viene decisa sulla base dell'esistenza di entrambi i requisiti curriculari e di preparazione. Il Consiglio di CdS nomina una Commissione Istruttoria di Valutazione (CIV), composta da due o più docenti, con il compito di:
+- esaminare le domande di ammissione;
+- valutare i curricula dei candidati;
+- verificare il possesso dei requisiti curriculari e personali;
+- proporre al CdS l'ammissione o la non ammissione del candidato;
+- indicare le eventuali modalità per l'ottenimento dei requisiti mancanti.
+Requisiti curriculari:
+Il candidato che ha acquisito CFU nei settori scientifico-disciplinari (SSD) sotto riportati soddisfa i requisiti curriculari.
+Base (Matematica, informatica e statistica)
+INF/01 Informatica
+ING-INF/05 Sistemi di elaborazione delle informazioni
+MAT/02 Algebra
+MAT/03 Geometria
+MAT/05 Analisi matematica
+MAT/06 Probabilità e statistica matematica
+MAT/07 Fisica matematica
+MAT/08 Analisi numerica
+MAT/09 Ricerca operativa
+SECS-S/02 Statistica per la ricerca sperimentale e tecnologica
+CFU minimi: 30
+Fisica e chimica
+CHIM/03 Chimica generale e inorganica
+CHIM/07 Fondamenti chimici delle tecnologie
+FIS/01 Fisica sperimentale
+FIS/03 Fisica della materia
+CFU minimi: 18
+Caratterizzanti
+Ingegneria chimica
+ING-IND/21 Metallurgia
+ING-IND/22 Scienza e tecnologia dei materiali
+ING-IND/24 Principi di ingegneria Chimica
+ING-IND/27 Chimica industriale e tecnologica
+CFU minimi: 6
+Ingegneria elettrica
+ING-IND/31 Elettrotecnica
+ING-IND/32 Convertitori, macchine e azionamenti elettrici
+ING-IND/33 Sistemi elettrici per l'energia
+CFU minimi: 6
+Ingegneria meccanica
+ING-IND/08 Macchine a fluido
+ING-IND/09 Sistemi per l'energia e l'ambiente
+ING-IND/10 Fisica tecnica industriale
+ING-IND/12 Misure meccaniche e termiche
+ING-IND/13 Meccanica applicata alle macchine
+ING-IND/14 Progettazione meccanica e costruzione di macchine
+ING-IND/15 Disegno e metodi dell'ingegneria industriale
+ING-IND/17 Impianti industriali meccanici
+CFU minimi: 6
+In caso di candidato con titolo conseguito all'estero, la CIV valuterà i requisiti curriculari sulla base della durata temporale dei singoli insegnamenti e dei programmi degli esami sostenuti. È inoltre richiesto il possesso della conoscenza della lingua inglese di livello non inferiore al B2 del Quadro Comune Europeo di riferimento per le lingue. Tale conoscenza è soggetta a verifica, dalla quale potranno essere dispensati i candidati in possesso di certificazione idonea.
+Requisiti di preparazione personale:
+In accordo con il Regolamento Didattico di Ateneo, la CIV:
+- può proporre al CdS di accettare ovvero di respingere la domanda del candidato sulla base della documentazione presentata con la domanda di ammissione;
+- può proporre al CdS di rimandare il candidato al colloquio di ammissione, indicando il programma su cui verterà il colloquio.
+Il colloquio di ammissione ha lo scopo di accertare che il candidato possieda la preparazione necessaria per affrontare proficuamente gli studi magistrali. I colloqui si svolgono in almeno due sessioni nel corso dell'anno accademico. Al candidato può essere assegnata, con provvedimento del Presidente del CdS, una specifica commissione esaminatrice composta da due o più docenti. Il programma del colloquio, individuato dalla CIV, sarà preventivamente comunicato al candidato dal Presidente del CdS. Al termine del colloquio la commissione esaminatrice formula un giudizio definitivo di idoneità oppure di non idoneità all'ammissione, eventualmente evidenziando i requisiti mancanti.
+Contatti
+Presidente del Corso di Laurea
+Marco Frosolini
+Email:
+marco.frosolini@unipi.it
+Referente didattico
+Francesca Nannelli
+Tel.
+(+39) 050 2217867
+Email:
+francesca.nannelli@unipi.it
+Unità Didattica del Dipartimento di Ingegneria Civile e Industriale:
+https://www.dici.unipi.it/didattica
+Orario di ricevimento:
+Solo su appuntamento telefonico (+39) 050 2218085 il martedì dalle ore 10.00 alle ore 12.00, il mercoledì dalle ore 10.00 alle ore 12,00 e il giovedì dalle ore 15.00 alle ore 17.00:
+didattica.dici@ing.unipi.it
+Valutazioni - Condizione occupazionale - Descrizione del corso
+Valutazione studenti
+Report dei risultati a.a. 23/24
+Valutazione laureandi
+Report Almalaurea
+Condizione occupazionale
+Report Almalaurea
+Caratteristiche della prova finale
+La prova finale del Corso di laurea Magistrale in Tecnologia e produzione della carta e del cartone consente di verificare i livelli di maturità tecnico-scientifica e di autonomia operativa in campo professionale raggiunta dall'allievo. Questo obiettivo viene perseguito valutando la capacità dell'allievo di affrontare problematiche innovative e le sue capacità di comunicare i contenuti tecnici in modo efficace.
+Il Corso di Studi si conclude con la discussione della tesi, un elaborato scritto originale, che contiene i risultati del lavoro svolto dallo studente nel corso di un'attività nel corso della quale è chiamato ad utilizzare le nozioni, le capacità e le competenze teoriche e/o applicative acquisite durante il Corso di Studi. Lo studente svolge il lavoro di tesi sotto la supervisione di uno o più relatori, tra i quali almeno un docente appartenente al CdLM.
+Sono consigliate attività finali svolte in ambito aziendale o presso enti di ricerca in Italia o all'estero.
+Il Corso di Studio in breve
+Il Corso di Laurea Magistrale in Tecnologia e produzione della carta e del cartone ha l'obiettivo di fornire allo studente una formazione di livello avanzato per l'esercizio di attività che richiedono elevate conoscenze e capacità tecniche in relazione ai processi e agli impianti di produzione della carta e del cartone, fortemente richieste in tutti i distretti cartari nazionali e internazionali e nel corrispondente indotto.
+In particolare, il Corso si pone l'obiettivo di fornire una formazione interdisciplinare avanzata sui processi, sugli impianti e sui prodotti caratteristici dell'industria cartaria. Il percorso formativo è specificatamente pensato e organizzato per integrare al meglio l'acquisizione delle conoscenze allo sviluppo delle competenze per la comprensione, la progettazione e la gestione ottimale dei processi, degli impianti e dei prodotti.
+Il percorso formativo mira alla formazione di mentalità propositive e organizzative aperte e versatili, con ampie potenzialità di aggiornamento e conversione. I laureati sapranno interagire con le altre figure professionali nelle varie aree di competenza ed in ambito internazionale, presentare i risultati e lavorare co-operativamente, sia come membri che come leader di gruppi di lavoro. Saranno anche in grado di organizzare il proprio lavoro e quello degli altri in autonomia.
+Per l'ammissione al Corso di Laurea Magistrale in Tecnologia e produzione della carta e del cartone occorre essere in possesso della laurea di durata triennale, ovvero di altro titolo di studio conseguito all'estero, riconosciuto idoneo.
+I prerequisiti e le conoscenze/competenze di base per accedere al Corso di Laurea Magistrale in Tecnologia e produzione della carta e del cartone sono di massima costituiti dalle materie di base dei corsi di laurea triennali nell'area dell'Ingegneria Industriale.
+link utili
+menu secondario
+Cookie policy
+Usiamo i cookie!
+Utilizziamo cookie di prima e di terza parte per garantire la funzionalità del sito. I cookie di terze parti sono disattivati per default, salvo esplicito consenso da parte dell'utente (button 'Accetta tutti'). ATTENZIONE: la mancata abilitazione dei cookies di terze parti potrebbe non consentire la corretta esecuzione di alcune funzioni o causare altri problemi di funzionamento, come la mancata visualizzazione di contenuti.
+Fammi scegliere
+Accetta tutto
+Accetta solo i necessari
+Preferenze cookie
+Usiamo i cookie!
+Utilizziamo i cookie per consentire il funzionamento del sito e per migliorare la tua esperienza online. Puoi scegliere per ogni categoria se abilitarli o disabilitarli quando vuoi. Per maggiori dettagli relativi ai cookie ed altri dati sensibili, puoi leggere la
+cookie policy
+e la
+privacy policy
+integrale.
+Cookie strettamente necessari
+Cookie strettamente necessari
+Questi cookie sono essenziali per il funzionamento del nostro sito. Senza questi cookie, il sito potrebbe non funzionare correttamente.
+Cookie di performance e analytics
+Cookie di performance e analytics
+Questi cookie consentono al sito di ricordare le scelte che hai eseguito in precedenza
+Nome
+Dominio
+Durata
+Descrizione
+^_ga
+google.com
+2 years
+description ...
+_gid
+google.com
+1 day
+description ...
+Istruzioni per i vari browser:
+Istruzioni per i vari browser:
+Safari
+.
+Nome
+Dominio
+Durata
+Descrizione
+s_.*
+plu.mx
+sessione
+recupero grafico citazioni sociali da plumx
+A_.*
+core.ac.uk
+7 giorni
+recupero pubblicazioni consigliate per il pannello core-recommander
+GS_.*
+gstatic.com
+richiesta http
+visualizza grafico citazioni
+CC_.*
+creativecommons.org
+richiesta http
+visualizza licenza bitstream
+Maggiori informazioni
+Per qualsiasi domanda in relazione alle nostre policy sui cookie e sulle tue scelte, puoi visualizzare l'informativa completa a questo
+url
+.
+Accetta tutti
+Accetta solo i necessari
+Salva impostazioni

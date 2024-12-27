@@ -1,0 +1,43 @@
+Link: https://www.fdu.edu/program/graduate-certificate-database-administration/
+
+Skip to content
+Database Administration Graduate Certificate
+Home
+/
+Program
+/
+Database Administration Graduate Certificate
+The objective is to provide expertise in the development, maintenance, and supervision of databases.
+Admission requirements:
+Admission to the certificate program requires a baccalaureate degree from a regionally accredited college or university with a satisfactory academic record.
+Curriculum Plan
+18 credits (six courses) are to be chosen from the following
+CSCI5505
+Introduction to Computer Programming or
+CSCI5525
+Introduction to Computer Science
+CSCI6623
+Database Systems
+CSCI6882
+Data Warehouse and Data Mining
+CSCI7741
+Disaster Recovery
+CSCI7781
+Advanced Database Systems
+CSCI7783
+Information Security
+Prerequisites
+Students must satisfy the prerequisites of the courses that they will take.
+CSCI7785
+Distributed Database Systems
+Online Courses
+CSCI6623, CSCI6882, CSCI7741, CSCI7781, CS I7783, and CSCI7785 can be taken completely online.
+Academic Credits
+Courses with number 6000 or higher completed through this certificate program can be credited toward the M.S. Computer Science program. Other courses may be substituted with prior approval of the Academic Advisor.
+Special Information
+Special tuition rate is available at 50% off the regular tuition rate for eligible students.
+Learn more
+Gildart Haase School of Computer Sciences and Engineering
+Admissions
+More Information
+Apply now

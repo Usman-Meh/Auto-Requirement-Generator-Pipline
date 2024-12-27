@@ -1,0 +1,219 @@
+Link: https://cset.mnsu.edu/academic-programs/mathematics-and-statistics/applied-statistics-master-of-science-ms/
+
+College of Science, Engineering & Technology
+Academic Programs
+Mathematics and Statistics
+Applied Statistics, Master of Science (MS)
+Mathematics and Statistics Section
+Mathematics and Statistics
+Applied Statistics, Master of Science (MS)
+Mathematics and Statistics, Master of Science (MS)
+Mathematics Education, Master of Science (MS)
+Mathematics, Master of Arts (MA)
+Mathematics and Statistics Faculty and Staff
+Applied Statistics (MS)
+The program is designed to prepare students to join 21st century business and industry in their growing needs for statistical analyses. An optimal mix of mathematical and computational background enables the graduates to contribute effectively in the educational institutions.
+Current Catalog Year
+2024-2025
+Degree
+Master of Science
+Major /                                         Total Credits
+34 / 34
+Locations
+Mankato
+Apply
+Program Requirements
+Program
+                                    Requirements
+Common Core
+(0-8) credits
+STAT 550
+Regression Analysis
+3 credits
+Simple and multiple regression, correlation, analysis of variance and covariance.
+Prerequisites:
+MATH 354 or STAT 354 or (MATH 455 or MATH 555) or (STAT 455 or STAT 555) with "C" (2.0) or better or consent.
+STAT 555
+Theory of Statistics I
+4 credits
+A mathematical approach to statistics with derivation of theoretical results and of basic techniques used in applications. Includes probability, continuous probability distributions, multivariate distributions, functions of random variables, central limit theorem, and statistical inference. Same as MATH 555.
+Prerequisites:
+MATH 223 with "C" (2.0) or better or consent.
+STAT 556
+Theory of Statistics II
+4 credits
+A mathematical approach to statistics with derivation of theoretical results and of basic techniques used in applications, including sufficient statistics, additional statistical inference, theory of statistical tests, inferences about normal models, and nonparametric methods. Same as MATH 556.
+Prerequisites:
+(MATH 455 or MATH 555) or (STAT 455 or STAT 555) with "C" (2.0) or better or consent.
+A Common Core course is waived if credit has been received for an equivalent course with grade of C or better at the undergraduate or graduate levels. All Required Common Core courses, or their equivalents, must be completed before graduation. College of Graduate Study and Research Transfer policy applies.
+Restricted Electives
+Restricted Electives
+500 Level Requirement
+- Choose 6 - 16 Credit(s).
+MATH 517
+Real Analysis I
+4 credits
+The topology of Euclidean spaces, norms, classical inequalities, local and global properties of continuous functions, preservation of compactness and connectedness, sequences in Euclidean space and sequences of functions.
+Prerequisites:
+MATH 223 and MATH 290 with "C" (2.0) or better or consent.
+MATH 525
+Mathematical Modeling
+4 credits
+This course presents topics from mathematical analysis of both discrete and continuous models taken from problems in the natural sciences, economics, and resource management.
+Prerequisites:
+MATH 223 and MATH 247 with "C" (2.0) or better or consent.
+MATH 547
+Linear Algebra II
+3 credits
+An in-depth study of linear operators and their related spaces, dimension, rank, matrix representation of linear operators, special matrices, determinants, eigenvectors, and eigenvalues.
+Prerequisites:
+MATH 345 with "C" (2.0) or better or consent.
+MATH 570
+Numerical Analysis I
+4 credits
+This course provides an introduction to techniques and analysis involved with solving mathematical problems using technology. Topics included are errors in computation, solutions of linear and nonlinear equations, numerical differentiation and integration, and interpolation.
+Prerequisites:
+MATH 122 and MATH 247 with "C" (2.0) or better or consent.
+STAT 551
+Design and Analysis of Experiments
+3 credits
+Randomized complete block design, Latin squares design, Graco- Latin squares design, balanced incomplete block design, factorial design, fractional factorial design, response surface method, fixed effects and random effects models, nested and split plot design.
+Prerequisites:
+MATH 354 or STAT 354 or (MATH 455 or MATH 555) or (STAT 455 or STAT 555) with "C" (2.0) or better or consent.
+STAT 557
+Sample Survey, Design and Analysis
+3 credits
+Topics include: sampling distributions, means and variances; bias, robustness and efficiency; random sampling; systematic sampling methods including stratified random, cluster and two-state sampling; and ratio, regression, and population size estimation. Suitable software, such as MATLAB, R, SAS, etc., is introduced.
+Prerequisites:
+Either MATH/STAT 354 or both STAT 154 and MATH 121 with "C" (2.0) or better, or consent.
+STAT 558
+Categorical Data Analysis
+3 credits
+Topics on multivariate analysis for discrete data, including two/higher dimensional tables; models of independence; log linear models; estimation of expected values; model selection; and logistic models, incompleteness and regression. Suitable statistical software, such as MATLAB, R, SAS, etc., is introduced.
+Prerequisites:
+Either MATH/STAT 354 or both STAT 154 and MATH 121 with "C" (2.0) or better, or consent.
+STAT 559
+Nonparametric Methods
+3 credits
+Topics include derivation and usage of nonparametric methods in univariate, bivariate, and multivariate data; applications in count, score, and rank data; analysis of variance for ranked data; and regression estimation. Suitable software, such as MATLAB, R, SAS, etc., is introduced.
+Prerequisites:
+Either MATH/STAT 354 or both STAT 154 and MATH 121 with "C" (2.0) or better, or consent.
+600 Level Requirement
+- Choose 15 - 26 Credit(s).
+MATH 620
+Applied Mathematics
+3 credits
+Applications of discrete and continuous mathematics to deterministic problems in the natural sciences, computer science, engineering, and economics. Applied problems will be developed within the mathematical framework of dimensional analysis, asymptotic analysis, perturbation theory, stability, and bifurcation.
+Prerequisites:
+MATH 321 and (MATH 417 or MATH 517) and (MATH 447 or MATH 547) or consent.
+MATH 621
+Topics in Applied Mathematics
+3 credits
+Can be used for any graduate level applied mathematics course not offered as a regular course. Distinct offerings may be repeated for credit.
+Prerequisites:
+(MATH 417 or MATH 517) and (MATH 422 or MATH 522) and (MATH 447 or MATH 547) or consent.
+MATH 628
+Numerical Optimization
+3 credits
+Optimal conditions for constrained and unconstrained optimization problems, and a comprehensive description of the most powerful, state-of-the-art, techniques for solving continuous optimization problems. Large-scale optimization techniques are emphasized in the course.
+Prerequisites:
+MATH 517 and MATH 547
+MATH 672
+Numerical Analysis of Differential Equations
+3 credits
+This course is an in-depth study of solving ordinary differential equations and partial differential equations numerically. Runge-Kutta methods and general multi-step methods are developed for ordinary differential equations. Finite Difference Method and Finite Element methods are developed for partial differential equations. Error control and step size changing for both stiff and non-stiff equations are analyzed.
+Prerequisites:
+MATH 321 and (MATH 470 or MATH 570) or consent.
+MATH 674
+Computations in Linear Algebra
+3 credits
+This course is an in-depth study of solving algebraic eigenvalue problems, least-square problems, direct and iterative methods for solving linear systems, and their applications.
+Prerequisites:
+(MATH 447 or MATH 547) and (MATH 470 or MATH 570) or consent.
+STAT 644
+Bayesian Data Analysis
+3 credits
+Bayesian Statistics is an alternative to Frequentist statistics. Bayesian inference uses probability for both hypotheses and data. In Bayesian statistics, population parameters are considered random variables having probability distributions. The probabilities measure a degree of belief in the parameters. Bayes¿ theorem is used to reformulate the beliefs using observed data. This course introduces the Bayesian approach to statistical inference and describes effective approaches to Bayesian modeling and computation.
+Prerequisites:
+MATH/STAT 455/555 and STAT 450/550, or consent
+STAT 650
+Time Series Analysis and Forecasting
+3 credits
+Most statistical analysis and modeling techniques involve assumptions about the independence of the data. However, many real life data occur in the form of time series where observations are dependent. In this course, we will concentrate on both univariate and multivariate time series analysis and model building strategies with time dependent data. Available software will be used to complete the data analysis projects with a balance between theory and applications.
+Prerequisites:
+MATH/STAT 455/555 and MATH/STAT 450/550, with "C" (2.0) or better, or consent.
+STAT 653
+Linear Models
+3 credits
+Matrix theory, multivariate normal distribution of quadratic forms, estimation and hypothesis testing in the general linear model, and applications of linear models.
+Prerequisites:
+MATH/STAT 455/555 and STAT 450/550 with "C" (2.0) or higher, or consent.
+STAT 654
+Statistical Methods in Biostatistics and Survival Analysis
+3 credits
+Statistical tools used to analyze data in biological and medical research. Topics covered are Statistical Theory, Concepts of Statistical Inference, Regression and Correlation Methods, Analysis of Variance, Survival Analysis and Study Designs. Applications to medical problems.
+Prerequisites:
+STAT 450/550 with "C" (2.0) or higher, or consent.
+STAT 659
+Statistical Foundations of Data Science and Big Data Analytics
+3 credits
+This course will cover the basic concepts of big data with an emphasis on the statistical techniques for analyzing structured and unstructured data. Students will learn concepts, techniques and tools that are necessary for working with the various facets of data science practice, including data collection and integration, exploratory data analysis, predictive modeling, descriptive modeling, data product creation, evaluation, and effective communication. The course has applications across many disciplines such as engineering, computer science, statistics, mathematics, economics and management. Prerequisite: MATH 247 and STAT 354 or instructor consent
+Prerequisites:
+STAT 450/550 with "C" (2.0) or higher, or consent.
+STAT 680
+Selected Topics
+1-4 credits
+A graduate course in a particular area of statistics not regularly offered. May be repeated for credit on each new topic.
+Prerequisites:
+none
+STAT 696
+Statistical Computing
+3 credits
+Statistical package programs used in data collection, transformation, organization, summarization, interpretation and reporting, statistical description and hypothesis testing with statistical inference, interpreting outputs, chi-square, correlation, regression, analysis of variance, nonparametrics, and other designs, accessing and using large files (U.S. Census data, National Health Survey, etc.) Same as COMS 696
+Prerequisites:
+STAT 450/550 with "C" (2.0) or higher, or consent.
+Other Graduation Requirements
+Comprehensive Exam: Four courses chosen from STAT 555, STAT 556, STAT 550, STAT 551, MATH 570, MATH 517, or MATH 547. Advisor approval is required.
+Thesis or Alternate Plan Paper
+- Choose 1 - 4 Credit(s).
+STAT 694
+Alternate Plan Paper
+1-2 credits
+Research under the supervision of the student's advisor leading to an alternate plan paper.
+Prerequisites:
+Consent
+STAT 699
+Thesis
+1-4 credits
+Research under the supervision of the student's advisor leading to a thesis.
+Prerequisites:
+ConsentInitial deposit: N/A
+
+
+Application Fee for Undergraduate: $ 20
+Application Fee for Postgraduate: $ 40
+
+
+Annual Fee for Undergraduate: $ 18,812
+Annual Fee for Postgraduate: $ 14,918
+
+
+English Language Requirements Undergraduate only:
+TOEFL iBT (internet-based test) score of 61 or better
+Pearson Test of English (PTE) score of 47 or better
+IELTS academic test score of 5.5 or better
+
+
+English Language Requirements Postgraduate only:
+Different for every course and given in course content 
+
+
+Entry Requirements Undergraduate only:
+A cumulative high school GPA of 3.0 or higher or A rank in the top 50% of your high school class or An ACT composite score of 21 or higher and a minimum cumulative high school GPA of 2.7. If you do not meet the above admission requirements, you can submit additional information to consider when reviewing your application.
+
+
+Entry Requirements Postgraduate only:
+Applicants must possess the equivalent of a U.S. Bachelor's degree to be considered for graduate programs at Minnesota State Mankato. The degree must be earned at an institution recognized and approved to award the degree. GRE (Graduate Record Examination) is required by some academic programs.
+
+English Language requirements of graduate programs is different for each course. Graduate programs only have IELTS and TOEFL test scores.
+For Graduate Entry Requirements, some requirements like GPA, Score are mentioned on the course page so add them too.

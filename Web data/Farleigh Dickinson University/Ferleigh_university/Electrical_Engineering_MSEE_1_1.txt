@@ -1,0 +1,111 @@
+Link: https://www.fdu.edu/program/ms-electrical-engineering/
+
+Skip to content
+Electrical Engineering MSEE
+Home
+/
+Program
+/
+Electrical Engineering MSEE
+Fairleigh Dickinson University’s Master of Science in Electrical Engineering degree program provides students with the comprehensive skills and knowledge they need to pursue a career in one of the most dynamic areas of modern technology. The graduate program prepares students with a broad scientific knowledge, an aptitude in a variety of modem mathematical techniques and the ability to synthesize.
+Educational Objectives
+Graduates of the Master of Science in Electrical Engineering program will demonstrate the following attributes and achievements upon or before graduation:
+An ability to apply advanced knowledge of mathematics, science, and engineering.
+An ability to formulate, analyze and solve complex engineering problems in a specialized area, such as digital signal processing and communications, computers, or devices and systems.
+An ability to use numerical analysis techniques, computer  aided analysis and design methods, and modern engineering tools.
+Admission Requirements
+Admission to M.S.E.E. program requires
+A Bachelor of Science degree in electrical engineering from an accredited university. Students with a Bachelor of Science degree in science, engineering (other than electrical) or technology may be admitted if they complete undergraduate prerequisites determined by the school.
+Submission of an official score report for the Graduate Record Examination (GRE) General Test, taken within the last five years. The GRE requirement is waived for applicants who have completed a master’s degree from a regionally accredited college or university in United States.
+Three letters of recommendation
+Applicants who have not completed all requirements for admission to the degree program may be permitted to enroll in classes for credit on a non-matriculated or non-degree basis.
+Degree Plan
+A minimum of 30 graduate credits are required to attain the Master of Science in Electrical Engineering – all courses are three credits.
+These are distributed as follows:
+15 credits of core courses.
+9 credits of electrical engineering courses from an area of specialization.
+6 credits of electrical engineering electives. Other science and engineering courses, numbered 6000 or higher, may be taken with director permission.
+A thesis is optional: If a student elects
+EENG7803
+,
+EENG7804
+Research and Thesis, no other elective credits need be taken.
+Core Requirements (15 Credits)
+EENG6633
+Digital Signal Processing
+EENG6747
+Digital Communications
+EENG7701
+Logic System Design
+EENG7709
+Embedded Systems
+EENG7725
+Automatic Control Systems
+Specialization Elective Courses (9 Credits)
+Select three courses from the areas of specialization shown.  Any courses may be selected, although it is recommended that they are in the same area.
+Digital Signal Processing and Communications Specialization
+EENG6629
+Random Processes in Communications
+EENG7738
+Wireless Communication
+EENG7748
+Advanced Digital Communication
+EENG7753
+Applications of Digital Signal Processing
+EENG7852
+Digital Signal Processing with C and DSP Processors
+Computers Specialization
+EENG6610
+Computer-Aided Analysis and Design
+EENG7702
+Microprocessor Design
+EENG7707
+Neural Networks and Fuzzy Logic Systems
+EENG7737
+Computer Communication Networks
+EENG7773
+Digital Image Processing
+Devices and Systems Specialization
+EENG6601
+Linear Systems
+EENG7706
+Robotics Engineering
+EENG7715
+Integrated Circuit Devices
+EENG7755
+Digital VLSI Systems
+EENG7775
+Optics
+Additional Elective Courses (6 credits)
+Electives may include any graduate Electrical Engineering courses. Students have the option of registering for a 3-credit internship after completing 18 credits. A 6-credit thesis option is also available in consultation with Electrical Engineering faculty. Courses in other technical programs such as computer science may be taken with advisor permission.
+Students must earn a total of 30 credits with a grade point average of at least 2.75. All courses are three credits.
+Career Opportunities
+Electrical engineering is one of the hottest engineering fields, according to National Associations of Colleges and Employers (NACE). Employment opportunities are enormous since practically all industries employ electrical engineers. Electrical engineering graduates receive many job offers from computer-related firms, consulting firms, electrical and electronic firms, utilities, telecommunications industries, engineering firms, aerospace companies, as well as automotive and manufacturing companies. Graduates of MSEE programs enjoy an annual starting salary of about $65,000 to $75,000.
+Electrical engineering jobs include positions in research and development, design and analysis, testing, sales and management, consulting and teaching.
+Both undergraduate and graduate electrical engineering students won top honors and awards at the annual Institute of Electronics and Electrical Engineers (IEEE) Student Presentation Contest held by the North Jersey Section.
+Special Information
+The engineering and engineering technology programs at Fairleigh Dickinson University have received wide recognition and support from the industry. The Jos. L Muscarelle Co., one of the biggest and most successful construction firms in New Jersey, donated funds and built the Muscarelle Center for Construction Studies – home of the Division of Engineering and Engineering Technology. AlliedSignal, (currently merged with Honeywell and soon to merge with General Electric) a conglomerate of high-tech companies in New Jersey, donated $1 million to support engineering and engineering technology programs. The School also received grants from the State of New Jersey, Motorola, and Bell Atlantic (now Verizon).
+Research
+An FDU education means more than just classroom studies. Students are encouraged to work with faculty on research through independent studies or thesis.
+Example of research projects of electrical engineering students are:
+Non-Invasive Blood Glucose Monitoring
+Alternative Power Supply for Surgically Implanted Pacemakers
+Measurement of Heating in Electrical and Electronic Circuits using Holographic Interferometry
+Two-Dimensional Adaptive Filters
+Adaptive Wave Digital and Orthogonal Filters
+Fuzzy Rule Generation based on a Neural Network Approach
+Fixed WiMAX Downlink Spectral Efficiency and Throughput Measurements under Channel Impairments
+Other possible research areas for the electrical engineering students are:
+Digital System and Microprocessor Design
+Computer Networks and Communications
+Neural Networks, Fuzzy Logic and Artificial Intelligence
+Image Compression and Processing
+Adaptive Noise Cancellation and Channel and Echo Equalization
+Wireless Communications and Smart Antennas
+Control Systems
+Learn more
+Gildart Haase School of Computer Sciences and Engineering
+Admissions
+Apply now
+Visit FDU
+Request Information

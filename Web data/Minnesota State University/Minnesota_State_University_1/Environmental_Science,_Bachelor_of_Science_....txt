@@ -1,0 +1,587 @@
+Link: https://cset.mnsu.edu/academic-programs/environmental-science/environmental-science-bachelor-of-science-bs/
+
+College of Science, Engineering & Technology
+Academic Programs
+Environmental Science
+Environmental Science, Bachelor of Science (BS)
+Environmental Science Section
+Environmental Science
+Environmental Science, Bachelor of Science (BS)
+Environmental Science (BS)
+Environmental Science is an interdisciplinary field directed towards understanding natural environmental processes, human interactions with the environment, and ultimately finding equitable and sustainable solutions to environmental problems. Major areas of focus include terrestrial and aquatic ecosystems and biodiversity, soils, climate change, pollutants, and environmental regulations with an emphasis on experiential learning through field coursework, research and/or internships. The major is orientated towards helping students develop skills for leadership positions in federal, state, and local governments, conservation groups, consulting firms, and industry. The program is also ideal as a foundation for advanced study in law, policy, and scientific research specialties.
+Current Catalog Year
+2024-2025
+Degree
+Bachelor of Science
+Major /                                         Total Credits
+52 / 120
+Locations
+Mankato
+Apply
+Program Requirements
+Degree Plan
+Program
+                                    Requirements
+Required General Education
+BIOL 105
+General Biology I
+4 credits
+Study of biological processes at the suborganismal level including cell chemistry, metabolism, reproduction, genetics, and complex tissue physiology. Laboratory and discussion sessions stress problem solving and experimental design.
+Prerequisites:
+none
+Goal Areas: GE-03
+CHEM 201
+General Chemistry I
+5 credits
+Introduction to the basic principles of chemistry including atomic and molecular structure, bonding, chemical reactions, stoichiometry, thermodynamics and states of matter. Laboratory will reinforce lecture concepts. Prereq: C or higher in MATH 112 or the equivalent; high school chemistry or C or higher in CHEM 104
+Prerequisites:
+"C" (2.0) or higher in MATH 112 or the equivalent; high school chemistry or "C" (2.0) or higher in CHEM 104.
+Goal Areas: GE-02, GE-03
+Math Requirement
+- Choose 4 Credit(s).
+MATH 112
+College Algebra
+4 credits
+Concepts of algebra (real numbers, exponents, polynomials, rational expressions), equations and inequalities, functions and graphs, polynomial and rational functions, exponential and logarithmic functions, systems of equations and inequalities, matrices and determinants, conic sections, sequences and series, probability, and binomial theorem.
+Prerequisites:
+Satisfy Placement Table in this section, or MATH 098 with grade of P.
+Goal Areas: GE-04
+MATH 115
+Precalculus Mathematics
+4 credits
+This course will cover topics of precalculus mathematics. Topics covered will include functions, graphs of functions, exponential and logarithmic functions, conic sections, systems of equations and inequalities, matrices, trigonometric functions, circular functions, vectors and complex numbers, induction, series and probability.
+Prerequisites:
+Satisfy Math Placement Table in this section, or grade of P in MATH 098.
+Goal Areas: GE-04
+MATH 121
+Calculus I
+4 credits
+Limits, continuity, the derivative and applications, transcendental functions, L'Hopital's Rule, and development of the Riemann integral.
+Prerequisites:
+Satisfy Placement Table in this section, MATH 115 or both MATH 112 and MATH 113 with "C" (2.0) or better.
+Goal Areas: GE-04
+Soil Requirement
+- Choose 4 Credit(s).
+BIOL 104
+Introduction to Soil Science
+4 credits
+An introduction to the multidisciplinary field of soil science and fertility. The course will examine the basic physical, chemical, and biological properties of soils. Further topics will explore soil genesis, soil health and management, and their relationships to crop production. Field trips and lab activities will be used to explore key concepts, with emphasis on examples relevant to the soils of southern Minnesota. Local field trips included.
+Prerequisites:
+none
+Goal Areas: GE-03, GE-10
+GEOL 104
+Introduction to Soil Science
+4 credits
+An introduction to the multidisciplinary field of soil science and fertility. The course will examine the basic physical, chemical, and biological properties of soils. Further topics will explore soil genesis, soil health and management, and their relationships to crop production. Field trips and lab activities will be used to explore key concepts, with emphasis on examples relevant to the soils of southern Minnesota. Local field trips included.
+Prerequisites:
+none
+Goal Areas: GE-03, GE-10
+Major Common Core
+BIOL 106
+General Biology II
+4 credits
+Study of biological processes at the organismal level including a survey of life forms (viruses, bacteria, protists, fungi, plants, and animals), their evolution, and ecology. Laboratory and discussion sessions stress problem solving and experimental design.
+Prerequisites:
+none
+BIOL 215
+General Ecology
+4 credits
+Principles of the study of relationships between organisms and the environment. Topics include flow of energy and materials, organism-level interactions, growth and evolution of populations, and community ecology. Field trips to prairie, lake, stream, and forest communities, training in data collection and analysis, use of equipment, and report writing. Lab included.
+Prerequisites:
+BIOL 105 and BIOL 106 or consent
+BIOL 217
+Plant Science
+4 credits
+Biology of plants including unique features of plant cells, life histories, metabolism, anatomy, physiology, and ecology. The course empathizes plants' remarkable adaptations to their environments, their diversity, and the vital roles they play in ecological interactions. For biology and environmental science majors and minors. Lab included.
+Prerequisites:
+BIOL 105 and BIOL 106 or consent
+BIOL 306
+Vertebrate Zoology
+4 credits
+This course will explore the diversity of vertebrate animals from chordates ancestors, fishes, amphibians, reptiles, birds, and mammals. Discussion of major taxa will focus on evolutionary relationships, ecology, and biology. Lab will focus on identification from both museum and field specimens.
+Prerequisites:
+BIOL 105, BIOL 106
+BIOL 410
+Global Change Biology
+3 credits
+This class examines the effects of natural and human-induced changes in climate on terrestrial and marine ecosystems. The course focuses on the science behind global change issues that have biological, social, and economic implicatons.
+Prerequisites:
+BIOL 105, BIOL 106, BIOL 215 or consent
+ENVR 440
+Environmental Regulations
+3 credits
+This is a lecture course introducing students to major federal environmental laws and regulations. Discussions include the cause(s) that prompted the enactment of various environmental legislation as well as intent and implementation of the legislation. Both Federal and State of MN environmental statutes will be discussed.
+Prerequisites:
+none
+ENVR 470
+Environmental Assessment
+3 credits
+Introduces students to National Environmental Policy Act and requirements for Environmental Impact Statements and Environmental Assessment Worksheets. Phase I Environmental Assessment of land and buildings, an international perspective on environmental assessments, and economic and social impact assessment are discusseed.
+Prerequisites:
+ENVR 440
+GEOG 373
+Introduction to Geography Information Systems
+4 credits
+The course will be an introduction to the analysis of spatial data using the concept of a geographic information system (GIS). Content of the course will be, to a great extent, based on the NCGIA core curriculum with assignments tailored to the data and software available within the department such as ArcGIS.
+Prerequisites:
+none
+Statistics Requirement
+- Choose 3 - 4 Credit(s).
+GEOG 476
+Spatial Statistics
+3 credits
+Descriptive statistics, probability, hypothesis testing, introduction to non-parametric statistics, correlation, introduction to regression analysis, spatial statistics, and principles of data representation in graphs and tables.
+Prerequisites:
+none
+STAT 154
+Elementary Statistics
+4 credits
+An introduction to statistical concepts and methods that is applicable to all disciplines. Topics include descriptive measures of data, probability and probability distributions, statistical inference, tests of hypotheses, confidence intervals, correlation, linear regression, and analysis of variance. The use of statistical software will be emphasized. Prereq: ACT Math sub-score of 19 or higher, successful completion of MATH 098 or appropriate placement scores (see Placement Information under Statistics) Fall, Spring, Summer GE-4
+Prerequisites:
+Satisfy Placement Table in this section, or MATH 098 with grade of P.
+Goal Areas: GE-02, GE-04
+Ecology Requirement
+- Choose 8 Credit(s).
+BIOL 402
+Stream Ecology
+4 credits
+The structure and function of stream ecosystems are presented with emphasis on adaptations of organisms to stream life and connections between stream organisms, the aquatic environment, and the surrounding watershed. Includes lab, field work, and team projects. Prereq: BIOL 105W, BIOL 106, BIOL 215 or consentSummer
+Prerequisites:
+BIOL 105, BIOL 106, BIOL 215 or consent
+BIOL 404
+Wetlands
+4 credits
+To provide students the values and functions of wetlands and to use wetlands as an example of the relationship of ecology to management, and the impact that classification systems have politically. Lab (fieldwork) included.
+Prerequisites:
+BIOL 215
+BIOL 406
+Fish Management
+4 credits
+This course will explore the biology and diversity of fishes. Students will understand the major structure, physiology, ecology, and evolution of fishes with special relation to fisheries and conservation management.
+Prerequisites:
+BIOL 215
+BIOL 409
+Advanced Field Ecology
+4 credits
+A field course focused on the function and dynamics of various North American ecosystems. Emphases will be on natural history, critical thought, and experimental design. Students will be trained in a variety of soil, plant, and animal sampling techniques. Depending on enrollment, there may be additional costs (e.g., camping fees) for the course.
+Prerequisites:
+BIOL 105, BIOL 106, BIOL 215 or consent
+BIOL 412
+Soil Ecology
+4 credits
+Soil ecology will focus on the genesis and classification of soils, the physical properties of soil as they relate to habitat formation, niches, interactions that exist among soil organisms, human impact on soil systems relative to population pressures and management practices. Lab included.
+Prerequisites:
+BIOL 105, BIOL 106, BIOL 215, or consent
+BIOL 432
+Lake Ecology
+4 credits
+This course is an introduction to the physical, chemical, and biological characteristics and interactions of inland freshwater lakes. Labs will emphasize field work, including data collection from five local lakes, analysis, and discussion.
+Prerequisites:
+BIOL 215
+BIOL 440
+Wildlife Management
+4 credits
+A practical and didactic approach to understanding the practices and challenges of managing wildlife populations. Course will focus on applying the ecology, development, physiology, and behavior of wildlife populations to specific management outcomes.
+Prerequisites:
+BIOL 105, BIOL 106, BIOL 215, BIOL 306
+BIOL 442
+Flora of Minnesota
+4 credits
+Field identification of plants with emphasis on local flora. History systematic, techniques, plant biogeography, methods of plant collection, preservation, preparation of herbarium specimens are covered. Lab and field trips included.
+Prerequisites:
+none
+BIOL 443W
+Plant Ecology
+4 credits
+Expands upon general principles of ecology to focus on the factors that regulate the distribution and abundance of plants, analysis of plant populations, dynamics of plant communities, and scientific communication. Lecture and lab (fieldwork) included. (Taking BIOL 217 is strongly recommended before taking this class.)
+Prerequisites:
+none
+BIOL 446
+Principles of Weed Science
+4 credits
+This course will introduce students to the principles and practices of weed science. Lecture will cover topics including weed biology and ecology, an introduction to weed management techniques and methodologies, factors affecting weed control, and environmental issues associated with weed management. Course material will highlight weed management in cropping systems, non-row crop and right-of-ways, natural areas, and aquatic habitats. The laboratory component of the course will focus on weed identification, crop/weed competition, application techniques including effective herbicide use and current weed control practices.In addition to the the prerequisites listed, BIOL 217 is strongly recommended.
+Prerequisites:
+BIOL 215, BIOL 217
+BIOL 451
+Agroecology
+4 credits
+Lecture/laboratory course that presents an integrated view of plant biology, crop science, ecology, sustainability and current issues in biotechnology. Course focuses on issues of global concern such as sustainable food production, cropping techniques, climate change responses, pest management and herbicides, resistance, biofuels, genetically modified crops, molecular pharming, and tissue culture. Fall.
+Prerequisites:
+BIOL 105, BIOL 106
+Major Restricted Electives
+Choose 1 - 4 Credit(s).
+BIOL 398
+RISEbio research
+2 credits
+This course is designed as research experience to RISEbio scholars. Students taking this course will be involved in an original research project that is mentored by faculty. Using a variety of methods, students will collect original data and contribute to problem solving in the biological sciences. As an early research experience, emphasis will be placed on the process of scientific research, including formulation of a research plan, data collection, assessment of data quality and interpretation based on available data. Students are required to keep a lab notebook, work in teams and present their findings to classmates and a wider audience.
+Prerequisites:
+BIOL 105, BIOL 106. RISEbio program participant, instructor permission
+BIOL 497
+Internship I
+1-12 credits
+Experience in applied biology according to a prearranged training program for a minimum of five 40-hour weeks.
+Prerequisites:
+Consent
+BIOL 499
+Individual Study
+1-4 credits
+Individual Study
+Prerequisites:
+none
+ENVR 480
+Senior Research
+1-6 credits
+Participate in an independent research project with advisory support and with a focus on the student's career objectives.
+Prerequisites:
+none
+ENVR 498
+Internship
+1-6 credits
+Only three credits can be counted toward major. Experience in applied Environmental Sciences according to a prearranged training program.
+Prerequisites:
+none
+ENVR 499
+Individual Study
+1-6 credits
+Individual Research Project.
+Prerequisites:
+none
+Environmental Emphasis
+- Choose TWO courses from one of the following 5 clusters and ONE additional course from any cluster. At least two courses must have a laboratory component. Choose 11 - 12 Credit(s).
+Aquatic Emphasis
+- Choose 11 - 12 Credit(s).
+BIOL 402
+Stream Ecology
+4 credits
+The structure and function of stream ecosystems are presented with emphasis on adaptations of organisms to stream life and connections between stream organisms, the aquatic environment, and the surrounding watershed. Includes lab, field work, and team projects. Prereq: BIOL 105W, BIOL 106, BIOL 215 or consentSummer
+Prerequisites:
+BIOL 105, BIOL 106, BIOL 215 or consent
+BIOL 404
+Wetlands
+4 credits
+To provide students the values and functions of wetlands and to use wetlands as an example of the relationship of ecology to management, and the impact that classification systems have politically. Lab (fieldwork) included.
+Prerequisites:
+BIOL 215
+BIOL 406
+Fish Management
+4 credits
+This course will explore the biology and diversity of fishes. Students will understand the major structure, physiology, ecology, and evolution of fishes with special relation to fisheries and conservation management.
+Prerequisites:
+BIOL 215
+BIOL 432
+Lake Ecology
+4 credits
+This course is an introduction to the physical, chemical, and biological characteristics and interactions of inland freshwater lakes. Labs will emphasize field work, including data collection from five local lakes, analysis, and discussion.
+Prerequisites:
+BIOL 215
+Animal Emphasis
+BIOL 305
+Invertebrate Zoology
+4 credits
+This course will introduce students to the wide diversity of invertebrate animals. Students will understand the major similarities and differences of the invertebrate taxa (protostomes and deuterostomes) through a comprehensive phylogenetic analysis of their morphological and functional features. Emphasis will focus on evolutionary relationships among taxa including ecology, development, life cycles, anatomy, and physiology. Lab will focus on skills related to invertebrate identification, manipulation, and field collection.
+Prerequisites:
+BIOL 105, BIOL 106
+BIOL 406
+Fish Management
+4 credits
+This course will explore the biology and diversity of fishes. Students will understand the major structure, physiology, ecology, and evolution of fishes with special relation to fisheries and conservation management.
+Prerequisites:
+BIOL 215
+BIOL 414
+Ichthyology
+4 credits
+This course will discuss the evolution and diversification of fishes with an emphasis on anatomy, physiology, development, behavior, classification, and select fish's ecological role in major systems. Students will also develop identification skills on fish characteristics that define major taxonomic groupings. Laboratory will focus on identification and physical manipulation of fishes.
+Prerequisites:
+BIOL 306
+BIOL 415
+Ornithology
+4 credits
+This course will discuss the evolution and diversification of birds with an emphasis on anatomy, development, behavior, migration, and mating systems. Students are expected to participate in field-based projects on spatial and temporal distributions of local bird populations. Students will also develop identification skills on regional bird species.
+Prerequisites:
+BIOL 105, BIOL 106, BIOL 306
+BIOL 421
+Entomology
+3 credits
+Morphological, physiological, medical, and economic significance of insects.
+Prerequisites:
+BIOL 105 and BIOL 106 or consent
+BIOL 423
+Comparative Vertebrate Anatomy
+4 credits
+This course will explore the structure and function of the vertebrate body in its diverse forms from fishes to mammals. Discussion of individual organ systems will focus on developmental patterns, function and evolutionary relationships. The lab will include microanatomy (histology) and macroanatomy (gross anatomy) of example organisms. Students will become familiar with the tissue, organ and system levels of the anatomy of vertebrates.
+Prerequisites:
+BIOL 105, BIOL 106, BIOL 306
+BIOL 434
+Animal Physiology
+4 credits
+This course focuses on animal physiology with an emphasis on both invertebrates and vertebrates. Specifically, the course will focus on comparative mechanisms involved in physiological processes at the molecular, cellular, tissue, organ, system and whole organism levels. Inquiry-based laboratory exercises will examine physiological concepts using animal models.
+Prerequisites:
+CHEM 201, BIOL 423
+BIOL 436
+Animal Behavior
+4 credits
+An exploration of behavioral strategy, communication, learning, and social systems of animals, with emphases placed on the causes, evolution, ecological implications, and function of behavior at the individual and population level. Lab included.
+Prerequisites:
+BIOL 105, BIOL 106
+BIOL 440
+Wildlife Management
+4 credits
+A practical and didactic approach to understanding the practices and challenges of managing wildlife populations. Course will focus on applying the ecology, development, physiology, and behavior of wildlife populations to specific management outcomes.
+Prerequisites:
+BIOL 105, BIOL 106, BIOL 215, BIOL 306
+Plant Emphasis
+BIOL 412
+Soil Ecology
+4 credits
+Soil ecology will focus on the genesis and classification of soils, the physical properties of soil as they relate to habitat formation, niches, interactions that exist among soil organisms, human impact on soil systems relative to population pressures and management practices. Lab included.
+Prerequisites:
+BIOL 105, BIOL 106, BIOL 215, or consent
+BIOL 441
+Plant Physiology
+4 credits
+Plant functions such as water relations, mineral nutrition, translocation, metabolisms, photosynthesis, photorespiration, fat and protein metabolism, respiration, growth and development, phytohormones, reproduction and environmental physiology. Lab included. (One semester organic chemistry is recommended.)
+Prerequisites:
+BIOL 105, BIOL 106, BIOL 217, one semester organic chemistry recommended.
+BIOL 442
+Flora of Minnesota
+4 credits
+Field identification of plants with emphasis on local flora. History systematic, techniques, plant biogeography, methods of plant collection, preservation, preparation of herbarium specimens are covered. Lab and field trips included.
+Prerequisites:
+none
+BIOL 443W
+Plant Ecology
+4 credits
+Expands upon general principles of ecology to focus on the factors that regulate the distribution and abundance of plants, analysis of plant populations, dynamics of plant communities, and scientific communication. Lecture and lab (fieldwork) included. (Taking BIOL 217 is strongly recommended before taking this class.)
+Prerequisites:
+none
+BIOL 446
+Principles of Weed Science
+4 credits
+This course will introduce students to the principles and practices of weed science. Lecture will cover topics including weed biology and ecology, an introduction to weed management techniques and methodologies, factors affecting weed control, and environmental issues associated with weed management. Course material will highlight weed management in cropping systems, non-row crop and right-of-ways, natural areas, and aquatic habitats. The laboratory component of the course will focus on weed identification, crop/weed competition, application techniques including effective herbicide use and current weed control practices.In addition to the the prerequisites listed, BIOL 217 is strongly recommended.
+Prerequisites:
+BIOL 215, BIOL 217
+Management and Conservation Emphasis
+BIOL 403
+Conservation Biology
+3 credits
+Applications of principles from ecology, genetics, behavior, demography, economics, philosophy, and other fields to the conservation and sustainable use of natural populations of plants and animals. Lectures and discussions address topics such as habitat fragmentation, parks and reserves, genetic diversity, population viability, and extinction.
+Prerequisites:
+BIOL 215 or consent
+BIOL 406
+Fish Management
+4 credits
+This course will explore the biology and diversity of fishes. Students will understand the major structure, physiology, ecology, and evolution of fishes with special relation to fisheries and conservation management.
+Prerequisites:
+BIOL 215
+BIOL 440
+Wildlife Management
+4 credits
+A practical and didactic approach to understanding the practices and challenges of managing wildlife populations. Course will focus on applying the ecology, development, physiology, and behavior of wildlife populations to specific management outcomes.
+Prerequisites:
+BIOL 105, BIOL 106, BIOL 215, BIOL 306
+BIOL 442
+Flora of Minnesota
+4 credits
+Field identification of plants with emphasis on local flora. History systematic, techniques, plant biogeography, methods of plant collection, preservation, preparation of herbarium specimens are covered. Lab and field trips included.
+Prerequisites:
+none
+BIOL 446
+Principles of Weed Science
+4 credits
+This course will introduce students to the principles and practices of weed science. Lecture will cover topics including weed biology and ecology, an introduction to weed management techniques and methodologies, factors affecting weed control, and environmental issues associated with weed management. Course material will highlight weed management in cropping systems, non-row crop and right-of-ways, natural areas, and aquatic habitats. The laboratory component of the course will focus on weed identification, crop/weed competition, application techniques including effective herbicide use and current weed control practices.In addition to the the prerequisites listed, BIOL 217 is strongly recommended.
+Prerequisites:
+BIOL 215, BIOL 217
+GEOG 413
+Soil Conservation
+4 credits
+This course examines basic concepts and components of soils, factors that influence formation and degradation, soil as a natural resource for ecosystems and societies, and the importance of soil conservation to restore functions that reduce erosion, improve water quality and quantity, mitigate climate change, enhance biodiversity, and increase agricultural productivity to feed an expanding population. Students will gain hands-on experience in field and laboratory settings to assess soil quality and quantity, investigate site-specific and landscape-scale impacts to soils, and develop management strategies to protect and improve soils in urban and agricultural systems.
+Prerequisites:
+none
+GEOG 420
+Conservation of Natural Resources
+3 credits
+Survey of natural resources emphasizing energy, minerals, soils, fisheries, and water resources. Also addresses timber, wetlands, and wildlife on public and private lands.
+Prerequisites:
+none
+Chemistry and Geology Emphasis
+CHEM 305
+Analytical Chemistry
+4 credits
+Introduction to the principles of chemical analysis, with emphasis on classical methods of analysis. Lectures will stress the theory of chemical measurements and sample handling. Laboratory exercises will provide students with opportunities to explore calibration methods, method development, and established procedures for volumetric and gravimetric analyses. Basic atomic spectroscopy is also presented.
+Prerequisites:
+"C" (2.0) or higher in CHEM 202
+CHEM 322
+Organic Chemistry I
+4 credits
+Introduction to organic nomenclature, structure, bonding, chemical reactivity, organic acid-base reactions, mechanisms and stereochemistry. IR, MS, and NMR spectroscopy will be introduced. The chemistry of alkanes, alkyl halides, alkenes, alkynes, and alcohols will be covered. Laboratory illustrates synthetic techniques and the preparation and reactions of functional groups discussed during lecture.
+Prerequisites:
+CHEM 202, "C" (2.0) or higher in CHEM 202.
+CHEM 324
+Organic Chemistry II
+3 credits
+This course is a continuation Chem 322 and includes organic nomenclature, structure, bonding, chemical reactivity, organic acid-base reactions, and reaction mechanisms; the chemistry of ethers, aromatic and heterocyclic compounds, polyenes, ketones, aldehydes, amines, carboxylic acids and their derivatives, and alpha carbonyl compounds and synthetic transformations is covered.
+Prerequisites:
+CHEM 322 with a "C" (2.0) or higher.
+CHEM 325
+Organic Chemistry II Lab
+1 credits
+Laboratory will highlight common techniques including recrystallization, melting point determination, simple and fractional distillation, extraction, gas and thin layer chromatography, and chemical and spectroscopic qualitative analysis. Single and multi-step syntheses illustrating aromatic and carbonyl chemistry will be performed.
+Prerequisites:
+CHEM 324
+CHEM 360
+Principles of Biochemistry
+4 credits
+Analysis of the structure and metabolism of biologically important compounds. This intermediate-level course is designed for students in the medical technology, food science, chemistry education, chemistry and pre-professional health majors. The laboratory teaches basic biochemical techniques.
+Prerequisites:
+CHEM 322. CHEM 324 is strongly recommended.
+CHEM 407
+Environmental Chemistry
+3 credits
+The sources of various elements and chemical reactions between them in the atmosphere and hydrosphere are treated. Current research topics relevant to the field of environmental chemistry will also be addressed. Laboratory exercises will emphasize proper sampling technique and various analytical methods for quantifying environmentally important components.
+Prerequisites:
+"C" (2.0) or higher in CHEM 305
+GEOL 449
+Applied Soil Science and Surface Hydrology
+4 credits
+The application of geologic data and principles to problems created by human occupancy and use of the physical environment. Lecture and laboratory topics include soil classification and conservation, hazardous waste site evaluation and remediation, and living with geologic hazards.
+Prerequisites:
+GEOL 100 GEOL 104 or GEOL 107 or GEOL 121
+GEOL 460
+Soil Biogeochemistry
+3 credits
+Biogeochemical processes specific to soil and engineered sediments, including applications of solubility, adsorption/desorption, ion exchange, oxidation/reduction, acidity, alkalinity. Discussion of problems related to environmental degradation, plant nutrition, soil genesis, and element cycling (e.g. P, N, C). Structural chemistry, origin/identification of crystalline soil clay minerals, and soil organic matter will be covered in context with the mechanisms for reactivity in the soil environment. Prerequisites or instructor consent.
+Prerequisites:
+GEOL 104, and CHEM 191 or CHEM 201
+Degree Plan
+First Year
+Fall
+- 15 Credits
+BIOL 104
+Introduction to Soil Science
+4 credits
+An introduction to the multidisciplinary field of soil science and fertility. The course will examine the basic physical, chemical, and biological properties of soils. Further topics will explore soil genesis, soil health and management, and their relationships to crop production. Field trips and lab activities will be used to explore key concepts, with emphasis on examples relevant to the soils of southern Minnesota. Local field trips included.
+Prerequisites:
+none
+Goal Areas: GE-03, GE-10
+BIOL 106
+General Biology II
+4 credits
+Study of biological processes at the organismal level including a survey of life forms (viruses, bacteria, protists, fungi, plants, and animals), their evolution, and ecology. Laboratory and discussion sessions stress problem solving and experimental design.
+Prerequisites:
+none
+MATH 115
+Precalculus Mathematics
+4 credits
+This course will cover topics of precalculus mathematics. Topics covered will include functions, graphs of functions, exponential and logarithmic functions, conic sections, systems of equations and inequalities, matrices, trigonometric functions, circular functions, vectors and complex numbers, induction, series and probability.
+Prerequisites:
+Satisfy Math Placement Table in this section, or grade of P in MATH 098.
+Goal Areas: GE-04
+Spring
+- 16 Credits
+BIOL 105
+General Biology I
+4 credits
+Study of biological processes at the suborganismal level including cell chemistry, metabolism, reproduction, genetics, and complex tissue physiology. Laboratory and discussion sessions stress problem solving and experimental design.
+Prerequisites:
+none
+Goal Areas: GE-03
+STAT 154
+Elementary Statistics
+4 credits
+An introduction to statistical concepts and methods that is applicable to all disciplines. Topics include descriptive measures of data, probability and probability distributions, statistical inference, tests of hypotheses, confidence intervals, correlation, linear regression, and analysis of variance. The use of statistical software will be emphasized. Prereq: ACT Math sub-score of 19 or higher, successful completion of MATH 098 or appropriate placement scores (see Placement Information under Statistics) Fall, Spring, Summer GE-4
+Prerequisites:
+Satisfy Placement Table in this section, or MATH 098 with grade of P.
+Goal Areas: GE-02, GE-04
+CHEM 201
+General Chemistry I
+5 credits
+Introduction to the basic principles of chemistry including atomic and molecular structure, bonding, chemical reactions, stoichiometry, thermodynamics and states of matter. Laboratory will reinforce lecture concepts. Prereq: C or higher in MATH 112 or the equivalent; high school chemistry or C or higher in CHEM 104
+Prerequisites:
+"C" (2.0) or higher in MATH 112 or the equivalent; high school chemistry or "C" (2.0) or higher in CHEM 104.
+Goal Areas: GE-02, GE-03
+Second Year
+Fall
+- 15 Credits
+BIOL 215
+General Ecology
+4 credits
+Principles of the study of relationships between organisms and the environment. Topics include flow of energy and materials, organism-level interactions, growth and evolution of populations, and community ecology. Field trips to prairie, lake, stream, and forest communities, training in data collection and analysis, use of equipment, and report writing. Lab included.
+Prerequisites:
+BIOL 105 and BIOL 106 or consent
+GEOG 373
+Introduction to Geography Information Systems
+4 credits
+The course will be an introduction to the analysis of spatial data using the concept of a geographic information system (GIS). Content of the course will be, to a great extent, based on the NCGIA core curriculum with assignments tailored to the data and software available within the department such as ArcGIS.
+Prerequisites:
+none
+ENVR 440
+Environmental Regulations
+3 credits
+This is a lecture course introducing students to major federal environmental laws and regulations. Discussions include the cause(s) that prompted the enactment of various environmental legislation as well as intent and implementation of the legislation. Both Federal and State of MN environmental statutes will be discussed.
+Prerequisites:
+none
+Spring
+- 15 Credits
+BIOL 217
+Plant Science
+4 credits
+Biology of plants including unique features of plant cells, life histories, metabolism, anatomy, physiology, and ecology. The course empathizes plants' remarkable adaptations to their environments, their diversity, and the vital roles they play in ecological interactions. For biology and environmental science majors and minors. Lab included.
+Prerequisites:
+BIOL 105 and BIOL 106 or consent
+BIOL 306
+Vertebrate Zoology
+4 credits
+This course will explore the diversity of vertebrate animals from chordates ancestors, fishes, amphibians, reptiles, birds, and mammals. Discussion of major taxa will focus on evolutionary relationships, ecology, and biology. Lab will focus on identification from both museum and field specimens.
+Prerequisites:
+BIOL 105, BIOL 106
+Third Year
+Fall
+- 15 Credits
+BIOL 410
+Global Change Biology
+3 credits
+This class examines the effects of natural and human-induced changes in climate on terrestrial and marine ecosystems. The course focuses on the science behind global change issues that have biological, social, and economic implicatons.
+Prerequisites:
+BIOL 105, BIOL 106, BIOL 215 or consent
+Spring
+- 15 Credits
+Fourth Year
+Fall
+- 15 Credits
+Spring
+- 14 Credits
+ENVR 470
+Environmental Assessment
+3 credits
+Introduces students to National Environmental Policy Act and requirements for Environmental Impact Statements and Environmental Assessment Worksheets. Phase I Environmental Assessment of land and buildings, an international perspective on environmental assessments, and economic and social impact assessment are discusseed.
+Prerequisites:
+ENVR 440Initial deposit: N/A
+
+
+Application Fee for Undergraduate: $ 20
+Application Fee for Postgraduate: $ 40
+
+
+Annual Fee for Undergraduate: $ 18,812
+Annual Fee for Postgraduate: $ 14,918
+
+
+English Language Requirements Undergraduate only:
+TOEFL iBT (internet-based test) score of 61 or better
+Pearson Test of English (PTE) score of 47 or better
+IELTS academic test score of 5.5 or better
+
+
+English Language Requirements Postgraduate only:
+Different for every course and given in course content 
+
+
+Entry Requirements Undergraduate only:
+A cumulative high school GPA of 3.0 or higher or A rank in the top 50% of your high school class or An ACT composite score of 21 or higher and a minimum cumulative high school GPA of 2.7. If you do not meet the above admission requirements, you can submit additional information to consider when reviewing your application.
+
+
+Entry Requirements Postgraduate only:
+Applicants must possess the equivalent of a U.S. Bachelor's degree to be considered for graduate programs at Minnesota State Mankato. The degree must be earned at an institution recognized and approved to award the degree. GRE (Graduate Record Examination) is required by some academic programs.
+
+English Language requirements of graduate programs is different for each course. Graduate programs only have IELTS and TOEFL test scores.
+For Graduate Entry Requirements, some requirements like GPA, Score are mentioned on the course page so add them too.

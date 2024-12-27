@@ -1,0 +1,187 @@
+Link: https://cset.mnsu.edu/academic-programs/geology/environmental-geology-certificate/
+
+College of Science, Engineering & Technology
+Academic Programs
+Geology
+Environmental Geology, Certificate
+Geology Section
+Geology
+Geology, Bachelor of Science (BS)
+Geology, Minor
+Environmental Geology, Certificate
+Geology Faculty and Staff
+Environmental Geology (CERT)
+The Environmental Geology Certificate is designed to develop a core component of skills in geology that are relevant to solving environmental problems. This certificate will complement students of any major who are interested in pursuing employment in environmental science or resource management job sectors. Courses within the certificate place an emphasis on understanding and solving problems associated with our regional geologic environment.
+Current Catalog Year
+2024-2025
+Degree
+Certificate
+Major /                                         Total Credits
+23 / 23
+Locations
+Mankato
+Apply
+Program Requirements
+Degree Plan
+Program
+                                    Requirements
+Major Common Core
+GEOL 121
+Physical Geology
+4 credits
+Physical geology is the study of how the earth works. From mountain building to soil erosion, this course provides an introduction to all the main areas of geologic study. Lecture discussions and laboratory exercises are designed for students seeking a major or minor in one of the natural sciences.
+Prerequisites:
+none
+Goal Areas: GE-03, GE-10
+GEOL 201
+Elements of Mineralogy
+4 credits
+Examination of the elemental composition and crystal structure of various common minerals. Laboratory time is spent practicing techniques of identifying crystals and minerals. The importance and occurrence of many economic minerals is also covered thoroughly in this course.
+Prerequisites:
+GEOL 100 or GEOL 107 or GEOL 121
+GEOL 320W
+Sedimentology and Stratigraphy
+4 credits
+Focused studies of the origins and processes of transportation, deposition, burial, and diagenesis of sedimentary materials. Lab assignments focus on sedimentary material identification and analysis. Field trips required.
+Prerequisites:
+Select one course: GEOL 100, GEOL 107, GEOL 121
+Required Environmental Geology
+- Choose 3 - 4 Credit(s).
+GEOL 449
+Applied Soil Science and Surface Hydrology
+4 credits
+The application of geologic data and principles to problems created by human occupancy and use of the physical environment. Lecture and laboratory topics include soil classification and conservation, hazardous waste site evaluation and remediation, and living with geologic hazards.
+Prerequisites:
+GEOL 100 GEOL 104 or GEOL 107 or GEOL 121
+GEOL 450
+Hydrogeology
+3 credits
+This course introduces physical and chemical studies of hydrogeology. The main areas of discussion will include the physical and chemical attributes of aquifers, movement of ground-water and solute through soils and rocks, and reactions between earth materials and pollutants in ground-water systems. The class includes extensive use of MODFLOW and MT3D, the two most commonly usedgroundwater modeling programs currently available.
+Prerequisites:
+GEOL 100 or GEOL 107or GEOL 121
+Required Environmental Sciences
+- Choose 3 - 4 Credit(s).
+ENVR 440
+Environmental Regulations
+3 credits
+This is a lecture course introducing students to major federal environmental laws and regulations. Discussions include the cause(s) that prompted the enactment of various environmental legislation as well as intent and implementation of the legislation. Both Federal and State of MN environmental statutes will be discussed.
+Prerequisites:
+none
+Major Restricted Electives
+Choose one course not used to satisfy requirements above.
+ENVR 450
+Environmental Pollution & Control
+3 credits
+This is a lecture course that introduces students to sources and controls for pollutants in air, water, and soils including hazardous waste. Chemical and biological mechanisms that are important in nature and used to control/treat various types of pollutants are emphasized. Strongly recommended that this course be taken immediately after completing 1 year of Chemistry.
+Prerequisites:
+1 year CHEM
+ENVR 460
+Analysis of Pollutants
+4 credits
+The purpose of this lecture/lab class is to introduce students to standard practices and procedures used in sampling and analysis of environmental matrices and to develop an environmental research project. Standard quality control/quality assurance procedures per EPA are emphasized.
+Prerequisites:
+none
+ENVR 470
+Environmental Assessment
+3 credits
+Introduces students to National Environmental Policy Act and requirements for Environmental Impact Statements and Environmental Assessment Worksheets. Phase I Environmental Assessment of land and buildings, an international perspective on environmental assessments, and economic and social impact assessment are discusseed.
+Prerequisites:
+ENVR 440
+GEOL 449
+Applied Soil Science and Surface Hydrology
+4 credits
+The application of geologic data and principles to problems created by human occupancy and use of the physical environment. Lecture and laboratory topics include soil classification and conservation, hazardous waste site evaluation and remediation, and living with geologic hazards.
+Prerequisites:
+GEOL 100 GEOL 104 or GEOL 107 or GEOL 121
+GEOL 450
+Hydrogeology
+3 credits
+This course introduces physical and chemical studies of hydrogeology. The main areas of discussion will include the physical and chemical attributes of aquifers, movement of ground-water and solute through soils and rocks, and reactions between earth materials and pollutants in ground-water systems. The class includes extensive use of MODFLOW and MT3D, the two most commonly usedgroundwater modeling programs currently available.
+Prerequisites:
+GEOL 100 or GEOL 107or GEOL 121
+Degree Plan
+First Year
+Fall
+- 4 Credits
+GEOL 121
+Physical Geology
+4 credits
+Physical geology is the study of how the earth works. From mountain building to soil erosion, this course provides an introduction to all the main areas of geologic study. Lecture discussions and laboratory exercises are designed for students seeking a major or minor in one of the natural sciences.
+Prerequisites:
+none
+Goal Areas: GE-03, GE-10
+Second Year
+Fall
+- 8 Credits
+GEOL 201
+Elements of Mineralogy
+4 credits
+Examination of the elemental composition and crystal structure of various common minerals. Laboratory time is spent practicing techniques of identifying crystals and minerals. The importance and occurrence of many economic minerals is also covered thoroughly in this course.
+Prerequisites:
+GEOL 100 or GEOL 107 or GEOL 121
+GEOL 320W
+Sedimentology and Stratigraphy
+4 credits
+Focused studies of the origins and processes of transportation, deposition, burial, and diagenesis of sedimentary materials. Lab assignments focus on sedimentary material identification and analysis. Field trips required.
+Prerequisites:
+Select one course: GEOL 100, GEOL 107, GEOL 121
+Spring
+- 4 Credits
+GEOL 449
+Applied Soil Science and Surface Hydrology
+4 credits
+The application of geologic data and principles to problems created by human occupancy and use of the physical environment. Lecture and laboratory topics include soil classification and conservation, hazardous waste site evaluation and remediation, and living with geologic hazards.
+Prerequisites:
+GEOL 100 GEOL 104 or GEOL 107 or GEOL 121
+Third Year
+Fall
+- 3 Credits
+ENVR 440
+Environmental Regulations
+3 credits
+This is a lecture course introducing students to major federal environmental laws and regulations. Discussions include the cause(s) that prompted the enactment of various environmental legislation as well as intent and implementation of the legislation. Both Federal and State of MN environmental statutes will be discussed.
+Prerequisites:
+none
+Spring
+- 6 Credits
+ENVR 450
+Environmental Pollution & Control
+3 credits
+This is a lecture course that introduces students to sources and controls for pollutants in air, water, and soils including hazardous waste. Chemical and biological mechanisms that are important in nature and used to control/treat various types of pollutants are emphasized. Strongly recommended that this course be taken immediately after completing 1 year of Chemistry.
+Prerequisites:
+1 year CHEM
+GEOL 450
+Hydrogeology
+3 credits
+This course introduces physical and chemical studies of hydrogeology. The main areas of discussion will include the physical and chemical attributes of aquifers, movement of ground-water and solute through soils and rocks, and reactions between earth materials and pollutants in ground-water systems. The class includes extensive use of MODFLOW and MT3D, the two most commonly usedgroundwater modeling programs currently available.
+Prerequisites:
+GEOL 100 or GEOL 107or GEOL 121Initial deposit: N/A
+
+
+Application Fee for Undergraduate: $ 20
+Application Fee for Postgraduate: $ 40
+
+
+Annual Fee for Undergraduate: $ 18,812
+Annual Fee for Postgraduate: $ 14,918
+
+
+English Language Requirements Undergraduate only:
+TOEFL iBT (internet-based test) score of 61 or better
+Pearson Test of English (PTE) score of 47 or better
+IELTS academic test score of 5.5 or better
+
+
+English Language Requirements Postgraduate only:
+Different for every course and given in course content 
+
+
+Entry Requirements Undergraduate only:
+A cumulative high school GPA of 3.0 or higher or A rank in the top 50% of your high school class or An ACT composite score of 21 or higher and a minimum cumulative high school GPA of 2.7. If you do not meet the above admission requirements, you can submit additional information to consider when reviewing your application.
+
+
+Entry Requirements Postgraduate only:
+Applicants must possess the equivalent of a U.S. Bachelor's degree to be considered for graduate programs at Minnesota State Mankato. The degree must be earned at an institution recognized and approved to award the degree. GRE (Graduate Record Examination) is required by some academic programs.
+
+English Language requirements of graduate programs is different for each course. Graduate programs only have IELTS and TOEFL test scores.
+For Graduate Entry Requirements, some requirements like GPA, Score are mentioned on the course page so add them too.

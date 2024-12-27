@@ -1,0 +1,149 @@
+Link: https://www.fdu.edu/program/bs-ms-computer-science/
+
+Skip to content
+Computer Science BS, Computer Science MS 4 Plus 1 Program (Metro)
+Home
+/
+Program
+/
+Computer Science BS, Computer Science MS 4 Plus 1 Program (Metro)
+The Lee Gildart and Oswald Haase School of Computer Sciences and Engineering (GHSCSE) offers a 4 Plus 1 program that allows qualified students to obtain a Bachelor of Science (BS) in computer science degree. In particular, three graduate courses: CSCI6603 Computer Architecture (3 credits), CSCI6623 Database Systems (3 credits) and CSCI6638 Operating Systems (3 credits), when successfully completed under the 4 Plus 1 program, can be credited toward both the BS and the MS degrees. This program is offered by GHSCSE at the Metropolitan Campus, Teaneck, New Jersey. The BS in computer science program is accredited by the Computing Accreditation Commission of
+ABET
+. This accreditation applies only to the BS in computer science program offered by the GHSCSE at the Metropolitan Campus.
+Students in the BS in computer science program must take one of the three concentrations:
+Big Data Analytics
+Cybersecurity and Information Assurance
+Game and Mobile Application Development.
+Students completing the BS in computer science program with a concentration in cybersecurity and information assurance are eligible to receive a Certificate of Completion of a National Security Agency (NSA) and Department of Homeland Security (DHS)-designated CAE-CDE program of study from FDU’s Center for Cybersecurity and Information Assurance (CCIA). CAE-CDE denotes the Center for Academic Excellence for Cyber Defense Education.
+Professional Accreditation
+The B.S. in Computer Science program is accredited by the CAC of ABET,
+https://www.abet.org
+.
+Degree Plan
+1st Semester (14 credits)
+CSCI1201
+Computer Programming I
+WRIT1002
+Composition I:  Rhetoric & Inquiry
+MATH1201
+Calculus I
+UNIV1001
+Transitioning to University Life
+ENGR2286
+Digital System Design
+2nd Semester (14 credits)
+CSCI1202
+Computer Programming II
+CSCI2215
+Introduction to Computer Science
+WRIT1003
+Composition II:  Research & Argument
+MATH2202
+Calculus II
+UNIV1002
+Preparing for Professional Life
+3rd Semester (16 credits)
+CSCI2234
+Data Structures and Algorithms
+CSCI2247
+Assembly Language Programming
+PHYS2201
+University Physics 1 Lab
+PHYS2203
+University Physics 1 Lecture
+UNIV2001
+Cross-cultural Perspectives
+ENGR2210
+Technical Communication
+4th Semester (16 credits)
+CSCI6623
+Database Systems
+MATH3237
+Probability and Statistics I
+PHYS2204
+University Physics II Lecture
+PHYS2202
+University Physics II Lab
+UNIV2002
+Global Issues
+CSCI2235
+Survey of Computing Security
+5th Semester (15 credits)
+CSCI3240
+Computer Networks
+MATH2255
+Discrete Structures
+CSCI6638
+Operating Systems
+ENGR3000
+Modern Tech: Principles, App, and Impacts
+Humanities elective
+6th Semester (15 credits)
+Concentration (6 credits)
+Free elective
+MATH3220
+Linear Algebra
+CSCI3251
+Design of Software Systems
+7th Semester (16 credits)
+Concentration: (Same as in semester 5)
+Technical electives (6 credits)
+CSCI4384
+Prep for senior project
+ENGR4210
+Managerial and Economic Analysis
+CSCI6603
+Computer Organization (These courses can be applied to the M.S. degree provided that the student earns a grade of B or better)
+8th Semester (14 credits)
+Concentration (6 credits): (Same as in semester 5)
+Technical elective
+CSCI3260
+Mathematical Foundations of Computer Science
+CSCI4386
+CS Senior Project
+Concentrations
+Students must complete any one of three concentration areas:
+Cybersecurity and Information Assurance, Big Data and Analytics, Mobile and Game App Development
+. Each concentration requires the successful completion of six courses (15 credits).
+Cybersecurity and Information Assurance
+Required Courses (15 credits)
+CSCI3274
+Linux System Administration (3 credits)
+CSCI3345
+Firewalls and Intrusion Detection Systems (3 credits)
+CSCI3410
+Foundations of Cybersecurity (3 credits)
+CSCI3420
+Cryptography (3 credits)
+CSCI3783
+Information Security (3 credits
+Students completing the BS in Computer Science with this concentration are eligible to receive a Certificate of Completion of a NSA & DHS designated CAE-CDE program of study from FDU’s Center for Cybersecurity and Information Assurance (CCIA).
+Game and Mobile App Development
+CSCI3314
+Mobile Application Development (3 credits)
+CSCI3317
+Computer Game Programming (3 credits)
+CSCI3444
+Programming for the Internet
+CSCI3385
+Artificial Intelligence
+CSCI3387
+Machine Learning
+Big Data and Analytics
+CSCI3331
+Advanced Database
+CSCI3318
+Cloud Computing
+CSCI3387
+Machine Learning
+CSCI3461
+Data Mining and Applications
+CSCI3485
+Big Data Analytics
+Accreditation
+Learn more
+Gildart Haase School of Computer Sciences and Engineering
+Admissions
+Apply now
+Visit FDU
+Request Information

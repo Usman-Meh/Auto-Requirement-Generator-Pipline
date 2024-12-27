@@ -1,0 +1,100 @@
+Link: https://cset.mnsu.edu/academic-programs/computer-information-technology/software-development-certificate/
+
+College of Science, Engineering & Technology
+Academic Programs
+Computer Information Technology
+Software Development, Certificate
+Computer Information Technology Section
+Computer Information Technology
+Computer Information Technology, Bachelor of Science (BS)
+Computer Information Science, Minor
+Computer Technology, Minor
+Database Technologies, Minor
+International Technology, Minor
+Networking and Information Security, Minor
+Software Development, Minor
+Database Technologies, Certificate
+Information Security, Certificate
+Networking Technologies, Certificate
+Software Development, Certificate
+Computer Information Technology Faculty & Staff
+Software Development (CERT)
+The software development certificate provides the students with an understanding of the successful delivery of software projects that support organizational goals. Students gain knowledge in the use of tools necessary to organize project objectives, create realistic plans, and build and manage an accomplished team through every phase of the software development project. Students gain practical skills needed to meet today’s demands for faster and more efficient development.
+The certificate may not be eligible for federal financial aid. Speak with the
+Campus Hub
+for details.
+Current Catalog Year
+2024-2025
+Degree
+Certificate
+Major /                                         Total Credits
+12 / 12
+Locations
+Mankato
+Apply
+Program Requirements
+Program
+                                    Requirements
+Prerequisites to the Major
+Students must have fundamental knowledge of or experience in systems analysis and design (equivalent of CIS 380). Students planning to take CIS 414 must also have basic knowledge of or experience in data structures/algorithms and databases (equivalent of CIS 223 and CIS 340). Students planning to take CIS 483 must have basic knowledge of or experience in databases (equivalent of CIS 340).
+Major Restricted Electives
+Choose 12 Credit(s).
+CIS 414
+Advanced Object-Oriented Programming with Design Patterns
+4 credits
+This course provides the student with a solid understanding of the principles, techniques and design patterns involved in advanced object-oriented programming. Successful students should have a distinct advantage in the marketplace.Variable
+Prerequisites:
+CIS 223, CIS 380
+CIS 480
+Software Quality Assurance and Testing
+4 credits
+Topics include software quality assurance, software quality metrics, software configuration management, software verification and validation, reviews, inspections, and software process improvement models, functional and structural testing models.
+Prerequisites:
+CIS 223, CIS 380
+CIS 482
+Human Computer Interaction
+4 credits
+This course discusses concepts and techniques for design, development and evaluation of user interfaces. Students will learn the principles of interaction design, interaction styles, user-centered design, usability evaluation, input/output devices, design and analysis of controlled experiments and principles of perception and cognition used in building efficient and effective interfaces. Group project work.
+Prerequisites:
+MATH 121. Select one: STAT 154 or PSYC 201. Select one: CS 230 or CIS 380
+CIS 483
+Web Application Design and Development
+4 credits
+HTTP Protocol; Web-markup languages; Client-side, Server-side programming; Web services; Web servers; Emerging technologies; Security; Standards & Bodies; Web interface design techniques; User-centered design; Visual development environments and development tools; Interface design effectiveness. Fall, Spring
+Prerequisites:
+CIS 380
+CIS 484
+Software Engineering
+4 credits
+An introduction to all important aspects of software engineering. The emphasis is on principles of software engineering including project planning, requirements gathering, size and cost estimation, analysis, design, coding, testing, implementation, and maintenance. Group project work.
+Prerequisites:
+CIS 223, CIS 380Initial deposit: N/A
+
+
+Application Fee for Undergraduate: $ 20
+Application Fee for Postgraduate: $ 40
+
+
+Annual Fee for Undergraduate: $ 18,812
+Annual Fee for Postgraduate: $ 14,918
+
+
+English Language Requirements Undergraduate only:
+TOEFL iBT (internet-based test) score of 61 or better
+Pearson Test of English (PTE) score of 47 or better
+IELTS academic test score of 5.5 or better
+
+
+English Language Requirements Postgraduate only:
+Different for every course and given in course content 
+
+
+Entry Requirements Undergraduate only:
+A cumulative high school GPA of 3.0 or higher or A rank in the top 50% of your high school class or An ACT composite score of 21 or higher and a minimum cumulative high school GPA of 2.7. If you do not meet the above admission requirements, you can submit additional information to consider when reviewing your application.
+
+
+Entry Requirements Postgraduate only:
+Applicants must possess the equivalent of a U.S. Bachelor's degree to be considered for graduate programs at Minnesota State Mankato. The degree must be earned at an institution recognized and approved to award the degree. GRE (Graduate Record Examination) is required by some academic programs.
+
+English Language requirements of graduate programs is different for each course. Graduate programs only have IELTS and TOEFL test scores.
+For Graduate Entry Requirements, some requirements like GPA, Score are mentioned on the course page so add them too.

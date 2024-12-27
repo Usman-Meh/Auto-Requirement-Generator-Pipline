@@ -1,0 +1,84 @@
+Link: https://cset.mnsu.edu/academic-programs/computer-engineering-technology/internet-of-things-certificate2/
+
+College of Science, Engineering & Technology
+Academic Programs
+Computer Engineering Technology
+Internet of Things, Certificate
+Computer Engineering Technology Section
+Computer Engineering Technology
+Computer Engineering Technology, Bachelor of Science (BS)
+Internet of Things, Certificate
+Computer Engineering Technology Faculty & Staff
+Internet of Things (CERT)
+Current Catalog Year
+2024-2025
+Degree
+Certificate
+Major /                                         Total Credits
+19 / 19
+Locations
+Mankato
+Apply
+Program Requirements
+Program
+                                    Requirements
+Major Common Core
+EE 470
+Wireless Networking
+3 credits
+The features, data rate, frequency range, and operation of several wireless networking protocols such as Wi-Fi, Low Energy Bluetooth, Near Field Communication, Radio frequency Identifier (RFID), Threads, and ZigBee that can be used to implement Internet of Things (IoT) are introduced. The electrical, functional, and procedural specifications of Wi-Fi are then examined in detail. The programming and data transfer using the hardware Wi-Fi kit are carried out to demonstrate the versatility of this protocol.
+Prerequisites:
+none
+EET 254
+Microprocessors I
+4 credits
+A study of microcomputer hardware and software fundamentals, the instruction set and the addressing modes of a microprocessor/microcontroller, assembly programming, basic I/O concepts, parallel I/O methods, asynchronous serial I/O methods, synchronous serial I/O methods, A/D conversion, timer applications, and introduction to Internet of Things (IoT) and its impact to society. Spring
+Prerequisites:
+EET 113
+EET 384
+Microprocessors II
+4 credits
+A study of a high performance microprocessor architecture. Applications of a microprocessor for monitoring and controlling systems will be studied. Optimal utilization of a microprocessors resources will be stressed. PC programming in assembly and a high level language.
+Prerequisites:
+none
+EET 430
+Computer Networking I
+4 credits
+An introduction to the basic foundations of computer networking. The course will encompass telecommunications, local area networks, wide area networks and wireless communication. Topics covered include OSI model, the TCP/IP MODEL, different network topologies and associated hardware, error detection and correction, protocols, and security.
+Prerequisites:
+MATH 180, EET 384
+EET 441
+Embedded Systems
+4 credits
+Design and prototyping of embedded systems including both hardware and software components. A variety of hardware, software, sensors and displays will be used depending on the embedded system requirements. Issues related to hardware and software specifications will be studied as well as appropriate documentation standards.
+Prerequisites:
+MATH 180, EET 384Initial deposit: N/A
+
+
+Application Fee for Undergraduate: $ 20
+Application Fee for Postgraduate: $ 40
+
+
+Annual Fee for Undergraduate: $ 18,812
+Annual Fee for Postgraduate: $ 14,918
+
+
+English Language Requirements Undergraduate only:
+TOEFL iBT (internet-based test) score of 61 or better
+Pearson Test of English (PTE) score of 47 or better
+IELTS academic test score of 5.5 or better
+
+
+English Language Requirements Postgraduate only:
+Different for every course and given in course content 
+
+
+Entry Requirements Undergraduate only:
+A cumulative high school GPA of 3.0 or higher or A rank in the top 50% of your high school class or An ACT composite score of 21 or higher and a minimum cumulative high school GPA of 2.7. If you do not meet the above admission requirements, you can submit additional information to consider when reviewing your application.
+
+
+Entry Requirements Postgraduate only:
+Applicants must possess the equivalent of a U.S. Bachelor's degree to be considered for graduate programs at Minnesota State Mankato. The degree must be earned at an institution recognized and approved to award the degree. GRE (Graduate Record Examination) is required by some academic programs.
+
+English Language requirements of graduate programs is different for each course. Graduate programs only have IELTS and TOEFL test scores.
+For Graduate Entry Requirements, some requirements like GPA, Score are mentioned on the course page so add them too.

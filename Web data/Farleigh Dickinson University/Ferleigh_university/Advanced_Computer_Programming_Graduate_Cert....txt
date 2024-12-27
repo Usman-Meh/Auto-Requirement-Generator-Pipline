@@ -1,0 +1,41 @@
+Link: https://www.fdu.edu/program/graduate-certificate-advanced-computer-programming/
+
+Skip to content
+Advanced Computer Programming Graduate Certificate
+Home
+/
+Program
+/
+Advanced Computer Programming Graduate Certificate
+The objective is to provide comprehensive experience in program development in several languages, including C/C++, assembly language, Java, ASP.NET, C#, VB.NET, Unix Shell, and systems programming.
+Admission requirements
+Admission to the certificate program requires a baccalaureate degree from a regionally accredited college or university with a satisfactory academic record.
+Curriculum Plan
+18 credits (six courses) are to be taken from the following:
+CSCI5505
+Introduction to Computer Programming
+CSCI5555
+Data Structures (or)
+CSCI5565
+Assembly Language
+CSCI6617
+Computer Game Programming
+CSCI6723
+Database Project with Visual Basic
+CSCI6810
+Java and the Internet
+CSCI6844
+Programming for the Internet
+CSCI7645
+Systems Programming
+CSCI7781
+Unix Shell Programming
+Prerequisites
+Students must satisfy the prerequisites of the courses that they will take.
+Academic Credits
+Courses with number 6000 or higher completed through this certificate program can be credited toward the M.S. Computer Science program. Other courses may be substituted with prior approval of the Academic Advisor.
+Learn more
+Gildart Haase School of Computer Sciences and Engineering
+Admissions
+More Information
+Apply now

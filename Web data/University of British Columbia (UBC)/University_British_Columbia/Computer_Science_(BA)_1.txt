@@ -1,0 +1,240 @@
+Link: https://you.ubc.ca/ubc_programs/computer-science-vancouver-ba/
+
+Computer Science (BA)
+at UBC's
+Vancouver Campus
+Summary
+Program info
+Your future
+Requirements
+Visit program website
+Learn how to use and improve computers while you explore topics such as databases and operating systems, software engineering, security, web development, and numerical methodology. Computer Science gives you a thorough grounding in computer software design, and a broad choice of other studies in computing. This program is ideal if you have a strong interest in computer science and the arts.
+This program is also offered at UBC's
+Okanagan Campus
+Find out more
+Visit program website
+Program information
+Send details
+Campus:
+Vancouver
+Faculty:
+Faculty of Arts
+Degree:
+Bachelor of Arts
+Length
+4 yrs
+Co-op
+Yes
+You can combine your studies with full-time, paid work at top local and international organizations.
+Honours
+No
+You can study intense specialization in a single field.
+The Computer Science BA program includes Faculty of Arts degree requirements together with a thorough grounding in computer software design, and a broad choice of other studies in computing. This program is designed for students who have a strong interest in computer science and the arts, and whose interests are more closely matched by the Faculty of Arts requirements than those of the Faculty of Science.
+Campus features
+In addition computing resources, the ICICS (Computer Science) building houses the ICICS/CS Reading Room which supports the education, research, and development needs of faculty and students.
+What can you do with this major after graduation?
+Career opportunities vary widely across a range of fields including hardware/software manufacturing, graphic design, engineering, health care, insurance, robotics, telecommunications, transportation, consulting, and others.
+There are many career paths that can combine your academics, skills, and experience with your different interests.
+Careers in Computer Science
+Send details
+Sample courses
+Year 1
+Year 2
+Year 3
+Year 4
+CPSC 110 - Computation, Programs, and Programming
+Fundamental program and computation structures. Introductory programming skills. Computation as a tool for information processing, simulation and modeling, and interacting with the world.
+CPSC 121 - Models of Computation
+Physical and mathematical structures of computation.  Boolean algebra and combinations logic circuits; proof techniques; functions and sequential circuits; sets and relations; finite state machines; sequential instruction execution.
+MATH 100 - Differential Calculus with Applications to Physical Sciences and Engineering
+Derivatives of elementary functions. Applications and modeling: graphing, optimization. Consult the Faculty of Science Credit Exclusion List: www.students.ubc.ca/calendar/index.cfm?tree=12,215,410,414.
+MATH 101 - Integral Calculus with Applications to Physical Sciences and Engineering
+The definite integral, integration techniques, applications, modeling, infinite series.
+CPSC 210 - Software Construction
+Design, development, and analysis of robust software components. Topics such as software design, computational models, data structures, debugging, and testing.
+CPSC 213 - Introduction to Computer Systems
+Software architecture, operating systems, and I/O architectures.  Relationships between application software, operating systems, and computing hardware; critical sections, deadlock avoidance, and performance; principles and operation of disks and networks.
+CPSC 221 - Basic Algorithms and Data Structures
+Design and analysis of basic algorithms and data structures; algorithm analysis methods, searching and sorting algorithms, basic data structures, graphs and concurrency.
+STAT 200 - Elementary Statistics for Applications
+Classical, nonparametric, and robust inferences about means, variances, and analysis of variance, using computers. Emphasis on problem formulation, assumptions, and interpretation. See the Faculty of Science Credit Exclusion Lists: www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414.
+CPSC 310 - Introduction to Software Engineering
+Specification, design, implementation and maintenance of large, multi-module software systems. Principles, techniques, methodologies and tools for computer aided software engineering (CASE); human-computer interfaces, reactive systems, hardware-software interfaces and distributed applications.
+CPSC 313 - Computer Hardware and Operating Systems
+Instruction sets, pipelining, code optimization, caching, virtual memory management, dynamically linked libraries, exception processing, execution time of programs.
+CPSC 320 - Intermediate Algorithm Design and Analysis
+Systematic study of basic concepts and techniques in the design and analysis of algorithms, illustrated from various problem areas. Topics include: models of computation; choice of data structures; graph-theoretic, algebraic, and text processing algorithms.
+CPSC 312 - Functional and Logic Programming
+Principles of symbolic computing, using languages based upon first-order logic and the lambda calculus. Algorithms for implementing such languages. Applications to artificial intelligence and knowledge representation.
+CPSC 406 - Computational Optimization
+Formulation and analysis of algorithms for continuous and discrete optimization problems; linear, nonlinear, network, dynamic, and integer optimization; large-scale problems; software packages and their implementation; duality theory and sensitivity.
+CPSC 410 - Advanced Software Engineering
+Specification, design, construction and validation of multi-version software systems.
+CPSC 417 - Computer Networking
+Network protocols and architecture including internetworking, the Internet, layered communication protocols, routing, flow and congestion control, network performance, wired and wireless data communication.
+CPSC 422 - Intelligent Systems
+Principles and techniques underlying the design, implementation and evaluation of intelligent computational systems. Applications of artificial intelligence to natural language understanding, image understanding and computer-based expert and advisor systems. Advanced symbolic programming methodology.
+Your future
+A UBC education will introduce you to people and ideas from around the world, open doors to new opportunities, and take you places you never imagined. You’ll graduate not only with expertise in your chosen field, but with the skills you need to continue growing, learning, and evolving with your career over time.
+Related programs
+Program requirements
+Canadian high schools
+International high schools
+International baccalaureate
+- Select Location -
+Basic requirements (if your province is not selected)
+Alberta
+British Columbia
+Manitoba
+New Brunswick
+Newfoundland & Labrador
+Northwest Territories
+Nova Scotia
+Nunavut
+Ontario
+Prince Edward Island
+Quebec
+Saskatchewan
+Yukon
+- Select Location -
+Basic requirements (if your country is not listed)
+Argentina
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belize
+Bermuda
+Bolivia
+Botswana
+Brazil
+British Virgin Islands
+Brunei
+Cameroon - British
+Cameroon - French
+Cayman Islands
+Chile
+China
+Colombia
+Costa Rica
+Czech Republic
+Denmark
+Dominica
+Ecuador
+Egypt – 11 Years of Education
+Egypt – 12 Years of Education
+El Salvador
+Ethiopia
+Finland
+France (French Baccalaureate)
+Germany
+Ghana
+Gibraltar
+Greece
+Grenada
+Guatemala
+Guyana
+Honduras
+Hong Kong
+India
+Indonesia
+Iran
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kuwait
+Lebanon
+Lesotho
+Liberia
+Macao
+Malawi
+Malaysia
+Mauritius
+Mexico
+Mongolia
+Montserrat
+Morocco
+Namibia
+Netherlands
+New Zealand
+Nigeria
+Norway
+Oman
+Pakistan
+Panama
+Peru
+Philippines
+Poland
+Qatar
+Russia
+Rwanda
+Saint Kitts and Nevis
+Saint Lucia
+Saint Vincent and the Grenadines
+Saudi Arabia
+Scotland
+Seychelles
+Sierra Leone
+Singapore
+South Africa
+South Korea
+Spain
+Sri Lanka
+Sweden
+Switzerland
+Syria
+Taiwan
+Tanzania
+Thailand
+The Gambia
+Trinidad and Tobago
+Tunisia
+Turkey
+Turks and Caicos Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom (British-patterned education)
+United States (American curriculum)
+Venezuela
+Vietnam
+Zambia
+Zimbabwe
+English-language requirements
+English is the language of instruction at UBC. All prospective students must demonstrate English-language competency prior to admission. There are numerous ways to meet the
+English Language Admission Standard
+.
+General admission requirements
+IB Diploma Programme
+Completed IB Diploma, including at least three Higher Level courses.
+IB Certificate Courses
+IB Certificate courses (Standard and Higher Level) may be used in an admissions average if you are graduating from a recognized high school curriculum that can be used as your basis of admission.
+IB Math Applications and Interpretations SL, or IB Math Studies, do not satisfy the math requirement for admission to UBC’s science-based programs, the Faculty of Management, the UBC Sauder School of Business, or the Vancouver School of Economics.
+Degree-specific requirements:
+Arts
+No specific courses required beyond those needed for general admission
+Related courses
+The following
+subject categories
+are particularly relevant for this degree. Consider taking courses in these areas in your junior year and senior year.
+Language Arts
+Mathematics and Computation
+Second Languages
+Social Studies
+Visual and Performing Arts
+Visit program website
+You’ll find these pages helpful
+10 things you never knew about UBC
+Read admissions blog post
+Meet Ronnie, a promising academic with combined honours in Computer Science and Mathematics
+Read full story
+Ready to choose your degree?
+Apply to UBC

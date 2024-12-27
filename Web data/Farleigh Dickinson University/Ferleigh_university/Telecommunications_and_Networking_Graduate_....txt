@@ -1,0 +1,49 @@
+Link: https://www.fdu.edu/program/graduate-certificate-telecommunications-and-networking/
+
+Skip to content
+Telecommunications and Networking Graduate Certificate
+Home
+/
+Program
+/
+Telecommunications and Networking Graduate Certificate
+The objective of the certificate is to provide expertise in the development, maintenance, and supervision of telecommunication systems and computer networks.
+Admission requirements
+Admission to the certificate program requires a baccalaureate degree from a regionally accredited college or university with a satisfactory academic record.
+Curriculum Plan
+Prerequisites:
+Students must satisfy the prerequisites of the courses that they will take.
+18 credits (six courses) are to be taken from the list of courses below:
+Core Course:
+A 3-credit course is to be selected from the following two courses:
+CSCI6731
+Computer Networks (or)
+EENG7737
+Computer Communication Networks
+Elective Courses:
+15 credits (five courses) are to be selected from the following courses:
+CSCI6730
+Advanced Network: TCP/IP and Routing
+CSCI6732
+Local Area Networks
+CSCI6736
+Wireless LANs
+CSCI6844
+Programming for the Internet
+CSCI6869
+Network Security
+EENG6747
+Digital Communications
+EENG7738
+Wireless Communications
+EENG7748
+Advanced Digital Communications
+Academic Credits
+Under the guidance of the Academic Advisor, courses appropriately selected and completed through this certificate program can be credited toward the M.S. Computer Science, M.S. Computer Engineering, or M.S. Electrical Engineering (Specialization in DSP/Communications) program. Other courses may be substituted with prior approval of the Academic Advisor.
+Special information
+Special tuition rate is available at 33 1/3% off the regular tuition rate for eligible students.
+Learn more
+Gildart Haase School of Computer Sciences and Engineering
+Admissions
+More Information
+Apply now

@@ -1,0 +1,163 @@
+Link: https://uel.unipd.it/en/masters/hbim-short-specialization-degree-in-digitalization-planning-and-management-of-architectural-and-infrastructural-heritage/
+
+Skip to content
+Second level university master
+HBIM
+Short specialization degree in digitalization, planning and management of architectural and infrastructural heritage
+hBIM & BMS
+Home
+>
+Master e corsi
+>
+Second level university master
+>
+HBIM - Short specialization degree in digitalization, planning and management of architectural and infrastructural heritage
+Home
+>
+Master e corsi
+>
+Second level university master
+>
+HBIM - Short specialization degree in digitalization, planning and management of architectural and infrastructural heritage
+Our
+Short Specialization Degree in Digitalization, Planning and Management of Architectural and Infrastructural Heritage – HBIM & BMS
+will prove to be an essential tool to access digital technologies within the construction industry. After two editions dedicated to the use of
+historical BIM
+for the protection of cultural heritage, we activated a second course starting on the 2022/2023 academic year oriented to the
+computer-aided design for energy efficiency
+in buildings, and the management of
+Building Automation Control Systems (BACS).
+This new course complements the skills relative to building digitalization by introducing specific knowledge concerning energy consumption management aimed with the purpose of energy efficiency. This addition goes well with the development guidelines defined by the NRRP in relation to the digital and ecological transition, particularly concerning the public administration.
+Educational content
+Our
+Short Specialization Degree in Digitalization, Planning and Management of Architectural and Infrastructural Heritage
+includes courses addressed to the development energy audit and efficiency processes, carried out through the creation of interoperable BIM models. Students will therefore be provided with the competences necessary to use aided property management systems, such as CAFM – CMMS and IWMS, dedicated to the sustainable management of architectural heritage, and integrated with simulation environments and management environments of data collected from sensor technologies and BMS.
+Course target and career opportunities
+Our
+Short Specialization Degree in Digitalization, Planning and Management of Architectural and Infrastructural Heritage
+trains professionals specialized in the application of BIM to
+digital engineering
+, with a focus on the theme of energy efficiency, energy management and the implementation of BMSs, in addition to the plants of preexisting buildings. Professionals with these skills may be employed by engineering firms specialized in
+plant engineering and energy efficiency
+, public or private managing bodies, or work as freelance designers, being able to keep up to date with current design methods and the latest European directives.
+Course program
+Our
+Short Specialization Degree in Digitalization, Planning and Management of Architectural and Infrastructural Heritage
+includes subjects common to both courses, while others are specific to one course or the other.
+COMMON COURSE
+BUILDING INFORMATION MODELING AND MANAGEMENT
+: this area focuses on the themes relative to building digitalization, BIM-based facility management, and BIM coordination and management techniques.
+STANDARDIZATION OF DIGITALIZATION PROCESSES
+: focus on informative standardization and regulatory matters related to legal BIM.
+COMPUTER SCIENCE FOR CULTURAL HERITAGE:
+this area focuses on the skills necessary to set up a database for the creation of a HBIM.
+COMPUTER-AIDED DESIGN
+: focus on the implementation of BIM, such as: BIM and structural responses, analysis of construction information systems, interoperability between BIM authoring environments, information systems for historical buildings, computer-aided design in BIM, BIM and energy performance, technological digital surface models.
+PROJECT, CONSTRUCTION AND FACILITY MANAGEMENT
+: focus on project, construction, and facility management techniques, assessments and BIM, maintenance and interoperable management of buildings.
+hBIM COURSE
+PHOTOGRAMMETRIC SURVEYING –SCAN TO BIM
+: this module addresses the skills and methods used in digital surveying through photogrammetry, advanced laser scanning techniques, and scan to BIM.
+DIGITALIZATION OF THE BUILDING – HBIM
+: students will be provided with the skills necessary to realize the digitalization of a building through the cataloguing of architectural heritage, develop standardized digital models, digitize architectural degradation, and master scan to BIM techniques for the digitalization of superficial degradation.
+BMS COURSE
+MEP AND BIM BASED DESIGN
+: focus on BIM-based design of HVAC systems and mechanical, water, electrical and special plants.
+BUILDING PERFORMANCE SIMULATION AND BMS
+: focus on energy simulation designs, computational design, value management and optimization, energy management, life cycle analysis, and the implementation of BMS-building management systems.
+Teaching method
+The teaching method includes
+frontal lessons
+dedicated to learning computer tools and
+tests on real cases
+. Some lessons will have a more theoretical nature being linked to the disciplinary aspects of management and efficiency of the building heritage, others more operational will be linked to the use of software.
+The activities related to the use of the software will be carried out at the
+LIM
+(
+Computerized Modeling Laboratory
+). Laboratory activities are also planned in other locations (surveys in the field – hub for innovation and digitization for the BACS test) aimed at experimenting with additional skills related to the digital management of the built environment.
+At the end of the training course, an internship is planned at the consortium companies aimed at developing a project work related to the topics and procedures detailed in the course. The project work will concern the creation of a digital counterpart of an existing building (digital twin) connected through BACS solutions or an in-depth analysis of the IT or operational procedures connected to this realization.
+Distance learning is foreseen within the limits indicated in the notice.
+General ranking of merit
+The general ranking of merit for the academic year 2024/25 will be published on the Italian page of this Master according to the timing provided in the Call.
+Information
+Thematic area:
+Scientific innovation
+End of classes:
+31/10/2025
+Mandatory attendance:
+70%
+Minimum available spots:
+13
+Maximum available spots:
+20
+First instalment:
+€
+									2.222,50
+Second instalment:
+€
+									1.000,00
+Selection process notice
+Find the admission titles in the selection notice 24/25.
+FAQ
+How are the lessons organized?
+Teachings include
+frontal lessons
+aimed at the mastering of computer tools and testing on real-life cases. Some lectures will be mostly theoretical, as they will be focused on the management and efficiency of architectural heritage, while others will include the use of software.
+Practical activities linked to
+software use
+will take place at the LIM lab. The Short Specialization Degree also includes
+workshops
+in other locations (surveys on the field, or the Innovation Hub to perform the test on BACSs) aimed at a hands-on application of the students’ skills related to digital building management.
+Once the theoretical lessons are over, students will have the chance to complete an
+internship
+at anyone of the affiliated companies aimed at preparing their own
+project work
+about the topics covered during the course. Each project work will have to include the digital reconstruction of an existing building (digital twin) realized through a BACS, or an analysis of the computer and operating procedures involved.
+Distance learning may be activated in the special cases explained in detail in the call for applications.
+Can students intern at non-affiliated firms?
+Yes, students can complete their internships at non-affiliated associations, as long as they do it in the subject area of interest of the Short Specialization Degree.
+Is there a requirement for BIM knowledge, or basic engineering expertise?
+No, the entry requirements for the Short Specialization Degree only regard the titles and degrees in possession of the student. You can read up more about them in the call for applications.
+Classes start:
+29/11/2024
+Duration:
+One-year
+Venue:
+Padua
+Language:
+Italian
+ECTS:
+60
+Teaching method:
+In-person
+Total enrolment fee:
+€
+							3.222,50
+Pre-enrolment deadline:
+08/10/2024
+Management
+Prof. Andrea Giordano
+Administrative Office
+Contact Person:
+Elisa Trovò
+Phone:
+0498275597
+Email:
+elisa.trovo@unipd.it
+Teaching method:
+ECTS:
+In-person lessons:
+H
+Month and year:
+Fee:
+€
+Close
+© 2024 UEL. All rights reserved.
+Privacy policy
+-
+Cookie Policy
+-
+Cookies settings
+Page load link
+Go to Top

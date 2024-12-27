@@ -1,0 +1,127 @@
+Link: https://cset.mnsu.edu/academic-programs/health-informatics/health-informatics-analytics-professional-science-masters-psm/
+
+College of Science, Engineering & Technology
+Academic Programs
+Health Informatics
+Health Informatics Analytics, Professional Science Master's (PSM)
+Health Informatics Section
+Health Informatics
+Health Informatics, Bachelor of Science (BS)
+Health Informatics, Certificate
+Health Informatics Analytics, Professional Science Master's (PSM)
+Health Informatics Faculty & Staff
+Health Informatics & Analytics (PSM)
+The program is recognized by the Commission on Affiliation of Professional Science Master's Programs (PSM Commission).
+Current Catalog Year
+2024-2025
+Degree
+Professional Science Master's
+Major /                                         Total Credits
+30 / 30
+Locations
+Mankato
+Apply
+Program Requirements
+Program
+                                    Requirements
+Common Core
+CIS 540
+Database Management Systems
+4 credits
+Extensive coverage of SQL, database programming, large scale data modeling, and database enhancement through reverse engineering. This course also covers theoretical concepts of query processing, and optimization, basic understanding of concurrency control and recovery, and database security and integrity in centralized/distributed environments. Team-oriented projects in a heterogeneous client server environment.
+Prerequisites:
+none
+CIS 544
+Data Analytics
+4 credits
+The course explores big data in structured and unstructured data sources. Emphasis is placed on big data strategies, techniques and evaluation methods. Various data analytics are covered. Students experiment with big data through big data analytics, data mining, and data warehousing tools.
+Prerequisites:
+none
+CIS 641
+Big Data Systems
+3 credits
+In this course, students will design and implement distributed big data architecture. The architecture consists integration of homogenous and heterogeneous databases and other structured and unstructured data sources. Students will apply concepts of distributed recovery and optimization, and other related topics.
+Prerequisites:
+none
+CIS 651
+Data Informed Leadership
+3 credits
+This course examines the organizational leadership structure and competencies of healthcare and/or IT organizations, the governance planning process, financial management, ethical and legal decision-making, privacy, and data-based best practices that balance organizational and regulatory requirements with feasible cost-effective solutions.
+Prerequisites:
+none
+NURS 624
+Evidence-Based Practice through Informatics and Analytics
+3 credits
+Examine information technology systems, including decision-support systems that are essential to gathering evidence to impact health and value-based clinical practice. Discover how improvement in cost effectiveness and safety depends on evidence-based practice, outcomes research, and inter-professional care coordination.
+Prerequisites:
+none
+NURS 626
+Health Informatics and Analytics in Clinical Practice
+3 credits
+Discover what happens when health practice and service delivery collide with the capture of data, by observing the provision of care in various settings and identifying sources of data. Students in this course will be challenged to utilize health technologies, identify and capture valuable data, and discuss meaningful ways that information can be used to enhance health education, influence care delivery, and innovate practice for individuals, families and society.
+Prerequisites:
+none
+Research/Methods Course(s)
+NURS 625
+Data Informed Clinical Reasoning
+3 credits
+The student will apply critical thinking and clinical reasoning skills to interpret health-related data to inform healthcare decisions and influence individual, family, and societal health outcomes. The student will experience the dynamic process of working within a team to utilize informatics to transform the coordination and delivery of care across multiple settings.
+Prerequisites:
+none
+Restricted Electives
+Choose 4 Credit(s).
+CIS 501
+Technology Fundamentals for Informatics and Analytics
+4 credits
+Students will gain foundational skills in health informatics, systems analysis, data modeling, data gathering, data retrieval, data governance and systems security to create useful information for health-related decision making. This course does not count toward the MS IT degree.
+Prerequisites:
+none
+NURS 501
+Health Fundamentals for Informatics and Analytics
+4 credits
+Examine the roles in health informatics, information technology and analytics while striving to improve individual, family, and societal healthcare outcomes, through the gathering, retrieval, and analysis of data. Students will gain foundational knowledge regarding health, healthcare practices, safety, and compassionate care reflecting an understanding of human growth and development, pathophysiology, pharmacology, and care management across the health-illness continuum, across the lifespan, and in all healthcare settings.
+Prerequisites:
+none
+Capstone Course
+Choose 3 Credit(s).
+CIS 692
+Health Informatics and Analytics Practicum
+3 credits
+Student will integrate their health-related background with the practical application of scientific and professional knowledge, behavior, and skills. Students will employ health advocacy strategies, principles of quality improvement, healthcare policy knowledge, and cost-effectiveness as part of an inter-professional team to analyze data and develop a strategy to impact practice improvements in order to increase the quality and efficiency of healthcare delivery, improve satisfaction, or manage health-related costs.
+Prerequisites:
+none
+NURS 692
+Health Informatics and Analytics Practicum
+3 credits
+Students will integrate their technology-related background with the practical application of scientific and professional knowledge, behavior, and skills. Students will employ health advocacy strategies, principles of quality improvement, healthcare policy knowledge, and cost-effectiveness as part of an inter-professional team to analyze data and develop a strategy to impact practice improvements in order to increase the quality and efficiency of healthcare delivery, improve satisfaction, or manage health-related costs.
+Prerequisites:
+noneInitial deposit: N/A
+
+
+Application Fee for Undergraduate: $ 20
+Application Fee for Postgraduate: $ 40
+
+
+Annual Fee for Undergraduate: $ 18,812
+Annual Fee for Postgraduate: $ 14,918
+
+
+English Language Requirements Undergraduate only:
+TOEFL iBT (internet-based test) score of 61 or better
+Pearson Test of English (PTE) score of 47 or better
+IELTS academic test score of 5.5 or better
+
+
+English Language Requirements Postgraduate only:
+Different for every course and given in course content 
+
+
+Entry Requirements Undergraduate only:
+A cumulative high school GPA of 3.0 or higher or A rank in the top 50% of your high school class or An ACT composite score of 21 or higher and a minimum cumulative high school GPA of 2.7. If you do not meet the above admission requirements, you can submit additional information to consider when reviewing your application.
+
+
+Entry Requirements Postgraduate only:
+Applicants must possess the equivalent of a U.S. Bachelor's degree to be considered for graduate programs at Minnesota State Mankato. The degree must be earned at an institution recognized and approved to award the degree. GRE (Graduate Record Examination) is required by some academic programs.
+
+English Language requirements of graduate programs is different for each course. Graduate programs only have IELTS and TOEFL test scores.
+For Graduate Entry Requirements, some requirements like GPA, Score are mentioned on the course page so add them too.

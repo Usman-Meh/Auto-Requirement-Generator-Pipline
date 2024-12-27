@@ -1,0 +1,153 @@
+Link: https://www.fdu.edu/program/bs-computer-science-ms-csia/
+
+Skip to content
+Computer Science BS, Cybersecurity and Information Assurance MS 4 Plus 1 Program
+Home
+/
+Program
+/
+Computer Science BS, Cybersecurity and Information Assurance MS 4 Plus 1 Program
+The Lee Gildart and Oswald Haase School of Computer Sciences and Engineering (GHSCSE) offers a 4 Plus 1 program for a BS in Computer Science with a pathway to the MS in Cybersecurity Information Assurance. Three graduate courses: CSCI6623 Database Systems (3 credits), CSCI6638 Operating Systems (3 credits), and CSCI6731 Computer Networks (3 credits), when successfully completed under the 4 Plus 1 program, can be credited toward both the B.S. and the M.S. degrees. Students must take one of the three concentrations: big data analytics, cybersecurity and information assurance, and mobile and game app development in the B.S. in computer science program. This combined degree program is offered by GHSCSE at the Metropolitan Campus, Teaneck, New Jersey.
+Special Information
+Professional Accreditation and Other Designation
+The B.S. in computer science program is accredited by the Engineering Accreditation Commission of ABET,
+https://www.abet.org
+. This accreditation applies only to the B.S. in computer science program offered by the Lee Gildart and Oswald Haase School of Computer Sciences and Engineering at the Metropolitan Campus, Teaneck, NJ.
+Students completing the B.S. in computer science program with a concentration in cybersecurity and information assurance are eligible to receive a Certificate of Completion of a National Security Agency (NSA) and Department of Homeland Security (DHS)-designated CAE-CDE program of study from FDU’s Center for Cybersecurity and Information Assurance (CCIA).
+Cooperative Education Option
+Students in the B.S. in computer science program have the option to undertake a cooperative education experience and earn a total of 6 academic credits toward their technical electives.
+Admission Requirements
+Students must register for this program upon completing at least 45 credits and must have achieved a cumulative grade point ratio (CGPR) of at least 2.75.
+A minimum of 120 credits is required for the B.S. in computer science degree, and a minimum of 141 of credits is required for the combined B.S. in computer science/M.S. in cybersecurity and information assurance
+In addition, for degree completion, the B.S. in computer science degree requires a minimum CGPA of 2.0; the M.S. in cybersecurity and information assurance, 2.75
+Degree Plan
+First Semester (14 credits)
+CSCI1201
+Computer Programming I (3 credits)
+ENGR2286
+Digital System Design (3 credits)
+MATH1201
+Calculus I (4 credits)
+UNIV1001
+Transitioning to University Life (1 credit)
+WRIT1002
+Composition I: Rhetoric and Inquiry (3 credits)
+Second Semester (14 credits)
+CSCI1202
+Computer Programming II (3 credits)
+CSCI2215
+Introduction to Computer Science (3 credits)
+MATH2202
+Calculus II (4 credits)
+UNIV1002
+Preparing for Professional Life (1 credit)
+WRIT1003
+Composition II: Research and Argument (3 credits)
+Third Semester (16 credits)
+CSCI2234
+Data Structures and Algorithms (3 credits)
+CSCI2247
+Assembly Language Programming (3 credits)
+ENGR2210
+Technical Communications (3 credits)
+PHYS2201
+Physics I Laboratory (1 credit)
+PHYS2203
+University Physics I Lecture (3 credits)
+UNIV2001
+Cross Cultural Perspectives (3 credits)
+Fourth Semester (16 credits)
+CSCI2235
+Survey of Computing Security (3 credits)
+CSCI6623
+Database Systems (3 credits)
+MATH3237
+Probability and Statistics I (3 credits)
+PHYS2202
+Physics II Laboratory (1 credit)
+PHYS2204
+University Physics II Lecture (3 credits)
+UNIV2002
+Global Issues (3 credits)
+Fifth Semester (15 credits)
+CSCI6731
+Computer Networks (3 credits)
+CSCI6638
+Operating Systems (3 credits)
+ENGR3000
+Modern Technologies: Principles, Applications and Impacts (3 credits)
+MATH2255
+Discrete Structures (3 credits)
+Humanities Elective (3 credits)
+Take three credits of coursework in ARTH, CINE, CGDH, DANH, HIST, HUMN, LANG (not foreign language), LITS, MUSIH, PHIL, RELI, or THEAH.
+Sixth Semester (15 credits)
+CSCI3251
+Design of Software Systems (3 credits)
+MATH3220
+Linear Algebra (3 credits)
+Concentration Courses (6 credits)
+Free Elective (3 credits)
+Seventh Semester (16 credits)
+CSCI3249
+Computer Organization(3 credits)
+CSCI4384
+Preparation for Computer Science Senior Project (1 credit)
+ENGR4210
+Managerial and Engineering Economic Analysis (3 credits)
+Concentration Course (3 credits)
+Technical Electives (6 credits)
+Eighth Semester (14 credits)
+CSCI3260
+Mathematical Foundations of Computer Science (3 credits)
+CSCI4386
+Computer Science Senior Project (2 credits)
+Concentration Courses (6 credits)
+Technical Elective (3 credits)
+Concentration Requirements (15 credits)
+Students must complete any one of three concentration areas: big data analytics, cybersecurity and information assurance or mobile and game application development. Each concentration requires the successful completion of five courses (15 credits). Students pursuing a concentration in game and mobile application development are recommended to take two computer animation courses from the School of the Arts as a free elective and a technical elective in the B.S. in computer science curriculum.
+Big Data Analytics Concentration
+CSCI3331
+Advanced Database
+CSCI3318
+Cloud Computing
+CSCI3387
+Machine Learning
+CSCI3461
+Data Mining and Applications
+CSCI3485
+Big Data Analytics
+Cybersecurity and Information Assurance Concentration
+CSCI3274
+Linux System Administration (3 credits)
+CSCI3345
+Firewalls and Intrusion Detection Systems (3 credits)
+CSCI3410
+Foundations of Cybersecurity (3 credits)
+CSCI3420
+Cryptography (3 credits)
+CSCI3783
+Information Security (3 credits
+Game and Mobile Application Development Concentration
+CSCI3314
+Mobile Application Development (3 credits)
+CSCI3317
+Computer Game Programming (3 credits)
+CSCI3444
+Programming for the Internet
+CSCI3385
+Artificial Intelligence
+CSCI3387
+Machine Learning
+Contact Information
+ytang@fdu.edu
+Yongming Tang, Associate Director
+Kalyan Mondal, Deputy Director, Director of Center for Cybersecurity and Information Assurance
+mondal@fdu.edu
+tan@fdu.edu
+Alfredo Tan, PhD Director, GHSCSE
+Learn more
+Gildart Haase School of Computer Sciences and Engineering
+Admissions
+Apply now
+Visit FDU
+Request Information

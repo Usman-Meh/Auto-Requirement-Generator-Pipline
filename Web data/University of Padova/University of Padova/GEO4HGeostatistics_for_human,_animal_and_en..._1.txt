@@ -1,0 +1,164 @@
+Link: https://uel.unipd.it/en/masters/geo4h-geostatistics-for-human-animal-and-environmental-health/
+
+Skip to content
+Second level university master
+GEO4H
+Geostatistics for human, animal and environmental health
+Home
+>
+Master e corsi
+>
+Second level university master
+>
+GEO4H - Geostatistics for human, animal and environmental health
+Home
+>
+Master e corsi
+>
+Second level university master
+>
+GEO4H - Geostatistics for human, animal and environmental health
+The
+Second-level short specialisation degree
+in Geostatistics for Human, Animal and Environmental Health
+– the only one of its kind in Italy – prepares professional figures that exploit the growing availability of geolocalized data from different sources, such as satellites and proximity sensors. The program aims to provide learners with the skills necessary to correctly use geoinformation and tools for spatio-temporal analysis in order to improve the understanding of phenomena related to health and well-being. The course aims to analyze and understand the dynamics of phenomena related to human, veterinary and vegetation health, using advanced modeling techniques applied to geospatial data.
+The Second-level short specialisation degree is promoted by the Department of Cardiothoracic-Vascular Sciences and Public Health of the University of Padua.
+Educational content
+The
+Second-level short specialisation degree
+in Geostatistics for Human, Animal and Environmental Health
+is online, and can be followed also by students who work full time, as it is provided on-demand through the multimedia Moodle platform of the University of Padua.
+The Second-level short specialisation degree has been designed for students and professionals who wish to combine other activities and jobs with the need to further qualify or specialize.
+There will be a frequent and user-friendly interaction between students and professors, through Moodle’s Forum.
+The final
+project work
+shall be discussed between June and July, also on cases of specific interest suggested by students, and agreed with the tutor. It will also be discussed online, on the Zoom platform.
+Course target and career opportunities
+The objective of the
+Second-level short specialisation degree
+in Geostatistics for Human, Animal and Environmental Health
+is to provide training on how to correctly use geo-information and the tools of its spatial-time analysis.
+Its purpose is analysing and understanding the dynamics of phenomena linked to human, animal and plant health, through advanced modelling techniques applied to geospatial data.
+The course will form researchers and professionals capable of using geospatial information correctly, by integrating it with other sources and expanding the descriptive and predictive capacity and reliability of the analysis.
+Through lessons, hands-on exercises and expert seminars, the Second-level short specialisation degree will help attendees enhance and improve the operations required to solve human, animal and plant health issues.
+It will provide knowledge on statistical technique, automatic learning and data-mining innovations, with integration of geospatial information.
+The Second-level short specialisation degree trains professional figures, such as
+consultants and operators of public administrations, companies and enterprises, NGO and non-profit organizations, as well as players involved in training and freelancers that provide advanced spatial-data analytics
+.
+Course program
+The
+Second-level short specialisation degree in Geostatistics for Human, Animal and Environmental Health
+includes the following modules:
+Module 1 –
+Geospatial data management
+Where to find information, how to extract the geospatial component, in what format transferring data to make them manageable, with what tools (data mining). Use of territorial IT systems (QGIS/GRASS/SAGA), definition of workflow models and creation of QGIS interfaces with built-in R environment.
+Module 2 –
+Spatial data remote sensing and integration
+How to structure and integrate the wealth of geodata collected from IoT sensors, drones and satellites in a rigorous way. Use of clusters from
+Google Earth Engine
+to extract data to be analysed in the R environment.
+Module 3 –
+Geostatistics
+Geostatistical methods, both in the spatial data exploratory analysis and in the inferential and model-making aspects. Spatially-correlated data models, including data prediction and interpolation techniques, de-clustering techniques and geostatistical models for preferential sampling.
+Module 4 –
+Identification of aggregates (clusters) or spatial or spatial-time patterns
+From spatial or spatial-time event distribution description methods, to model development for homogeneous and heterogeneous point processes, general clustering tests and cluster-detection tests.
+Module 5 –
+High risk unit and area profiling
+Profiling with Bayesian models and empirical Bayesian models, and creation of rankings or multivariate sorting. As example, case studies in environmental epidemiology will be considered, and the drafting of disease risk rankings by municipalities, census and their aggregates.
+Module 6 –
+Point-source analysis
+The main spatial evolution methods for disease risk in case of one or more pollution sources. This area also covers the methods based only on point-source distance, such as epidemic exposure assessment methods, which consider machine learning techniques to predict the spatial distribution of the relevant exposure.
+Presentation video
+For more information on the Director and Professors, and for useful insights on the
+Second-level short specialisation degree in Geostatistics for Human, Animal and Environmental Health
+, here’s the presentation video:
+Second-level short specialisation degree in Geostatistics for Human, Animal and Environmental Health
+presentation video
+General ranking of merit
+The general ranking of merit for the academic year 2024/25 will be published on the Italian page of this Second-level short specialisation degree according to the timing provided in the Call.
+Information
+Thematic area:
+Health, environment and territory
+End of classes:
+31/10/2025
+Mandatory attendance:
+70%
+Minimum available spots:
+5
+Maximum available spots:
+200
+First instalment:
+€
+									2.022,50
+Second instalment:
+€
+									1.000,00
+Selection process notice
+I titoli di accesso saranno specificati nell'avviso di selezione 24/25
+FAQ
+Will there be a stage/traineeship?
+There will be no stages/traineeship, as they are deemed to be irreconcilable with the profile of the Second-level short specialisation degree’s attendees. However, students will have the chance to tackle actual scientific matters and databases, proposed by the Direction during the lessons and the project works.
+There will be a
+final project work
+, which can also be done on the student’s workplace analysis and data. The topic shall be agreed with the professors. The Project work replaces the stage/traineeship.
+What are the admission requirements? Will there be an admission test?
+No, there will be no an admission test. Evaluation is based on the titles.
+For the required titles, see the
+Second-level short specialisation degree call for selection, year 2024-2025
+Will there be any form of facilitation or scholarships?
+There is no registration fee for students with disabilities, who have a disability with invalidity between 66% and 100% or with certification pursuant to law n.104, who will therefore only pay the pre-enrolment fee, the insurance and stamp duty
+PA110 with Honors
+: Public Administration employees who enroll in our master’s degree enjoy a discount of 330 euros on the contribution of the second installment
+There is the possibility of supernumerary enrolment for
+University staff
+in order to allow continuous and permanent updating. The enrolment fee for the technical and administrative staff of the University is parameterised to the minimum enrolment fee set out in art. 24, paragraph 1 of these Regulations, and is equal to 20% of the quota. In the event that the technical and administrative staff of the University is in possession of the requirements for admission to the Course, once the course is completed, he/she will be able to obtain the relevant Diploma or Certificate; If they do not meet the admission requirements, they may be admitted as an auditor and obtain a certificate of participation
+How will distance learning be organized?
+The Second-level short specialisation degree is provided online, and it can be followed also by full-time workers, because it is provided on-demand, through the Moodle multimedia platform of the University of Padua.
+It has been conceived for students and professionals who want to conciliate other activities and professions with the need to qualify or further specialize.
+There will be an easy and frequent interaction between students and professors, through Moodle’s Forum.
+Classes start:
+25/11/2024
+Duration:
+One-year
+Venue:
+Distance learning
+Language:
+Italian
+ECTS:
+60
+Teaching method:
+Distance learning
+Total enrolment fee:
+€
+							3.022,50
+Pre-enrolment deadline:
+25/11/2024
+Management
+Prof.ssa Dolores Catelan
+Administrative Office
+Contact Person:
+Unit of Biostatistics, Epidemiology and Public Health
+Phone:
+3312601668
+Email:
+segreteria.master@ubep.unipd.it
+Alternative contact
+Contact Person:
+Deputy Director - Prof. Francesco Pirotti
+Teaching method:
+ECTS:
+In-person lessons:
+H
+Month and year:
+Fee:
+€
+Close
+© 2024 UEL. All rights reserved.
+Privacy policy
+-
+Cookie Policy
+-
+Cookies settings
+Page load link
+Go to Top

@@ -1,0 +1,884 @@
+Link: https://cset.mnsu.edu/academic-programs/twin-cities-engineering/integrated-engineering-bachelor-of-science-engineering-bse2/
+
+College of Science, Engineering & Technology
+Academic Programs
+Twin Cities Engineering
+Integrated Engineering, Bachelor of Science, Engineering (BSE)
+Twin Cities Engineering Section
+Twin Cities Engineering
+Integrated Engineering, Bachelor of Science, Engineering (BSE)
+Twin Cities Engineering Faculty & Staff
+Integrated Engineering (BSE)
+Current Catalog Year
+2024-2025
+Degree
+Bachelor of Science in Engineering
+Major /                                         Total Credits
+96 / 128
+Locations
+Normandale
+Accreditation
+ABET
+Accreditation Board for Engineering and Technology
+Apply
+Program Requirements
+Degree Plan
+Program
+                                    Requirements
+Required General Education
+Students who complete the Minnesota Transfer Curriculum will satisfy the Composition (ENG 101) and Communications requirements.
+ENG 101
+Foundations of Writing & Rhetoric
+4 credits
+Students in this course approach writing as a subject of study by investigating how writing works across a variety of contexts.
+Prerequisites:
+none
+Goal Areas: GE-1A
+MATH 121
+Calculus I
+4 credits
+Limits, continuity, the derivative and applications, transcendental functions, L'Hopital's Rule, and development of the Riemann integral.
+Prerequisites:
+Satisfy Placement Table in this section, MATH 115 or both MATH 112 and MATH 113 with "C" (2.0) or better.
+Goal Areas: GE-04
+PHYS 221
+General Physics I
+4 credits
+Designed for science and engineering students. Calculus-based physics. Covers elementary mechanics including kinematics, statics, equilibrium and dynamics of particles, work and energy, rotational motion, gravitation, and oscillation. Lecture and Laboratory. MATH 121 must be completed with a C or better prior to taking this course or must be taken concurrently. High school physics or PHYS 101 is also strongly encouraged. Fall, Spring
+Prerequisites:
+none
+Goal Areas: GE-02, GE-03
+Economics Course
+- Choose 3 Credit(s).
+ECON 201
+Principles of Macroeconomics
+3 credits
+Emphasis on forces influencing employment and inflation. Current problems of the economy are stressed along with tools government has to cope with them.
+Prerequisites:
+none
+Goal Areas: GE-05
+ECON 202
+Principles of Microeconomics
+3 credits
+Examines decision making by the individual firm, the determination of prices and wages, and current problems facing business firms.
+Prerequisites:
+none
+Goal Areas: GE-05
+Communication
+- Choose 3 - 4 Credit(s).
+COMM 102
+Public Speaking
+3 credits
+A course in communication principles to develop skills in the analysis and presentation of speeches.
+Prerequisites:
+none
+Goal Areas: GE-1B
+ENG 271W
+Technical Communication
+4 credits
+Introduction to learning the written and oral communication of technical information. Assignments include writing and presenting proposals, reports, and documentation. Emphasis on use of rhetorical analysis, computer applications, collaborative writing, and usability testing to complete technical communication tasks in the workplace.
+Prerequisites:
+ENG 101
+Goal Areas: GE-02, GE-13
+Chemistry
+- Choose 3 - 5 Credit(s).
+CHEM 191
+Chemistry Applications
+3 credits
+From an engineering perspective, concepts of general chemistry will be investigated. Topics include atomic structure, stiochiometry, gas laws, periodic trends chemical bonds, thermodynamics, kinetics and organic chemistry.
+Prerequisites:
+High school chemistry or "C" (2.0) or higher in CHEM 104. Student must demonstrate math placement requirements at or above MATH 115 in the placement chart. See Mathematics for details.
+Goal Areas: GE-02, GE-03
+CHEM 201
+General Chemistry I
+5 credits
+Introduction to the basic principles of chemistry including atomic and molecular structure, bonding, chemical reactions, stoichiometry, thermodynamics and states of matter. Laboratory will reinforce lecture concepts. Prereq: C or higher in MATH 112 or the equivalent; high school chemistry or C or higher in CHEM 104
+Prerequisites:
+"C" (2.0) or higher in MATH 112 or the equivalent; high school chemistry or "C" (2.0) or higher in CHEM 104.
+Goal Areas: GE-02, GE-03
+Prerequisites to the Major
+ENGR 110/ENGR 299 can be replaced by either an introduction to engineering course or a programming course similar to CIS 121. Circuit Analysis should be accompanied by a lab. Students need a total of 32 Math and Science credits comprised of courses from General Education and prerequisites to the major.
+MATH 122
+Calculus II
+4 credits
+Techniques of integration, applications of integration, improper integrals, numerical integration, the calculus of parametric curves, and infinite series and sequences.
+Prerequisites:
+MATH 121 with "C" (2.0) or better or consent
+MATH 223
+Calculus III
+4 credits
+Surfaces, vector-valued functions, partial differentiation, multiple integration, and vector calculus.
+Prerequisites:
+MATH 122 with "C" (2.0) or better, or consent
+MATH 321
+Ordinary Differential Equations
+4 credits
+This course presents the theory, computations, and applications of first and second order differential equations and two-dimensional systems.
+Prerequisites:
+MATH 122 with "C" (2.0) or better or consent
+ME 212
+Statics
+3 credits
+Resultants of force systems, equilibrium, analysis of forces acting on structural and machine elements, friction, second moments, virtual work.
+Prerequisites:
+PHYS 221
+ME 214
+Dynamics
+3 credits
+Kinematics and kinetics of particles, systems of particles and rigid bodies, work-energy, linear and angular impulse momentum, vibrations.
+Prerequisites:
+ME 212
+PHYS 222
+General Physics II
+3 credits
+Designed for science and engineering students. Calculus-based physics. Covers electrical charge and field; magnetic field and its sources; current and resistance; simple DC and AC circuits; and electromagnetic induction. Lecture only. (Associated laboratory course is PHYS 232.) MATH 121 must be completed with a C or better prior to taking this course. MATH 122 must be completed before taking this course or taken concurrently. Fall, Spring
+Prerequisites:
+MATH 121 with a "C" or better; PHYS 221 with a "C" or better.
+PHYS 232
+General Physics II Laboratory
+1 credits
+Designed for science and engineering students. Laboratory course accompanying PHYS 222. Experiments involving electric and magnetic fields, electric potential, electric and magnetic forces, and simple circuits. Laboratory only. Prereq: PHYS 221 with a C or better; and PHYS 222 or concurrent. Fall, Spring
+Prerequisites:
+PHYS 221 with a "C" or better; and PHYS 222 or concurrent.
+Intro to Engineering
+- Choose 3 Credit(s).
+ENGR 110
+Introduction to Project-based Engineering
+3 credits
+Introduction of the engineering design process, professional skills necessary for the modern engineer, learning strategies needed for academic success, and overview of engineering applications relevant to society. Students will use engineering tools to complete an engineering team project.
+Prerequisites:
+none
+ENGR 299
+Bridge to Project-based Engineering
+3 credits
+An introductory project-based learning experience in engineering designed to prepare students for upper-division project-based work. Students will be exposed to teamwork, self-regulated learning, and the design process as they participate in the design and implementation of an engineering project.
+Prerequisites:
+Admission to Integrated Engineering major or consent.
+Circuit Analysis
+- Choose 3 Credit(s).
+EE 230
+Circuit Analysis I
+3 credits
+This course is meant to develop Electrical Engineering Circuit Analysis skills in DC and AC circuits. It includes circuit laws and theorems, mesh and node analysis. Natural and step response of RL, RC, and RLC circuits.
+Prerequisites:
+PHYS 222 or concurrent, MATH 321 or concurrent
+ENGR 240
+Linear Circuit Analysis and Design
+3 credits
+This course introduces linear circuit analysis with an emphasis on design of circuits. Topics include: physical principles underlying circuit element models; Kirchhoff's laws; series and parallel resistive circuits; independent and dependent sources; node-voltage and mesh-current methods; Norton and Thevenin theorems; phasors; transient and steady state first- and second-order circuits; power; and use of elements in circuit design.
+Prerequisites:
+MATH 122, PHYS 222
+Circuits Laboratory
+- Choose 1 Credit(s).
+EE 240
+Evaluation of Circuits
+1 credits
+Laboratory support for EE 230. Use of laboratory instrumentation to measure currents and voltages associated with DC and AC circuits. Statistical analysis of measurement data. Measurements of series, parallel and series-parallel DC and AC circuits. Measurement of properties for circuits using operational amplifiers. Measurement of transient responses for R-L and R-C circuits. Simulation of DC and AC circuits using PSPICE. Concepts covered in EE 230 will be verified in the laboratory. Pre-req: Must be taken concurrently with EE 230.
+Prerequisites:
+Must be taken concurrently with EE 230.
+ENGR 241
+Linear Circuit Analysis and Design Laboratory
+1 credits
+This course explores the experimental aspects of Linear Circuit Analysis and Design. Experiments will familiarize students with electrical laboratory equipment. Concepts discussed in ENGR 240 will be verified. Circuit theory will be applied in design experiences. Admitted to an Integrated Engineering program.
+Prerequisites:
+ENGR 240
+CHOOSE 1 CLUSTER:
+- Choose 4-5 credits from either Physics, Chemistry, Mathematics, Geology, or Biology.
+Physics
+PHYS 223
+General Physics III
+3 credits
+Designed for science and engineering students. Calculus-based physics. Covers fluids, thermodynamics, mechanical and sound waves, geometrical optics, physical optics, and modern physics. Lecture only. (Associated laboratory course is PHYS 233.) Pre: MATH 121 with a Cor better; and PHYS 221 with a C or better. MATH 122 must be completed before taking this course or taken concurrently. Spring
+Prerequisites:
+MATH 121 with a "C" or better; and PHYS 221 with a "C" or better
+PHYS 233
+General Physics III Laboratory
+1 credits
+Designed for science and engineering students. Laboratory course accompanying PHYS 223. Experiments involving fluids, thermodynamics, mechanical waves, geometrical optics, and physical optics. Laboratory only. Prereq: PHYS 221 with a C or better; and PHYS 223 or concurrent. Spring
+Prerequisites:
+PHYS 221 with a "C" or better; and PHYS 223 or concurrent.
+Chemistry
+CHEM 202
+General Chemistry II
+5 credits
+Continuation of the basic principles of chemistry including properties of solutions, kinetics, acids and bases, equilibria, buffers, precipitation reactions, electron transfer reactions, electrochemistry, entropy and free energy. Laboratory will reinforce lecture concepts.
+Prerequisites:
+"C" (2.0) or higher in CHEM 201
+Mathematics
+- Choose 4 Credit(s).
+MATH 247
+Linear Algebra I
+4 credits
+Matrices, determinants, systems of linear equations, vector spaces, linear transformations, and characteristic value problems.
+Prerequisites:
+MATH 122 with "C" (2.0) or better or consent
+MATH 280
+Discrete Mathematics for Computer Science I
+4 credits
+This course is an introduction to mathematical concepts needed in computer science, including sets, relations and functions, propositional logic, proof techniques, recurrence relations, graphs and trees, and discrete probability. This course is not intended for students pursuing a degree in mathematics.
+Prerequisites:
+MATH 121 with "C" (2.0) or better or consent.
+MATH 354
+Concepts of Probability & Statistics
+4 credits
+A calculus based introduction to probability and statistics. Topics include probability, random variables, probability distributions (discrete and continuous), joint probability distributions (discrete and continuous), statistical inference (both estimation and hypothesis testing), confidence intervals for distribution of parameters and their functions, sample size determinations, analysis of variance, regression, and correlation. This course meets the needs of the practitioner and the person who plans further study in statistics. Same as MATH 354. Fall, Spring, Summer
+Prerequisites:
+MATH 122 with "C" (2.0) or better or consent
+Geology
+GEOL 121
+Physical Geology
+4 credits
+Physical geology is the study of how the earth works. From mountain building to soil erosion, this course provides an introduction to all the main areas of geologic study. Lecture discussions and laboratory exercises are designed for students seeking a major or minor in one of the natural sciences.
+Prerequisites:
+none
+Goal Areas: GE-03, GE-10
+Biology
+- Choose 4 Credit(s).
+BIOL 105
+General Biology I
+4 credits
+Study of biological processes at the suborganismal level including cell chemistry, metabolism, reproduction, genetics, and complex tissue physiology. Laboratory and discussion sessions stress problem solving and experimental design.
+Prerequisites:
+none
+Goal Areas: GE-03
+BIOL 106
+General Biology II
+4 credits
+Study of biological processes at the organismal level including a survey of life forms (viruses, bacteria, protists, fungi, plants, and animals), their evolution, and ecology. Laboratory and discussion sessions stress problem solving and experimental design.
+Prerequisites:
+none
+Major Common Core
+Students take 4 credits of ENGR 492.
+ENGR 301
+Design I
+3 credits
+Students learn and practice the essential elements of engineering design through industry project implementation: scoping, modeling, experimentation, analysis, modern tools, design reviews, multi-disciplinary systems view, creativity, safety, business plans, global/societal/environmental impacts.
+Prerequisites:
+none
+ENGR 302
+Design II
+3 credits
+Students further learn and practice the elements of engineering design through industry project implementation: scoping, modeling, experimentation, analysis, modern tools, design reviews, multi-disciplinary systems view, creativity, safety, business plans, global/societal/environmental impacts.
+Prerequisites:
+ENGR 301
+ENGR 311W
+Professionalism I
+3 credits
+Students learn and develop the elements of professionalism while operating in project teams interacting daily with clients from industry. Topics include leadership, metacognition, teamwork, written and oral communication, ethics and professional and personal responsibility.
+Prerequisites:
+none
+ENGR 312W
+Professionalism II
+3 credits
+Students further learn and develop the elements of professionalism while operating in project teams interacting daily with clients from industry. Topics include further examination of leadership, metacognition, teamwork, written and oral communication, ethics, and professional and personal responsibility.
+Prerequisites:
+ENGR 311W
+ENGR 321
+Engineering Core: Statistics
+1 credits
+Introduction to statistics in an engineering context. Design of experiments and data collection, descriptive statistics, inferential statistics including hypothesis testing, and statistical software are introduced and applied. Students will do in-depth learning of some aspect of content area. Coursework may be tied to project work.
+Prerequisites:
+Admission to major, minor or certificate programs.
+ENGR 322
+Engineering Core: Programming/Modeling
+1 credits
+Students gain breadth across all objectives and depth in either programming or mathematical modeling. Students will do in-depth learning of some aspect of content area. Coursework may be tied to project work.
+Prerequisites:
+Admission to major, minor or certificate programs.
+ENGR 331
+Mechanical Core: Dynamic Systems
+1 credits
+Application of differential equations and Laplace Transform to determine the time evolution of mechanical, electrical, and fluid systems. Representing systems with transfer functions, block diagrams, and implementing modern simulation techniques. Students will do in-depth learning of some aspect of content area. Coursework may be tied to project work.
+Prerequisites:
+Admission to program.
+ENGR 332
+Mechanical Core: Fluid Mechanics
+1 credits
+Analysis of static and dynamic fluid systems using energy, continuity, impulse-momentum, Pascal, and Archimedes' principles. Applications in both steady and non-steady state. Fluid friction, pipe flow, flowmeters. Students will do in-depth learning of some aspect of content area. Coursework may be tied to project work.
+Prerequisites:
+Admission to program.
+ENGR 333
+Mechanical Core: Manufacturing Processes
+1 credits
+Introduction to the field of manufacturing and its relationship to other aspects of engineering. Study of established and emerging parts fabrication processes, such as 3D printing, welding, injection molding, casting, etc. Students will do in-depth learning of some aspect of content area. Coursework may be tied to project work.
+Prerequisites:
+Admission to program.
+ENGR 334
+Mechanical Core: Material Science
+1 credits
+Relationship between microstructures, processing, and properties of engineering materials with a focus on mechanical behavior and evaluation. Students will do in-depth learning of some aspect of content area. Coursework may be tied to project work.
+Prerequisites:
+Admission to program.
+ENGR 335
+Mechanical Core: Mechanics of Materials
+1 credits
+Introduction to material responses in various loading scenarios including axial, bending, shear, and torsion. Students will do in-depth learning of some aspect of content area. Coursework may be tied to project work.
+Prerequisites:
+Admission to program.
+ENGR 336
+Mechanical Core: Thermodynamics
+1 credits
+Application of first law of thermodynamics, mass balances, and property relationships to open and closed systems and power and refrigeration cycles. Introduction to the second law. Students will do in-depth learning of some aspect of content area. Coursework may be tied to project work.
+Prerequisites:
+Admission to program.
+ENGR 341
+Electrical Core: AC Circuits
+1 credits
+Behavior of RL, RC, and RLC circuits including natural, step, and driven responses. Applications of frequency domain to circuit theory. Students will do in-depth learning of some aspect of content area. Coursework may be tied to project work.
+Prerequisites:
+Admission to program.
+ENGR 342
+Electrical Core: Control Theory
+1 credits
+Modeling and analysis of linear feedback control systems including block diagrams, stability, and root locus. Students will do in-depth learning of some aspect of content area. Coursework may be tied to project work.
+Prerequisites:
+Admission to program.
+ENGR 343
+Electrical Core: Digital Logic
+1 credits
+Introduction to combinational and sequential logic including logic gates, Boolean algebra, logic minimization, flip flops, and applications such as HDL or PLC programming. Students will do in-depth learning of some aspect of content area. Coursework may be tied to project work.
+Prerequisites:
+Admission to program.
+ENGR 344
+Electrical Core: Electronics
+1 credits
+Analysis of circuits containing active elements such as amplifiers, diodes, and transistors. Both field effect and bipolar junction devices are covered in the context of digital and analog circuits. Students will do in-depth learning of some aspect of content area. Coursework may be tied to project work.
+Prerequisites:
+Admission to program.
+ENGR 345
+Electrical Core: Instrumentation
+1 credits
+Issues related to measurement including transducers, resolutions, signal integrity, noise, analog to digital conversion, and loading. Students will do in-depth learning of some aspect of content area. Coursework may be tied to project work.
+Prerequisites:
+Admission to program.
+ENGR 346
+Electrical Core: Motors, Generators & Transformers
+1 credits
+Conversion of energy between the electrical, magnetic, and mechanical domains specifically including transformers; AC and DC motors; and AC and DC generators. Students will do in-depth learning of some aspect of content area. Coursework may be tied to project work.
+Prerequisites:
+Admission to program.
+ENGR 401
+Capstone Design I
+3 credits
+The first in a two-semester sequence of capstone design. Students build on the experience gained in ENGR 301/302 to bring their implementation to that expected of contributing engineers in industry.
+Prerequisites:
+ENGR 302, ENGR 312W. At least 14 credits earned in technical competencies.
+ENGR 411W
+Professionalism III
+3 credits
+Students further learn and develop the elements of professionalism while operating in project teams interacting daily with clients from industry. Further development/practice of leadership, metacognition, teamwork, written and oral communication, ethics, and professional and personal responsibility in project context.
+Prerequisites:
+ENGR 312W
+ENGR 412W
+Professionalism IV
+3 credits
+Students further learn/develop professionalism while interacting regularly with clients from industry. Topics include further development and practice of leadership, metacognition, teamwork, written and oral communication, ethics, and professional and personal responsibility in project context, with reflection on educational growth.
+Prerequisites:
+ENGR 401, ENGR 411W
+ENGR 421
+Advanced Engineering Core: Engineering Economics
+1 credits
+Engineering economics topics including time value of money, simple and compound interest, annualized cash flows, inflation, and capital budgeting decision tools such as net present worth, payback period, return on investment, benefit/cost ratio, break-even analysis, and basic income statement reports. Topics are applied in a deep learning activity that relates to the team design project or a personal finance decision.
+Prerequisites:
+Admission to major, minor or certificate programs.
+ENGR 422
+Advanced Engineering Core: Entrepreneurship
+1 credits
+Frameworks linking the entrepreneurial mindset to innovation. Includes connections to value propositions, profitability, customer requirements, and design decisions. Appropriate both for those who want to start a business and those who want to innovate within a going concern. Students will do in-depth learning of some aspect of the content area. Coursework may be tied to project work.
+Prerequisites:
+Admission to major, minor or certificate programs.
+ENGR 492
+Seminar
+1 credits
+Students learn about engineering practice through seminars with practicing engineers from industry and are assisted in their development as learners through workshops. This course is repeated by Integrated Engineering students every semester.
+Prerequisites:
+none
+Thesis or Capstone Design
+- Choose 3 Credit(s). Students have the option of completing a thesis or fourth design project.
+ENGR 402
+Capstone Design II
+3 credits
+This is the second capstone design course and fourth design course overall. Expectations include potential patent applications, entry in business plan competitions, or some similarly high level achievement.
+Prerequisites:
+ENGR 401, ENGR 411W. At least 22 credits earned in technical competencies.
+ENGR 498
+Senior Thesis
+3 credits
+Advanced study and research required. Topic of the senior thesis determined jointly by the student and the faculty advisor. Deliverables include written thesis and formal oral presentation.
+Prerequisites:
+Senior standing in program and at least 14 credits earned in technical competencies
+Major Restricted Electives
+Choose 6-7 credits of approved Arts and Humanities courses and choose 6-7 credits of Social Science courses for a total of 13 credits. The Depth Requirement can be fulfilled by a sequence of courses in the same department (such as HIST 180 and HIST 181 or PHI 101 and PHIL 321W). A list of approved courses can be found at the program website. Students should also meet the University's diverse cultures requirement. Students who complete the Minnesota Transfer Curriculum will satisfy the Depth Requirement.
+Major Unrestricted Electives
+Choose one Focus area from the following.
+Broad Focus
+- Choose 16 Credit(s). Students choosing not to complete a focus area must complete 0-2 credits of ENGR 350-355 and 14-16 credits of ENGR 431, ENGR 432, ENGR 441, ENGR 442, ENGR 450-463, and ENGR 475-479. ENGR 450-463 and ENGR 475-479 are repeatable. The engineering field of these elective credits is unrestricted.
+ENGR 450 - 463
+Advanced Technical Electives
+credits
+Prerequisites:
+none
+ENGR 441 - 442
+Electrical Advanced Competencies
+credits
+Prerequisites:
+none
+ENGR 350 - 355
+Elective Technical Competencies
+credits
+Prerequisites:
+none
+ENGR 475 - 479
+Advanced Technical Electives
+credits
+Prerequisites:
+none
+ENGR 431 - 432
+Mechanical Advanced Competencies
+credits
+Prerequisites:
+none
+Mechanical Focus
+- Choose 16 Credit(s). Students choosing a mechanical focus must complete ENGR 431 and ENGR 432, 0-2 credits of ENGR 350-355 and 12-14 credits of ENGR 441, ENGR 442, ENGR 450-463, and ENGR 475-479. ENGR 450-463 and ENGR 475-479 are repeatable. At least 12 credits of ENGR 350-355, ENGR 450-463 and ENGR 475-479 must be in the field of mechanical engineering. At least two of the four engineering projects must include design of mechanical systems.
+ENGR 450 - 463
+Advanced Technical Electives
+credits
+Prerequisites:
+none
+ENGR 441 - 442
+Electrical Advanced Competencies
+credits
+Prerequisites:
+none
+ENGR 350 - 355
+Elective Technical Competencies
+credits
+Prerequisites:
+none
+ENGR 475 - 479
+Advanced Technical Electives
+credits
+Prerequisites:
+none
+ENGR 431
+Mechanical Advanced Competency: Heat Transfer
+1 credits
+Overview of heat transfer mechanisms including conduction, convection, and radiation. Students will do in-depth learning of some aspect of content area. Coursework may be tied to project work.
+Prerequisites:
+Admission to major, minor or certificate programs.
+ENGR 432
+Mechanical Advanced Competency: Structural Analysis
+1 credits
+Introduction to engineering standards in structural design; analysis of structures such as trusses, beams and frames with analytical, computational, and experimental methods for problem solving. Students will do in-depth learning of some aspect of content area. Coursework may be tied to project work.
+Prerequisites:
+Admission to major, minor or certificate programs.
+Electrical Focus
+- Choose 16 Credit(s). Students choosing an electrical focus must complete ENGR 441 and ENGR 442, 0-2 credits of ENGR 350-355 and 12-14 credits of ENGR 431, ENGR 432, ENGR 450-463, and ENGR 475-479. ENGR 450-463 and ENGR 475-479 are repeatable. At least 12 credits of ENGR 350-355, ENGR 450-463 and ENGR 475-479 must be in the field of electrical engineering. At least two of the four engineering projects must include design of electrical systems.
+ENGR 450 - 463
+Advanced Technical Electives
+credits
+Prerequisites:
+none
+ENGR 475 - 479
+Advanced Technical Electives
+credits
+Prerequisites:
+none
+ENGR 431 - 432
+Mechanical Advanced Competencies
+credits
+Prerequisites:
+none
+ENGR 350 - 355
+Elective Technical Competencies
+credits
+Prerequisites:
+none
+ENGR 441
+Advanced Electrical Core: Electricity & Magnetism
+1 credits
+Maxwell's equations applied to electrostatics and magnetostatics. Electromagnetic wave propagation, transmission lines, and antennas. Students will do in-depth learning of some aspect of content area. Coursework may be tied to project work.
+Prerequisites:
+Admission to major, minor or certificate programs.
+ENGR 442
+Electrical Advanced Competency: Signals & Systems
+1 credits
+Descriptions of signals in the time and frequency domain. Analysis of linear systems in the time and frequency domain. Includes applications of Fourier transforms. Students will do in-depth learning of some aspect of content area. Coursework may be tied to project work.
+Prerequisites:
+Admission to major, minor or certificate programs.
+Other Focus Areas
+- Choose 16 Credit(s). Students choosing a focus area other than mechanical or electrical must complete 0-2 credits of ENGR 350-355 and 14-16 credits of ENGR 431, ENGR 432, ENGR 441, ENGR 442, ENGR 450-463, and ENGR 475-479. ENGR 450-463 and ENGR 475-479 are repeatable. At least 14 credits of ENGR 350-355, ENGR 450-463 and ENGR 475-479 must be in the field of focus. At least two of the four engineering projects must include design of focus-area systems.
+ENGR 450 - 463
+Advanced Technical Electives
+credits
+Prerequisites:
+none
+ENGR 475 - 479
+Advanced Technical Electives
+credits
+Prerequisites:
+none
+ENGR 350 - 355
+Elective Technical Competencies
+credits
+Prerequisites:
+none
+ENGR 441 - 442
+Electrical Advanced Competencies
+credits
+Prerequisites:
+none
+ENGR 431 - 432
+Mechanical Advanced Competencies
+credits
+Prerequisites:
+none
+Degree Plan
+First Year
+Fall
+- 17 Credits
+ENG 101
+Foundations of Writing & Rhetoric
+4 credits
+Students in this course approach writing as a subject of study by investigating how writing works across a variety of contexts.
+Prerequisites:
+none
+Goal Areas: GE-1A
+ENGR 110
+Introduction to Project-based Engineering
+3 credits
+Introduction of the engineering design process, professional skills necessary for the modern engineer, learning strategies needed for academic success, and overview of engineering applications relevant to society. Students will use engineering tools to complete an engineering team project.
+Prerequisites:
+none
+MATH 121
+Calculus I
+4 credits
+Limits, continuity, the derivative and applications, transcendental functions, L'Hopital's Rule, and development of the Riemann integral.
+Prerequisites:
+Satisfy Placement Table in this section, MATH 115 or both MATH 112 and MATH 113 with "C" (2.0) or better.
+Goal Areas: GE-04
+CHEM 191
+Chemistry Applications
+3 credits
+From an engineering perspective, concepts of general chemistry will be investigated. Topics include atomic structure, stiochiometry, gas laws, periodic trends chemical bonds, thermodynamics, kinetics and organic chemistry.
+Prerequisites:
+High school chemistry or "C" (2.0) or higher in CHEM 104. Student must demonstrate math placement requirements at or above MATH 115 in the placement chart. See Mathematics for details.
+Goal Areas: GE-02, GE-03
+Spring
+- 18 Credits
+MATH 122
+Calculus II
+4 credits
+Techniques of integration, applications of integration, improper integrals, numerical integration, the calculus of parametric curves, and infinite series and sequences.
+Prerequisites:
+MATH 121 with "C" (2.0) or better or consent
+ECON 201
+Principles of Macroeconomics
+3 credits
+Emphasis on forces influencing employment and inflation. Current problems of the economy are stressed along with tools government has to cope with them.
+Prerequisites:
+none
+Goal Areas: GE-05
+PHYS 221
+General Physics I
+4 credits
+Designed for science and engineering students. Calculus-based physics. Covers elementary mechanics including kinematics, statics, equilibrium and dynamics of particles, work and energy, rotational motion, gravitation, and oscillation. Lecture and Laboratory. MATH 121 must be completed with a C or better prior to taking this course or must be taken concurrently. High school physics or PHYS 101 is also strongly encouraged. Fall, Spring
+Prerequisites:
+none
+Goal Areas: GE-02, GE-03
+Second Year
+Fall
+- 17 Credits
+ME 212
+Statics
+3 credits
+Resultants of force systems, equilibrium, analysis of forces acting on structural and machine elements, friction, second moments, virtual work.
+Prerequisites:
+PHYS 221
+PHYS 222
+General Physics II
+3 credits
+Designed for science and engineering students. Calculus-based physics. Covers electrical charge and field; magnetic field and its sources; current and resistance; simple DC and AC circuits; and electromagnetic induction. Lecture only. (Associated laboratory course is PHYS 232.) MATH 121 must be completed with a C or better prior to taking this course. MATH 122 must be completed before taking this course or taken concurrently. Fall, Spring
+Prerequisites:
+MATH 121 with a "C" or better; PHYS 221 with a "C" or better.
+MATH 223
+Calculus III
+4 credits
+Surfaces, vector-valued functions, partial differentiation, multiple integration, and vector calculus.
+Prerequisites:
+MATH 122 with "C" (2.0) or better, or consent
+PHYS 232
+General Physics II Laboratory
+1 credits
+Designed for science and engineering students. Laboratory course accompanying PHYS 222. Experiments involving electric and magnetic fields, electric potential, electric and magnetic forces, and simple circuits. Laboratory only. Prereq: PHYS 221 with a C or better; and PHYS 222 or concurrent. Fall, Spring
+Prerequisites:
+PHYS 221 with a "C" or better; and PHYS 222 or concurrent.
+Spring
+- 15 Credits
+ME 214
+Dynamics
+3 credits
+Kinematics and kinetics of particles, systems of particles and rigid bodies, work-energy, linear and angular impulse momentum, vibrations.
+Prerequisites:
+ME 212
+EE 230
+Circuit Analysis I
+3 credits
+This course is meant to develop Electrical Engineering Circuit Analysis skills in DC and AC circuits. It includes circuit laws and theorems, mesh and node analysis. Natural and step response of RL, RC, and RLC circuits.
+Prerequisites:
+PHYS 222 or concurrent, MATH 321 or concurrent
+EE 240
+Evaluation of Circuits
+1 credits
+Laboratory support for EE 230. Use of laboratory instrumentation to measure currents and voltages associated with DC and AC circuits. Statistical analysis of measurement data. Measurements of series, parallel and series-parallel DC and AC circuits. Measurement of properties for circuits using operational amplifiers. Measurement of transient responses for R-L and R-C circuits. Simulation of DC and AC circuits using PSPICE. Concepts covered in EE 230 will be verified in the laboratory. Pre-req: Must be taken concurrently with EE 230.
+Prerequisites:
+Must be taken concurrently with EE 230.
+MATH 321
+Ordinary Differential Equations
+4 credits
+This course presents the theory, computations, and applications of first and second order differential equations and two-dimensional systems.
+Prerequisites:
+MATH 122 with "C" (2.0) or better or consent
+Third Year
+Fall
+- 15 Credits
+ENGR 301
+Design I
+3 credits
+Students learn and practice the essential elements of engineering design through industry project implementation: scoping, modeling, experimentation, analysis, modern tools, design reviews, multi-disciplinary systems view, creativity, safety, business plans, global/societal/environmental impacts.
+Prerequisites:
+none
+ENGR 311W
+Professionalism I
+3 credits
+Students learn and develop the elements of professionalism while operating in project teams interacting daily with clients from industry. Topics include leadership, metacognition, teamwork, written and oral communication, ethics and professional and personal responsibility.
+Prerequisites:
+none
+ENGR 321
+Engineering Core: Statistics
+1 credits
+Introduction to statistics in an engineering context. Design of experiments and data collection, descriptive statistics, inferential statistics including hypothesis testing, and statistical software are introduced and applied. Students will do in-depth learning of some aspect of content area. Coursework may be tied to project work.
+Prerequisites:
+Admission to major, minor or certificate programs.
+ENGR 331
+Mechanical Core: Dynamic Systems
+1 credits
+Application of differential equations and Laplace Transform to determine the time evolution of mechanical, electrical, and fluid systems. Representing systems with transfer functions, block diagrams, and implementing modern simulation techniques. Students will do in-depth learning of some aspect of content area. Coursework may be tied to project work.
+Prerequisites:
+Admission to program.
+ENGR 332
+Mechanical Core: Fluid Mechanics
+1 credits
+Analysis of static and dynamic fluid systems using energy, continuity, impulse-momentum, Pascal, and Archimedes' principles. Applications in both steady and non-steady state. Fluid friction, pipe flow, flowmeters. Students will do in-depth learning of some aspect of content area. Coursework may be tied to project work.
+Prerequisites:
+Admission to program.
+ENGR 341
+Electrical Core: AC Circuits
+1 credits
+Behavior of RL, RC, and RLC circuits including natural, step, and driven responses. Applications of frequency domain to circuit theory. Students will do in-depth learning of some aspect of content area. Coursework may be tied to project work.
+Prerequisites:
+Admission to program.
+ENGR 342
+Electrical Core: Control Theory
+1 credits
+Modeling and analysis of linear feedback control systems including block diagrams, stability, and root locus. Students will do in-depth learning of some aspect of content area. Coursework may be tied to project work.
+Prerequisites:
+Admission to program.
+ENGR 492
+Seminar
+1 credits
+Students learn about engineering practice through seminars with practicing engineers from industry and are assisted in their development as learners through workshops. This course is repeated by Integrated Engineering students every semester.
+Prerequisites:
+none
+ENGR 450
+Advanced Technical Competency
+3 credits
+In-depth, advanced study of an engineering area related to an engineering project or foundation topic in a focus area. Students will do in-depth learning of some aspect of content area. Coursework may be tied to project work.
+Prerequisites:
+none
+Spring
+- 15 Credits
+ENGR 302
+Design II
+3 credits
+Students further learn and practice the elements of engineering design through industry project implementation: scoping, modeling, experimentation, analysis, modern tools, design reviews, multi-disciplinary systems view, creativity, safety, business plans, global/societal/environmental impacts.
+Prerequisites:
+ENGR 301
+ENGR 312W
+Professionalism II
+3 credits
+Students further learn and develop the elements of professionalism while operating in project teams interacting daily with clients from industry. Topics include further examination of leadership, metacognition, teamwork, written and oral communication, ethics, and professional and personal responsibility.
+Prerequisites:
+ENGR 311W
+ENGR 322
+Engineering Core: Programming/Modeling
+1 credits
+Students gain breadth across all objectives and depth in either programming or mathematical modeling. Students will do in-depth learning of some aspect of content area. Coursework may be tied to project work.
+Prerequisites:
+Admission to major, minor or certificate programs.
+ENGR 333
+Mechanical Core: Manufacturing Processes
+1 credits
+Introduction to the field of manufacturing and its relationship to other aspects of engineering. Study of established and emerging parts fabrication processes, such as 3D printing, welding, injection molding, casting, etc. Students will do in-depth learning of some aspect of content area. Coursework may be tied to project work.
+Prerequisites:
+Admission to program.
+ENGR 334
+Mechanical Core: Material Science
+1 credits
+Relationship between microstructures, processing, and properties of engineering materials with a focus on mechanical behavior and evaluation. Students will do in-depth learning of some aspect of content area. Coursework may be tied to project work.
+Prerequisites:
+Admission to program.
+ENGR 343
+Electrical Core: Digital Logic
+1 credits
+Introduction to combinational and sequential logic including logic gates, Boolean algebra, logic minimization, flip flops, and applications such as HDL or PLC programming. Students will do in-depth learning of some aspect of content area. Coursework may be tied to project work.
+Prerequisites:
+Admission to program.
+ENGR 421
+Advanced Engineering Core: Engineering Economics
+1 credits
+Engineering economics topics including time value of money, simple and compound interest, annualized cash flows, inflation, and capital budgeting decision tools such as net present worth, payback period, return on investment, benefit/cost ratio, break-even analysis, and basic income statement reports. Topics are applied in a deep learning activity that relates to the team design project or a personal finance decision.
+Prerequisites:
+Admission to major, minor or certificate programs.
+ENGR 492
+Seminar
+1 credits
+Students learn about engineering practice through seminars with practicing engineers from industry and are assisted in their development as learners through workshops. This course is repeated by Integrated Engineering students every semester.
+Prerequisites:
+none
+ENGR 450
+Advanced Technical Competency
+3 credits
+In-depth, advanced study of an engineering area related to an engineering project or foundation topic in a focus area. Students will do in-depth learning of some aspect of content area. Coursework may be tied to project work.
+Prerequisites:
+none
+Fourth Year
+Fall
+- 15 Credits
+ENGR 335
+Mechanical Core: Mechanics of Materials
+1 credits
+Introduction to material responses in various loading scenarios including axial, bending, shear, and torsion. Students will do in-depth learning of some aspect of content area. Coursework may be tied to project work.
+Prerequisites:
+Admission to program.
+ENGR 336
+Mechanical Core: Thermodynamics
+1 credits
+Application of first law of thermodynamics, mass balances, and property relationships to open and closed systems and power and refrigeration cycles. Introduction to the second law. Students will do in-depth learning of some aspect of content area. Coursework may be tied to project work.
+Prerequisites:
+Admission to program.
+ENGR 345
+Electrical Core: Instrumentation
+1 credits
+Issues related to measurement including transducers, resolutions, signal integrity, noise, analog to digital conversion, and loading. Students will do in-depth learning of some aspect of content area. Coursework may be tied to project work.
+Prerequisites:
+Admission to program.
+ENGR 346
+Electrical Core: Motors, Generators & Transformers
+1 credits
+Conversion of energy between the electrical, magnetic, and mechanical domains specifically including transformers; AC and DC motors; and AC and DC generators. Students will do in-depth learning of some aspect of content area. Coursework may be tied to project work.
+Prerequisites:
+Admission to program.
+ENGR 401
+Capstone Design I
+3 credits
+The first in a two-semester sequence of capstone design. Students build on the experience gained in ENGR 301/302 to bring their implementation to that expected of contributing engineers in industry.
+Prerequisites:
+ENGR 302, ENGR 312W. At least 14 credits earned in technical competencies.
+ENGR 411W
+Professionalism III
+3 credits
+Students further learn and develop the elements of professionalism while operating in project teams interacting daily with clients from industry. Further development/practice of leadership, metacognition, teamwork, written and oral communication, ethics, and professional and personal responsibility in project context.
+Prerequisites:
+ENGR 312W
+ENGR 422
+Advanced Engineering Core: Entrepreneurship
+1 credits
+Frameworks linking the entrepreneurial mindset to innovation. Includes connections to value propositions, profitability, customer requirements, and design decisions. Appropriate both for those who want to start a business and those who want to innovate within a going concern. Students will do in-depth learning of some aspect of the content area. Coursework may be tied to project work.
+Prerequisites:
+Admission to major, minor or certificate programs.
+ENGR 431
+Mechanical Advanced Competency: Heat Transfer
+1 credits
+Overview of heat transfer mechanisms including conduction, convection, and radiation. Students will do in-depth learning of some aspect of content area. Coursework may be tied to project work.
+Prerequisites:
+Admission to major, minor or certificate programs.
+ENGR 492
+Seminar
+1 credits
+Students learn about engineering practice through seminars with practicing engineers from industry and are assisted in their development as learners through workshops. This course is repeated by Integrated Engineering students every semester.
+Prerequisites:
+none
+ENGR 450
+Advanced Technical Competency
+2 credits
+In-depth, advanced study of an engineering area related to an engineering project or foundation topic in a focus area. Students will do in-depth learning of some aspect of content area. Coursework may be tied to project work.
+Prerequisites:
+none
+Spring
+- 15 Credits
+ENGR 344
+Electrical Core: Electronics
+1 credits
+Analysis of circuits containing active elements such as amplifiers, diodes, and transistors. Both field effect and bipolar junction devices are covered in the context of digital and analog circuits. Students will do in-depth learning of some aspect of content area. Coursework may be tied to project work.
+Prerequisites:
+Admission to program.
+ENGR 402
+Capstone Design II
+3 credits
+This is the second capstone design course and fourth design course overall. Expectations include potential patent applications, entry in business plan competitions, or some similarly high level achievement.
+Prerequisites:
+ENGR 401, ENGR 411W. At least 22 credits earned in technical competencies.
+ENGR 412W
+Professionalism IV
+3 credits
+Students further learn/develop professionalism while interacting regularly with clients from industry. Topics include further development and practice of leadership, metacognition, teamwork, written and oral communication, ethics, and professional and personal responsibility in project context, with reflection on educational growth.
+Prerequisites:
+ENGR 401, ENGR 411W
+ENGR 432
+Mechanical Advanced Competency: Structural Analysis
+1 credits
+Introduction to engineering standards in structural design; analysis of structures such as trusses, beams and frames with analytical, computational, and experimental methods for problem solving. Students will do in-depth learning of some aspect of content area. Coursework may be tied to project work.
+Prerequisites:
+Admission to major, minor or certificate programs.
+ENGR 492
+Seminar
+1 credits
+Students learn about engineering practice through seminars with practicing engineers from industry and are assisted in their development as learners through workshops. This course is repeated by Integrated Engineering students every semester.
+Prerequisites:
+none
+ENGR 450
+Advanced Technical Competency
+6 credits
+In-depth, advanced study of an engineering area related to an engineering project or foundation topic in a focus area. Students will do in-depth learning of some aspect of content area. Coursework may be tied to project work.
+Prerequisites:
+noneInitial deposit: N/A
+
+
+Application Fee for Undergraduate: $ 20
+Application Fee for Postgraduate: $ 40
+
+
+Annual Fee for Undergraduate: $ 18,812
+Annual Fee for Postgraduate: $ 14,918
+
+
+English Language Requirements Undergraduate only:
+TOEFL iBT (internet-based test) score of 61 or better
+Pearson Test of English (PTE) score of 47 or better
+IELTS academic test score of 5.5 or better
+
+
+English Language Requirements Postgraduate only:
+Different for every course and given in course content 
+
+
+Entry Requirements Undergraduate only:
+A cumulative high school GPA of 3.0 or higher or A rank in the top 50% of your high school class or An ACT composite score of 21 or higher and a minimum cumulative high school GPA of 2.7. If you do not meet the above admission requirements, you can submit additional information to consider when reviewing your application.
+
+
+Entry Requirements Postgraduate only:
+Applicants must possess the equivalent of a U.S. Bachelor's degree to be considered for graduate programs at Minnesota State Mankato. The degree must be earned at an institution recognized and approved to award the degree. GRE (Graduate Record Examination) is required by some academic programs.
+
+English Language requirements of graduate programs is different for each course. Graduate programs only have IELTS and TOEFL test scores.
+For Graduate Entry Requirements, some requirements like GPA, Score are mentioned on the course page so add them too.

@@ -1,0 +1,261 @@
+Link: https://you.ubc.ca/ubc_programs/engineering-physics/
+
+Engineering Physics
+at UBC's
+Vancouver Campus
+Summary
+Program info
+Your future
+Requirements
+Visit program website
+Do you want to be an inventor? A research engineer? A technology entrepreneur? Engineering Physics encourages creativity, challenges intellects, and celebrates big-picture thinking. You’ll build a solid foundation in applied physics and a blend of electrical and mechanical engineering, while gaining extensive engineering design experience.
+Visit program website
+Program information
+Send details
+Campus:
+Vancouver
+Faculty:
+Faculty of Applied Science (Engineering)
+Degree:
+Bachelor of Applied Science (Engineering)
+Length
+5 yrs
+Co-op
+Yes
+You can combine your studies with full-time, paid work at top local and international organizations.
+Honours
+No
+You can study intense specialization in a single field.
+Engineering Physics is one of the most competitive and academically challenging undergraduate programs at UBC. With a strong foundation of academic courses, project courses, and co-op work experience, the five-year Engineering Physics program provides you with the skills and experience needed to develop new technology and interdisciplinary engineering projects. You will take high-level Math and Physics courses, as well as courses in Computer Science, Electrical Engineering, and Mechanical Engineering. In second year, you will take courses in each of these areas and choose Electrical, Mechanical, or Mechatronics as your specialty. The academic program is normally supplemented with technical experience, and protected time for technical work terms is built into the curriculum.
+Campus features
+The UBC Sustainability Solutions Applied Physics Laboratory has unique research projects, such as the UBC Solar Canopy group, aiming to explore the potential of electromagnetics, for practical environmentally aware solutions.
+UBC Sustainability Solutions Applied Physics Laboratory
+Send details
+Sample courses
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+APSC 100 - Introduction to Engineering I
+An introduction to the engineering profession including: roles and responsibilities of the engineer, the engineering disciplines, sustainability, an introduction to the engineering design process, introduction and application of the relevant foundational scientific principles, prototyping, engineering graphics, technical communication, and engineering ethics.
+CHEM 154 - Chemistry for Engineering
+Chemical bonding, properties of matter. Chemical thermodynamics with applications to phase equilibria, aqueous equilibria and electrochemistry. Processes at surfaces.
+MATH 100 - Differential Calculus with Applications to Physical Sciences and Engineering
+Derivatives of elementary functions. Applications and modeling: graphing, optimization. Consult the Faculty of Science Credit Exclusion List: www.students.ubc.ca/calendar/index.cfm?tree=12,215,410,414.
+PHYS 157 - Introductory Physics for Engineers I
+Heat, thermodynamics, oscillations, waves, and sound.
+PHYS 170 - Mechanics I
+Statics of particles, equilibrium or rigid bodies, rigid body statics and internal forces, trusses; kinematics: rectilinear motion; dynamics:  Newton's second law, friction, impulse, momentum, work and energy.
+CPEN 221 - Principles of Software Construction
+Design, implementation, reasoning about software systems: abstraction and specification of software, testing, verification, abstract data types, object-oriented design, type hierarchies, concurrent software design.
+ELEC 204 - Linear Circuits
+Basic concepts and analysis techniques in the context of electric and electronic circuits including Bode plots and the Laplace transform. Treatment of RLC circuits, phasors, op-amps. Introduction to nonlinear circuit elements, diodes, BJT, FET circuits.
+ENPH 257 - Heat and Thermodynamics
+Thermometry, thermal properties of matter; heat transfer by conduction; convection and radiation; kinetic theory of gases and gas laws; heat engines; refrigeration; change of state; first and second laws of thermodynamics.
+ENPH 259 - Experimental Techniques
+Basic experimental techniques in acquisition, analysis, and presentation and communication of data and technical results.
+MECH 260 - Introduction to Mechanics of Materials
+Statically determinate frames and trusses; normal and shear stresses and strains; shear force and bending moment diagrams; theory of beam bending, torsion of circular rods; transformation of stress and strain in two and three dimensions, Mohr's circle; yield and ultimate failure criteria.
+CPEN 312 - Digital Systems and Microcomputers
+Data representation in digital computers; boolean algebra; the design and optimization and implementation of combinatorial and sequential circuits; modern digital circuit technologies; memory and programmable logic devices; organization and operation of microcomputers; data/address bus organization; input-output interfacing.
+MECH 360 - Mechanics of Materials
+Beam deflections, singularity functions; use of tabulated solutions; column buckling; Castigliano's theorem, statically indeterminate beams, bending of beams with asymmetric cross-sections, shear centre; principal stresses and stress invariants in three dimensions.
+PHYS 301 - Electricity and Magnetism
+Maxwell's equations and their applications, electrical fields and potentials of static charge distributions, current, fields of moving charges, magnetic fields, electromagnetic induction.
+APSC 278 - Engineering Materials
+Atomic bonding; crystal structures and imperfections; properties of metals, ceramics, polymers, wood, concrete and fibre composite materials; selection of materials; corrosion; mechanical testing and heat treatment.
+ELEC 301 - Electronic Circuits
+Analysis and design of electronic circuits; biasing of and small-signal models for transistors; frequency response of amplifiers; feedback and stability aspects of amplifier design; OP-AMPs; active filters; oscillators; IC specification and selection. Credit will only be given for one of EECE 356, ELEC 301, and EECE 374.
+ENPH 459 - Engineering Physics Project I
+Project planning, management and reporting. This course involves writing a project proposal, carrying out an open-ended Engineering project, and reporting the results both orally and in writing.
+MATH 400 - Applied Partial Differential Equations
+Separation of variables, first order equations, Sturm-Liouville theory, integral transform methods.
+MECH 466 - Automatic Control
+Process and system characteristics; transient response; the closed loop; block diagrams and transfer functions; control actions; stability; Nyquist diagrams; Bode diagrams; root locus methods; frequency response; system compensation; nonlinear control systems; digital computer control. Laboratory experiments to support the lecture content. Credit cannot be obtained for both MECH 466 and MECH 467.
+APSC 450 - Professional Engineering Practice
+Legislation affecting the practice of engineering; ethical principles and responsibilities. Management of engineering enterprises; labour relations, safety and environmental legislation. Restricted to engineering undergraduate students in the final year of their program.
+ENPH 479 - Engineering Physics Project II
+Projects designed to give students research development and design experience. Projects are provided by research faculty in Science and Engineering and from local industry.
+MATH 405 - Numerical Methods for Differential Equations
+Interpolation, numerical integration, numerical solution of ordinary and partial differential equations. Practical computational methods emphasized and basic theory developed through simple models. See Faculty of Science credit exclusion list: http://www.calendar.ubc.ca/vancouver/index.cfm?tree=12,215,410,414.
+PHYS 403 - Statistical Mechanics
+Principles and applications of  statistical mechanics. Ideal gases, degenerate Fermi gases, Bose-Einstein condensation, black body radiation, fluctuations and phase transitions.
+ELEC 343 - Electromechanics
+Electromechanical energy conversion; linear actuators; torque/speed of rotating devices; reluctance, stepper, permanent-magnet, induction, brushless-DC motors and DC motors; actuator/motor drive circuits/controllers.
+Your future
+You career opportunities will vary widely across a range of fields including nuclear and particle physics, micro and nanotechnology, semiconductors and electronics, computer technologies, healthcare, fibre optics and laser design, clean energy, and applied research and development, and others.
+Careers with Engineering Physics
+Related programs
+Program requirements
+Canadian high schools
+International high schools
+International baccalaureate
+- Select Location -
+Basic requirements (if your province is not selected)
+Alberta
+British Columbia
+Manitoba
+New Brunswick
+Newfoundland & Labrador
+Northwest Territories
+Nova Scotia
+Nunavut
+Ontario
+Prince Edward Island
+Quebec
+Saskatchewan
+Yukon
+- Select Location -
+Basic requirements (if your country is not listed)
+Argentina
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belize
+Bermuda
+Bolivia
+Botswana
+Brazil
+British Virgin Islands
+Brunei
+Cameroon - British
+Cameroon - French
+Cayman Islands
+Chile
+China
+Colombia
+Costa Rica
+Czech Republic
+Denmark
+Dominica
+Ecuador
+Egypt – 11 Years of Education
+Egypt – 12 Years of Education
+El Salvador
+Ethiopia
+Finland
+France (French Baccalaureate)
+Germany
+Ghana
+Gibraltar
+Greece
+Grenada
+Guatemala
+Guyana
+Honduras
+Hong Kong
+India
+Indonesia
+Iran
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kuwait
+Lebanon
+Lesotho
+Liberia
+Macao
+Malawi
+Malaysia
+Mauritius
+Mexico
+Mongolia
+Montserrat
+Morocco
+Namibia
+Netherlands
+New Zealand
+Nigeria
+Norway
+Oman
+Pakistan
+Panama
+Peru
+Philippines
+Poland
+Qatar
+Russia
+Rwanda
+Saint Kitts and Nevis
+Saint Lucia
+Saint Vincent and the Grenadines
+Saudi Arabia
+Scotland
+Seychelles
+Sierra Leone
+Singapore
+South Africa
+South Korea
+Spain
+Sri Lanka
+Sweden
+Switzerland
+Syria
+Taiwan
+Tanzania
+Thailand
+The Gambia
+Trinidad and Tobago
+Tunisia
+Turkey
+Turks and Caicos Islands
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom (British-patterned education)
+United States (American curriculum)
+Venezuela
+Vietnam
+Zambia
+Zimbabwe
+English-language requirements
+English is the language of instruction at UBC. All prospective students must demonstrate English-language competency prior to admission. There are numerous ways to meet the
+English Language Admission Standard
+.
+General admission requirements
+IB Diploma Programme
+Completed IB Diploma, including at least three Higher Level courses.
+IB Certificate Courses
+IB Certificate courses (Standard and Higher Level) may be used in an admissions average if you are graduating from a recognized high school curriculum that can be used as your basis of admission.
+IB Math Applications and Interpretations SL, or IB Math Studies, do not satisfy the math requirement for admission to UBC’s science-based programs, the Faculty of Management, the UBC Sauder School of Business, or the Vancouver School of Economics.
+Degree-specific requirements:
+Applied Science (Engineering)
+IB Math Analysis and Approaches SL
+or
+HL,
+or
+IB Math Applications and Interpretations HL. (IB Math Applications and Interpretations SL, or IB Math Studies, are not acceptable.)
+IB Chemistry
+IB Physics
+Academically strong candidates missing either IB Chemistry or IB Physics may be evaluated on a case-by-case basis
+Related courses
+The following
+subject categories
+are particularly relevant for this degree. Consider taking courses in these areas in your junior year and senior year.
+Language Arts
+Mathematics and Computation
+Sciences
+Visit program website
+You’ll find these pages helpful
+Cognitive Systems as a Bachelor of Science on the Vancouver campus
+This multi-disciplinary program involves Computer Science, Linguistics, Philosophy, and Psychology, and provides you with a grounding in the principles and techniques used by intelligent systems to interact with the world around them.
+Visit page
+Computer Engineering on the Vancouver campus
+Study electrical and computer engineering while engaging in laboratory work and engineering design.
+Visit page
+Deep dive into UBC programs and get a taste of campus life on Snapchat
+Read admissions blog post
+Meet Milind, an Electrical Engineering student who went from UBC undergrad to PhD candidate at Cambridge
+Read full story
+Ready to choose your degree?
+Apply to UBC

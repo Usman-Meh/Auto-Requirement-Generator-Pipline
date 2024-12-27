@@ -1,0 +1,292 @@
+Link: https://www.grad.ubc.ca/prospective-students/graduate-degree-programs/master-of-engineering-electrical-computer-engineering
+
+Master of Engineering in Electrical and Computer Engineering (MEng)
+Graduate School
+»
+Prospective Students
+»
+Graduate Degree Programs
+»
+Master of Engineering in Electrical and Computer Engineering (MEng)
+Canadian Immigration Updates
+Review details about the recently announced changes to study and work permits that apply to master’s and doctoral degree students.
+Read more
+Notice: Canadian Immigration Updates
+Go to programs search
+The Master of Engineering is not administered by the Faculty of Graduate and Postdoctoral Studies. Please check the
+UBC Engineering
+website for admission requirements, deadlines and application procedure.
+Overview
+ECE’s Master of Engineering (M.Eng.) program is designed for students who want to pursue their electrical and computer engineering education beyond the undergraduate level but are looking for an alternative to a thesis-based research program.
+The Master of Engineering program requires students to complete coursework with the option of completing a supervised project. Students are free to choose among a number of graduate and senior undergraduate courses to complete the program. Find out more on the ECE MEng
+program website.
+Possible areas of concentration include:
+Communications
+Computer Systems
+Energy Production
+Energy Utilization
+Micro/Nano Electronic Systems
+Signal Processing
+Software Engineering
+Applicants who are considering taking a Ph.D. in the future should apply for admission to the M.A.Sc. program rather than the M.Eng. program.
+For specific program requirements, please refer to the departmental program website
+What makes the program unique?
+Students are free to choose any selection of courses they wish within the
+program guidelines.
+After completing one term, an M.Eng. candidate can choose to conduct an engineering project and write a report in the candidate's area of specialization, in lieu of 6 credits of conventional coursework. Students will receive guidance from their project supervisor in developing their research topic, and students can also design their own projects in this course. Students are encouraged to approach individual faculty members if they have project ideas.
+Program Structure
+The M.Eng. is an Electrical and Computer Engineering degree; there is no sub-classification on the certificate. The MEng program is not a research degree, and is course-based with a supervised project option. The following groupings of core courses are recommended for students with specific interests. While there is no guarantee that each graduate course will be offered each year, an effort will be made to offer the courses in the lists below:
+Communications:
+EECE563 Wireless Communication Systems
+EECE564 Detection and Estimation of Signals in Noise
+EECE565 Communication Networks
+EECE569 Mobile Communications Networks
+Computer Systems:
+EECE 527 Advanced Computer Architecture
+EECE 571E Electrical Engineering Seminar and Special Problems - PARA COMP PLTFRM
+EECE 583 CAD Algorithms for Integrated Circuits
+EECE 592 Architecture for Learning Systems
+Energy Production:
+EECE 553 Advanced Power Systems Analysis
+EECE 554 Advanced Power System Control and Dynamics
+EECE 560 Network Analysis and Simulation
+EECE 571D Power System Dynamics and Stability
+Energy Utilization:
+EECE 549 Dynamic Modeling of Electric Machines and Controls
+EECE 550 Topics in Power Electronic Design
+EECE 559 Energy Storage Systems
+EECE 561 Alternative Energy Sources
+Micro/Nano Electronic Systems:
+EECE 509 Advanced Microsystems Design
+EECE 573 Micro and Nano Fabrication Technologies
+EECE 580 Emerging Electronic Materials and Devices
+EECE 588 Analog Integrated Circuit Design
+Signal Processing:
+EECE541 Multimedia Systems
+EECE562 Statistical Signal Processing with Applications in Wireless Communications and Defence
+EECE570 Fundamentals of Visual Computing
+EECE586 Wavelets, Principles and Applications in Signal Processing
+Software Engineering:
+EECE 514 Software verification and testing
+EECE 512 Topics in Computer security
+EECE 518 Human Interface Technologies
+EECE 571B Big Data Systems
+Quick Facts
+Faculty
+Faculty of Applied Science
+Mode of delivery
+In person at UBC Vancouver
+Program Components
+Coursework only
+Academic Unit
+Department of Electrical & Computer Engineering
+Specialization
+Electrical and Computer Engineering
+Tuition (First Year)
+Domestic: $6,704.13 | International: $25,109.30
+Information Sessions
+Register
+Application Guide
+Download
+Graduate Viewbook
+View
+GradProspect Newsletter
+Subscribe
+Apply Now
+Apply for September 2025
+If you don't have a UBC Campus-Wide Login (CWL) please
+create an account
+first.
+Open All
+Program Enquiries
+If you have reviewed the information on this program page and understand the requirements for this program, you may
+send an enquiry
+Research Information
+Program Components
+For information on co-op, please see:
+https://coop.engineering.ubc.ca/
+Tuition & Financial Support
+Tuition
+Fees
+Canadian Citizen / Permanent Resident / Refugee / Diplomat
+International
+Application Fee
+$116.25
+$168.25
+Tuition *
+Installments per year
+3
+3
+Tuition
+per installment
+$2,234.71
+$8,369.77
+Tuition
+per year
+(plus annual increase, usually 2%-5%)
+$6,704.13
+$25,109.31
+Int. Tuition Award (ITA) per year (
+if eligible
+)
+Not applicable
+Other Fees and Costs
+Student Fees
+(yearly)
+$1,116.60 (approx.)
+Costs of living
+Estimate your
+costs of living
+with our interactive tool in order to start developing a financial plan for your graduate studies.
+Deposit to accept offer (if admitted)
+Deposit requirement
+$1000.00
+$1000.00
+* Regular, full-time tuition. For on-leave, extension, continuing or part time (if applicable) fees see
+UBC Calendar
+.
+All fees for the year are subject to adjustment and UBC reserves the right to change any fees without notice at any time, including tuition and student fees. Tuition fees are reviewed annually by the UBC Board of Governors. In recent years, tuition increases have been 2% for continuing domestic students and between 2% and 5% for continuing international students. New students may see higher increases in tuition. Admitted students who defer their admission are subject to the potentially higher tuition fees for incoming students effective at the later program start date. In case of a discrepancy between this webpage and the UBC Calendar, the UBC Calendar entry will be held to be correct.
+Financial Support
+Applicants to UBC have access to a variety of funding options.
+Program Funding Packages
+Financial aid is generally not available to M.Eng. students, but MEng students can apply for
+Teaching Assistant
+positions in the ECE department.
+Employer support
+Organizations may provide their employees with tuition benefits as part of an employment package to support lifelong learning of their workforce.
+Scholarships & awards (merit-based funding)
+Professional / course-based programs usually do
+not
+provide merit-based funding. Some programs may offer bursaries.
+Financial aid (need-based funding)
+Canadian and US applicants may qualify for governmental loans to finance their studies. Please review
+eligibility and types of loans
+.
+All students may be able to access private sector or bank loans.
+Foreign government scholarships
+Many foreign governments provide support to their citizens in pursuing education abroad. International applicants should check the various governmental resources in their home country, such as the Department of Education, for available scholarships.
+Working while studying
+The possibility to pursue work to supplement income may depend on the demands the program has on students. It should be carefully weighed if work leads to prolonged program durations or whether work placements can be meaningfully embedded into a program.
+International students enrolled as full-time students with a valid study permit can work
+on campus
+for unlimited hours and work
+off-campus
+for no more than 20 hours a week.
+A good starting point to explore student jobs is the UBC
+Work Learn
+program or a
+Co-Op placement
+.
+Tax credits and RRSP withdrawals
+Students with taxable income in Canada may be able to claim
+federal
+or
+provincial
+tax credits.
+Canadian residents with RRSP accounts may be able to use the
+Lifelong Learning Plan
+(LLP) which allows students to withdraw amounts from their registered retirement savings plan (RRSPs) to finance full-time training or education for themselves or their partner.
+Please review
+Filing taxes in Canada
+on the student services website for more information.
+Cost Estimator
+Applicants have access to the
+cost estimator
+to develop a financial plan that takes into account various income sources and expenses.
+Enrolment, Duration & Other Stats
+These statistics show data for the Master of Engineering in Electrical and Computer Engineering (MEng). Data are separated for each degree program combination. You may view data for other degree options in the respective program profile.
+ENROLMENT DATA
+2023
+2022
+2021
+2020
+2019
+Applications
+833
+700
+768
+519
+542
+Offers
+139
+113
+143
+106
+126
+New Registrations
+37
+52
+66
+60
+51
+Total Enrolment
+122
+140
+135
+104
+98
+Completion Rates & Times
+This program has a graduation rate of
+92%
+based on 162 students admitted between 2015 - 2018. Based on 186 graduations between 2020 - 2023 the minimum time to completion is 0.34 years and the maximum time is 4.78 years with an average of
+1.65 years
+of study. All calculations exclude leave times.
+Disclaimer
+Admissions data refer to all UBC Vancouver applications, offers, new registrants for each registration year, May to April, e.g. data for 2022 refers to programs starting in 2022 Summer and 2022 Winter session, i.e. May 1, 2022 to April 30, 2023. Data on total enrolment reflects enrolment in Winter Session Term 1 and are based on snapshots taken on November 1 of each registration year. Program completion data are only provided for datasets comprised of more than 4 individuals. Graduation rates exclude students who transfer out of their programs. Rates and times of completion depend on a number of variables (e.g. curriculum requirements, student funding), some of which may have changed in recent years for some programs.
+Related Programs
+Same specialization
+Doctor of Philosophy in Electrical and Computer Engineering (PhD)
+Master of Applied Science in Electrical and Computer Engineering (MASc)
+Same Academic Unit
+Master of Engineering Leadership in Dependable Software Systems (MEL)
+At the UBC Okanagan Campus
+Master of Engineering (MEng)
+Further Information
+Specialization
+Electrical and Computer Engineering
+Electrical and Computer Engineering provides advanced study and research for graduates of electrical or computer engineering, engineering physics, physics, computer science or other related subjects. Facilities are provided for research in: communications and signal processing; computers and computer applications; digital system design, VLSI design and software engineering; electromagnetics; power systems and power electronics; solid state devices; microelectronics, nanoelectronics and optoelectronics; robotics and telerobotics; and systems and control.
+UBC Calendar
+https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/faculty-applied-science/master-engineering
+Program Website
+https://ece.ubc.ca/graduate/programs/master-engineering/
+Faculty Overview
+Faculty of Applied Science
+Academic Unit
+Department of Electrical & Computer Engineering
+Program Identifier
+VGMMEN-HA
+Classification
+Electrical engineering, computer engineering, and information engineering
+Program Website
+Apply Now
+Apply for September 2025
+If you don't have a UBC Campus-Wide Login (CWL) please
+create an account
+first.
+September 2025 Intake
+Application Open Date
+01 October 2024
+Canadian Applicant Deadline
+30 November 2024
+International Applicant Deadline
+30 November 2024
+September 2026 Intake
+Application Open Date
+01 October 2025
+Canadian Applicant Deadline
+30 November 2025
+International Applicant Deadline
+30 November 2025
+Program Enquiries
+If you have reviewed the information on this program page and understand the requirements for this program, you may
+send an enquiry
+Social Media Channels
+https://www.facebook.com/ECEUBC/
+Departments/Programs may update graduate degree program details through the
+Faculty & Staff
+portal. To update contact details for application inquiries, please use this
+form
+.
+Considering Vancouver as your next home?
+This city won’t disappoint. It has it all: sea, parks, mountains, beaches and all four seasons, including beautiful summers and mild, wet winters with snow.
+Learn more about life in Vancouver
