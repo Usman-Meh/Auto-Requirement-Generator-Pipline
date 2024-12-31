@@ -1,7 +1,7 @@
 import google.generativeai as genai
 
 # Access the API key and other variables
-api_key = "AIzaSyAwn0lwAoQmFvqXFf1WMKVTcHMqVuqBi8E"
+api_key = ""
 
 # Initialize Groq client
 genai.configure(api_key=api_key)
