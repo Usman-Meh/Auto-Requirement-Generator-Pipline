@@ -1,4 +1,4 @@
-# Web Scraping University Courses: Extracted Data from 20+ Websites
+#  Extracted Data from 20+ Websites and Automatically Extract Requirements
 
 This repository contains a comprehensive project for extracting, processing, and analyzing course data from more than 20 university websites using **Selenium**, **Beautiful Soup (bs4)**, **pandas**, and **Gemini API**. The data is stored in Excel and text files and is formatted into a single CSV file for further analysis.
 
